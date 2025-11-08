@@ -1,1 +1,0 @@
-[1,0,0,[["cc.AnimationClip",["_name","_duration","events","curveData"],-1]],[[0,0,1,2,3,5]],[[0,"down",0.25,[{"frame":0,"func":"onActiveGraph","params":[]}],{"paths":{"wrap":{"props":{"y":[{"frame":0,"value":420},{"frame":0.25,"value":295}]}},"wrap/btnUpDown/btnUp":{"props":{"angle":[{"frame":0,"value":-180},{"frame":0.25,"value":0}]}}}}]],0,0,[],[],[]]
