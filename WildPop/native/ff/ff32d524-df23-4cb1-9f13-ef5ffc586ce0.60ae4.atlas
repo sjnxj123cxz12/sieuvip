@@ -1,0 +1,13 @@
+
+Hul.png
+size: 75,73
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hulon
+  rotate: false
+  xy: 2, 53
+  size: 71, 18
+  orig: 71, 18
+  offset: 0, 0
+  index: -1

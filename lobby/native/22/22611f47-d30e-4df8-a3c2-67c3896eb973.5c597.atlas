@@ -1,0 +1,55 @@
+
+tx.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BR_TX
+  rotate: true
+  xy: 2, 18
+  size: 236, 427
+  orig: 236, 427
+  offset: 0, 0
+  index: -1
+DC1
+  rotate: false
+  xy: 630, 66
+  size: 115, 119
+  orig: 115, 119
+  offset: 0, 0
+  index: -1
+DC2
+  rotate: true
+  xy: 747, 77
+  size: 108, 89
+  orig: 108, 89
+  offset: 0, 0
+  index: -1
+LIGHTDC
+  rotate: false
+  xy: 431, 49
+  size: 197, 205
+  orig: 197, 205
+  offset: 0, 0
+  index: -1
+TAI
+  rotate: false
+  xy: 838, 184
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+XIU
+  rotate: false
+  xy: 747, 2
+  size: 110, 73
+  orig: 110, 73
+  offset: 0, 0
+  index: -1
+jpp
+  rotate: false
+  xy: 630, 187
+  size: 192, 67
+  orig: 192, 67
+  offset: 0, 0
+  index: -1

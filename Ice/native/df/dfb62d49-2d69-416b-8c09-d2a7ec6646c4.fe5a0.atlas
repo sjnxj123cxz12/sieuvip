@@ -1,0 +1,48 @@
+
+chamber5000.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5000 Chamber
+  rotate: true
+  xy: 2, 21
+  size: 233, 300
+  orig: 233, 300
+  offset: 0, 0
+  index: -1
+5000 Orbeffect1
+  rotate: false
+  xy: 304, 112
+  size: 148, 142
+  orig: 148, 142
+  offset: 0, 0
+  index: -1
+5000 Orbeffect2
+  rotate: false
+  xy: 454, 143
+  size: 148, 111
+  orig: 148, 111
+  offset: 0, 0
+  index: -1
+5000 Orbeffect3
+  rotate: true
+  xy: 304, 2
+  size: 108, 105
+  orig: 108, 105
+  offset: 0, 0
+  index: -1
+5000 Orbeffect4
+  rotate: false
+  xy: 604, 153
+  size: 92, 101
+  orig: 92, 101
+  offset: 0, 0
+  index: -1
+5000 Text
+  rotate: false
+  xy: 698, 217
+  size: 114, 37
+  orig: 114, 37
+  offset: 0, 0
+  index: -1

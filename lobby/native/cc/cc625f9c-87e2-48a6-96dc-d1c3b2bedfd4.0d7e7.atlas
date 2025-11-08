@@ -1,0 +1,76 @@
+
+sk.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sk-NoHu-1/1-2
+  rotate: false
+  xy: 2, 2
+  size: 98, 75
+  orig: 98, 75
+  offset: 0, 0
+  index: -1
+Sk-NoHu-1/2-1
+  rotate: false
+  xy: 764, 151
+  size: 72, 45
+  orig: 72, 45
+  offset: 0, 0
+  index: -1
+Sk-NoHu-1/2-2
+  rotate: false
+  xy: 102, 28
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+Sk-NoHu-1/3
+  rotate: false
+  xy: 764, 198
+  size: 160, 40
+  orig: 160, 40
+  offset: 0, 0
+  index: -1
+Sk-NoHu-1/SAO
+  rotate: false
+  xy: 838, 153
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Sk-NoHu-1/light
+  rotate: false
+  xy: 2, 79
+  size: 159, 159
+  orig: 159, 159
+  offset: 0, 0
+  index: -1
+Sk-NoHu-1/lua
+  rotate: true
+  xy: 334, 137
+  size: 101, 187
+  orig: 101, 187
+  offset: 0, 0
+  index: -1
+Sk-NoHu-1/ruby
+  rotate: false
+  xy: 663, 134
+  size: 99, 104
+  orig: 99, 104
+  offset: 0, 0
+  index: -1
+Sukien-Nohu-9-S/2
+  rotate: false
+  xy: 163, 109
+  size: 169, 129
+  orig: 169, 129
+  offset: 0, 0
+  index: -1
+Sukien-Nohu-9-S/3
+  rotate: false
+  xy: 523, 104
+  size: 138, 134
+  orig: 138, 134
+  offset: 0, 0
+  index: -1

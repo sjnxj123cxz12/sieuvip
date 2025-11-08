@@ -1,0 +1,90 @@
+
+VOLTA.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: true
+  xy: 796, 2
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+L
+  rotate: false
+  xy: 636, 39
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+T
+  rotate: false
+  xy: 913, 73
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+br_volta
+  rotate: true
+  xy: 2, 25
+  size: 226, 393
+  orig: 226, 393
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 857, 68
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+mat1
+  rotate: false
+  xy: 796, 44
+  size: 59, 77
+  orig: 59, 77
+  offset: 0, 0
+  index: -1
+mat2
+  rotate: true
+  xy: 680, 123
+  size: 128, 305
+  orig: 128, 305
+  offset: 0, 0
+  index: -1
+nv2
+  rotate: true
+  xy: 397, 89
+  size: 162, 281
+  orig: 162, 281
+  offset: 0, 0
+  index: -1
+o
+  rotate: false
+  xy: 505, 39
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+tay1
+  rotate: false
+  xy: 680, 13
+  size: 114, 108
+  orig: 114, 108
+  offset: 0, 0
+  index: -1
+tay2
+  rotate: true
+  xy: 397, 25
+  size: 62, 106
+  orig: 62, 106
+  offset: 0, 0
+  index: -1
+v
+  rotate: true
+  xy: 570, 46
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1

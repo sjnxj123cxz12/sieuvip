@@ -1,0 +1,76 @@
+
+chamber1000.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1000 Chamber
+  rotate: true
+  xy: 2, 2
+  size: 239, 319
+  orig: 239, 319
+  offset: 0, 0
+  index: -1
+1000 Glowpart1
+  rotate: false
+  xy: 323, 23
+  size: 98, 88
+  orig: 98, 88
+  offset: 0, 0
+  index: -1
+1000 Glowpart2
+  rotate: true
+  xy: 885, 145
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+1000 Glowpart3
+  rotate: true
+  xy: 821, 143
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+1000 Glowpart4
+  rotate: false
+  xy: 634, 158
+  size: 90, 83
+  orig: 90, 83
+  offset: 0, 0
+  index: -1
+1000 Glowpart5
+  rotate: false
+  xy: 565, 134
+  size: 67, 107
+  orig: 67, 107
+  offset: 0, 0
+  index: -1
+1000 Glowpart6
+  rotate: false
+  xy: 726, 161
+  size: 93, 80
+  orig: 93, 80
+  offset: 0, 0
+  index: -1
+1000 Glowpart7
+  rotate: false
+  xy: 453, 115
+  size: 110, 126
+  orig: 110, 126
+  offset: 0, 0
+  index: -1
+1000 Text
+  rotate: false
+  xy: 821, 205
+  size: 106, 36
+  orig: 106, 36
+  offset: 0, 0
+  index: -1
+flames_flash_green
+  rotate: false
+  xy: 323, 113
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

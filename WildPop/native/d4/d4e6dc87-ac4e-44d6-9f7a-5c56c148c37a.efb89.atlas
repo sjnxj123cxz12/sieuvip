@@ -1,0 +1,54 @@
+
+thanglon.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BrightnessContrast 1
+  rotate: false
+  xy: 2, 148
+  size: 652, 181
+  orig: 652, 181
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 2, 19
+  size: 625, 127
+  orig: 625, 127
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: false
+  xy: 656, 2
+  size: 320, 327
+  orig: 320, 327
+  offset: 0, 0
+  index: -1
+Layer 26
+  rotate: false
+  xy: 2, 331
+  size: 964, 679
+  orig: 964, 679
+  offset: 0, 0
+  index: -1
+
+thanglon2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 20
+  rotate: false
+  xy: 2, 419
+  size: 935, 376
+  orig: 935, 376
+  offset: 0, 0
+  index: -1
+Layer 25 copy 2
+  rotate: false
+  xy: 2, 2
+  size: 896, 415
+  orig: 896, 415
+  offset: 0, 0
+  index: -1

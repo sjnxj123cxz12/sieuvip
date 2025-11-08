@@ -1,0 +1,41 @@
+
+muc3.png
+size: 329,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 114
+  rotate: true
+  xy: 308, 45
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+Layer 115 copy
+  rotate: true
+  xy: 268, 6
+  size: 79, 38
+  orig: 81, 40
+  offset: 1, 1
+  index: -1
+Layer 117
+  rotate: false
+  xy: 149, 11
+  size: 117, 126
+  orig: 120, 128
+  offset: 2, 1
+  index: -1
+Layer 118
+  rotate: true
+  xy: 268, 87
+  size: 50, 59
+  orig: 52, 61
+  offset: 1, 1
+  index: -1
+Layer 121
+  rotate: true
+  xy: 2, 2
+  size: 135, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1

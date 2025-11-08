@@ -1,0 +1,48 @@
+
+hoa mai.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 312, 9
+  size: 58, 98
+  orig: 58, 98
+  offset: 0, 0
+  index: -1
+Layer 1221
+  rotate: true
+  xy: 180, 69
+  size: 56, 156
+  orig: 56, 156
+  offset: 0, 0
+  index: -1
+canh 2
+  rotate: false
+  xy: 2, 43
+  size: 176, 82
+  orig: 176, 82
+  offset: 0, 0
+  index: -1
+canh1
+  rotate: false
+  xy: 193, 2
+  size: 117, 65
+  orig: 117, 65
+  offset: 0, 0
+  index: -1
+hoa
+  rotate: false
+  xy: 338, 90
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+phao
+  rotate: true
+  xy: 2, 5
+  size: 36, 189
+  orig: 36, 189
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+100.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HueSaturation 11
+  rotate: false
+  xy: 280, 123
+  size: 247, 385
+  orig: 247, 385
+  offset: 0, 0
+  index: -1
+HueSaturation 9
+  rotate: true
+  xy: 807, 184
+  size: 324, 138
+  orig: 324, 138
+  offset: 0, 0
+  index: -1
+Layer 126
+  rotate: false
+  xy: 2, 57
+  size: 276, 451
+  orig: 276, 451
+  offset: 0, 0
+  index: -1
+Layer 129
+  rotate: true
+  xy: 529, 2
+  size: 248, 274
+  orig: 248, 274
+  offset: 0, 0
+  index: -1
+Layer 131
+  rotate: false
+  xy: 529, 252
+  size: 276, 256
+  orig: 276, 256
+  offset: 0, 0
+  index: -1
+Layer 132
+  rotate: true
+  xy: 2, 40
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Layer 133
+  rotate: true
+  xy: 2, 22
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1

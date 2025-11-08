@@ -1,0 +1,76 @@
+
+item_jackpot_ani.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG2
+  rotate: false
+  xy: 2, 62
+  size: 160, 142
+  orig: 161, 142
+  offset: 1, 0
+  index: -1
+DAU
+  rotate: false
+  xy: 405, 117
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+DUOI
+  rotate: true
+  xy: 323, 26
+  size: 73, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+JACPOT
+  rotate: false
+  xy: 2, 23
+  size: 147, 37
+  orig: 149, 39
+  offset: 1, 1
+  index: -1
+TAI
+  rotate: false
+  xy: 2, 2
+  size: 23, 19
+  orig: 24, 20
+  offset: 0, 1
+  index: -1
+bg
+  rotate: false
+  xy: 164, 59
+  size: 157, 145
+  orig: 157, 146
+  offset: 0, 1
+  index: -1
+cha
+  rotate: false
+  xy: 323, 101
+  size: 80, 103
+  orig: 80, 104
+  offset: 0, 1
+  index: -1
+mat 1
+  rotate: true
+  xy: 405, 101
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+mat2
+  rotate: false
+  xy: 493, 194
+  size: 9, 10
+  orig: 10, 11
+  offset: 0, 1
+  index: -1
+tai 2
+  rotate: true
+  xy: 151, 47
+  size: 13, 10
+  orig: 14, 11
+  offset: 0, 1
+  index: -1

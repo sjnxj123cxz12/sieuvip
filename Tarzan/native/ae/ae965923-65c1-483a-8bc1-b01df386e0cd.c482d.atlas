@@ -1,0 +1,55 @@
+
+Icon-Jackpot.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Crown_0000_Flame
+  rotate: false
+  xy: 2, 2
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Crown_0001_Base
+  rotate: false
+  xy: 460, 124
+  size: 134, 120
+  orig: 134, 120
+  offset: 0, 0
+  index: -1
+Crown_0002_Crown
+  rotate: false
+  xy: 596, 193
+  size: 92, 51
+  orig: 92, 51
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 181, 89
+  size: 143, 155
+  orig: 143, 155
+  offset: 0, 0
+  index: -1
+JACKPOT text
+  rotate: false
+  xy: 2, 32
+  size: 124, 29
+  orig: 124, 29
+  offset: 0, 0
+  index: -1
+Pink Glass
+  rotate: false
+  xy: 326, 110
+  size: 132, 134
+  orig: 132, 134
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: false
+  xy: 2, 63
+  size: 177, 181
+  orig: 177, 181
+  offset: 0, 0
+  index: -1

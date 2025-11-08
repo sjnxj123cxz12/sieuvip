@@ -1,0 +1,118 @@
+
+icon will.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 9
+  rotate: false
+  xy: 2, 306
+  size: 165, 153
+  orig: 165, 153
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: false
+  xy: 169, 209
+  size: 171, 99
+  orig: 171, 99
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 492, 188
+  size: 116, 120
+  orig: 116, 120
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: false
+  xy: 610, 161
+  size: 147, 146
+  orig: 147, 146
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: false
+  xy: 169, 310
+  size: 151, 149
+  orig: 151, 149
+  offset: 0, 0
+  index: -1
+Layer 24
+  rotate: true
+  xy: 342, 161
+  size: 147, 148
+  orig: 147, 148
+  offset: 0, 0
+  index: -1
+Layer 25
+  rotate: true
+  xy: 322, 310
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+Layer 26
+  rotate: false
+  xy: 778, 311
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+Layer 27
+  rotate: false
+  xy: 474, 310
+  size: 150, 149
+  orig: 150, 149
+  offset: 0, 0
+  index: -1
+Layer 28
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Layer 29
+  rotate: false
+  xy: 626, 309
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Layer 30
+  rotate: false
+  xy: 156, 63
+  size: 146, 144
+  orig: 146, 144
+  offset: 0, 0
+  index: -1
+Layer 31
+  rotate: false
+  xy: 2, 154
+  size: 152, 150
+  orig: 152, 150
+  offset: 0, 0
+  index: -1
+Layer 32
+  rotate: true
+  xy: 304, 16
+  size: 143, 144
+  orig: 143, 144
+  offset: 0, 0
+  index: -1
+Layer 33
+  rotate: false
+  xy: 450, 15
+  size: 140, 144
+  orig: 140, 144
+  offset: 0, 0
+  index: -1
+WILD
+  rotate: true
+  xy: 930, 300
+  size: 159, 56
+  orig: 159, 56
+  offset: 0, 0
+  index: -1

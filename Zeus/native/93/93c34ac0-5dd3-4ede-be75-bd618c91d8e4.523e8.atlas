@@ -1,0 +1,20 @@
+
+Vampire-Bonus-FreeSpine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Spine/Fx/fx-1
+  rotate: false
+  xy: 2, 171
+  size: 713, 670
+  orig: 713, 670
+  offset: 0, 0
+  index: -1
+images/Bonus Game/bonus-game-text
+  rotate: false
+  xy: 2, 2
+  size: 544, 167
+  orig: 544, 167
+  offset: 0, 0
+  index: -1

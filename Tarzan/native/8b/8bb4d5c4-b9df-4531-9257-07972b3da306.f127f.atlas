@@ -1,0 +1,167 @@
+
+skeleton.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 704
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 683, 704
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 229, 23
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 456, 250
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 683, 477
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 910, 704
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 456, 23
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 683, 250
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 910, 477
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: false
+  xy: 1137, 704
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: false
+  xy: 683, 23
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 2, 477
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 229, 704
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 2, 250
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 229, 477
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 456, 704
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 2, 23
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 229, 250
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 456, 477
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+la1
+  rotate: false
+  xy: 2, 2
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+la2
+  rotate: false
+  xy: 910, 463
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+la3
+  rotate: false
+  xy: 1137, 688
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+la4
+  rotate: false
+  xy: 1364, 916
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1

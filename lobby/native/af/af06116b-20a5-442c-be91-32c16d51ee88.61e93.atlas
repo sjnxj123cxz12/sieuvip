@@ -1,0 +1,118 @@
+
+XX2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BAT
+  rotate: true
+  xy: 201, 12
+  size: 157, 120
+  orig: 157, 120
+  offset: 0, 0
+  index: -1
+BR_XD
+  rotate: true
+  xy: 337, 268
+  size: 236, 409
+  orig: 236, 409
+  offset: 0, 0
+  index: -1
+D1
+  rotate: false
+  xy: 1036, 258
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+D2
+  rotate: false
+  xy: 1580, 346
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+D3
+  rotate: false
+  xy: 1761, 398
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+D4
+  rotate: false
+  xy: 1955, 474
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+DIA
+  rotate: false
+  xy: 1580, 388
+  size: 179, 116
+  orig: 179, 116
+  offset: 0, 0
+  index: -1
+HO
+  rotate: true
+  xy: 1399, 329
+  size: 175, 179
+  orig: 175, 179
+  offset: 0, 0
+  index: -1
+LIGHT
+  rotate: false
+  xy: 748, 226
+  size: 286, 278
+  orig: 286, 278
+  offset: 0, 0
+  index: -1
+PHUONG
+  rotate: false
+  xy: 1213, 326
+  size: 184, 178
+  orig: 184, 178
+  offset: 0, 0
+  index: -1
+RONG
+  rotate: false
+  xy: 1036, 305
+  size: 175, 199
+  orig: 175, 199
+  offset: 0, 0
+  index: -1
+RUA
+  rotate: true
+  xy: 2, 2
+  size: 167, 197
+  orig: 167, 197
+  offset: 0, 0
+  index: -1
+TRONNN
+  rotate: false
+  xy: 2, 171
+  size: 333, 333
+  orig: 333, 333
+  offset: 0, 0
+  index: -1
+TULINH
+  rotate: false
+  xy: 337, 209
+  size: 204, 57
+  orig: 204, 57
+  offset: 0, 0
+  index: -1
+XOCDIA
+  rotate: false
+  xy: 543, 204
+  size: 190, 62
+  orig: 190, 62
+  offset: 0, 0
+  index: -1
+jp
+  rotate: false
+  xy: 1761, 437
+  size: 192, 67
+  orig: 192, 67
+  offset: 0, 0
+  index: -1

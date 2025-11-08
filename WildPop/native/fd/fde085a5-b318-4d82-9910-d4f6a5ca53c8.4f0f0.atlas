@@ -1,0 +1,118 @@
+
+nohu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 14
+  rotate: false
+  xy: 2, 709
+  size: 572, 113
+  orig: 572, 113
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 816, 1154
+  size: 276, 118
+  orig: 276, 118
+  offset: 0, 0
+  index: -1
+Layer 27
+  rotate: false
+  xy: 2, 824
+  size: 586, 230
+  orig: 586, 230
+  offset: 0, 0
+  index: -1
+Layer 28
+  rotate: false
+  xy: 2, 1056
+  size: 812, 216
+  orig: 812, 216
+  offset: 0, 0
+  index: -1
+Layer 29
+  rotate: false
+  xy: 2, 1274
+  size: 1282, 722
+  orig: 1282, 722
+  offset: 0, 0
+  index: -1
+Layer 30
+  rotate: false
+  xy: 1286, 1531
+  size: 498, 465
+  orig: 498, 465
+  offset: 0, 0
+  index: -1
+firea01
+  rotate: false
+  xy: 1286, 1364
+  size: 125, 165
+  orig: 125, 165
+  offset: 0, 0
+  index: -1
+firea02
+  rotate: false
+  xy: 1786, 1831
+  size: 125, 165
+  orig: 125, 165
+  offset: 0, 0
+  index: -1
+firea03
+  rotate: false
+  xy: 590, 889
+  size: 125, 165
+  orig: 125, 165
+  offset: 0, 0
+  index: -1
+firea04
+  rotate: false
+  xy: 2, 542
+  size: 125, 165
+  orig: 125, 165
+  offset: 0, 0
+  index: -1
+firea05
+  rotate: false
+  xy: 1413, 1364
+  size: 125, 165
+  orig: 125, 165
+  offset: 0, 0
+  index: -1
+fireb01
+  rotate: true
+  xy: 816, 1067
+  size: 85, 101
+  orig: 85, 101
+  offset: 0, 0
+  index: -1
+fireb02
+  rotate: false
+  xy: 1094, 1171
+  size: 85, 101
+  orig: 85, 101
+  offset: 0, 0
+  index: -1
+fireb03
+  rotate: true
+  xy: 1286, 1277
+  size: 85, 101
+  orig: 85, 101
+  offset: 0, 0
+  index: -1
+fireb04
+  rotate: false
+  xy: 1786, 1728
+  size: 85, 101
+  orig: 85, 101
+  offset: 0, 0
+  index: -1
+fireb05
+  rotate: false
+  xy: 1913, 1895
+  size: 85, 101
+  orig: 85, 101
+  offset: 0, 0
+  index: -1

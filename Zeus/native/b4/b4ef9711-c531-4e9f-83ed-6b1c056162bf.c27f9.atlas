@@ -1,0 +1,223 @@
+
+Icon-JackPot.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Icon-JackPot/jackpot/01
+  rotate: false
+  xy: 2, 123
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/02
+  rotate: false
+  xy: 2, 2
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/03
+  rotate: false
+  xy: 123, 123
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/04
+  rotate: false
+  xy: 123, 2
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/05
+  rotate: false
+  xy: 244, 123
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/06
+  rotate: false
+  xy: 244, 2
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/07
+  rotate: false
+  xy: 365, 123
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/08
+  rotate: false
+  xy: 365, 2
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/09
+  rotate: false
+  xy: 486, 123
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/10
+  rotate: false
+  xy: 486, 2
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/11
+  rotate: false
+  xy: 607, 123
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/12
+  rotate: false
+  xy: 607, 2
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/13
+  rotate: false
+  xy: 728, 123
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/14
+  rotate: false
+  xy: 728, 2
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/15
+  rotate: false
+  xy: 849, 123
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/16
+  rotate: false
+  xy: 849, 2
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/17
+  rotate: false
+  xy: 970, 123
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/18
+  rotate: false
+  xy: 970, 2
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/19
+  rotate: false
+  xy: 1091, 123
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/20
+  rotate: false
+  xy: 1091, 2
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/21
+  rotate: false
+  xy: 1212, 123
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/22
+  rotate: false
+  xy: 1212, 2
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/23
+  rotate: false
+  xy: 1333, 123
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/24
+  rotate: false
+  xy: 1333, 2
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/25
+  rotate: false
+  xy: 1454, 123
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/26
+  rotate: false
+  xy: 1454, 2
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/27
+  rotate: false
+  xy: 1575, 123
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/28
+  rotate: false
+  xy: 1575, 2
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/29
+  rotate: false
+  xy: 1696, 123
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/jackpot/30
+  rotate: false
+  xy: 1696, 2
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Icon-JackPot/text
+  rotate: false
+  xy: 1817, 190
+  size: 116, 52
+  orig: 116, 52
+  offset: 0, 0
+  index: -1

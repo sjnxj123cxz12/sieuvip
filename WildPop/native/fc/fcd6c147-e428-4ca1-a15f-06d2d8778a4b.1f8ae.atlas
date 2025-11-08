@@ -1,0 +1,55 @@
+
+Quaynhanh.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 63
+  rotate: false
+  xy: 2, 2
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+Layer 64
+  rotate: false
+  xy: 284, 60
+  size: 159, 85
+  orig: 159, 85
+  offset: 0, 0
+  index: -1
+Layer 65
+  rotate: true
+  xy: 441, 312
+  size: 77, 67
+  orig: 77, 67
+  offset: 0, 0
+  index: -1
+Layer 66
+  rotate: false
+  xy: 147, 10
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+NHANH
+  rotate: true
+  xy: 441, 391
+  size: 117, 39
+  orig: 117, 39
+  offset: 0, 0
+  index: -1
+QN
+  rotate: false
+  xy: 2, 147
+  size: 437, 361
+  orig: 437, 361
+  offset: 0, 0
+  index: -1
+quay
+  rotate: false
+  xy: 284, 17
+  size: 95, 41
+  orig: 95, 41
+  offset: 0, 0
+  index: -1

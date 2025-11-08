@@ -1,0 +1,230 @@
+
+SapNo-InGame-Line-S.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+InGame/Icon-InGame/line_eff_32.png/line_eff_00.png
+  rotate: false
+  xy: 2, 434
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_01.png
+  rotate: false
+  xy: 2, 362
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_02.png
+  rotate: false
+  xy: 164, 434
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_03.png
+  rotate: false
+  xy: 2, 290
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_04.png
+  rotate: false
+  xy: 164, 362
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_05.png
+  rotate: false
+  xy: 326, 434
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_06.png
+  rotate: false
+  xy: 2, 218
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_07.png
+  rotate: false
+  xy: 164, 290
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_08.png
+  rotate: false
+  xy: 326, 362
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_09.png
+  rotate: false
+  xy: 488, 434
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_10.png
+  rotate: false
+  xy: 2, 146
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_11.png
+  rotate: false
+  xy: 164, 218
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_12.png
+  rotate: false
+  xy: 326, 290
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_13.png
+  rotate: false
+  xy: 488, 362
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_14.png
+  rotate: false
+  xy: 650, 434
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_15.png
+  rotate: false
+  xy: 2, 74
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_16.png
+  rotate: false
+  xy: 164, 146
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_17.png
+  rotate: false
+  xy: 326, 218
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_18.png
+  rotate: false
+  xy: 488, 290
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_19.png
+  rotate: false
+  xy: 650, 362
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_20.png
+  rotate: false
+  xy: 812, 434
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_21.png
+  rotate: false
+  xy: 2, 2
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_22.png
+  rotate: false
+  xy: 164, 74
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_23.png
+  rotate: false
+  xy: 326, 146
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_24.png
+  rotate: false
+  xy: 488, 218
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_25.png
+  rotate: false
+  xy: 650, 290
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_27.png
+  rotate: false
+  xy: 812, 362
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_28.png
+  rotate: false
+  xy: 164, 2
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_29.png
+  rotate: false
+  xy: 326, 74
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_30.png
+  rotate: false
+  xy: 488, 146
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_31.png
+  rotate: false
+  xy: 650, 218
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/line_eff_32.png/line_eff_32.png
+  rotate: false
+  xy: 812, 290
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1

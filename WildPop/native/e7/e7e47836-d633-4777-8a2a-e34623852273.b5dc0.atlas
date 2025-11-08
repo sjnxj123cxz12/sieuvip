@@ -1,0 +1,419 @@
+
+wpexplosion.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wild_apply_explosion_slash_007
+  rotate: false
+  xy: 2796, 1703
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+wild_apply_explosion_slash_008
+  rotate: false
+  xy: 2994, 1536
+  size: 127, 172
+  orig: 127, 172
+  offset: 0, 0
+  index: -1
+wild_apply_explosion_slash_009
+  rotate: true
+  xy: 2, 2
+  size: 259, 377
+  orig: 259, 377
+  offset: 0, 0
+  index: -1
+wild_apply_explosion_slash_010
+  rotate: false
+  xy: 3814, 1735
+  size: 254, 309
+  orig: 254, 309
+  offset: 0, 0
+  index: -1
+wild_apply_explosion_slash_011
+  rotate: true
+  xy: 3132, 1491
+  size: 246, 313
+  orig: 246, 313
+  offset: 0, 0
+  index: -1
+wild_apply_explosion_slash_012
+  rotate: false
+  xy: 2, 600
+  size: 308, 359
+  orig: 308, 359
+  offset: 0, 0
+  index: -1
+wild_apply_explosion_slash_013
+  rotate: false
+  xy: 2, 1664
+  size: 339, 380
+  orig: 339, 380
+  offset: 0, 0
+  index: -1
+wild_apply_explosion_slash_014
+  rotate: false
+  xy: 3132, 1739
+  size: 342, 305
+  orig: 342, 305
+  offset: 0, 0
+  index: -1
+wild_apply_explosion_slash_015
+  rotate: true
+  xy: 2, 263
+  size: 335, 312
+  orig: 335, 312
+  offset: 0, 0
+  index: -1
+wild_apply_explosion_slash_016
+  rotate: true
+  xy: 1184, 576
+  size: 259, 238
+  orig: 259, 238
+  offset: 0, 0
+  index: -1
+wild_apply_explosion_slash_017
+  rotate: true
+  xy: 1041, 1431
+  size: 258, 238
+  orig: 258, 238
+  offset: 0, 0
+  index: -1
+wild_apply_explosion_slash_018
+  rotate: true
+  xy: 2018, 1447
+  size: 251, 242
+  orig: 251, 242
+  offset: 0, 0
+  index: -1
+wild_apply_explosion_slash_019
+  rotate: false
+  xy: 2262, 1459
+  size: 250, 242
+  orig: 250, 242
+  offset: 0, 0
+  index: -1
+wild_apply_explosion_slash_020
+  rotate: true
+  xy: 681, 153
+  size: 262, 243
+  orig: 262, 243
+  offset: 0, 0
+  index: -1
+wild_apply_explosion_slash_021
+  rotate: false
+  xy: 926, 62
+  size: 262, 243
+  orig: 262, 243
+  offset: 0, 0
+  index: -1
+wild_apply_explosion_slash_022
+  rotate: false
+  xy: 669, 841
+  size: 266, 243
+  orig: 266, 243
+  offset: 0, 0
+  index: -1
+wild_apply_explosion_slash_023
+  rotate: false
+  xy: 648, 596
+  size: 267, 243
+  orig: 267, 243
+  offset: 0, 0
+  index: -1
+wild_apply_explosion_slash_024
+  rotate: true
+  xy: 1281, 1435
+  size: 255, 230
+  orig: 255, 230
+  offset: 0, 0
+  index: -1
+wild_apply_explosion_slash_025
+  rotate: true
+  xy: 2762, 1447
+  size: 254, 230
+  orig: 254, 230
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_000
+  rotate: true
+  xy: 329, 717
+  size: 316, 317
+  orig: 316, 317
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_001
+  rotate: false
+  xy: 343, 1691
+  size: 353, 353
+  orig: 353, 353
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_002
+  rotate: false
+  xy: 343, 1035
+  size: 324, 322
+  orig: 324, 322
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_003
+  rotate: false
+  xy: 2796, 1710
+  size: 334, 334
+  orig: 334, 334
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_004
+  rotate: false
+  xy: 2459, 1703
+  size: 335, 341
+  orig: 335, 341
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_005
+  rotate: false
+  xy: 2, 1314
+  size: 339, 348
+  orig: 339, 348
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_006
+  rotate: true
+  xy: 1755, 1700
+  size: 344, 350
+  orig: 344, 350
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_007
+  rotate: false
+  xy: 698, 1691
+  size: 349, 353
+  orig: 349, 353
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_008
+  rotate: false
+  xy: 1049, 1692
+  size: 350, 352
+  orig: 350, 352
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_009
+  rotate: false
+  xy: 1401, 1697
+  size: 352, 347
+  orig: 352, 347
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_010
+  rotate: false
+  xy: 2107, 1703
+  size: 350, 341
+  orig: 350, 341
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_011
+  rotate: false
+  xy: 343, 1359
+  size: 349, 330
+  orig: 349, 330
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_012
+  rotate: true
+  xy: 2, 961
+  size: 351, 325
+  orig: 351, 325
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_013
+  rotate: false
+  xy: 694, 1378
+  size: 345, 311
+  orig: 345, 311
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_014
+  rotate: false
+  xy: 3476, 1738
+  size: 336, 306
+  orig: 336, 306
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_015
+  rotate: false
+  xy: 316, 413
+  size: 316, 302
+  orig: 316, 302
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_016
+  rotate: true
+  xy: 381, 101
+  size: 310, 298
+  orig: 310, 298
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_017
+  rotate: false
+  xy: 3447, 1441
+  size: 297, 295
+  orig: 297, 295
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_018
+  rotate: true
+  xy: 3746, 1446
+  size: 287, 293
+  orig: 287, 293
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_019
+  rotate: false
+  xy: 1447, 1200
+  size: 215, 233
+  orig: 215, 233
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_020
+  rotate: false
+  xy: 2119, 1227
+  size: 209, 218
+  orig: 209, 218
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_021
+  rotate: false
+  xy: 2546, 1251
+  size: 203, 203
+  orig: 203, 203
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_022
+  rotate: true
+  xy: 2955, 1252
+  size: 193, 188
+  orig: 193, 188
+  offset: 0, 0
+  index: -1
+wild_apply_smoke_023
+  rotate: false
+  xy: 634, 417
+  size: 190, 177
+  orig: 190, 177
+  offset: 0, 0
+  index: -1
+wild_counter_apply_explosion_012
+  rotate: true
+  xy: 2751, 1244
+  size: 201, 202
+  orig: 201, 202
+  offset: 0, 0
+  index: -1
+wild_counter_apply_explosion_013
+  rotate: false
+  xy: 2330, 1241
+  size: 214, 213
+  orig: 214, 213
+  offset: 0, 0
+  index: -1
+wild_counter_apply_explosion_014
+  rotate: false
+  xy: 1895, 1222
+  size: 222, 223
+  orig: 222, 223
+  offset: 0, 0
+  index: -1
+wild_counter_apply_explosion_015
+  rotate: true
+  xy: 1664, 1211
+  size: 230, 229
+  orig: 230, 229
+  offset: 0, 0
+  index: -1
+wild_counter_apply_explosion_016
+  rotate: false
+  xy: 1206, 951
+  size: 235, 235
+  orig: 235, 235
+  offset: 0, 0
+  index: -1
+wild_counter_apply_explosion_017
+  rotate: false
+  xy: 1205, 1188
+  size: 240, 241
+  orig: 240, 241
+  offset: 0, 0
+  index: -1
+wild_counter_apply_explosion_018
+  rotate: false
+  xy: 2514, 1456
+  size: 246, 245
+  orig: 246, 245
+  offset: 0, 0
+  index: -1
+wild_counter_apply_explosion_019
+  rotate: false
+  xy: 1767, 1449
+  size: 249, 249
+  orig: 249, 249
+  offset: 0, 0
+  index: -1
+wild_counter_apply_explosion_020
+  rotate: false
+  xy: 1513, 1443
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1
+wild_counter_apply_explosion_021
+  rotate: true
+  xy: 1190, 58
+  size: 255, 256
+  orig: 255, 256
+  offset: 0, 0
+  index: -1
+wild_counter_apply_explosion_022
+  rotate: false
+  xy: 1190, 315
+  size: 259, 259
+  orig: 259, 259
+  offset: 0, 0
+  index: -1
+wild_counter_apply_explosion_023
+  rotate: false
+  xy: 926, 307
+  size: 262, 262
+  orig: 262, 262
+  offset: 0, 0
+  index: -1
+wild_counter_apply_explosion_024
+  rotate: true
+  xy: 917, 571
+  size: 264, 265
+  orig: 264, 265
+  offset: 0, 0
+  index: -1
+wild_counter_apply_explosion_025
+  rotate: false
+  xy: 937, 837
+  size: 267, 266
+  orig: 267, 266
+  offset: 0, 0
+  index: -1
+wild_counter_apply_explosion_026
+  rotate: true
+  xy: 937, 1105
+  size: 271, 266
+  orig: 271, 266
+  offset: 0, 0
+  index: -1
+wild_counter_apply_explosion_027
+  rotate: true
+  xy: 669, 1086
+  size: 271, 266
+  orig: 271, 266
+  offset: 0, 0
+  index: -1

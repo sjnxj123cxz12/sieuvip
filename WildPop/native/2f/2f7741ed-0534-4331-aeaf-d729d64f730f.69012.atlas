@@ -1,0 +1,76 @@
+
+100.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: true
+  xy: 144, 279
+  size: 155, 120
+  orig: 155, 120
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: true
+  xy: 355, 453
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+Layer 16 copy 3
+  rotate: false
+  xy: 2, 436
+  size: 258, 72
+  orig: 258, 72
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 2, 250
+  size: 140, 184
+  orig: 140, 184
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 266, 295
+  size: 93, 29
+  orig: 93, 29
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 432, 467
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 2, 2
+  size: 97, 67
+  orig: 97, 67
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: true
+  xy: 266, 326
+  size: 117, 107
+  orig: 117, 107
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 262, 445
+  size: 91, 63
+  orig: 91, 63
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: true
+  xy: 2, 71
+  size: 177, 129
+  orig: 177, 129
+  offset: 0, 0
+  index: -1

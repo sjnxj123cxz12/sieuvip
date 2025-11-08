@@ -1,0 +1,251 @@
+
+InGame-Icon-Wild.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+InGame/Icon-InGame/border_00.png/border_00.png
+  rotate: false
+  xy: 2, 794
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_01.png
+  rotate: false
+  xy: 2, 662
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_02.png
+  rotate: false
+  xy: 134, 794
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_03.png
+  rotate: false
+  xy: 2, 530
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_04.png
+  rotate: false
+  xy: 134, 662
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_05.png
+  rotate: false
+  xy: 266, 794
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_06.png
+  rotate: false
+  xy: 2, 398
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_07.png
+  rotate: false
+  xy: 134, 530
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_08.png
+  rotate: false
+  xy: 266, 662
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_09.png
+  rotate: false
+  xy: 398, 794
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_10.png
+  rotate: false
+  xy: 2, 266
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_11.png
+  rotate: false
+  xy: 134, 398
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_12.png
+  rotate: false
+  xy: 266, 530
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_13.png
+  rotate: false
+  xy: 398, 662
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_14.png
+  rotate: false
+  xy: 530, 794
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_15.png
+  rotate: false
+  xy: 2, 134
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_16.png
+  rotate: false
+  xy: 134, 266
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_17.png
+  rotate: false
+  xy: 266, 398
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_18.png
+  rotate: false
+  xy: 398, 530
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_19.png
+  rotate: false
+  xy: 530, 662
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_20.png
+  rotate: false
+  xy: 662, 794
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_21.png
+  rotate: false
+  xy: 2, 2
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_22.png
+  rotate: false
+  xy: 134, 134
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_23.png
+  rotate: false
+  xy: 266, 266
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_24.png
+  rotate: false
+  xy: 398, 398
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_25.png
+  rotate: false
+  xy: 530, 530
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_26.png
+  rotate: false
+  xy: 662, 662
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_27.png
+  rotate: false
+  xy: 794, 794
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_28.png
+  rotate: false
+  xy: 134, 2
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_29.png
+  rotate: false
+  xy: 266, 134
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_30.png
+  rotate: false
+  xy: 398, 266
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_31.png
+  rotate: false
+  xy: 530, 398
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_32.png
+  rotate: false
+  xy: 662, 530
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_33.png
+  rotate: false
+  xy: 794, 662
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/border_00.png/border_34.png
+  rotate: false
+  xy: 266, 2
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1

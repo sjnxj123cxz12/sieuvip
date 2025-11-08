@@ -1,0 +1,48 @@
+
+canhla.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+freeSpinsSplashLeaf1
+  rotate: false
+  xy: 2, 2
+  size: 485, 187
+  orig: 485, 187
+  offset: 0, 0
+  index: -1
+freeSpinsSplashLeaf2
+  rotate: true
+  xy: 620, 541
+  size: 443, 157
+  orig: 443, 157
+  offset: 0, 0
+  index: -1
+freeSpinsSplashLeaf3
+  rotate: false
+  xy: 2, 435
+  size: 546, 170
+  orig: 546, 170
+  offset: 0, 0
+  index: -1
+freeSpinsSplashLeaf4
+  rotate: false
+  xy: 2, 791
+  size: 616, 193
+  orig: 616, 193
+  offset: 0, 0
+  index: -1
+freeSpinsWheelSpecialLeaf4
+  rotate: false
+  xy: 2, 607
+  size: 565, 182
+  orig: 565, 182
+  offset: 0, 0
+  index: -1
+sceneSlotLeafsBigLeft
+  rotate: false
+  xy: 2, 191
+  size: 450, 242
+  orig: 450, 242
+  offset: 0, 0
+  index: -1

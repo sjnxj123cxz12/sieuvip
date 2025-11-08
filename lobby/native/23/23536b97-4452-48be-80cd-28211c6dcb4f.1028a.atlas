@@ -1,0 +1,111 @@
+
+animiconxocdia.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 493, 120
+  size: 229, 390
+  orig: 229, 390
+  offset: 0, 0
+  index: -1
+Group 41
+  rotate: true
+  xy: 833, 221
+  size: 169, 71
+  orig: 169, 71
+  offset: 0, 0
+  index: -1
+LIVE
+  rotate: false
+  xy: 516, 54
+  size: 161, 64
+  orig: 161, 64
+  offset: 0, 0
+  index: -1
+bg11
+  rotate: false
+  xy: 257, 107
+  size: 234, 403
+  orig: 234, 403
+  offset: 0, 0
+  index: -1
+chenup
+  rotate: false
+  xy: 724, 392
+  size: 172, 118
+  orig: 172, 118
+  offset: 0, 0
+  index: -1
+diasau
+  rotate: true
+  xy: 724, 198
+  size: 192, 55
+  orig: 192, 55
+  offset: 0, 0
+  index: -1
+diatruoc
+  rotate: true
+  xy: 781, 198
+  size: 192, 50
+  orig: 192, 50
+  offset: 0, 0
+  index: -1
+khungicon
+  rotate: false
+  xy: 2, 92
+  size: 253, 418
+  orig: 253, 418
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 898, 492
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+showtien
+  rotate: false
+  xy: 2, 44
+  size: 241, 46
+  orig: 241, 46
+  offset: 0, 0
+  index: -1
+textxocdia
+  rotate: false
+  xy: 257, 2
+  size: 257, 103
+  orig: 257, 103
+  offset: 0, 0
+  index: -1
+tien 1
+  rotate: true
+  xy: 62, 2
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+tien 2
+  rotate: false
+  xy: 2, 2
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+tien xu
+  rotate: false
+  xy: 724, 143
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 833, 201
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1

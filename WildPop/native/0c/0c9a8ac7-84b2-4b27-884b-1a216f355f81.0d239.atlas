@@ -1,0 +1,83 @@
+
+wpfreespin.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E1
+  rotate: false
+  xy: 961, 168
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+E2
+  rotate: true
+  xy: 826, 172
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+F
+  rotate: true
+  xy: 753, 172
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+I
+  rotate: true
+  xy: 523, 42
+  size: 39, 73
+  orig: 39, 73
+  offset: 0, 0
+  index: -1
+N
+  rotate: false
+  xy: 523, 159
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+P
+  rotate: true
+  xy: 677, 175
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+R
+  rotate: false
+  xy: 894, 168
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+S
+  rotate: true
+  xy: 600, 173
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+S2
+  rotate: false
+  xy: 523, 83
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+Spin 1
+  rotate: false
+  xy: 297, 32
+  size: 224, 201
+  orig: 224, 201
+  offset: 0, 0
+  index: -1
+Spine 2
+  rotate: false
+  xy: 2, 2
+  size: 293, 231
+  orig: 293, 231
+  offset: 0, 0
+  index: -1

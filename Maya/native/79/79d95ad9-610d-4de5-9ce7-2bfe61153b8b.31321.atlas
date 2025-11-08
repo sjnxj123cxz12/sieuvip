@@ -1,0 +1,5646 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0020
+  rotate: true
+  xy: 2, 315
+  size: 303, 323
+  orig: 303, 323
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0040
+  rotate: false
+  xy: 1822, 4
+  size: 224, 309
+  orig: 224, 309
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0152
+  rotate: false
+  xy: 595, 315
+  size: 276, 306
+  orig: 276, 306
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0011
+  rotate: false
+  xy: 2, 1627
+  size: 526, 419
+  orig: 526, 419
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0012
+  rotate: false
+  xy: 530, 1638
+  size: 513, 408
+  orig: 513, 408
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0013
+  rotate: false
+  xy: 1013, 646
+  size: 490, 384
+  orig: 490, 384
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0014
+  rotate: false
+  xy: 1505, 649
+  size: 480, 363
+  orig: 480, 363
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0015
+  rotate: false
+  xy: 1558, 1695
+  size: 486, 351
+  orig: 486, 351
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0016
+  rotate: false
+  xy: 1557, 1352
+  size: 489, 341
+  orig: 489, 341
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0017
+  rotate: false
+  xy: 1550, 1014
+  size: 496, 336
+  orig: 496, 336
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0018
+  rotate: false
+  xy: 510, 962
+  size: 501, 336
+  orig: 501, 336
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0019
+  rotate: false
+  xy: 2, 1289
+  size: 506, 336
+  orig: 506, 336
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0020
+  rotate: false
+  xy: 530, 1300
+  size: 510, 336
+  orig: 510, 336
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0021
+  rotate: false
+  xy: 1045, 1710
+  size: 511, 336
+  orig: 511, 336
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0022
+  rotate: false
+  xy: 1045, 1371
+  size: 510, 337
+  orig: 510, 337
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0023
+  rotate: false
+  xy: 1042, 1032
+  size: 506, 337
+  orig: 506, 337
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0024
+  rotate: false
+  xy: 2, 950
+  size: 497, 337
+  orig: 497, 337
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0025
+  rotate: false
+  xy: 501, 623
+  size: 485, 337
+  orig: 485, 337
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0028
+  rotate: false
+  xy: 1505, 315
+  size: 479, 332
+  orig: 479, 332
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0029
+  rotate: false
+  xy: 988, 315
+  size: 479, 329
+  orig: 479, 329
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0030
+  rotate: false
+  xy: 2, 620
+  size: 481, 328
+  orig: 481, 328
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0108
+  rotate: false
+  xy: 1539, 2
+  size: 281, 311
+  orig: 281, 311
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0109
+  rotate: false
+  xy: 327, 315
+  size: 266, 303
+  orig: 266, 303
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0016
+  rotate: false
+  xy: 387, 2
+  size: 382, 311
+  orig: 382, 311
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0017
+  rotate: false
+  xy: 771, 2
+  size: 382, 311
+  orig: 382, 311
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0023
+  rotate: false
+  xy: 1155, 2
+  size: 382, 311
+  orig: 382, 311
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0024
+  rotate: false
+  xy: 2, 2
+  size: 383, 311
+  orig: 383, 311
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bigwinstart/characterGonzoBigWinStartMedium_0038
+  rotate: true
+  xy: 2, 2
+  size: 332, 309
+  orig: 332, 309
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0056
+  rotate: false
+  xy: 2, 722
+  size: 374, 320
+  orig: 374, 320
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0009
+  rotate: false
+  xy: 1418, 1705
+  size: 439, 340
+  orig: 439, 340
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0010
+  rotate: false
+  xy: 962, 1696
+  size: 454, 349
+  orig: 454, 349
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0026
+  rotate: false
+  xy: 2, 1709
+  size: 478, 336
+  orig: 478, 336
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0027
+  rotate: false
+  xy: 482, 1710
+  size: 478, 335
+  orig: 478, 335
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0031
+  rotate: false
+  xy: 2, 1378
+  size: 475, 329
+  orig: 475, 329
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0032
+  rotate: false
+  xy: 482, 1377
+  size: 473, 331
+  orig: 473, 331
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0033
+  rotate: false
+  xy: 2, 1044
+  size: 463, 332
+  orig: 463, 332
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0034
+  rotate: true
+  xy: 1418, 1255
+  size: 448, 330
+  orig: 448, 330
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0035
+  rotate: false
+  xy: 957, 1370
+  size: 429, 324
+  orig: 429, 324
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0069
+  rotate: false
+  xy: 1859, 1375
+  size: 187, 333
+  orig: 187, 333
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0080
+  rotate: false
+  xy: 1859, 1710
+  size: 187, 335
+  orig: 187, 335
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0083
+  rotate: false
+  xy: 935, 89
+  size: 212, 340
+  orig: 212, 340
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0088
+  rotate: true
+  xy: 467, 1076
+  size: 299, 411
+  orig: 299, 411
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0089
+  rotate: false
+  xy: 1750, 968
+  size: 290, 405
+  orig: 290, 405
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0000
+  rotate: false
+  xy: 1238, 632
+  size: 385, 309
+  orig: 385, 309
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0001
+  rotate: false
+  xy: 1625, 343
+  size: 385, 309
+  orig: 385, 309
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0002
+  rotate: false
+  xy: 762, 431
+  size: 385, 309
+  orig: 385, 309
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0003
+  rotate: true
+  xy: 314, 61
+  size: 385, 309
+  orig: 385, 309
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0004
+  rotate: false
+  xy: 1536, 33
+  size: 385, 308
+  orig: 385, 308
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0005
+  rotate: true
+  xy: 625, 44
+  size: 385, 308
+  orig: 385, 308
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0006
+  rotate: false
+  xy: 1149, 11
+  size: 385, 308
+  orig: 385, 308
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0018
+  rotate: false
+  xy: 1655, 654
+  size: 382, 312
+  orig: 382, 312
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0019
+  rotate: false
+  xy: 467, 762
+  size: 385, 312
+  orig: 385, 312
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0020
+  rotate: false
+  xy: 880, 1056
+  size: 386, 312
+  orig: 386, 312
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0021
+  rotate: false
+  xy: 854, 742
+  size: 382, 312
+  orig: 382, 312
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0022
+  rotate: false
+  xy: 378, 448
+  size: 382, 312
+  orig: 382, 312
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0025
+  rotate: true
+  xy: 2, 336
+  size: 384, 310
+  orig: 384, 310
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0026
+  rotate: false
+  xy: 1268, 943
+  size: 385, 310
+  orig: 385, 310
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0027
+  rotate: false
+  xy: 1149, 321
+  size: 385, 309
+  orig: 385, 309
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bigwinstart/characterGonzoBigWinStartMedium_0039
+  rotate: false
+  xy: 1091, 1733
+  size: 364, 313
+  orig: 364, 313
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0000
+  rotate: true
+  xy: 632, 665
+  size: 382, 310
+  orig: 382, 310
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0001
+  rotate: true
+  xy: 318, 321
+  size: 383, 309
+  orig: 383, 309
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0002
+  rotate: true
+  xy: 1641, 764
+  size: 383, 304
+  orig: 383, 304
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0054
+  rotate: false
+  xy: 1828, 1422
+  size: 217, 313
+  orig: 217, 313
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0027
+  rotate: false
+  xy: 1296, 13
+  size: 279, 335
+  orig: 279, 335
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0028
+  rotate: false
+  xy: 629, 2
+  size: 278, 332
+  orig: 278, 332
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0033
+  rotate: false
+  xy: 314, 2
+  size: 289, 317
+  orig: 289, 317
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0041
+  rotate: true
+  xy: 1726, 1165
+  size: 255, 320
+  orig: 255, 320
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0046
+  rotate: true
+  xy: 1026, 1046
+  size: 315, 314
+  orig: 315, 314
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0047
+  rotate: true
+  xy: 2, 1061
+  size: 330, 317
+  orig: 330, 317
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0048
+  rotate: true
+  xy: 321, 1049
+  size: 342, 316
+  orig: 342, 316
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0049
+  rotate: false
+  xy: 1091, 1419
+  size: 350, 312
+  orig: 350, 312
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0050
+  rotate: false
+  xy: 940, 44
+  size: 354, 304
+  orig: 354, 304
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0057
+  rotate: false
+  xy: 730, 1716
+  size: 359, 330
+  orig: 359, 330
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0058
+  rotate: false
+  xy: 1254, 350
+  size: 322, 309
+  orig: 322, 309
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0018
+  rotate: true
+  xy: 1578, 337
+  size: 322, 309
+  orig: 322, 309
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0019
+  rotate: false
+  xy: 1577, 31
+  size: 350, 304
+  orig: 350, 304
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0021
+  rotate: true
+  xy: 629, 336
+  size: 327, 309
+  orig: 327, 309
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0115
+  rotate: false
+  xy: 1841, 1737
+  size: 201, 309
+  orig: 201, 309
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0155
+  rotate: false
+  xy: 2, 2
+  size: 269, 311
+  orig: 269, 311
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0036
+  rotate: true
+  xy: 2, 699
+  size: 360, 314
+  orig: 360, 314
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0090
+  rotate: true
+  xy: 1342, 1149
+  size: 268, 382
+  orig: 268, 382
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0113
+  rotate: false
+  xy: 729, 1363
+  size: 335, 338
+  orig: 335, 338
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0114
+  rotate: true
+  xy: 2, 1393
+  size: 343, 338
+  orig: 343, 338
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0115
+  rotate: true
+  xy: 389, 1703
+  size: 343, 339
+  orig: 343, 339
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0116
+  rotate: false
+  xy: 318, 706
+  size: 312, 341
+  orig: 312, 341
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0007
+  rotate: false
+  xy: 2, 1738
+  size: 385, 308
+  orig: 385, 308
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0008
+  rotate: false
+  xy: 639, 1054
+  size: 385, 307
+  orig: 385, 307
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0009
+  rotate: false
+  xy: 342, 1393
+  size: 385, 308
+  orig: 385, 308
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0010
+  rotate: false
+  xy: 944, 736
+  size: 384, 308
+  orig: 384, 308
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0011
+  rotate: true
+  xy: 944, 350
+  size: 384, 308
+  orig: 384, 308
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0012
+  rotate: true
+  xy: 1330, 661
+  size: 383, 309
+  orig: 383, 309
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0013
+  rotate: false
+  xy: 1443, 1422
+  size: 383, 309
+  orig: 383, 309
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0014
+  rotate: false
+  xy: 1457, 1737
+  size: 382, 309
+  orig: 382, 309
+  offset: 0, 0
+  index: -1
+winloopfix/characterGonzoBigWinLoopFixMedium_0015
+  rotate: true
+  xy: 2, 315
+  size: 382, 310
+  orig: 382, 310
+  offset: 0, 0
+  index: -1
+
+skeleton4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bigwinstart/characterGonzoBigWinStartMedium_0025
+  rotate: true
+  xy: 1047, 761
+  size: 270, 341
+  orig: 270, 341
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0026
+  rotate: true
+  xy: 688, 724
+  size: 270, 341
+  orig: 270, 341
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0027
+  rotate: true
+  xy: 704, 996
+  size: 271, 341
+  orig: 271, 341
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0028
+  rotate: true
+  xy: 345, 928
+  size: 271, 341
+  orig: 271, 341
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0029
+  rotate: true
+  xy: 2, 897
+  size: 271, 341
+  orig: 271, 341
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0036
+  rotate: false
+  xy: 1804, 1440
+  size: 242, 265
+  orig: 242, 265
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0040
+  rotate: false
+  xy: 1454, 1459
+  size: 348, 302
+  orig: 348, 302
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0043
+  rotate: false
+  xy: 1456, 1763
+  size: 350, 283
+  orig: 350, 283
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0044
+  rotate: false
+  xy: 2, 1463
+  size: 357, 282
+  orig: 357, 282
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0060
+  rotate: false
+  xy: 1083, 1274
+  size: 344, 260
+  orig: 344, 260
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0061
+  rotate: false
+  xy: 742, 1765
+  size: 358, 281
+  orig: 358, 281
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0062
+  rotate: false
+  xy: 2, 1747
+  size: 373, 299
+  orig: 373, 299
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0016
+  rotate: true
+  xy: 1374, 481
+  size: 221, 341
+  orig: 221, 341
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0018
+  rotate: true
+  xy: 1031, 302
+  size: 221, 341
+  orig: 221, 341
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0019
+  rotate: true
+  xy: 2, 196
+  size: 220, 341
+  orig: 220, 341
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0020
+  rotate: true
+  xy: 1374, 258
+  size: 221, 341
+  orig: 221, 341
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0024
+  rotate: true
+  xy: 688, 267
+  size: 221, 341
+  orig: 221, 341
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0026
+  rotate: true
+  xy: 345, 214
+  size: 221, 341
+  orig: 221, 341
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0022
+  rotate: true
+  xy: 1031, 2
+  size: 298, 318
+  orig: 298, 318
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0023
+  rotate: true
+  xy: 1717, 202
+  size: 292, 329
+  orig: 292, 329
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0029
+  rotate: false
+  xy: 1769, 796
+  size: 277, 327
+  orig: 277, 327
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0054
+  rotate: false
+  xy: 1102, 1536
+  size: 350, 272
+  orig: 350, 272
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0055
+  rotate: false
+  xy: 361, 1201
+  size: 341, 293
+  orig: 341, 293
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0017
+  rotate: true
+  xy: 1733, 496
+  size: 298, 313
+  orig: 298, 313
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0020
+  rotate: false
+  xy: 377, 1496
+  size: 357, 299
+  orig: 357, 299
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0019
+  rotate: true
+  xy: 2, 418
+  size: 224, 341
+  orig: 224, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0020
+  rotate: true
+  xy: 345, 437
+  size: 230, 341
+  orig: 230, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0021
+  rotate: true
+  xy: 1031, 525
+  size: 234, 341
+  orig: 234, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0022
+  rotate: true
+  xy: 688, 490
+  size: 232, 341
+  orig: 232, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0023
+  rotate: true
+  xy: 1390, 704
+  size: 239, 341
+  orig: 239, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0024
+  rotate: true
+  xy: 2, 644
+  size: 251, 341
+  orig: 251, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0025
+  rotate: true
+  xy: 345, 669
+  size: 257, 341
+  orig: 257, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0027
+  rotate: false
+  xy: 1808, 1707
+  size: 238, 339
+  orig: 238, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0054
+  rotate: true
+  xy: 345, 3
+  size: 209, 341
+  orig: 209, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0043
+  rotate: true
+  xy: 1351, 2
+  size: 254, 313
+  orig: 254, 313
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0049
+  rotate: false
+  xy: 1773, 1125
+  size: 273, 313
+  orig: 273, 313
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0056
+  rotate: true
+  xy: 688, 2
+  size: 263, 306
+  orig: 263, 306
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0076
+  rotate: true
+  xy: 1666, 4
+  size: 196, 326
+  orig: 196, 326
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0114
+  rotate: true
+  xy: 2, 2
+  size: 192, 310
+  orig: 192, 310
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0087
+  rotate: true
+  xy: 736, 1533
+  size: 230, 345
+  orig: 230, 345
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0091
+  rotate: true
+  xy: 377, 1797
+  size: 249, 363
+  orig: 249, 363
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0092
+  rotate: true
+  xy: 1102, 1810
+  size: 236, 352
+  orig: 236, 352
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0093
+  rotate: true
+  xy: 1425, 945
+  size: 227, 342
+  orig: 227, 342
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0101
+  rotate: true
+  xy: 1081, 1033
+  size: 239, 342
+  orig: 239, 342
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0102
+  rotate: true
+  xy: 736, 1269
+  size: 262, 343
+  orig: 262, 343
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0103
+  rotate: true
+  xy: 1429, 1174
+  size: 283, 342
+  orig: 283, 342
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0104
+  rotate: true
+  xy: 2, 1170
+  size: 291, 341
+  orig: 291, 341
+  offset: 0, 0
+  index: -1
+
+skeleton5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bigwinstart/characterGonzoBigWinStartMedium_0000
+  rotate: true
+  xy: 308, 1531
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0001
+  rotate: true
+  xy: 987, 1254
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0002
+  rotate: true
+  xy: 289, 266
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0014
+  rotate: true
+  xy: 292, 485
+  size: 217, 304
+  orig: 217, 304
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0023
+  rotate: true
+  xy: 987, 1473
+  size: 271, 338
+  orig: 271, 338
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0024
+  rotate: true
+  xy: 1327, 1476
+  size: 271, 340
+  orig: 271, 340
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0030
+  rotate: true
+  xy: 1669, 1476
+  size: 271, 338
+  orig: 271, 338
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0041
+  rotate: true
+  xy: 2, 1373
+  size: 337, 297
+  orig: 337, 297
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0042
+  rotate: true
+  xy: 2, 1031
+  size: 340, 289
+  orig: 340, 289
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0045
+  rotate: true
+  xy: 2, 695
+  size: 334, 288
+  orig: 334, 288
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0059
+  rotate: false
+  xy: 927, 463
+  size: 329, 249
+  orig: 329, 249
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0004
+  rotate: true
+  xy: 630, 268
+  size: 240, 293
+  orig: 240, 293
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0000
+  rotate: true
+  xy: 1671, 1253
+  size: 221, 340
+  orig: 221, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0021
+  rotate: true
+  xy: 301, 1309
+  size: 220, 341
+  orig: 220, 341
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0022
+  rotate: true
+  xy: 644, 1298
+  size: 220, 341
+  orig: 220, 341
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0023
+  rotate: true
+  xy: 1328, 1254
+  size: 220, 341
+  orig: 220, 341
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0017
+  rotate: true
+  xy: 1586, 424
+  size: 259, 330
+  orig: 259, 330
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0018
+  rotate: true
+  xy: 927, 714
+  size: 279, 329
+  orig: 279, 329
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0019
+  rotate: true
+  xy: 1258, 694
+  size: 294, 326
+  orig: 294, 326
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0021
+  rotate: false
+  xy: 292, 704
+  size: 304, 320
+  orig: 304, 320
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0024
+  rotate: false
+  xy: 2, 358
+  size: 285, 335
+  orig: 285, 335
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0025
+  rotate: false
+  xy: 2, 18
+  size: 282, 338
+  orig: 282, 338
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0026
+  rotate: true
+  xy: 293, 1026
+  size: 281, 337
+  orig: 281, 337
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0035
+  rotate: true
+  xy: 1649, 1749
+  size: 297, 325
+  orig: 297, 325
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0036
+  rotate: true
+  xy: 1319, 1749
+  size: 297, 328
+  orig: 297, 328
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0037
+  rotate: true
+  xy: 598, 729
+  size: 295, 327
+  orig: 295, 327
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0038
+  rotate: true
+  xy: 1586, 685
+  size: 286, 326
+  orig: 286, 326
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0051
+  rotate: false
+  xy: 647, 1755
+  size: 338, 291
+  orig: 338, 291
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0052
+  rotate: false
+  xy: 1650, 973
+  size: 333, 278
+  orig: 333, 278
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0053
+  rotate: false
+  xy: 632, 1026
+  size: 337, 270
+  orig: 337, 270
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0011
+  rotate: true
+  xy: 598, 510
+  size: 217, 327
+  orig: 217, 327
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0026
+  rotate: true
+  xy: 971, 995
+  size: 257, 340
+  orig: 257, 340
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0070
+  rotate: true
+  xy: 649, 1520
+  size: 233, 336
+  orig: 233, 336
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0022
+  rotate: true
+  xy: 1246, 268
+  size: 172, 323
+  orig: 172, 323
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0052
+  rotate: true
+  xy: 916, 2
+  size: 264, 313
+  orig: 264, 313
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0053
+  rotate: true
+  xy: 1231, 2
+  size: 264, 312
+  orig: 264, 312
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0054
+  rotate: true
+  xy: 1545, 2
+  size: 264, 310
+  orig: 264, 310
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0072
+  rotate: true
+  xy: 925, 268
+  size: 193, 319
+  orig: 193, 319
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0103
+  rotate: true
+  xy: 286, 2
+  size: 262, 321
+  orig: 262, 321
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0120
+  rotate: true
+  xy: 609, 2
+  size: 262, 305
+  orig: 262, 305
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0081
+  rotate: false
+  xy: 1857, 85
+  size: 189, 337
+  orig: 189, 337
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0105
+  rotate: true
+  xy: 308, 1750
+  size: 296, 337
+  orig: 296, 337
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0106
+  rotate: true
+  xy: 987, 1746
+  size: 300, 330
+  orig: 300, 330
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0112
+  rotate: false
+  xy: 2, 1712
+  size: 304, 334
+  orig: 304, 334
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0117
+  rotate: true
+  xy: 1313, 990
+  size: 262, 335
+  orig: 262, 335
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0119
+  rotate: true
+  xy: 1258, 442
+  size: 250, 326
+  orig: 250, 326
+  offset: 0, 0
+  index: -1
+
+skeleton6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bigwinstart/characterGonzoBigWinStartMedium_0003
+  rotate: true
+  xy: 446, 333
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0052
+  rotate: false
+  xy: 446, 1745
+  size: 241, 301
+  orig: 241, 301
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0045
+  rotate: false
+  xy: 446, 1485
+  size: 241, 258
+  orig: 241, 258
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0025
+  rotate: false
+  xy: 2, 1705
+  size: 220, 341
+  orig: 220, 341
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0027
+  rotate: false
+  xy: 2, 1362
+  size: 220, 341
+  orig: 220, 341
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0066
+  rotate: false
+  xy: 2, 1019
+  size: 220, 341
+  orig: 220, 341
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0067
+  rotate: false
+  xy: 2, 676
+  size: 220, 341
+  orig: 220, 341
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0068
+  rotate: false
+  xy: 2, 333
+  size: 220, 341
+  orig: 220, 341
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0069
+  rotate: false
+  xy: 224, 1705
+  size: 220, 341
+  orig: 220, 341
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0070
+  rotate: false
+  xy: 224, 1362
+  size: 220, 341
+  orig: 220, 341
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0071
+  rotate: false
+  xy: 224, 1019
+  size: 220, 341
+  orig: 220, 341
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0023
+  rotate: true
+  xy: 1719, 1789
+  size: 257, 327
+  orig: 257, 327
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0013
+  rotate: true
+  xy: 1033, 1827
+  size: 219, 341
+  orig: 219, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0014
+  rotate: true
+  xy: 1376, 1607
+  size: 218, 341
+  orig: 218, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0015
+  rotate: true
+  xy: 1376, 1387
+  size: 218, 341
+  orig: 218, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0016
+  rotate: true
+  xy: 1376, 1827
+  size: 219, 341
+  orig: 219, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0017
+  rotate: true
+  xy: 1033, 1386
+  size: 218, 341
+  orig: 218, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0018
+  rotate: true
+  xy: 1033, 1606
+  size: 219, 341
+  orig: 219, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0041
+  rotate: true
+  xy: 690, 1392
+  size: 211, 341
+  orig: 211, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0042
+  rotate: true
+  xy: 690, 1182
+  size: 208, 341
+  orig: 208, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0043
+  rotate: true
+  xy: 1033, 1176
+  size: 208, 341
+  orig: 208, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0044
+  rotate: true
+  xy: 690, 972
+  size: 208, 341
+  orig: 208, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0045
+  rotate: true
+  xy: 1033, 966
+  size: 208, 341
+  orig: 208, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0046
+  rotate: true
+  xy: 690, 762
+  size: 208, 341
+  orig: 208, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0047
+  rotate: true
+  xy: 1376, 957
+  size: 208, 341
+  orig: 208, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0050
+  rotate: true
+  xy: 1033, 756
+  size: 208, 341
+  orig: 208, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0051
+  rotate: true
+  xy: 690, 552
+  size: 208, 341
+  orig: 208, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0052
+  rotate: true
+  xy: 1376, 747
+  size: 208, 341
+  orig: 208, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0053
+  rotate: true
+  xy: 1033, 546
+  size: 208, 341
+  orig: 208, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0055
+  rotate: true
+  xy: 1376, 537
+  size: 208, 341
+  orig: 208, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0056
+  rotate: true
+  xy: 1033, 336
+  size: 208, 341
+  orig: 208, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0062
+  rotate: true
+  xy: 1719, 1530
+  size: 257, 327
+  orig: 257, 327
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0063
+  rotate: true
+  xy: 1719, 1271
+  size: 257, 327
+  orig: 257, 327
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0064
+  rotate: false
+  xy: 440, 3
+  size: 248, 328
+  orig: 248, 328
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0065
+  rotate: false
+  xy: 2, 2
+  size: 249, 329
+  orig: 249, 329
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0067
+  rotate: false
+  xy: 1033, 2
+  size: 246, 332
+  orig: 246, 332
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0068
+  rotate: false
+  xy: 446, 1150
+  size: 240, 333
+  orig: 240, 333
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0025
+  rotate: true
+  xy: 1719, 799
+  size: 219, 327
+  orig: 219, 327
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0030
+  rotate: true
+  xy: 1376, 327
+  size: 208, 341
+  orig: 208, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0065
+  rotate: false
+  xy: 446, 569
+  size: 240, 264
+  orig: 240, 264
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0084
+  rotate: false
+  xy: 253, 2
+  size: 185, 329
+  orig: 185, 329
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0100
+  rotate: false
+  xy: 1281, 2
+  size: 268, 323
+  orig: 268, 323
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0149
+  rotate: false
+  xy: 446, 835
+  size: 240, 313
+  orig: 240, 313
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0162
+  rotate: true
+  xy: 1719, 578
+  size: 219, 327
+  orig: 219, 327
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0163
+  rotate: true
+  xy: 1719, 359
+  size: 217, 327
+  orig: 217, 327
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0164
+  rotate: true
+  xy: 1719, 140
+  size: 217, 327
+  orig: 217, 327
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0175
+  rotate: true
+  xy: 690, 2
+  size: 216, 339
+  orig: 216, 339
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0066
+  rotate: false
+  xy: 787, 220
+  size: 244, 330
+  orig: 244, 330
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0096
+  rotate: true
+  xy: 1376, 1167
+  size: 218, 341
+  orig: 218, 341
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0097
+  rotate: true
+  xy: 690, 1605
+  size: 219, 341
+  orig: 219, 341
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0098
+  rotate: false
+  xy: 224, 676
+  size: 220, 341
+  orig: 220, 341
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0099
+  rotate: false
+  xy: 224, 333
+  size: 220, 341
+  orig: 220, 341
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0100
+  rotate: true
+  xy: 690, 1826
+  size: 220, 341
+  orig: 220, 341
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0118
+  rotate: true
+  xy: 1719, 1020
+  size: 249, 327
+  orig: 249, 327
+  offset: 0, 0
+  index: -1
+
+skeleton7.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bigwinstart/characterGonzoBigWinStartMedium_0034
+  rotate: true
+  xy: 1160, 2
+  size: 213, 233
+  orig: 213, 233
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0046
+  rotate: false
+  xy: 1539, 217
+  size: 301, 298
+  orig: 301, 298
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0001
+  rotate: false
+  xy: 434, 1706
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0002
+  rotate: false
+  xy: 434, 1364
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0003
+  rotate: true
+  xy: 1159, 1381
+  size: 221, 339
+  orig: 221, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0004
+  rotate: false
+  xy: 2, 334
+  size: 221, 340
+  orig: 221, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0005
+  rotate: false
+  xy: 434, 1022
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0006
+  rotate: false
+  xy: 653, 680
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0007
+  rotate: false
+  xy: 671, 338
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0008
+  rotate: false
+  xy: 656, 1706
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0009
+  rotate: false
+  xy: 207, 677
+  size: 221, 340
+  orig: 221, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0010
+  rotate: false
+  xy: 656, 1364
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0011
+  rotate: false
+  xy: 656, 1022
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0012
+  rotate: false
+  xy: 875, 680
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0013
+  rotate: false
+  xy: 893, 338
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0014
+  rotate: true
+  xy: 1160, 1826
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0015
+  rotate: true
+  xy: 1502, 1826
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0028
+  rotate: true
+  xy: 1160, 1604
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0029
+  rotate: false
+  xy: 225, 335
+  size: 221, 340
+  orig: 221, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0072
+  rotate: true
+  xy: 1502, 1604
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0081
+  rotate: false
+  xy: 878, 1039
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0082
+  rotate: false
+  xy: 1097, 697
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0006
+  rotate: false
+  xy: 704, 2
+  size: 217, 334
+  orig: 217, 334
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0030
+  rotate: false
+  xy: 878, 1725
+  size: 279, 321
+  orig: 279, 321
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0024
+  rotate: false
+  xy: 923, 3
+  size: 235, 333
+  orig: 235, 333
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0033
+  rotate: true
+  xy: 1395, 3
+  size: 212, 338
+  orig: 212, 338
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0040
+  rotate: false
+  xy: 1100, 1039
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0048
+  rotate: false
+  xy: 2, 1705
+  size: 207, 341
+  orig: 207, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0049
+  rotate: false
+  xy: 2, 1362
+  size: 207, 341
+  orig: 207, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0066
+  rotate: false
+  xy: 2, 2
+  size: 251, 330
+  orig: 251, 330
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0027
+  rotate: false
+  xy: 1842, 1042
+  size: 204, 337
+  orig: 204, 337
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0028
+  rotate: false
+  xy: 1337, 355
+  size: 200, 340
+  orig: 200, 340
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0029
+  rotate: false
+  xy: 2, 676
+  size: 203, 341
+  orig: 203, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0031
+  rotate: false
+  xy: 2, 1019
+  size: 207, 341
+  orig: 207, 341
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0077
+  rotate: false
+  xy: 1842, 715
+  size: 204, 325
+  orig: 204, 325
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0086
+  rotate: false
+  xy: 1842, 63
+  size: 203, 326
+  orig: 203, 326
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0094
+  rotate: false
+  xy: 1844, 1381
+  size: 202, 324
+  orig: 202, 324
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0142
+  rotate: false
+  xy: 1842, 391
+  size: 204, 322
+  orig: 204, 322
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0154
+  rotate: false
+  xy: 878, 1415
+  size: 279, 308
+  orig: 279, 308
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0000
+  rotate: false
+  xy: 211, 1706
+  size: 221, 340
+  orig: 221, 340
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0001
+  rotate: true
+  xy: 1500, 1382
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0002
+  rotate: true
+  xy: 1500, 1160
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0003
+  rotate: false
+  xy: 211, 1364
+  size: 221, 340
+  orig: 221, 340
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0004
+  rotate: false
+  xy: 211, 1022
+  size: 221, 340
+  orig: 221, 340
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0005
+  rotate: false
+  xy: 1115, 355
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0006
+  rotate: false
+  xy: 1319, 697
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0037
+  rotate: true
+  xy: 1541, 517
+  size: 319, 299
+  orig: 319, 299
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0082
+  rotate: false
+  xy: 1844, 1707
+  size: 202, 339
+  orig: 202, 339
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0094
+  rotate: false
+  xy: 430, 680
+  size: 221, 340
+  orig: 221, 340
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0107
+  rotate: false
+  xy: 1541, 838
+  size: 299, 320
+  orig: 299, 320
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0121
+  rotate: false
+  xy: 255, 2
+  size: 225, 331
+  orig: 225, 331
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0122
+  rotate: false
+  xy: 482, 2
+  size: 220, 334
+  orig: 220, 334
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0128
+  rotate: false
+  xy: 448, 338
+  size: 221, 340
+  orig: 221, 340
+  offset: 0, 0
+  index: -1
+
+skeleton8.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bigwinstart/characterGonzoBigWinStartMedium_0004
+  rotate: true
+  xy: 293, 1254
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0005
+  rotate: true
+  xy: 631, 954
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0006
+  rotate: true
+  xy: 285, 293
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0007
+  rotate: true
+  xy: 949, 514
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0022
+  rotate: true
+  xy: 1525, 1501
+  size: 256, 313
+  orig: 256, 313
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0031
+  rotate: true
+  xy: 1210, 943
+  size: 251, 317
+  orig: 251, 317
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0003
+  rotate: true
+  xy: 598, 1475
+  size: 257, 298
+  orig: 257, 298
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0006
+  rotate: false
+  xy: 276, 2
+  size: 240, 289
+  orig: 240, 289
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0010
+  rotate: false
+  xy: 518, 2
+  size: 240, 289
+  orig: 240, 289
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0011
+  rotate: false
+  xy: 760, 2
+  size: 240, 289
+  orig: 240, 289
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0012
+  rotate: false
+  xy: 1002, 2
+  size: 240, 289
+  orig: 240, 289
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0013
+  rotate: false
+  xy: 1244, 2
+  size: 238, 289
+  orig: 238, 289
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0017
+  rotate: true
+  xy: 1762, 24
+  size: 277, 284
+  orig: 277, 284
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0028
+  rotate: true
+  xy: 1529, 685
+  size: 277, 305
+  orig: 277, 305
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0038
+  rotate: false
+  xy: 1836, 303
+  size: 210, 272
+  orig: 210, 272
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0042
+  rotate: false
+  xy: 1292, 674
+  size: 235, 267
+  orig: 235, 267
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0018
+  rotate: true
+  xy: 289, 1044
+  size: 208, 340
+  orig: 208, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0020
+  rotate: true
+  xy: 608, 744
+  size: 208, 340
+  orig: 208, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0022
+  rotate: true
+  xy: 950, 733
+  size: 208, 340
+  orig: 208, 340
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0015
+  rotate: true
+  xy: 626, 293
+  size: 219, 332
+  orig: 219, 332
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0031
+  rotate: false
+  xy: 2, 451
+  size: 281, 315
+  orig: 281, 315
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0032
+  rotate: false
+  xy: 2, 1087
+  size: 285, 315
+  orig: 285, 315
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0034
+  rotate: false
+  xy: 2, 1725
+  size: 293, 321
+  orig: 293, 321
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0039
+  rotate: false
+  xy: 2, 127
+  size: 272, 322
+  orig: 272, 322
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0040
+  rotate: true
+  xy: 287, 512
+  size: 259, 319
+  orig: 259, 319
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0042
+  rotate: true
+  xy: 287, 773
+  size: 269, 319
+  orig: 269, 319
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0043
+  rotate: false
+  xy: 1484, 104
+  size: 276, 314
+  orig: 276, 314
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0044
+  rotate: true
+  xy: 898, 1464
+  size: 284, 310
+  orig: 284, 310
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0045
+  rotate: false
+  xy: 598, 1734
+  size: 298, 312
+  orig: 298, 312
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0059
+  rotate: false
+  xy: 898, 1750
+  size: 310, 296
+  orig: 310, 296
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0063
+  rotate: false
+  xy: 297, 1731
+  size: 299, 315
+  orig: 299, 315
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0022
+  rotate: false
+  xy: 2, 1404
+  size: 289, 319
+  orig: 289, 319
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0000
+  rotate: true
+  xy: 960, 293
+  size: 219, 338
+  orig: 219, 338
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0028
+  rotate: true
+  xy: 608, 514
+  size: 228, 339
+  orig: 228, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0057
+  rotate: false
+  xy: 1836, 906
+  size: 210, 340
+  orig: 210, 340
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0042
+  rotate: true
+  xy: 1525, 1248
+  size: 251, 313
+  orig: 251, 313
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0044
+  rotate: true
+  xy: 1210, 1483
+  size: 270, 313
+  orig: 270, 313
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0045
+  rotate: true
+  xy: 1210, 1196
+  size: 285, 313
+  orig: 285, 313
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0046
+  rotate: true
+  xy: 1210, 1755
+  size: 291, 313
+  orig: 291, 313
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0047
+  rotate: true
+  xy: 1525, 1759
+  size: 287, 313
+  orig: 287, 313
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0057
+  rotate: true
+  xy: 1529, 420
+  size: 263, 305
+  orig: 263, 305
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0071
+  rotate: false
+  xy: 1840, 1406
+  size: 206, 312
+  orig: 206, 312
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0123
+  rotate: true
+  xy: 898, 1224
+  size: 238, 310
+  orig: 238, 310
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0153
+  rotate: true
+  xy: 1529, 964
+  size: 282, 305
+  orig: 282, 305
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0160
+  rotate: false
+  xy: 1840, 1720
+  size: 206, 326
+  orig: 206, 326
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0161
+  rotate: false
+  xy: 1836, 577
+  size: 210, 327
+  orig: 210, 327
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0038
+  rotate: true
+  xy: 2, 768
+  size: 317, 283
+  orig: 317, 283
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0046
+  rotate: true
+  xy: 972, 975
+  size: 247, 236
+  orig: 247, 236
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0053
+  rotate: true
+  xy: 1300, 425
+  size: 247, 227
+  orig: 247, 227
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0061
+  rotate: true
+  xy: 293, 1473
+  size: 250, 303
+  orig: 250, 303
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0110
+  rotate: false
+  xy: 634, 1173
+  size: 262, 300
+  orig: 262, 300
+  offset: 0, 0
+  index: -1
+
+skeleton9.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bigwinstart/characterGonzoBigWinStartMedium_0035
+  rotate: true
+  xy: 684, 455
+  size: 211, 248
+  orig: 211, 248
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0049
+  rotate: true
+  xy: 954, 872
+  size: 207, 317
+  orig: 207, 317
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0036
+  rotate: true
+  xy: 2, 671
+  size: 209, 271
+  orig: 209, 271
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0037
+  rotate: true
+  xy: 938, 661
+  size: 209, 272
+  orig: 209, 272
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0039
+  rotate: true
+  xy: 934, 448
+  size: 211, 272
+  orig: 211, 272
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0000
+  rotate: true
+  xy: 275, 669
+  size: 208, 338
+  orig: 208, 338
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0002
+  rotate: true
+  xy: 1212, 657
+  size: 208, 338
+  orig: 208, 338
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0004
+  rotate: true
+  xy: 1552, 654
+  size: 208, 339
+  orig: 208, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0006
+  rotate: true
+  xy: 2, 459
+  size: 208, 339
+  orig: 208, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0008
+  rotate: true
+  xy: 343, 458
+  size: 208, 339
+  orig: 208, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0010
+  rotate: true
+  xy: 1208, 447
+  size: 208, 339
+  orig: 208, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0012
+  rotate: true
+  xy: 1549, 444
+  size: 208, 339
+  orig: 208, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0014
+  rotate: true
+  xy: 2, 249
+  size: 208, 339
+  orig: 208, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0016
+  rotate: true
+  xy: 343, 248
+  size: 208, 339
+  orig: 208, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0024
+  rotate: true
+  xy: 684, 238
+  size: 208, 340
+  orig: 208, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0026
+  rotate: true
+  xy: 1026, 237
+  size: 208, 340
+  orig: 208, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0028
+  rotate: true
+  xy: 1368, 234
+  size: 208, 340
+  orig: 208, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0030
+  rotate: true
+  xy: 684, 28
+  size: 208, 340
+  orig: 208, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0032
+  rotate: true
+  xy: 1026, 27
+  size: 208, 340
+  orig: 208, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0034
+  rotate: true
+  xy: 1368, 24
+  size: 208, 340
+  orig: 208, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0054
+  rotate: true
+  xy: 2, 39
+  size: 208, 339
+  orig: 208, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0056
+  rotate: true
+  xy: 343, 38
+  size: 208, 339
+  orig: 208, 339
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0061
+  rotate: true
+  xy: 615, 668
+  size: 208, 321
+  orig: 208, 321
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0066
+  rotate: true
+  xy: 1620, 1073
+  size: 203, 322
+  orig: 203, 322
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0026
+  rotate: true
+  xy: 1710, 233
+  size: 209, 333
+  orig: 209, 333
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0034
+  rotate: true
+  xy: 646, 1083
+  size: 200, 325
+  orig: 200, 325
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0035
+  rotate: true
+  xy: 2, 882
+  size: 203, 316
+  orig: 203, 316
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0069
+  rotate: true
+  xy: 1273, 867
+  size: 207, 278
+  orig: 207, 278
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0070
+  rotate: true
+  xy: 1553, 864
+  size: 207, 297
+  orig: 207, 297
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0073
+  rotate: true
+  xy: 974, 1856
+  size: 185, 323
+  orig: 185, 323
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0074
+  rotate: true
+  xy: 2, 1860
+  size: 181, 325
+  orig: 181, 325
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0075
+  rotate: true
+  xy: 329, 1857
+  size: 184, 326
+  orig: 184, 326
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0082
+  rotate: true
+  xy: 1292, 1076
+  size: 200, 326
+  orig: 200, 326
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0083
+  rotate: true
+  xy: 2, 1288
+  size: 189, 326
+  orig: 189, 326
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0085
+  rotate: true
+  xy: 645, 1285
+  size: 191, 327
+  orig: 191, 327
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0091
+  rotate: true
+  xy: 320, 879
+  size: 203, 324
+  orig: 203, 324
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0092
+  rotate: true
+  xy: 1296, 1278
+  size: 196, 325
+  orig: 196, 325
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0093
+  rotate: true
+  xy: 2, 1087
+  size: 199, 325
+  orig: 199, 325
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0095
+  rotate: true
+  xy: 1710, 22
+  size: 209, 324
+  orig: 209, 324
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0110
+  rotate: true
+  xy: 973, 1081
+  size: 200, 317
+  orig: 200, 317
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0111
+  rotate: true
+  xy: 2, 1479
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0112
+  rotate: true
+  xy: 657, 1857
+  size: 184, 315
+  orig: 184, 315
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0113
+  rotate: true
+  xy: 330, 1288
+  size: 189, 313
+  orig: 189, 313
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0116
+  rotate: true
+  xy: 646, 878
+  size: 203, 306
+  orig: 203, 306
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0138
+  rotate: true
+  xy: 329, 1084
+  size: 199, 315
+  orig: 199, 315
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0139
+  rotate: true
+  xy: 2, 1670
+  size: 188, 317
+  orig: 188, 317
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0140
+  rotate: true
+  xy: 974, 1283
+  size: 191, 320
+  orig: 191, 320
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0141
+  rotate: true
+  xy: 1623, 1278
+  size: 196, 321
+  orig: 196, 321
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0067
+  rotate: true
+  xy: 1299, 1854
+  size: 187, 331
+  orig: 187, 331
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0068
+  rotate: true
+  xy: 1632, 1854
+  size: 187, 332
+  orig: 187, 332
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0070
+  rotate: true
+  xy: 321, 1668
+  size: 187, 333
+  orig: 187, 333
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0071
+  rotate: true
+  xy: 656, 1667
+  size: 187, 333
+  orig: 187, 333
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0072
+  rotate: true
+  xy: 991, 1665
+  size: 187, 333
+  orig: 187, 333
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0073
+  rotate: true
+  xy: 1326, 1665
+  size: 187, 333
+  orig: 187, 333
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0074
+  rotate: true
+  xy: 1661, 1665
+  size: 187, 332
+  orig: 187, 332
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0075
+  rotate: true
+  xy: 319, 1479
+  size: 187, 332
+  orig: 187, 332
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0076
+  rotate: true
+  xy: 653, 1478
+  size: 187, 332
+  orig: 187, 332
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0077
+  rotate: true
+  xy: 987, 1476
+  size: 187, 332
+  orig: 187, 332
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0078
+  rotate: true
+  xy: 1321, 1476
+  size: 187, 333
+  orig: 187, 333
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0079
+  rotate: true
+  xy: 1656, 1476
+  size: 187, 333
+  orig: 187, 333
+  offset: 0, 0
+  index: -1
+
+skeleton10.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bigwinstart/characterGonzoBigWinStartMedium_0037
+  rotate: true
+  xy: 1755, 1089
+  size: 294, 291
+  orig: 294, 291
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0018
+  rotate: false
+  xy: 1769, 1549
+  size: 277, 275
+  orig: 277, 275
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0070
+  rotate: true
+  xy: 1721, 232
+  size: 217, 325
+  orig: 217, 325
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0071
+  rotate: false
+  xy: 453, 3
+  size: 217, 333
+  orig: 217, 333
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0072
+  rotate: false
+  xy: 672, 3
+  size: 217, 333
+  orig: 217, 333
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0073
+  rotate: false
+  xy: 891, 3
+  size: 217, 333
+  orig: 217, 333
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0030
+  rotate: false
+  xy: 1329, 2
+  size: 220, 339
+  orig: 220, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0031
+  rotate: true
+  xy: 1551, 1826
+  size: 220, 339
+  orig: 220, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0036
+  rotate: false
+  xy: 881, 1385
+  size: 220, 339
+  orig: 220, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0037
+  rotate: false
+  xy: 1089, 1044
+  size: 220, 339
+  orig: 220, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0038
+  rotate: false
+  xy: 1103, 1385
+  size: 220, 339
+  orig: 220, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0039
+  rotate: false
+  xy: 1297, 703
+  size: 220, 339
+  orig: 220, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0040
+  rotate: false
+  xy: 1311, 1044
+  size: 220, 339
+  orig: 220, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0041
+  rotate: false
+  xy: 1325, 1385
+  size: 220, 339
+  orig: 220, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0042
+  rotate: false
+  xy: 1499, 362
+  size: 220, 339
+  orig: 220, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0064
+  rotate: false
+  xy: 1519, 703
+  size: 220, 339
+  orig: 220, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0065
+  rotate: false
+  xy: 1533, 1044
+  size: 220, 339
+  orig: 220, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0073
+  rotate: false
+  xy: 1547, 1385
+  size: 220, 339
+  orig: 220, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0075
+  rotate: false
+  xy: 1074, 684
+  size: 221, 339
+  orig: 221, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0077
+  rotate: false
+  xy: 1276, 343
+  size: 221, 339
+  orig: 221, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0036
+  rotate: false
+  xy: 444, 680
+  size: 208, 340
+  orig: 208, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0038
+  rotate: false
+  xy: 646, 338
+  size: 208, 340
+  orig: 208, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0040
+  rotate: false
+  xy: 654, 680
+  size: 208, 340
+  orig: 208, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0042
+  rotate: false
+  xy: 856, 338
+  size: 208, 340
+  orig: 208, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0044
+  rotate: false
+  xy: 446, 1706
+  size: 208, 340
+  orig: 208, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0046
+  rotate: false
+  xy: 446, 1364
+  size: 208, 340
+  orig: 208, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0048
+  rotate: false
+  xy: 655, 1022
+  size: 208, 340
+  orig: 208, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0050
+  rotate: false
+  xy: 864, 680
+  size: 208, 340
+  orig: 208, 340
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0052
+  rotate: false
+  xy: 1066, 338
+  size: 208, 340
+  orig: 208, 340
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0007
+  rotate: false
+  xy: 1110, 3
+  size: 217, 333
+  orig: 217, 333
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0062
+  rotate: false
+  xy: 2, 3
+  size: 226, 333
+  orig: 226, 333
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0027
+  rotate: false
+  xy: 224, 338
+  size: 209, 340
+  orig: 209, 340
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0028
+  rotate: false
+  xy: 435, 338
+  size: 209, 340
+  orig: 209, 340
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0029
+  rotate: false
+  xy: 444, 1022
+  size: 209, 340
+  orig: 209, 340
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0011
+  rotate: false
+  xy: 224, 1022
+  size: 218, 340
+  orig: 218, 340
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0029
+  rotate: false
+  xy: 865, 1025
+  size: 222, 339
+  orig: 222, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0038
+  rotate: false
+  xy: 656, 1707
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0039
+  rotate: false
+  xy: 656, 1366
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0060
+  rotate: false
+  xy: 230, 3
+  size: 221, 333
+  orig: 221, 333
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0061
+  rotate: true
+  xy: 1741, 772
+  size: 270, 305
+  orig: 270, 305
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0146
+  rotate: false
+  xy: 881, 1726
+  size: 224, 320
+  orig: 224, 320
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0147
+  rotate: true
+  xy: 1551, 2
+  size: 228, 318
+  orig: 228, 318
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0007
+  rotate: false
+  xy: 2, 1706
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0008
+  rotate: false
+  xy: 2, 1364
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0063
+  rotate: false
+  xy: 1297, 1726
+  size: 252, 320
+  orig: 252, 320
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0064
+  rotate: true
+  xy: 1721, 451
+  size: 250, 325
+  orig: 250, 325
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0095
+  rotate: false
+  xy: 224, 680
+  size: 218, 340
+  orig: 218, 340
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0125
+  rotate: false
+  xy: 2, 1022
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0126
+  rotate: false
+  xy: 2, 680
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0127
+  rotate: false
+  xy: 2, 338
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0129
+  rotate: false
+  xy: 224, 1706
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0130
+  rotate: false
+  xy: 224, 1364
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+
+skeleton11.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bigwinstart/characterGonzoBigWinStartMedium_0008
+  rotate: true
+  xy: 1126, 1169
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0009
+  rotate: true
+  xy: 1467, 1169
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0010
+  rotate: true
+  xy: 1126, 950
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0023
+  rotate: false
+  xy: 1808, 520
+  size: 237, 235
+  orig: 237, 235
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0043
+  rotate: false
+  xy: 1808, 254
+  size: 235, 264
+  orig: 235, 264
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0075
+  rotate: true
+  xy: 444, 949
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0074
+  rotate: false
+  xy: 2, 1707
+  size: 220, 339
+  orig: 220, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0078
+  rotate: false
+  xy: 2, 1366
+  size: 220, 339
+  orig: 220, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0080
+  rotate: false
+  xy: 2, 1025
+  size: 220, 339
+  orig: 220, 339
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0016
+  rotate: false
+  xy: 1808, 1377
+  size: 238, 332
+  orig: 238, 332
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0001
+  rotate: true
+  xy: 785, 949
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0002
+  rotate: true
+  xy: 1126, 731
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0003
+  rotate: true
+  xy: 1467, 731
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0004
+  rotate: false
+  xy: 224, 1707
+  size: 218, 339
+  orig: 218, 339
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0005
+  rotate: false
+  xy: 444, 179
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0026
+  rotate: true
+  xy: 444, 520
+  size: 209, 339
+  orig: 209, 339
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0030
+  rotate: true
+  xy: 785, 520
+  size: 209, 339
+  orig: 209, 339
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0031
+  rotate: true
+  xy: 1126, 520
+  size: 209, 339
+  orig: 209, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0002
+  rotate: false
+  xy: 2, 343
+  size: 219, 339
+  orig: 219, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0003
+  rotate: false
+  xy: 224, 1366
+  size: 218, 339
+  orig: 218, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0004
+  rotate: false
+  xy: 2, 2
+  size: 219, 339
+  orig: 219, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0005
+  rotate: false
+  xy: 224, 1025
+  size: 218, 339
+  orig: 218, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0006
+  rotate: false
+  xy: 224, 684
+  size: 218, 339
+  orig: 218, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0007
+  rotate: false
+  xy: 223, 343
+  size: 219, 339
+  orig: 219, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0008
+  rotate: true
+  xy: 444, 1828
+  size: 218, 339
+  orig: 218, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0009
+  rotate: true
+  xy: 785, 1828
+  size: 218, 339
+  orig: 218, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0010
+  rotate: true
+  xy: 1126, 1828
+  size: 218, 339
+  orig: 218, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0012
+  rotate: false
+  xy: 223, 2
+  size: 219, 339
+  orig: 219, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0034
+  rotate: true
+  xy: 444, 731
+  size: 216, 338
+  orig: 216, 338
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0058
+  rotate: true
+  xy: 784, 731
+  size: 216, 338
+  orig: 216, 338
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0069
+  rotate: false
+  xy: 1808, 1711
+  size: 238, 335
+  orig: 238, 335
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0075
+  rotate: true
+  xy: 1467, 1828
+  size: 218, 339
+  orig: 218, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0000
+  rotate: true
+  xy: 444, 1608
+  size: 218, 339
+  orig: 218, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0001
+  rotate: true
+  xy: 785, 1608
+  size: 218, 339
+  orig: 218, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0002
+  rotate: true
+  xy: 1126, 1608
+  size: 218, 339
+  orig: 218, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0003
+  rotate: false
+  xy: 663, 179
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0004
+  rotate: false
+  xy: 882, 179
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0005
+  rotate: false
+  xy: 1101, 179
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0006
+  rotate: true
+  xy: 1467, 512
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0007
+  rotate: true
+  xy: 1467, 1608
+  size: 218, 339
+  orig: 218, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0106
+  rotate: true
+  xy: 1320, 254
+  size: 256, 318
+  orig: 256, 318
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0133
+  rotate: false
+  xy: 1808, 1067
+  size: 237, 308
+  orig: 237, 308
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0135
+  rotate: false
+  xy: 1808, 757
+  size: 237, 308
+  orig: 237, 308
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0156
+  rotate: true
+  xy: 1320, 2
+  size: 250, 315
+  orig: 250, 315
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0179
+  rotate: true
+  xy: 444, 1388
+  size: 218, 339
+  orig: 218, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0180
+  rotate: true
+  xy: 785, 1388
+  size: 218, 339
+  orig: 218, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0181
+  rotate: true
+  xy: 1126, 1388
+  size: 218, 339
+  orig: 218, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0183
+  rotate: true
+  xy: 1467, 1388
+  size: 218, 339
+  orig: 218, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0184
+  rotate: true
+  xy: 444, 1168
+  size: 218, 339
+  orig: 218, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0185
+  rotate: true
+  xy: 785, 1168
+  size: 218, 339
+  orig: 218, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0186
+  rotate: true
+  xy: 1467, 950
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0062
+  rotate: true
+  xy: 1637, 2
+  size: 250, 313
+  orig: 250, 313
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0124
+  rotate: false
+  xy: 2, 684
+  size: 220, 339
+  orig: 220, 339
+  offset: 0, 0
+  index: -1
+
+skeleton12.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bigwinstart/characterGonzoBigWinStartMedium_0033
+  rotate: true
+  xy: 1188, 306
+  size: 215, 250
+  orig: 215, 250
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0029
+  rotate: false
+  xy: 698, 4
+  size: 270, 300
+  orig: 270, 300
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0049
+  rotate: true
+  xy: 901, 306
+  size: 215, 285
+  orig: 215, 285
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0059
+  rotate: false
+  xy: 970, 4
+  size: 221, 300
+  orig: 221, 300
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0081
+  rotate: true
+  xy: 561, 963
+  size: 217, 338
+  orig: 217, 338
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0082
+  rotate: true
+  xy: 561, 744
+  size: 217, 338
+  orig: 217, 338
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0083
+  rotate: true
+  xy: 901, 742
+  size: 217, 338
+  orig: 217, 338
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0084
+  rotate: true
+  xy: 1241, 728
+  size: 217, 338
+  orig: 217, 338
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0085
+  rotate: true
+  xy: 221, 743
+  size: 217, 338
+  orig: 217, 338
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0032
+  rotate: true
+  xy: 901, 1405
+  size: 220, 338
+  orig: 220, 338
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0033
+  rotate: true
+  xy: 221, 1404
+  size: 221, 338
+  orig: 221, 338
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0034
+  rotate: true
+  xy: 1241, 1390
+  size: 220, 338
+  orig: 220, 338
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0035
+  rotate: true
+  xy: 901, 1183
+  size: 220, 338
+  orig: 220, 338
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0043
+  rotate: true
+  xy: 1581, 1182
+  size: 220, 338
+  orig: 220, 338
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0044
+  rotate: true
+  xy: 1241, 1168
+  size: 220, 338
+  orig: 220, 338
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0076
+  rotate: true
+  xy: 561, 1404
+  size: 221, 338
+  orig: 221, 338
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0079
+  rotate: true
+  xy: 1581, 960
+  size: 220, 338
+  orig: 220, 338
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0058
+  rotate: true
+  xy: 1585, 1838
+  size: 208, 339
+  orig: 208, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0060
+  rotate: true
+  xy: 1585, 1628
+  size: 208, 339
+  orig: 208, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0062
+  rotate: true
+  xy: 221, 1627
+  size: 208, 339
+  orig: 208, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0064
+  rotate: true
+  xy: 562, 1627
+  size: 208, 339
+  orig: 208, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0066
+  rotate: true
+  xy: 903, 1627
+  size: 208, 339
+  orig: 208, 339
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0068
+  rotate: true
+  xy: 1676, 189
+  size: 208, 338
+  orig: 208, 338
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0064
+  rotate: false
+  xy: 1193, 7
+  size: 270, 297
+  orig: 270, 297
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0000
+  rotate: true
+  xy: 561, 525
+  size: 217, 338
+  orig: 217, 338
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0032
+  rotate: true
+  xy: 221, 1837
+  size: 209, 339
+  orig: 209, 339
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0033
+  rotate: true
+  xy: 562, 1837
+  size: 209, 339
+  orig: 209, 339
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0034
+  rotate: true
+  xy: 903, 1837
+  size: 209, 339
+  orig: 209, 339
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0035
+  rotate: false
+  xy: 1440, 388
+  size: 209, 338
+  orig: 209, 338
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0001
+  rotate: true
+  xy: 221, 962
+  size: 218, 338
+  orig: 218, 338
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0030
+  rotate: true
+  xy: 1244, 1837
+  size: 209, 339
+  orig: 209, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0031
+  rotate: false
+  xy: 1465, 48
+  size: 209, 338
+  orig: 209, 338
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0032
+  rotate: false
+  xy: 1651, 399
+  size: 209, 338
+  orig: 209, 338
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0035
+  rotate: true
+  xy: 1241, 947
+  size: 219, 338
+  orig: 219, 338
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0036
+  rotate: true
+  xy: 1584, 1404
+  size: 222, 338
+  orig: 222, 338
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0037
+  rotate: true
+  xy: 1244, 1612
+  size: 223, 338
+  orig: 223, 338
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0073
+  rotate: true
+  xy: 1581, 739
+  size: 219, 338
+  orig: 219, 338
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0008
+  rotate: false
+  xy: 2, 1707
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0009
+  rotate: false
+  xy: 2, 1366
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0010
+  rotate: false
+  xy: 2, 1025
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0032
+  rotate: true
+  xy: 221, 1182
+  size: 220, 338
+  orig: 220, 338
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0038
+  rotate: false
+  xy: 472, 3
+  size: 224, 301
+  orig: 224, 301
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0118
+  rotate: false
+  xy: 221, 2
+  size: 249, 302
+  orig: 249, 302
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0173
+  rotate: true
+  xy: 221, 306
+  size: 216, 338
+  orig: 216, 338
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0174
+  rotate: true
+  xy: 901, 523
+  size: 217, 338
+  orig: 217, 338
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0176
+  rotate: false
+  xy: 2, 684
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0177
+  rotate: true
+  xy: 221, 524
+  size: 217, 338
+  orig: 217, 338
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0178
+  rotate: true
+  xy: 561, 306
+  size: 217, 338
+  orig: 217, 338
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0182
+  rotate: false
+  xy: 2, 343
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0084
+  rotate: false
+  xy: 2, 2
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0085
+  rotate: true
+  xy: 561, 1182
+  size: 220, 338
+  orig: 220, 338
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0086
+  rotate: true
+  xy: 901, 961
+  size: 220, 338
+  orig: 220, 338
+  offset: 0, 0
+  index: -1
+
+skeleton13.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bigwinstart/characterGonzoBigWinStartMedium_0055
+  rotate: false
+  xy: 1765, 1243
+  size: 278, 273
+  orig: 278, 273
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0056
+  rotate: false
+  xy: 1756, 1780
+  size: 290, 264
+  orig: 290, 264
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0015
+  rotate: true
+  xy: 1756, 1518
+  size: 260, 290
+  orig: 260, 290
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0048
+  rotate: true
+  xy: 1765, 986
+  size: 255, 278
+  orig: 255, 278
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0074
+  rotate: false
+  xy: 224, 689
+  size: 217, 337
+  orig: 217, 337
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0076
+  rotate: false
+  xy: 224, 350
+  size: 217, 337
+  orig: 217, 337
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0077
+  rotate: false
+  xy: 224, 11
+  size: 217, 337
+  orig: 217, 337
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0078
+  rotate: false
+  xy: 443, 689
+  size: 217, 337
+  orig: 217, 337
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0079
+  rotate: false
+  xy: 446, 1029
+  size: 217, 337
+  orig: 217, 337
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0080
+  rotate: false
+  xy: 451, 1368
+  size: 217, 337
+  orig: 217, 337
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0045
+  rotate: false
+  xy: 2, 1028
+  size: 220, 337
+  orig: 220, 337
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0046
+  rotate: false
+  xy: 670, 1369
+  size: 221, 336
+  orig: 221, 336
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0047
+  rotate: false
+  xy: 874, 1708
+  size: 220, 336
+  orig: 220, 336
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0048
+  rotate: false
+  xy: 662, 352
+  size: 220, 336
+  orig: 220, 336
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0049
+  rotate: false
+  xy: 881, 691
+  size: 220, 336
+  orig: 220, 336
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0050
+  rotate: false
+  xy: 883, 1031
+  size: 220, 336
+  orig: 220, 336
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0051
+  rotate: false
+  xy: 893, 1370
+  size: 220, 336
+  orig: 220, 336
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0052
+  rotate: false
+  xy: 1096, 1708
+  size: 220, 336
+  orig: 220, 336
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0053
+  rotate: false
+  xy: 2, 689
+  size: 220, 337
+  orig: 220, 337
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0054
+  rotate: false
+  xy: 2, 350
+  size: 220, 337
+  orig: 220, 337
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0055
+  rotate: false
+  xy: 2, 11
+  size: 220, 337
+  orig: 220, 337
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0056
+  rotate: false
+  xy: 212, 1707
+  size: 221, 337
+  orig: 221, 337
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0057
+  rotate: false
+  xy: 662, 14
+  size: 220, 336
+  orig: 220, 336
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0058
+  rotate: false
+  xy: 884, 353
+  size: 220, 336
+  orig: 220, 336
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0059
+  rotate: false
+  xy: 1103, 16
+  size: 220, 335
+  orig: 220, 335
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0060
+  rotate: false
+  xy: 1106, 356
+  size: 220, 335
+  orig: 220, 335
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0061
+  rotate: false
+  xy: 1325, 695
+  size: 220, 335
+  orig: 220, 335
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0062
+  rotate: false
+  xy: 1103, 693
+  size: 220, 336
+  orig: 220, 336
+  offset: 0, 0
+  index: -1
+characterGonzoIdleAdditionalMedium/characterGonzoIdleAdditionalMedium_0063
+  rotate: false
+  xy: 1105, 1032
+  size: 220, 336
+  orig: 220, 336
+  offset: 0, 0
+  index: -1
+characterGonzoIdleMediumNoNoise/characterGonzoIdleMediumNoNoise_0070
+  rotate: false
+  xy: 2, 1706
+  size: 208, 338
+  orig: 208, 338
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0000
+  rotate: false
+  xy: 1318, 1708
+  size: 217, 336
+  orig: 217, 336
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0001
+  rotate: false
+  xy: 655, 1707
+  size: 217, 337
+  orig: 217, 337
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0002
+  rotate: false
+  xy: 443, 350
+  size: 217, 337
+  orig: 217, 337
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0003
+  rotate: false
+  xy: 1115, 1370
+  size: 218, 336
+  orig: 218, 336
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0004
+  rotate: false
+  xy: 1327, 1033
+  size: 217, 335
+  orig: 217, 335
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0005
+  rotate: false
+  xy: 1335, 1371
+  size: 217, 335
+  orig: 217, 335
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0008
+  rotate: false
+  xy: 1328, 360
+  size: 217, 333
+  orig: 217, 333
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0009
+  rotate: false
+  xy: 1328, 25
+  size: 217, 333
+  orig: 217, 333
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0006
+  rotate: false
+  xy: 443, 11
+  size: 217, 337
+  orig: 217, 337
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0007
+  rotate: false
+  xy: 1537, 1709
+  size: 217, 335
+  orig: 217, 335
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0025
+  rotate: false
+  xy: 662, 690
+  size: 217, 337
+  orig: 217, 337
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0059
+  rotate: false
+  xy: 1546, 1034
+  size: 217, 335
+  orig: 217, 335
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0071
+  rotate: false
+  xy: 2, 1367
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0072
+  rotate: false
+  xy: 230, 1368
+  size: 219, 337
+  orig: 219, 337
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0074
+  rotate: false
+  xy: 435, 1707
+  size: 218, 337
+  orig: 218, 337
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0011
+  rotate: false
+  xy: 884, 15
+  size: 217, 336
+  orig: 217, 336
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0012
+  rotate: false
+  xy: 1547, 362
+  size: 216, 333
+  orig: 216, 333
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0048
+  rotate: false
+  xy: 1765, 168
+  size: 276, 313
+  orig: 276, 313
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0064
+  rotate: true
+  xy: 1765, 733
+  size: 251, 278
+  orig: 251, 278
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0170
+  rotate: false
+  xy: 1547, 27
+  size: 216, 333
+  orig: 216, 333
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0171
+  rotate: false
+  xy: 1547, 697
+  size: 216, 335
+  orig: 216, 335
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0172
+  rotate: false
+  xy: 665, 1029
+  size: 216, 337
+  orig: 216, 337
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0059
+  rotate: true
+  xy: 1765, 483
+  size: 248, 278
+  orig: 248, 278
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0123
+  rotate: false
+  xy: 224, 1028
+  size: 220, 337
+  orig: 220, 337
+  offset: 0, 0
+  index: -1
+
+skeleton14.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bigwinstart/characterGonzoBigWinStartMedium_0011
+  rotate: true
+  xy: 1303, 1175
+  size: 217, 332
+  orig: 217, 332
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0012
+  rotate: true
+  xy: 1637, 1146
+  size: 217, 324
+  orig: 217, 324
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0013
+  rotate: true
+  xy: 2, 957
+  size: 217, 315
+  orig: 217, 315
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0015
+  rotate: true
+  xy: 319, 957
+  size: 217, 293
+  orig: 217, 293
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0016
+  rotate: true
+  xy: 614, 957
+  size: 217, 282
+  orig: 217, 282
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0017
+  rotate: true
+  xy: 898, 957
+  size: 217, 273
+  orig: 217, 273
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0018
+  rotate: true
+  xy: 1765, 926
+  size: 218, 266
+  orig: 218, 266
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0019
+  rotate: true
+  xy: 670, 518
+  size: 218, 261
+  orig: 218, 261
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0020
+  rotate: true
+  xy: 933, 517
+  size: 218, 261
+  orig: 218, 261
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0048
+  rotate: true
+  xy: 327, 1829
+  size: 211, 315
+  orig: 211, 315
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0050
+  rotate: true
+  xy: 1633, 49
+  size: 218, 314
+  orig: 218, 314
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0022
+  rotate: true
+  xy: 1816, 1365
+  size: 245, 226
+  orig: 245, 226
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0035
+  rotate: true
+  xy: 254, 1394
+  size: 216, 271
+  orig: 216, 271
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0050
+  rotate: true
+  xy: 1173, 956
+  size: 217, 291
+  orig: 217, 291
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0051
+  rotate: true
+  xy: 1466, 927
+  size: 217, 297
+  orig: 217, 297
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0052
+  rotate: true
+  xy: 2, 738
+  size: 217, 303
+  orig: 217, 303
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0053
+  rotate: true
+  xy: 307, 738
+  size: 217, 308
+  orig: 217, 308
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0055
+  rotate: true
+  xy: 617, 738
+  size: 217, 317
+  orig: 217, 317
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0057
+  rotate: true
+  xy: 936, 737
+  size: 217, 311
+  orig: 217, 311
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0010
+  rotate: true
+  xy: 1249, 708
+  size: 217, 333
+  orig: 217, 333
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0011
+  rotate: true
+  xy: 1584, 707
+  size: 217, 332
+  orig: 217, 332
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0012
+  rotate: true
+  xy: 2, 519
+  size: 217, 332
+  orig: 217, 332
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0013
+  rotate: true
+  xy: 336, 519
+  size: 217, 332
+  orig: 217, 332
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0014
+  rotate: true
+  xy: 1196, 489
+  size: 217, 332
+  orig: 217, 332
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0008
+  rotate: true
+  xy: 1530, 488
+  size: 217, 333
+  orig: 217, 333
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0009
+  rotate: true
+  xy: 2, 300
+  size: 217, 331
+  orig: 217, 331
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0010
+  rotate: true
+  xy: 335, 300
+  size: 217, 330
+  orig: 217, 330
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0014
+  rotate: true
+  xy: 667, 298
+  size: 217, 321
+  orig: 217, 321
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0013
+  rotate: true
+  xy: 527, 1394
+  size: 216, 330
+  orig: 216, 330
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0014
+  rotate: true
+  xy: 990, 270
+  size: 217, 326
+  orig: 217, 326
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0015
+  rotate: true
+  xy: 859, 1394
+  size: 216, 324
+  orig: 216, 324
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0016
+  rotate: true
+  xy: 1318, 269
+  size: 217, 323
+  orig: 217, 323
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0017
+  rotate: true
+  xy: 1643, 269
+  size: 217, 322
+  orig: 217, 322
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0021
+  rotate: true
+  xy: 644, 1828
+  size: 212, 323
+  orig: 212, 323
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0023
+  rotate: true
+  xy: 969, 1828
+  size: 212, 324
+  orig: 212, 324
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0033
+  rotate: true
+  xy: 327, 1612
+  size: 214, 332
+  orig: 214, 332
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0036
+  rotate: true
+  xy: 1185, 1394
+  size: 216, 306
+  orig: 216, 306
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0067
+  rotate: true
+  xy: 2, 1398
+  size: 215, 250
+  orig: 215, 250
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0068
+  rotate: true
+  xy: 1295, 1828
+  size: 212, 259
+  orig: 212, 259
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0078
+  rotate: true
+  xy: 2, 1615
+  size: 214, 323
+  orig: 214, 323
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0079
+  rotate: true
+  xy: 1493, 1394
+  size: 216, 321
+  orig: 216, 321
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0081
+  rotate: true
+  xy: 661, 1612
+  size: 214, 323
+  orig: 214, 323
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0087
+  rotate: true
+  xy: 986, 1612
+  size: 214, 323
+  orig: 214, 323
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0090
+  rotate: true
+  xy: 1311, 1612
+  size: 214, 322
+  orig: 214, 322
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0096
+  rotate: true
+  xy: 2, 1176
+  size: 216, 323
+  orig: 216, 323
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0109
+  rotate: true
+  xy: 2, 81
+  size: 217, 317
+  orig: 217, 317
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0125
+  rotate: true
+  xy: 327, 1176
+  size: 216, 313
+  orig: 216, 313
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0143
+  rotate: true
+  xy: 2, 1831
+  size: 209, 323
+  orig: 209, 323
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0144
+  rotate: true
+  xy: 1635, 1612
+  size: 214, 321
+  orig: 214, 321
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0158
+  rotate: true
+  xy: 321, 81
+  size: 217, 322
+  orig: 217, 322
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0159
+  rotate: true
+  xy: 1556, 1828
+  size: 212, 324
+  orig: 212, 324
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0165
+  rotate: true
+  xy: 645, 79
+  size: 217, 327
+  orig: 217, 327
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0166
+  rotate: true
+  xy: 974, 51
+  size: 217, 327
+  orig: 217, 327
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0167
+  rotate: true
+  xy: 642, 1176
+  size: 216, 327
+  orig: 216, 327
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0168
+  rotate: true
+  xy: 1303, 50
+  size: 217, 328
+  orig: 217, 328
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0169
+  rotate: true
+  xy: 971, 1176
+  size: 216, 330
+  orig: 216, 330
+  offset: 0, 0
+  index: -1
+
+skeleton15.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bigwinstart/characterGonzoBigWinStartMedium_0021
+  rotate: true
+  xy: 2, 11
+  size: 232, 282
+  orig: 232, 282
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0032
+  rotate: true
+  xy: 963, 1151
+  size: 222, 290
+  orig: 222, 290
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0051
+  rotate: true
+  xy: 310, 242
+  size: 229, 309
+  orig: 229, 309
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0021
+  rotate: false
+  xy: 869, 237
+  size: 257, 230
+  orig: 257, 230
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0024
+  rotate: true
+  xy: 1701, 209
+  size: 231, 254
+  orig: 231, 254
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0032
+  rotate: true
+  xy: 1587, 1597
+  size: 220, 272
+  orig: 220, 272
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0033
+  rotate: true
+  xy: 2, 1819
+  size: 218, 271
+  orig: 218, 271
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0034
+  rotate: true
+  xy: 1228, 1375
+  size: 221, 271
+  orig: 221, 271
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0040
+  rotate: true
+  xy: 2, 1377
+  size: 220, 271
+  orig: 220, 271
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0041
+  rotate: true
+  xy: 1605, 442
+  size: 228, 269
+  orig: 228, 269
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0056
+  rotate: true
+  xy: 275, 1819
+  size: 218, 314
+  orig: 218, 314
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0058
+  rotate: true
+  xy: 641, 1598
+  size: 219, 306
+  orig: 219, 306
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0060
+  rotate: true
+  xy: 629, 928
+  size: 223, 292
+  orig: 223, 292
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0061
+  rotate: true
+  xy: 1212, 924
+  size: 224, 283
+  orig: 224, 283
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0062
+  rotate: true
+  xy: 1649, 672
+  size: 226, 275
+  orig: 226, 275
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0063
+  rotate: true
+  xy: 2, 476
+  size: 226, 267
+  orig: 226, 267
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0064
+  rotate: true
+  xy: 271, 475
+  size: 226, 261
+  orig: 226, 261
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0065
+  rotate: true
+  xy: 534, 473
+  size: 226, 259
+  orig: 226, 259
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0066
+  rotate: true
+  xy: 609, 701
+  size: 225, 263
+  orig: 225, 263
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0067
+  rotate: true
+  xy: 874, 699
+  size: 225, 269
+  orig: 225, 269
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0068
+  rotate: true
+  xy: 923, 926
+  size: 223, 287
+  orig: 223, 287
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0069
+  rotate: true
+  xy: 1501, 1374
+  size: 221, 308
+  orig: 221, 308
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0065
+  rotate: true
+  xy: 2, 245
+  size: 228, 306
+  orig: 228, 306
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0012
+  rotate: true
+  xy: 591, 1819
+  size: 218, 326
+  orig: 218, 326
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0013
+  rotate: true
+  xy: 919, 1819
+  size: 218, 324
+  orig: 218, 324
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0015
+  rotate: true
+  xy: 1245, 1819
+  size: 218, 320
+  orig: 218, 320
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0018
+  rotate: true
+  xy: 1567, 1819
+  size: 218, 321
+  orig: 218, 321
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0019
+  rotate: true
+  xy: 949, 1598
+  size: 219, 321
+  orig: 219, 321
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0020
+  rotate: true
+  xy: 2, 1154
+  size: 221, 322
+  orig: 221, 322
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0024
+  rotate: true
+  xy: 1497, 900
+  size: 224, 324
+  orig: 224, 324
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0037
+  rotate: true
+  xy: 2, 704
+  size: 224, 297
+  orig: 224, 297
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0039
+  rotate: true
+  xy: 301, 703
+  size: 224, 306
+  orig: 224, 306
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0066
+  rotate: true
+  xy: 1145, 697
+  size: 225, 253
+  orig: 225, 253
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0080
+  rotate: true
+  xy: 275, 1377
+  size: 220, 321
+  orig: 220, 321
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0088
+  rotate: true
+  xy: 1255, 1150
+  size: 222, 321
+  orig: 222, 321
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0089
+  rotate: true
+  xy: 2, 1599
+  size: 218, 321
+  orig: 218, 321
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0097
+  rotate: true
+  xy: 1128, 212
+  size: 230, 323
+  orig: 230, 323
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0108
+  rotate: true
+  xy: 286, 8
+  size: 232, 318
+  orig: 232, 318
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0117
+  rotate: true
+  xy: 1578, 1126
+  size: 222, 304
+  orig: 222, 304
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0124
+  rotate: true
+  xy: 795, 471
+  size: 226, 312
+  orig: 226, 312
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0126
+  rotate: true
+  xy: 325, 1599
+  size: 218, 314
+  orig: 218, 314
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0127
+  rotate: true
+  xy: 598, 1376
+  size: 220, 314
+  orig: 220, 314
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0128
+  rotate: true
+  xy: 1272, 1598
+  size: 219, 313
+  orig: 219, 313
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0129
+  rotate: true
+  xy: 326, 1153
+  size: 221, 312
+  orig: 221, 312
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0130
+  rotate: true
+  xy: 914, 1376
+  size: 220, 312
+  orig: 220, 312
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0131
+  rotate: true
+  xy: 2, 930
+  size: 222, 311
+  orig: 222, 311
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0137
+  rotate: true
+  xy: 315, 929
+  size: 222, 312
+  orig: 222, 312
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0145
+  rotate: true
+  xy: 640, 1153
+  size: 221, 321
+  orig: 221, 321
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0047
+  rotate: false
+  xy: 606, 5
+  size: 246, 233
+  orig: 246, 233
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0048
+  rotate: false
+  xy: 1453, 210
+  size: 246, 230
+  orig: 246, 230
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0049
+  rotate: false
+  xy: 1357, 444
+  size: 246, 227
+  orig: 246, 227
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0050
+  rotate: false
+  xy: 1109, 469
+  size: 246, 226
+  orig: 246, 226
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0051
+  rotate: true
+  xy: 1811, 1350
+  size: 245, 225
+  orig: 245, 225
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0052
+  rotate: false
+  xy: 1400, 673
+  size: 247, 225
+  orig: 247, 225
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0054
+  rotate: false
+  xy: 621, 240
+  size: 246, 229
+  orig: 246, 229
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0055
+  rotate: false
+  xy: 854, 2
+  size: 246, 233
+  orig: 246, 233
+  offset: 0, 0
+  index: -1
+
+skeleton16.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bigwinstart/characterGonzoBigWinStartMedium_0047
+  rotate: true
+  xy: 257, 934
+  size: 256, 308
+  orig: 256, 308
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0053
+  rotate: false
+  xy: 1140, 1257
+  size: 253, 293
+  orig: 253, 293
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0057
+  rotate: true
+  xy: 840, 951
+  size: 304, 256
+  orig: 304, 256
+  offset: 0, 0
+  index: -1
+Bigwinstart/characterGonzoBigWinStartMedium_0058
+  rotate: true
+  xy: 2, 429
+  size: 318, 251
+  orig: 318, 251
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0005
+  rotate: false
+  xy: 1244, 44
+  size: 240, 291
+  orig: 240, 291
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0007
+  rotate: true
+  xy: 850, 1257
+  size: 239, 288
+  orig: 239, 288
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0008
+  rotate: false
+  xy: 1543, 675
+  size: 240, 288
+  orig: 240, 288
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0009
+  rotate: false
+  xy: 1738, 64
+  size: 240, 288
+  orig: 240, 288
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0014
+  rotate: false
+  xy: 1367, 965
+  size: 248, 290
+  orig: 248, 290
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0019
+  rotate: false
+  xy: 261, 1192
+  size: 273, 259
+  orig: 273, 259
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0026
+  rotate: false
+  xy: 1312, 348
+  size: 243, 294
+  orig: 243, 294
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0027
+  rotate: false
+  xy: 1009, 644
+  size: 266, 304
+  orig: 266, 304
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0030
+  rotate: false
+  xy: 1486, 55
+  size: 250, 291
+  orig: 250, 291
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0031
+  rotate: true
+  xy: 1557, 354
+  size: 233, 282
+  orig: 233, 282
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0044
+  rotate: true
+  xy: 1785, 589
+  size: 235, 261
+  orig: 235, 261
+  offset: 0, 0
+  index: -1
+characterGonzoJuniorsMedium/characterGonzoJuniorsMedium_0060
+  rotate: false
+  xy: 567, 951
+  size: 271, 304
+  orig: 271, 304
+  offset: 0, 0
+  index: -1
+characterGonzoStepInFixMedium/characterGonzoStepInFixMedium_0016
+  rotate: false
+  xy: 2, 111
+  size: 257, 316
+  orig: 257, 316
+  offset: 0, 0
+  index: -1
+characterGonzoWinAdditionalMedium/characterGonzoWinAdditionalMedium_0061
+  rotate: true
+  xy: 536, 1498
+  size: 233, 330
+  orig: 233, 330
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0041
+  rotate: true
+  xy: 536, 1257
+  size: 239, 312
+  orig: 239, 312
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0050
+  rotate: false
+  xy: 536, 1733
+  size: 270, 313
+  orig: 270, 313
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0051
+  rotate: false
+  xy: 808, 1733
+  size: 267, 313
+  orig: 267, 313
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0055
+  rotate: false
+  xy: 255, 623
+  size: 264, 309
+  orig: 264, 309
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0058
+  rotate: false
+  xy: 521, 314
+  size: 263, 305
+  orig: 263, 305
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0059
+  rotate: false
+  xy: 786, 335
+  size: 264, 305
+  orig: 264, 305
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0060
+  rotate: true
+  xy: 1395, 1269
+  size: 266, 305
+  orig: 266, 305
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0062
+  rotate: false
+  xy: 1098, 950
+  size: 267, 305
+  orig: 267, 305
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0063
+  rotate: false
+  xy: 982, 40
+  size: 260, 293
+  orig: 260, 293
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0098
+  rotate: false
+  xy: 2, 749
+  size: 249, 323
+  orig: 249, 323
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0099
+  rotate: false
+  xy: 2, 1723
+  size: 261, 323
+  orig: 261, 323
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0101
+  rotate: false
+  xy: 2, 1074
+  size: 253, 323
+  orig: 253, 323
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0102
+  rotate: false
+  xy: 2, 1399
+  size: 257, 322
+  orig: 257, 322
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0104
+  rotate: true
+  xy: 1077, 1786
+  size: 260, 319
+  orig: 260, 319
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0105
+  rotate: true
+  xy: 1398, 1787
+  size: 259, 318
+  orig: 259, 318
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0107
+  rotate: true
+  xy: 1398, 1537
+  size: 248, 318
+  orig: 248, 318
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0119
+  rotate: false
+  xy: 1277, 644
+  size: 264, 304
+  orig: 264, 304
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0121
+  rotate: false
+  xy: 1052, 337
+  size: 258, 305
+  orig: 258, 305
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0122
+  rotate: false
+  xy: 730, 4
+  size: 250, 308
+  orig: 250, 308
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0132
+  rotate: false
+  xy: 261, 2
+  size: 233, 309
+  orig: 233, 309
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0134
+  rotate: false
+  xy: 768, 642
+  size: 239, 307
+  orig: 239, 307
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0136
+  rotate: false
+  xy: 496, 2
+  size: 232, 309
+  orig: 232, 309
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0148
+  rotate: true
+  xy: 1718, 1328
+  size: 234, 316
+  orig: 234, 316
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0150
+  rotate: false
+  xy: 521, 621
+  size: 245, 311
+  orig: 245, 311
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0151
+  rotate: false
+  xy: 261, 313
+  size: 258, 308
+  orig: 258, 308
+  offset: 0, 0
+  index: -1
+characterGonzoWinMedium/characterGonzoWinMedium_0157
+  rotate: true
+  xy: 1077, 1552
+  size: 232, 318
+  orig: 232, 318
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0039
+  rotate: true
+  xy: 265, 1453
+  size: 276, 269
+  orig: 276, 269
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0040
+  rotate: true
+  xy: 1785, 826
+  size: 248, 261
+  orig: 248, 261
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0060
+  rotate: true
+  xy: 1702, 1076
+  size: 250, 291
+  orig: 250, 291
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0065
+  rotate: true
+  xy: 1718, 1798
+  size: 248, 328
+  orig: 248, 328
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0111
+  rotate: false
+  xy: 265, 1731
+  size: 269, 315
+  orig: 269, 315
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0120
+  rotate: true
+  xy: 1718, 1564
+  size: 232, 328
+  orig: 232, 328
+  offset: 0, 0
+  index: -1
+
+skeleton17.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bigwinstart/characterGonzoBigWinStartMedium_0054
+  rotate: false
+  xy: 2, 1451
+  size: 266, 283
+  orig: 266, 283
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0016
+  rotate: false
+  xy: 2, 1736
+  size: 271, 288
+  orig: 271, 288
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0020
+  rotate: true
+  xy: 2, 904
+  size: 267, 243
+  orig: 267, 243
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0025
+  rotate: false
+  xy: 2, 1173
+  size: 244, 276
+  orig: 244, 276
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0046
+  rotate: false
+  xy: 778, 1760
+  size: 247, 264
+  orig: 247, 264
+  offset: 0, 0
+  index: -1
+bigwinendmedium/characterGonzoBigWinEndMedium_0047
+  rotate: false
+  xy: 275, 1753
+  size: 251, 271
+  orig: 251, 271
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0041
+  rotate: false
+  xy: 1027, 1767
+  size: 248, 257
+  orig: 248, 257
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0042
+  rotate: false
+  xy: 1277, 1772
+  size: 249, 252
+  orig: 249, 252
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0043
+  rotate: false
+  xy: 1778, 1776
+  size: 248, 248
+  orig: 248, 248
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0044
+  rotate: true
+  xy: 2, 655
+  size: 247, 244
+  orig: 247, 244
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0045
+  rotate: true
+  xy: 2, 406
+  size: 247, 240
+  orig: 247, 240
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0056
+  rotate: true
+  xy: 2, 157
+  size: 247, 240
+  orig: 247, 240
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0057
+  rotate: false
+  xy: 1528, 1773
+  size: 248, 251
+  orig: 248, 251
+  offset: 0, 0
+  index: -1
+idleaddmedium2/characterGonzoIdleAdditional2Medium_0058
+  rotate: false
+  xy: 528, 1760
+  size: 248, 264
+  orig: 248, 264
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+SapNo-Lobby-P10000.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10.000
+  rotate: false
+  xy: 2, 8
+  size: 166, 52
+  orig: 166, 52
+  offset: 0, 0
+  index: -1
+Anna
+  rotate: true
+  xy: 1316, 404
+  size: 106, 297
+  orig: 106, 297
+  offset: 0, 0
+  index: -1
+Anna Hair
+  rotate: true
+  xy: 170, 2
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 328, 149
+  size: 249, 361
+  orig: 249, 361
+  offset: 0, 0
+  index: -1
+Border 10000
+  rotate: false
+  xy: 2, 62
+  size: 324, 448
+  orig: 324, 448
+  offset: 0, 0
+  index: -1
+Crishtopher Bot
+  rotate: true
+  xy: 800, 191
+  size: 61, 118
+  orig: 61, 118
+  offset: 0, 0
+  index: -1
+Crishtopher Top
+  rotate: true
+  xy: 328, 2
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+Elsa
+  rotate: false
+  xy: 579, 174
+  size: 219, 336
+  orig: 219, 336
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 481, 99
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1
+Olaf
+  rotate: true
+  xy: 328, 85
+  size: 62, 151
+  orig: 62, 151
+  offset: 0, 0
+  index: -1
+Olaf Hair
+  rotate: false
+  xy: 419, 50
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+Snowflake
+  rotate: false
+  xy: 1316, 302
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+diamond_blue
+  rotate: false
+  xy: 1615, 430
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+glow_ball1_blue
+  rotate: false
+  xy: 1418, 332
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+laser_impulse_impact_ring_001
+  rotate: false
+  xy: 800, 254
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+shockwave_02
+  rotate: false
+  xy: 1058, 254
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+Sukien-RungRam.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Looby/Monkey/1
+  rotate: false
+  xy: 172, 129
+  size: 117, 125
+  orig: 119, 127
+  offset: 1, 1
+  index: -1
+Looby/Monkey/2
+  rotate: true
+  xy: 302, 89
+  size: 42, 62
+  orig: 44, 64
+  offset: 1, 1
+  index: -1
+Looby/Monkey/3
+  rotate: true
+  xy: 291, 133
+  size: 30, 79
+  orig: 32, 81
+  offset: 1, 1
+  index: -1
+Looby/Monkey/4
+  rotate: true
+  xy: 393, 163
+  size: 36, 57
+  orig: 38, 59
+  offset: 1, 1
+  index: -1
+Looby/Monkey/5
+  rotate: true
+  xy: 172, 77
+  size: 50, 68
+  orig: 52, 70
+  offset: 1, 1
+  index: -1
+Looby/Monkey/6
+  rotate: true
+  xy: 2, 17
+  size: 30, 79
+  orig: 32, 81
+  offset: 1, 1
+  index: -1
+Looby/Monkey/7
+  rotate: false
+  xy: 291, 165
+  size: 100, 89
+  orig: 102, 91
+  offset: 1, 1
+  index: -1
+Looby/Monkey/8
+  rotate: true
+  xy: 2, 2
+  size: 13, 23
+  orig: 15, 25
+  offset: 1, 1
+  index: -1
+Looby/Monkey/9
+  rotate: false
+  xy: 459, 227
+  size: 20, 27
+  orig: 22, 29
+  offset: 1, 1
+  index: -1
+Sukien-RungRam-P/1
+  rotate: false
+  xy: 2, 76
+  size: 168, 178
+  orig: 170, 180
+  offset: 1, 1
+  index: -1
+Sukien-RungRam-P/10
+  rotate: false
+  xy: 2, 49
+  size: 100, 25
+  orig: 102, 27
+  offset: 1, 1
+  index: -1
+Sukien-RungRam-P/4
+  rotate: false
+  xy: 393, 201
+  size: 64, 53
+  orig: 66, 55
+  offset: 1, 1
+  index: -1
+Sukien-RungRam-P/5
+  rotate: false
+  xy: 242, 75
+  size: 58, 52
+  orig: 60, 54
+  offset: 1, 1
+  index: -1
+Sukien-RungRam-P/9
+  rotate: false
+  xy: 104, 55
+  size: 58, 19
+  orig: 60, 21
+  offset: 1, 1
+  index: -1

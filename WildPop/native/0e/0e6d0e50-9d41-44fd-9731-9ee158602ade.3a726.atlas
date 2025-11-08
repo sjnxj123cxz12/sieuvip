@@ -1,0 +1,361 @@
+
+Jack_Pot.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 14
+  rotate: false
+  xy: 2, 764
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 2, 506
+  size: 253, 256
+  orig: 253, 256
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_002
+  rotate: false
+  xy: 2, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_003
+  rotate: false
+  xy: 2, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_004
+  rotate: false
+  xy: 254, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_006
+  rotate: false
+  xy: 254, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_009
+  rotate: false
+  xy: 257, 512
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_010
+  rotate: false
+  xy: 260, 770
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_012
+  rotate: false
+  xy: 506, 260
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_013
+  rotate: false
+  xy: 509, 518
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_014
+  rotate: false
+  xy: 512, 770
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_015
+  rotate: false
+  xy: 506, 8
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_016
+  rotate: false
+  xy: 758, 266
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_017
+  rotate: false
+  xy: 761, 518
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_018
+  rotate: false
+  xy: 764, 770
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_019
+  rotate: false
+  xy: 758, 14
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+
+Jack_Pot2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+super_high_partial_flames_bg_000
+  rotate: false
+  xy: 2, 253
+  size: 250, 249
+  orig: 250, 249
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_001
+  rotate: false
+  xy: 254, 505
+  size: 250, 249
+  orig: 250, 249
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_005
+  rotate: false
+  xy: 506, 757
+  size: 250, 249
+  orig: 250, 249
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_007
+  rotate: false
+  xy: 2, 2
+  size: 250, 249
+  orig: 250, 249
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_008
+  rotate: false
+  xy: 254, 254
+  size: 250, 249
+  orig: 250, 249
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_011
+  rotate: false
+  xy: 506, 506
+  size: 250, 249
+  orig: 250, 249
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_020
+  rotate: false
+  xy: 2, 756
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_021
+  rotate: false
+  xy: 2, 504
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_022
+  rotate: false
+  xy: 254, 756
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_023
+  rotate: false
+  xy: 758, 14
+  size: 250, 245
+  orig: 250, 245
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_024
+  rotate: false
+  xy: 506, 8
+  size: 250, 246
+  orig: 250, 246
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_025
+  rotate: false
+  xy: 758, 509
+  size: 250, 247
+  orig: 250, 247
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_026
+  rotate: false
+  xy: 758, 261
+  size: 250, 246
+  orig: 250, 246
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_027
+  rotate: false
+  xy: 758, 758
+  size: 250, 248
+  orig: 250, 248
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_028
+  rotate: false
+  xy: 254, 4
+  size: 250, 248
+  orig: 250, 248
+  offset: 0, 0
+  index: -1
+super_high_partial_flames_bg_029
+  rotate: false
+  xy: 506, 256
+  size: 250, 248
+  orig: 250, 248
+  offset: 0, 0
+  index: -1
+
+Jack_Pot3.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jackpot
+  rotate: false
+  xy: 156, 148
+  size: 256, 83
+  orig: 256, 83
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 2, 25
+  size: 152, 206
+  orig: 152, 206
+  offset: 0, 0
+  index: -1
+super_high_partial_head_000
+  rotate: true
+  xy: 156, 75
+  size: 71, 127
+  orig: 71, 127
+  offset: 0, 0
+  index: -1
+super_high_partial_head_001
+  rotate: true
+  xy: 414, 160
+  size: 71, 127
+  orig: 71, 127
+  offset: 0, 0
+  index: -1
+super_high_partial_head_002
+  rotate: true
+  xy: 285, 75
+  size: 71, 127
+  orig: 71, 127
+  offset: 0, 0
+  index: -1
+super_high_partial_head_003
+  rotate: true
+  xy: 414, 87
+  size: 71, 127
+  orig: 71, 127
+  offset: 0, 0
+  index: -1
+super_high_partial_head_004
+  rotate: false
+  xy: 616, 105
+  size: 71, 126
+  orig: 71, 126
+  offset: 0, 0
+  index: -1
+super_high_partial_head_005
+  rotate: false
+  xy: 689, 105
+  size: 71, 126
+  orig: 71, 126
+  offset: 0, 0
+  index: -1
+super_high_partial_head_006
+  rotate: false
+  xy: 762, 105
+  size: 71, 126
+  orig: 71, 126
+  offset: 0, 0
+  index: -1
+super_high_partial_head_007
+  rotate: false
+  xy: 835, 105
+  size: 71, 126
+  orig: 71, 126
+  offset: 0, 0
+  index: -1
+super_high_partial_head_008
+  rotate: true
+  xy: 283, 2
+  size: 71, 119
+  orig: 71, 119
+  offset: 0, 0
+  index: -1
+super_high_partial_head_009
+  rotate: true
+  xy: 414, 14
+  size: 71, 119
+  orig: 71, 119
+  offset: 0, 0
+  index: -1
+super_high_partial_head_010
+  rotate: true
+  xy: 616, 32
+  size: 71, 118
+  orig: 71, 118
+  offset: 0, 0
+  index: -1
+super_high_partial_head_011
+  rotate: true
+  xy: 736, 32
+  size: 71, 118
+  orig: 71, 118
+  offset: 0, 0
+  index: -1
+super_high_partial_head_012
+  rotate: false
+  xy: 908, 105
+  size: 71, 126
+  orig: 71, 126
+  offset: 0, 0
+  index: -1
+super_high_partial_head_013
+  rotate: true
+  xy: 156, 2
+  size: 71, 125
+  orig: 71, 125
+  offset: 0, 0
+  index: -1
+super_high_partial_head_014
+  rotate: false
+  xy: 543, 104
+  size: 71, 127
+  orig: 71, 127
+  offset: 0, 0
+  index: -1

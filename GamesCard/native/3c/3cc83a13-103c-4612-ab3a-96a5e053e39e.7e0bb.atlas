@@ -1,0 +1,202 @@
+
+MauBinh-SapHam.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NH-MauBinh-SapHam/Shit-2/1
+  rotate: true
+  xy: 2, 253
+  size: 201, 158
+  orig: 300, 300
+  offset: 55, 13
+  index: -1
+NH-MauBinh-SapHam/Shit-2/10
+  rotate: false
+  xy: 2, 664
+  size: 204, 164
+  orig: 300, 300
+  offset: 30, 13
+  index: -1
+NH-MauBinh-SapHam/Shit-2/11
+  rotate: false
+  xy: 678, 496
+  size: 157, 166
+  orig: 300, 300
+  offset: 81, 13
+  index: -1
+NH-MauBinh-SapHam/Shit-2/12
+  rotate: false
+  xy: 837, 496
+  size: 158, 167
+  orig: 300, 300
+  offset: 82, 13
+  index: -1
+NH-MauBinh-SapHam/Shit-2/13
+  rotate: false
+  xy: 843, 330
+  size: 162, 164
+  orig: 300, 300
+  offset: 82, 13
+  index: -1
+NH-MauBinh-SapHam/Shit-2/14
+  rotate: false
+  xy: 674, 333
+  size: 167, 161
+  orig: 300, 300
+  offset: 81, 13
+  index: -1
+NH-MauBinh-SapHam/Shit-2/15
+  rotate: false
+  xy: 497, 341
+  size: 175, 158
+  orig: 300, 300
+  offset: 77, 13
+  index: -1
+NH-MauBinh-SapHam/Shit-2/16
+  rotate: false
+  xy: 497, 501
+  size: 179, 161
+  orig: 300, 300
+  offset: 73, 13
+  index: -1
+NH-MauBinh-SapHam/Shit-2/17
+  rotate: true
+  xy: 331, 477
+  size: 185, 164
+  orig: 300, 300
+  offset: 68, 13
+  index: -1
+NH-MauBinh-SapHam/Shit-2/18
+  rotate: false
+  xy: 799, 665
+  size: 189, 166
+  orig: 300, 300
+  offset: 65, 13
+  index: -1
+NH-MauBinh-SapHam/Shit-2/19
+  rotate: false
+  xy: 215, 664
+  size: 194, 167
+  orig: 300, 300
+  offset: 61, 13
+  index: -1
+NH-MauBinh-SapHam/Shit-2/2
+  rotate: false
+  xy: 215, 833
+  size: 206, 161
+  orig: 300, 300
+  offset: 50, 13
+  index: -1
+NH-MauBinh-SapHam/Shit-2/20
+  rotate: false
+  xy: 411, 667
+  size: 195, 164
+  orig: 300, 300
+  offset: 60, 13
+  index: -1
+NH-MauBinh-SapHam/Shit-2/21
+  rotate: false
+  xy: 826, 833
+  size: 196, 161
+  orig: 300, 300
+  offset: 60, 13
+  index: -1
+NH-MauBinh-SapHam/Shit-2/3
+  rotate: false
+  xy: 2, 830
+  size: 211, 164
+  orig: 300, 300
+  offset: 45, 13
+  index: -1
+NH-MauBinh-SapHam/Shit-2/4
+  rotate: true
+  xy: 2, 54
+  size: 197, 166
+  orig: 300, 300
+  offset: 39, 13
+  index: -1
+NH-MauBinh-SapHam/Shit-2/5
+  rotate: false
+  xy: 608, 664
+  size: 189, 167
+  orig: 300, 300
+  offset: 36, 13
+  index: -1
+NH-MauBinh-SapHam/Shit-2/6
+  rotate: true
+  xy: 165, 465
+  size: 197, 164
+  orig: 300, 300
+  offset: 32, 13
+  index: -1
+NH-MauBinh-SapHam/Shit-2/7
+  rotate: false
+  xy: 423, 833
+  size: 201, 161
+  orig: 300, 300
+  offset: 31, 13
+  index: -1
+NH-MauBinh-SapHam/Shit-2/8
+  rotate: false
+  xy: 626, 833
+  size: 198, 161
+  orig: 300, 300
+  offset: 31, 13
+  index: -1
+NH-MauBinh-SapHam/Shit-2/9
+  rotate: true
+  xy: 2, 456
+  size: 206, 161
+  orig: 300, 300
+  offset: 30, 13
+  index: -1
+NH-MauBinh-SapHam/Shit-P/1
+  rotate: false
+  xy: 92, 21
+  size: 34, 31
+  orig: 36, 33
+  offset: 1, 1
+  index: -1
+NH-MauBinh-SapHam/Shit-P/2
+  rotate: true
+  xy: 990, 771
+  size: 60, 25
+  orig: 62, 27
+  offset: 1, 1
+  index: -1
+NH-MauBinh-SapHam/Shit-P/3
+  rotate: false
+  xy: 2, 2
+  size: 88, 50
+  orig: 90, 52
+  offset: 1, 1
+  index: -1
+fx/fx-2/1
+  rotate: false
+  xy: 170, 156
+  size: 88, 100
+  orig: 154, 145
+  offset: 28, 24
+  index: -1
+fx/fx-2/2
+  rotate: false
+  xy: 162, 258
+  size: 102, 100
+  orig: 154, 145
+  offset: 20, 28
+  index: -1
+fx/fx-2/3
+  rotate: false
+  xy: 165, 360
+  size: 106, 103
+  orig: 154, 145
+  offset: 16, 26
+  index: -1
+fx/fx-2/4
+  rotate: false
+  xy: 331, 366
+  size: 111, 109
+  orig: 154, 145
+  offset: 14, 24
+  index: -1

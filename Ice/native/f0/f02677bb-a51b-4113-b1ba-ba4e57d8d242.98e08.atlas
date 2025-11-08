@@ -1,0 +1,132 @@
+
+frozen20000.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20.000
+  rotate: true
+  xy: 943, 323
+  size: 169, 60
+  orig: 169, 60
+  offset: 0, 0
+  index: -1
+Anna
+  rotate: true
+  xy: 265, 147
+  size: 87, 206
+  orig: 87, 206
+  offset: 0, 0
+  index: -1
+BG
+  rotate: true
+  xy: 523, 292
+  size: 200, 269
+  orig: 200, 269
+  offset: 0, 0
+  index: -1
+Border
+  rotate: false
+  xy: 2, 170
+  size: 261, 322
+  orig: 261, 322
+  offset: 0, 0
+  index: -1
+Crishtophe
+  rotate: true
+  xy: 794, 239
+  size: 102, 139
+  orig: 102, 139
+  offset: 0, 0
+  index: -1
+Deer
+  rotate: true
+  xy: 523, 192
+  size: 98, 179
+  orig: 98, 179
+  offset: 0, 0
+  index: -1
+Diamond Top
+  rotate: false
+  xy: 2, 2
+  size: 199, 68
+  orig: 199, 68
+  offset: 0, 0
+  index: -1
+Elsa
+  rotate: true
+  xy: 2, 72
+  size: 96, 217
+  orig: 96, 217
+  offset: 0, 0
+  index: -1
+Elsa Hair
+  rotate: false
+  xy: 221, 75
+  size: 83, 70
+  orig: 83, 70
+  offset: 0, 0
+  index: -1
+L Ribbon
+  rotate: false
+  xy: 960, 166
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+LDiamond
+  rotate: false
+  xy: 770, 144
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+Main Diamond
+  rotate: false
+  xy: 794, 343
+  size: 147, 149
+  orig: 147, 149
+  offset: 0, 0
+  index: -1
+Olaf
+  rotate: false
+  xy: 704, 158
+  size: 64, 132
+  orig: 64, 132
+  offset: 0, 0
+  index: -1
+R Ribbon
+  rotate: false
+  xy: 960, 224
+  size: 62, 97
+  orig: 62, 97
+  offset: 0, 0
+  index: -1
+RDiamond
+  rotate: false
+  xy: 865, 144
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+diamond_blue
+  rotate: false
+  xy: 306, 65
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+glow_ball1_blue
+  rotate: false
+  xy: 388, 75
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+laser_impulse_impact_ring_001
+  rotate: false
+  xy: 265, 236
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

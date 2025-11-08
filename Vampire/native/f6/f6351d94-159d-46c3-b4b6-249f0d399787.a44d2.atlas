@@ -1,0 +1,27 @@
+
+bonus.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BONUS
+  rotate: false
+  xy: 299, 123
+  size: 145, 36
+  orig: 145, 36
+  offset: 0, 0
+  index: -1
+Layer 27
+  rotate: false
+  xy: 147, 23
+  size: 150, 136
+  orig: 150, 136
+  offset: 0, 0
+  index: -1
+Selective Color 6
+  rotate: false
+  xy: 2, 2
+  size: 143, 157
+  orig: 143, 157
+  offset: 0, 0
+  index: -1

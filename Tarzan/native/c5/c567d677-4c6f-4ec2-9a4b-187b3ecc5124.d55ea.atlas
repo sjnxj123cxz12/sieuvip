@@ -1,0 +1,34 @@
+
+chamber10000.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10000 Chamber
+  rotate: false
+  xy: 2, 169
+  size: 247, 310
+  orig: 247, 310
+  offset: 0, 0
+  index: -1
+10000 Fire Tornado
+  rotate: false
+  xy: 2, 2
+  size: 168, 165
+  orig: 168, 165
+  offset: 0, 0
+  index: -1
+10000 Text
+  rotate: false
+  xy: 251, 185
+  size: 130, 36
+  orig: 130, 36
+  offset: 0, 0
+  index: -1
+diamond_redb
+  rotate: false
+  xy: 251, 223
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

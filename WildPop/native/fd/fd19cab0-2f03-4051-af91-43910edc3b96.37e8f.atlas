@@ -1,0 +1,181 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ic copy1_00000
+  rotate: false
+  xy: 2, 1342
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00001
+  rotate: false
+  xy: 304, 1610
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00002
+  rotate: false
+  xy: 2, 1074
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00003
+  rotate: false
+  xy: 304, 1342
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00004
+  rotate: false
+  xy: 606, 1610
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00005
+  rotate: false
+  xy: 2, 806
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00006
+  rotate: false
+  xy: 304, 1074
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00007
+  rotate: false
+  xy: 606, 1342
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00008
+  rotate: false
+  xy: 908, 1610
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00009
+  rotate: false
+  xy: 2, 538
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00010
+  rotate: false
+  xy: 304, 806
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00011
+  rotate: false
+  xy: 606, 1074
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00012
+  rotate: false
+  xy: 908, 1342
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00013
+  rotate: false
+  xy: 1210, 1610
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00014
+  rotate: false
+  xy: 2, 270
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00015
+  rotate: false
+  xy: 304, 538
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00016
+  rotate: false
+  xy: 606, 806
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00017
+  rotate: false
+  xy: 908, 1074
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00018
+  rotate: false
+  xy: 1210, 1342
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00019
+  rotate: false
+  xy: 1512, 1610
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00020
+  rotate: false
+  xy: 2, 2
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00021
+  rotate: false
+  xy: 304, 270
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00022
+  rotate: false
+  xy: 606, 538
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00023
+  rotate: false
+  xy: 908, 806
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+ic copy1_00024
+  rotate: false
+  xy: 2, 1610
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1

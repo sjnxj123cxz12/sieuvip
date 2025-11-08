@@ -1,0 +1,62 @@
+
+Pig.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 12
+  rotate: false
+  xy: 2, 221
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 260, 324
+  size: 172, 153
+  orig: 172, 153
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: true
+  xy: 383, 254
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 434, 356
+  size: 74, 121
+  orig: 74, 121
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: true
+  xy: 208, 134
+  size: 85, 77
+  orig: 85, 77
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: true
+  xy: 260, 232
+  size: 90, 121
+  orig: 90, 121
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: false
+  xy: 2, 88
+  size: 204, 131
+  orig: 204, 131
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: false
+  xy: 2, 2
+  size: 162, 84
+  orig: 162, 84
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+nohu.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Curves 1046
+  rotate: true
+  xy: 1384, 644
+  size: 331, 354
+  orig: 331, 354
+  offset: 0, 0
+  index: -1
+Layer 1041
+  rotate: false
+  xy: 2, 442
+  size: 864, 533
+  orig: 864, 533
+  offset: 0, 0
+  index: -1
+Layer 570 copy
+  rotate: false
+  xy: 868, 372
+  size: 384, 263
+  orig: 384, 263
+  offset: 0, 0
+  index: -1
+Layer 571 copy
+  rotate: false
+  xy: 868, 637
+  size: 514, 338
+  orig: 514, 338
+  offset: 0, 0
+  index: -1
+Layer 572 copy
+  rotate: true
+  xy: 839, 122
+  size: 248, 352
+  orig: 248, 352
+  offset: 0, 0
+  index: -1
+Layer 572 copy 2
+  rotate: false
+  xy: 2, 92
+  size: 534, 348
+  orig: 534, 348
+  offset: 0, 0
+  index: -1
+Layer 572 copy 5
+  rotate: false
+  xy: 1429, 290
+  size: 248, 352
+  orig: 248, 352
+  offset: 0, 0
+  index: -1
+Layer 573 copy
+  rotate: false
+  xy: 538, 81
+  size: 299, 359
+  orig: 299, 359
+  offset: 0, 0
+  index: -1
+Layer 573 copy 3
+  rotate: false
+  xy: 1740, 616
+  size: 299, 359
+  orig: 299, 359
+  offset: 0, 0
+  index: -1
+Layer 575 copy
+  rotate: false
+  xy: 1254, 291
+  size: 173, 344
+  orig: 173, 344
+  offset: 0, 0
+  index: -1
+Layer 575 copy 3
+  rotate: true
+  xy: 1679, 441
+  size: 173, 344
+  orig: 173, 344
+  offset: 0, 0
+  index: -1
+free copy
+  rotate: false
+  xy: 2, 2
+  size: 317, 88
+  orig: 317, 88
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,291 @@
+
+pop_png.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Comp 1_00020
+  rotate: false
+  xy: 776, 51
+  size: 507, 581
+  orig: 507, 581
+  offset: 0, 0
+  index: -1
+Comp 1_00029
+  rotate: false
+  xy: 1285, 33
+  size: 634, 666
+  orig: 634, 666
+  offset: 0, 0
+  index: -1
+Comp 1_00033
+  rotate: false
+  xy: 1272, 1369
+  size: 682, 675
+  orig: 682, 675
+  offset: 0, 0
+  index: -1
+Comp 1_00034
+  rotate: false
+  xy: 1198, 701
+  size: 680, 666
+  orig: 680, 666
+  offset: 0, 0
+  index: -1
+bank
+  rotate: true
+  xy: 1049, 695
+  size: 203, 138
+  orig: 203, 138
+  offset: 0, 0
+  index: -1
+bt_t1
+  rotate: false
+  xy: 2, 168
+  size: 704, 84
+  orig: 704, 84
+  offset: 0, 0
+  index: -1
+c1
+  rotate: false
+  xy: 596, 79
+  size: 103, 87
+  orig: 103, 87
+  offset: 0, 0
+  index: -1
+c2
+  rotate: true
+  xy: 1921, 257
+  size: 101, 83
+  orig: 101, 83
+  offset: 0, 0
+  index: -1
+cskh_button
+  rotate: true
+  xy: 1921, 360
+  size: 294, 76
+  orig: 294, 76
+  offset: 0, 0
+  index: -1
+e1
+  rotate: true
+  xy: 1049, 900
+  size: 870, 147
+  orig: 870, 147
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 1921, 165
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+giftcode_bt
+  rotate: true
+  xy: 1880, 708
+  size: 298, 77
+  orig: 298, 77
+  offset: 0, 0
+  index: -1
+gold
+  rotate: true
+  xy: 776, 634
+  size: 1136, 271
+  orig: 1136, 271
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 2, 1013
+  size: 772, 757
+  orig: 772, 757
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 2, 254
+  size: 772, 757
+  orig: 772, 757
+  offset: 0, 0
+  index: -1
+sankhau
+  rotate: false
+  xy: 2, 1772
+  size: 1268, 272
+  orig: 1268, 272
+  offset: 0, 0
+  index: -1
+tay_jung
+  rotate: false
+  xy: 1959, 656
+  size: 87, 350
+  orig: 87, 350
+  offset: 0, 0
+  index: -1
+text1
+  rotate: false
+  xy: 2, 2
+  size: 592, 164
+  orig: 592, 164
+  offset: 0, 0
+  index: -1
+text2
+  rotate: true
+  xy: 1956, 1387
+  size: 657, 70
+  orig: 657, 70
+  offset: 0, 0
+  index: -1
+x3_button
+  rotate: true
+  xy: 1880, 1008
+  size: 359, 92
+  orig: 359, 92
+  offset: 0, 0
+  index: -1
+
+pop_png2.png
+size: 2044,2024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Comp 1_00023
+  rotate: false
+  xy: 590, 28
+  size: 456, 633
+  orig: 456, 633
+  offset: 0, 0
+  index: -1
+Comp 1_00024
+  rotate: false
+  xy: 1048, 83
+  size: 456, 633
+  orig: 456, 633
+  offset: 0, 0
+  index: -1
+Comp 1_00025
+  rotate: false
+  xy: 1506, 97
+  size: 456, 631
+  orig: 456, 631
+  offset: 0, 0
+  index: -1
+Comp 1_00028
+  rotate: false
+  xy: 2, 2
+  size: 586, 659
+  orig: 586, 659
+  offset: 0, 0
+  index: -1
+Comp 1_00030
+  rotate: false
+  xy: 681, 1342
+  size: 660, 677
+  orig: 660, 677
+  offset: 0, 0
+  index: -1
+Comp 1_00031
+  rotate: false
+  xy: 2, 663
+  size: 672, 677
+  orig: 672, 677
+  offset: 0, 0
+  index: -1
+Comp 1_00032
+  rotate: false
+  xy: 2, 1342
+  size: 677, 677
+  orig: 677, 677
+  offset: 0, 0
+  index: -1
+Comp 1_00035
+  rotate: false
+  xy: 1343, 1396
+  size: 563, 623
+  orig: 563, 623
+  offset: 0, 0
+  index: -1
+Comp 1_00036
+  rotate: false
+  xy: 1300, 730
+  size: 554, 610
+  orig: 554, 610
+  offset: 0, 0
+  index: -1
+light_tron
+  rotate: false
+  xy: 676, 718
+  size: 622, 622
+  orig: 622, 622
+  offset: 0, 0
+  index: -1
+momo
+  rotate: false
+  xy: 1856, 845
+  size: 165, 181
+  orig: 165, 181
+  offset: 0, 0
+  index: -1
+nguuoi_jung
+  rotate: false
+  xy: 1856, 1028
+  size: 186, 366
+  orig: 186, 366
+  offset: 0, 0
+  index: -1
+
+pop_png3.png
+size: 1472,1220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Comp 1_00021
+  rotate: false
+  xy: 2, 2
+  size: 456, 581
+  orig: 456, 581
+  offset: 0, 0
+  index: -1
+Comp 1_00022
+  rotate: false
+  xy: 460, 2
+  size: 456, 581
+  orig: 456, 581
+  offset: 0, 0
+  index: -1
+Comp 1_00026
+  rotate: false
+  xy: 522, 585
+  size: 459, 631
+  orig: 459, 631
+  offset: 0, 0
+  index: -1
+Comp 1_00027
+  rotate: false
+  xy: 2, 585
+  size: 518, 631
+  orig: 518, 631
+  offset: 0, 0
+  index: -1
+x3
+  rotate: true
+  xy: 918, 39
+  size: 237, 222
+  orig: 237, 222
+  offset: 0, 0
+  index: -1
+z2
+  rotate: false
+  xy: 983, 278
+  size: 468, 419
+  orig: 468, 419
+  offset: 0, 0
+  index: -1
+zues1
+  rotate: true
+  xy: 983, 699
+  size: 517, 487
+  orig: 517, 487
+  offset: 0, 0
+  index: -1

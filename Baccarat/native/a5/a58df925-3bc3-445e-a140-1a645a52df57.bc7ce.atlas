@@ -1,0 +1,20 @@
+
+Ppair_win.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ppair
+  rotate: false
+  xy: 231, 1
+  size: 228, 281
+  orig: 228, 281
+  offset: 0, 0
+  index: -1
+Ppair_win
+  rotate: false
+  xy: 1, 1
+  size: 228, 281
+  orig: 228, 281
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+all_wins.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bigwin
+  rotate: false
+  xy: 2, 291
+  size: 774, 183
+  orig: 774, 183
+  offset: 0, 0
+  index: -1
+BlackFrame
+  rotate: false
+  xy: 518, 485
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Bubble_layer
+  rotate: false
+  xy: 2, 2
+  size: 281, 287
+  orig: 281, 287
+  offset: 0, 0
+  index: -1
+Fade
+  rotate: false
+  xy: 518, 604
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Nohu
+  rotate: true
+  xy: 778, 503
+  size: 487, 183
+  orig: 487, 183
+  offset: 0, 0
+  index: -1
+Wild_Ext_Rainbow_Small_Add
+  rotate: false
+  xy: 285, 8
+  size: 281, 281
+  orig: 281, 281
+  offset: 0, 0
+  index: -1
+Wild_Ext_Rainbow_new_Add
+  rotate: false
+  xy: 568, 8
+  size: 281, 281
+  orig: 281, 281
+  offset: 0, 0
+  index: -1
+glow_add
+  rotate: true
+  xy: 536, 734
+  size: 256, 137
+  orig: 256, 137
+  offset: 0, 0
+  index: -1
+x2_rays_add
+  rotate: false
+  xy: 2, 476
+  size: 514, 514
+  orig: 514, 514
+  offset: 0, 0
+  index: -1
+

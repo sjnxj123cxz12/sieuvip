@@ -1,0 +1,69 @@
+
+SapNo-Lobby-2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Looby/Monkey/1
+  rotate: false
+  xy: 2, 126
+  size: 119, 127
+  orig: 119, 127
+  offset: 0, 0
+  index: -1
+Looby/Monkey/2
+  rotate: false
+  xy: 177, 189
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+Looby/Monkey/3
+  rotate: false
+  xy: 106, 43
+  size: 32, 81
+  orig: 32, 81
+  offset: 0, 0
+  index: -1
+Looby/Monkey/4
+  rotate: true
+  xy: 123, 143
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+Looby/Monkey/5
+  rotate: false
+  xy: 123, 183
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Looby/Monkey/6
+  rotate: false
+  xy: 140, 60
+  size: 32, 81
+  orig: 32, 81
+  offset: 0, 0
+  index: -1
+Looby/Monkey/7
+  rotate: false
+  xy: 2, 33
+  size: 102, 91
+  orig: 102, 91
+  offset: 0, 0
+  index: -1
+Looby/Monkey/8
+  rotate: false
+  xy: 223, 228
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+Looby/Monkey/9
+  rotate: false
+  xy: 2, 2
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1

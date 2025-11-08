@@ -1,0 +1,48 @@
+
+xbonus.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hu
+  rotate: false
+  xy: 336, 182
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+ic3
+  rotate: false
+  xy: 2, 2
+  size: 152, 67
+  orig: 152, 67
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 71
+  size: 234, 183
+  orig: 234, 183
+  offset: 0, 0
+  index: -1
+x2
+  rotate: true
+  xy: 238, 2
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+x4
+  rotate: false
+  xy: 238, 175
+  size: 96, 79
+  orig: 96, 79
+  offset: 0, 0
+  index: -1
+x6
+  rotate: false
+  xy: 238, 94
+  size: 94, 79
+  orig: 94, 79
+  offset: 0, 0
+  index: -1

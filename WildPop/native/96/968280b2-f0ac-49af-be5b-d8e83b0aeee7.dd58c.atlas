@@ -1,0 +1,251 @@
+
+iconbreak.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wild_pop_fx_000
+  rotate: false
+  xy: 1465, 880
+  size: 223, 224
+  orig: 223, 224
+  offset: 0, 0
+  index: -1
+wild_pop_fx_001
+  rotate: true
+  xy: 665, 2
+  size: 250, 263
+  orig: 250, 263
+  offset: 0, 0
+  index: -1
+wild_pop_fx_002
+  rotate: true
+  xy: 1225, 292
+  size: 267, 266
+  orig: 267, 266
+  offset: 0, 0
+  index: -1
+wild_pop_fx_003
+  rotate: false
+  xy: 936, 1117
+  size: 278, 280
+  orig: 278, 280
+  offset: 0, 0
+  index: -1
+wild_pop_fx_004
+  rotate: false
+  xy: 343, 824
+  size: 287, 288
+  orig: 287, 288
+  offset: 0, 0
+  index: -1
+wild_pop_fx_005
+  rotate: true
+  xy: 347, 1114
+  size: 294, 295
+  orig: 294, 295
+  offset: 0, 0
+  index: -1
+wild_pop_fx_006
+  rotate: false
+  xy: 347, 1410
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wild_pop_fx_007
+  rotate: false
+  xy: 1662, 1424
+  size: 307, 306
+  orig: 307, 306
+  offset: 0, 0
+  index: -1
+wild_pop_fx_008
+  rotate: false
+  xy: 1733, 1732
+  size: 312, 311
+  orig: 312, 311
+  offset: 0, 0
+  index: -1
+wild_pop_fx_009
+  rotate: false
+  xy: 1345, 1412
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+wild_pop_fx_010
+  rotate: false
+  xy: 1024, 1401
+  size: 319, 321
+  orig: 319, 321
+  offset: 0, 0
+  index: -1
+wild_pop_fx_011
+  rotate: true
+  xy: 698, 1399
+  size: 323, 324
+  orig: 323, 324
+  offset: 0, 0
+  index: -1
+wild_pop_fx_012
+  rotate: false
+  xy: 336, 45
+  size: 327, 327
+  orig: 327, 327
+  offset: 0, 0
+  index: -1
+wild_pop_fx_013
+  rotate: false
+  xy: 329, 374
+  size: 330, 332
+  orig: 330, 332
+  offset: 0, 0
+  index: -1
+wild_pop_fx_014
+  rotate: true
+  xy: 2, 24
+  size: 334, 332
+  orig: 334, 332
+  offset: 0, 0
+  index: -1
+wild_pop_fx_015
+  rotate: false
+  xy: 2, 1043
+  size: 339, 333
+  orig: 339, 333
+  offset: 0, 0
+  index: -1
+wild_pop_fx_016
+  rotate: false
+  xy: 2, 708
+  size: 339, 333
+  orig: 339, 333
+  offset: 0, 0
+  index: -1
+wild_pop_fx_017
+  rotate: false
+  xy: 2, 1378
+  size: 343, 332
+  orig: 343, 332
+  offset: 0, 0
+  index: -1
+wild_pop_fx_018
+  rotate: false
+  xy: 2, 1712
+  size: 347, 331
+  orig: 347, 331
+  offset: 0, 0
+  index: -1
+wild_pop_fx_019
+  rotate: false
+  xy: 351, 1716
+  size: 345, 327
+  orig: 345, 327
+  offset: 0, 0
+  index: -1
+wild_pop_fx_020
+  rotate: true
+  xy: 2, 360
+  size: 346, 325
+  orig: 346, 325
+  offset: 0, 0
+  index: -1
+wild_pop_fx_021
+  rotate: false
+  xy: 698, 1724
+  size: 347, 319
+  orig: 347, 319
+  offset: 0, 0
+  index: -1
+wild_pop_fx_022
+  rotate: false
+  xy: 1047, 1729
+  size: 342, 314
+  orig: 342, 314
+  offset: 0, 0
+  index: -1
+wild_pop_fx_023
+  rotate: false
+  xy: 1391, 1732
+  size: 340, 311
+  orig: 340, 311
+  offset: 0, 0
+  index: -1
+wild_pop_fx_024
+  rotate: true
+  xy: 1662, 1118
+  size: 304, 307
+  orig: 304, 307
+  offset: 0, 0
+  index: -1
+wild_pop_fx_025
+  rotate: true
+  xy: 1345, 1106
+  size: 304, 307
+  orig: 304, 307
+  offset: 0, 0
+  index: -1
+wild_pop_fx_026
+  rotate: false
+  xy: 665, 254
+  size: 280, 284
+  orig: 280, 284
+  offset: 0, 0
+  index: -1
+wild_pop_fx_027
+  rotate: true
+  xy: 632, 830
+  size: 281, 288
+  orig: 281, 288
+  offset: 0, 0
+  index: -1
+wild_pop_fx_028
+  rotate: false
+  xy: 661, 540
+  size: 281, 288
+  orig: 281, 288
+  offset: 0, 0
+  index: -1
+wild_pop_fx_029
+  rotate: true
+  xy: 644, 1113
+  size: 284, 290
+  orig: 284, 290
+  offset: 0, 0
+  index: -1
+wild_pop_fx_030
+  rotate: false
+  xy: 944, 551
+  size: 276, 279
+  orig: 276, 279
+  offset: 0, 0
+  index: -1
+wild_pop_fx_031
+  rotate: false
+  xy: 947, 270
+  size: 276, 279
+  orig: 276, 279
+  offset: 0, 0
+  index: -1
+wild_pop_fx_032
+  rotate: false
+  xy: 1185, 842
+  size: 278, 262
+  orig: 278, 262
+  offset: 0, 0
+  index: -1
+wild_pop_fx_033
+  rotate: true
+  xy: 1222, 561
+  size: 279, 260
+  orig: 279, 260
+  offset: 0, 0
+  index: -1
+wild_pop_fx_034
+  rotate: true
+  xy: 922, 832
+  size: 279, 261
+  orig: 279, 261
+  offset: 0, 0
+  index: -1

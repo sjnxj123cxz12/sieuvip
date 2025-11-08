@@ -1,0 +1,314 @@
+
+Sym_All.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Echos_add
+  rotate: false
+  xy: 513, 819
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+FX_Flash_Add
+  rotate: false
+  xy: 2, 274
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+FX_Flashlow_Add
+  rotate: false
+  xy: 713, 819
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+Over_Add
+  rotate: false
+  xy: 253, 759
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+Sym3
+  rotate: false
+  xy: 876, 469
+  size: 159, 152
+  orig: 159, 152
+  offset: 0, 0
+  index: -1
+Sym3_Blur
+  rotate: false
+  xy: 712, 472
+  size: 162, 157
+  orig: 162, 157
+  offset: 0, 0
+  index: -1
+Sym3_Light_Add
+  rotate: false
+  xy: 713, 631
+  size: 195, 186
+  orig: 195, 186
+  offset: 0, 0
+  index: -1
+Sym3_Shadows_Mul
+  rotate: true
+  xy: 1477, 641
+  size: 176, 182
+  orig: 176, 182
+  offset: 0, 0
+  index: -1
+Sym3_Spin
+  rotate: false
+  xy: 1661, 624
+  size: 157, 193
+  orig: 157, 193
+  offset: 0, 0
+  index: -1
+Sym3_Win_Add
+  rotate: false
+  xy: 2, 74
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+Sym4
+  rotate: true
+  xy: 1037, 467
+  size: 154, 135
+  orig: 154, 135
+  offset: 0, 0
+  index: -1
+Sym4_Blur
+  rotate: true
+  xy: 226, 558
+  size: 180, 168
+  orig: 180, 168
+  offset: 0, 0
+  index: -1
+Sym4_Light_Add
+  rotate: false
+  xy: 913, 819
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+Sym4_Shadows_Mul
+  rotate: false
+  xy: 1713, 821
+  size: 198, 196
+  orig: 198, 196
+  offset: 0, 0
+  index: -1
+Sym4_Spin
+  rotate: true
+  xy: 513, 651
+  size: 166, 198
+  orig: 166, 198
+  offset: 0, 0
+  index: -1
+Sym4_Win_Add
+  rotate: false
+  xy: 1113, 819
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+Sym5
+  rotate: false
+  xy: 226, 382
+  size: 175, 174
+  orig: 175, 174
+  offset: 0, 0
+  index: -1
+Sym5_Blur
+  rotate: false
+  xy: 202, 205
+  size: 177, 175
+  orig: 177, 175
+  offset: 0, 0
+  index: -1
+Sym5_Light_Add
+  rotate: false
+  xy: 1313, 819
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+Sym5_Shadows_Mul
+  rotate: false
+  xy: 1290, 642
+  size: 185, 175
+  orig: 185, 175
+  offset: 0, 0
+  index: -1
+Sym5_Spin
+  rotate: true
+  xy: 202, 33
+  size: 170, 180
+  orig: 170, 180
+  offset: 0, 0
+  index: -1
+Sym5_Win_Add
+  rotate: false
+  xy: 1513, 819
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+Sym6
+  rotate: false
+  xy: 1661, 497
+  size: 132, 125
+  orig: 132, 125
+  offset: 0, 0
+  index: -1
+Sym6_Blur
+  rotate: true
+  xy: 1174, 484
+  size: 144, 137
+  orig: 144, 137
+  offset: 0, 0
+  index: -1
+Sym6_Light_Add
+  rotate: true
+  xy: 396, 613
+  size: 144, 107
+  orig: 144, 107
+  offset: 0, 0
+  index: -1
+Sym6_Shadows_Mul
+  rotate: false
+  xy: 1106, 630
+  size: 182, 187
+  orig: 182, 187
+  offset: 0, 0
+  index: -1
+Sym6_Spin
+  rotate: false
+  xy: 1459, 497
+  size: 132, 142
+  orig: 132, 142
+  offset: 0, 0
+  index: -1
+Sym6_Win_Add
+  rotate: false
+  xy: 910, 623
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+Sym7
+  rotate: false
+  xy: 98, 2
+  size: 73, 70
+  orig: 73, 70
+  offset: 0, 0
+  index: -1
+Sym7_Blur
+  rotate: false
+  xy: 487, 357
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+Sym8
+  rotate: false
+  xy: 381, 279
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+Sym8_Blur
+  rotate: true
+  xy: 403, 354
+  size: 79, 82
+  orig: 79, 82
+  offset: 0, 0
+  index: -1
+Sym9
+  rotate: true
+  xy: 2, 3
+  size: 69, 94
+  orig: 69, 94
+  offset: 0, 0
+  index: -1
+Sym9_Blur
+  rotate: true
+  xy: 1913, 823
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+SymLowBg
+  rotate: false
+  xy: 710, 378
+  size: 131, 92
+  orig: 131, 92
+  offset: 0, 0
+  index: -1
+SymLow_Buble
+  rotate: false
+  xy: 581, 391
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+SymLow_Buble_Blur
+  rotate: false
+  xy: 581, 520
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+SymLow_Buble_Spin
+  rotate: true
+  xy: 1913, 890
+  size: 127, 133
+  orig: 127, 133
+  offset: 0, 0
+  index: -1
+SymLow_Light_Add
+  rotate: false
+  xy: 403, 435
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+SymLow_Win_Add
+  rotate: false
+  xy: 1313, 496
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+Wild_Add
+  rotate: false
+  xy: 2, 740
+  size: 249, 277
+  orig: 249, 277
+  offset: 0, 0
+  index: -1
+Wild_Shadow
+  rotate: false
+  xy: 2, 474
+  size: 222, 264
+  orig: 222, 264
+  offset: 0, 0
+  index: -1
+Wild_Text
+  rotate: false
+  xy: 1820, 633
+  size: 167, 186
+  orig: 167, 186
+  offset: 0, 0
+  index: -1
+wild_reelrainbow_add
+  rotate: false
+  xy: 1593, 509
+  size: 66, 130
+  orig: 66, 130
+  offset: 0, 0
+  index: -1

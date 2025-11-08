@@ -1,0 +1,27 @@
+
+firework.png
+size: 716,716
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Firework Blue
+  rotate: false
+  xy: 240, 480
+  size: 236, 234
+  orig: 238, 236
+  offset: 1, 1
+  index: -1
+Firework Purple
+  rotate: false
+  xy: 478, 480
+  size: 236, 234
+  orig: 238, 236
+  offset: 1, 1
+  index: -1
+Firework Red
+  rotate: false
+  xy: 2, 480
+  size: 236, 234
+  orig: 238, 236
+  offset: 1, 1
+  index: -1

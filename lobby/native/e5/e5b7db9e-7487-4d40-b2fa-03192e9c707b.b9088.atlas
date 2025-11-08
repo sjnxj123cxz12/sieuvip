@@ -1,0 +1,139 @@
+
+barcarat.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BIGWIN
+  rotate: false
+  xy: 2, 5
+  size: 126, 25
+  orig: 126, 25
+  offset: 0, 0
+  index: -1
+a1
+  rotate: true
+  xy: 840, 95
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+a2
+  rotate: true
+  xy: 840, 95
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+a3
+  rotate: true
+  xy: 840, 95
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+b
+  rotate: true
+  xy: 393, 40
+  size: 29, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 977, 169
+  size: 45, 85
+  orig: 45, 85
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 747, 75
+  size: 50, 89
+  orig: 50, 89
+  offset: 0, 0
+  index: -1
+ban
+  rotate: false
+  xy: 747, 166
+  size: 228, 88
+  orig: 228, 88
+  offset: 0, 0
+  index: -1
+br_baccaaa
+  rotate: true
+  xy: 2, 32
+  size: 222, 389
+  orig: 222, 389
+  offset: 0, 0
+  index: -1
+br_live
+  rotate: false
+  xy: 453, 51
+  size: 56, 18
+  orig: 56, 18
+  offset: 0, 0
+  index: -1
+c1
+  rotate: true
+  xy: 915, 139
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+c2
+  rotate: true
+  xy: 915, 139
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+gilr_br
+  rotate: true
+  xy: 393, 71
+  size: 183, 352
+  orig: 183, 352
+  offset: 0, 0
+  index: -1
+icon_live
+  rotate: false
+  xy: 799, 76
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+live_texxt
+  rotate: true
+  xy: 240, 2
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+p1
+  rotate: false
+  xy: 799, 92
+  size: 39, 72
+  orig: 39, 72
+  offset: 0, 0
+  index: -1
+p2
+  rotate: true
+  xy: 840, 126
+  size: 38, 73
+  orig: 38, 73
+  offset: 0, 0
+  index: -1
+r
+  rotate: true
+  xy: 189, 3
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+t
+  rotate: true
+  xy: 130, 2
+  size: 28, 57
+  orig: 28, 57
+  offset: 0, 0
+  index: -1

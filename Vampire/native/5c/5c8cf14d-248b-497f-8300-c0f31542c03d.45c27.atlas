@@ -1,0 +1,41 @@
+
+free.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FREE SPINS
+  rotate: false
+  xy: 2, 14
+  size: 129, 59
+  orig: 129, 59
+  offset: 0, 0
+  index: -1
+Layer 37
+  rotate: false
+  xy: 154, 77
+  size: 134, 144
+  orig: 134, 144
+  offset: 0, 0
+  index: -1
+Layer 38
+  rotate: false
+  xy: 290, 212
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+Layer 39
+  rotate: false
+  xy: 2, 2
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+Selective Color 8
+  rotate: false
+  xy: 2, 75
+  size: 150, 146
+  orig: 150, 146
+  offset: 0, 0
+  index: -1

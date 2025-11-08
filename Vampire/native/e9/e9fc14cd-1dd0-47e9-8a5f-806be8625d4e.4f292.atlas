@@ -1,0 +1,426 @@
+
+Vampire-NoHu-Coin.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ncoin/rs_No_2/N01
+  rotate: false
+  xy: 923, 361
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N02
+  rotate: true
+  xy: 2, 2
+  size: 38, 45
+  orig: 512, 288
+  offset: 236, 177
+  index: -1
+Ncoin/rs_No_2/N03
+  rotate: false
+  xy: 2404, 1008
+  size: 66, 71
+  orig: 512, 288
+  offset: 220, 163
+  index: -1
+Ncoin/rs_No_2/N04
+  rotate: false
+  xy: 3327, 1734
+  size: 101, 98
+  orig: 512, 288
+  offset: 202, 148
+  index: -1
+Ncoin/rs_No_2/N05
+  rotate: false
+  xy: 1680, 841
+  size: 137, 124
+  orig: 512, 288
+  offset: 183, 132
+  index: -1
+Ncoin/rs_No_2/N06
+  rotate: false
+  xy: 1361, 36
+  size: 173, 153
+  orig: 512, 288
+  offset: 165, 113
+  index: -1
+Ncoin/rs_No_2/N07
+  rotate: true
+  xy: 1356, 386
+  size: 210, 181
+  orig: 512, 288
+  offset: 146, 94
+  index: -1
+Ncoin/rs_No_2/N08
+  rotate: true
+  xy: 2918, 1304
+  size: 247, 213
+  orig: 512, 288
+  offset: 127, 74
+  index: -1
+Ncoin/rs_No_2/N09
+  rotate: true
+  xy: 1123, 52
+  size: 284, 236
+  orig: 512, 288
+  offset: 108, 52
+  index: -1
+Ncoin/rs_No_2/N10
+  rotate: false
+  xy: 1030, 338
+  size: 324, 258
+  orig: 512, 288
+  offset: 87, 30
+  index: -1
+Ncoin/rs_No_2/N11
+  rotate: false
+  xy: 2552, 1268
+  size: 364, 283
+  orig: 512, 288
+  offset: 66, 5
+  index: -1
+Ncoin/rs_No_2/N12
+  rotate: false
+  xy: 516, 74
+  size: 405, 288
+  orig: 512, 288
+  offset: 45, 0
+  index: -1
+Ncoin/rs_No_2/N13
+  rotate: false
+  xy: 1030, 598
+  size: 448, 288
+  orig: 512, 288
+  offset: 22, 0
+  index: -1
+Ncoin/rs_No_2/N14
+  rotate: false
+  xy: 2058, 1468
+  size: 492, 288
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N15
+  rotate: false
+  xy: 2, 1758
+  size: 512, 288
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N16
+  rotate: false
+  xy: 2, 1468
+  size: 512, 288
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N17
+  rotate: false
+  xy: 1030, 888
+  size: 497, 288
+  orig: 512, 288
+  offset: 15, 0
+  index: -1
+Ncoin/rs_No_2/N18
+  rotate: false
+  xy: 516, 1758
+  size: 512, 288
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N19
+  rotate: false
+  xy: 2, 1178
+  size: 512, 288
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N20
+  rotate: false
+  xy: 1544, 1178
+  size: 494, 288
+  orig: 512, 288
+  offset: 18, 0
+  index: -1
+Ncoin/rs_No_2/N21
+  rotate: false
+  xy: 516, 1468
+  size: 512, 288
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N22
+  rotate: false
+  xy: 1030, 1758
+  size: 512, 288
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N23
+  rotate: false
+  xy: 2, 888
+  size: 512, 288
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N24
+  rotate: false
+  xy: 516, 1178
+  size: 512, 288
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N25
+  rotate: false
+  xy: 1030, 1468
+  size: 512, 288
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N26
+  rotate: false
+  xy: 1544, 1758
+  size: 512, 288
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N27
+  rotate: false
+  xy: 2, 598
+  size: 512, 288
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N28
+  rotate: false
+  xy: 516, 888
+  size: 512, 288
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N29
+  rotate: false
+  xy: 516, 600
+  size: 512, 286
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N30
+  rotate: false
+  xy: 2572, 1758
+  size: 490, 288
+  orig: 512, 288
+  offset: 22, 0
+  index: -1
+Ncoin/rs_No_2/N31
+  rotate: false
+  xy: 1030, 1178
+  size: 512, 288
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N32
+  rotate: false
+  xy: 1544, 1468
+  size: 512, 288
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N33
+  rotate: false
+  xy: 2058, 1758
+  size: 512, 288
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N34
+  rotate: false
+  xy: 2, 308
+  size: 512, 288
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N35
+  rotate: false
+  xy: 2, 42
+  size: 512, 264
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N36
+  rotate: false
+  xy: 516, 364
+  size: 512, 234
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N37
+  rotate: false
+  xy: 3064, 1834
+  size: 512, 212
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N38
+  rotate: false
+  xy: 3578, 1835
+  size: 482, 211
+  orig: 512, 288
+  offset: 1, 0
+  index: -1
+Ncoin/rs_No_2/N39
+  rotate: false
+  xy: 1529, 967
+  size: 496, 209
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N40
+  rotate: false
+  xy: 2040, 1259
+  size: 510, 207
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+Ncoin/rs_No_2/N41
+  rotate: false
+  xy: 2552, 1553
+  size: 498, 203
+  orig: 512, 288
+  offset: 14, 0
+  index: -1
+Ncoin/rs_No_2/N42
+  rotate: true
+  xy: 923, 2
+  size: 334, 198
+  orig: 512, 288
+  offset: 102, 0
+  index: -1
+Ncoin/rs_No_2/N43
+  rotate: false
+  xy: 1361, 191
+  size: 165, 193
+  orig: 512, 288
+  offset: 171, 0
+  index: -1
+Ncoin/rs_No_2/N44
+  rotate: true
+  xy: 2040, 1092
+  size: 165, 188
+  orig: 512, 288
+  offset: 170, 0
+  index: -1
+Ncoin/rs_No_2/N45
+  rotate: true
+  xy: 2230, 1082
+  size: 175, 182
+  orig: 512, 288
+  offset: 166, 0
+  index: -1
+Ncoin/rs_No_2/N46
+  rotate: false
+  xy: 2414, 1081
+  size: 151, 176
+  orig: 512, 288
+  offset: 180, 0
+  index: -1
+Ncoin/rs_No_2/N47
+  rotate: false
+  xy: 2567, 1097
+  size: 149, 169
+  orig: 512, 288
+  offset: 178, 0
+  index: -1
+Ncoin/rs_No_2/N48
+  rotate: false
+  xy: 2718, 1105
+  size: 155, 161
+  orig: 512, 288
+  offset: 173, 0
+  index: -1
+Ncoin/rs_No_2/N49
+  rotate: false
+  xy: 2027, 938
+  size: 157, 152
+  orig: 512, 288
+  offset: 170, 0
+  index: -1
+Ncoin/rs_No_2/N50
+  rotate: true
+  xy: 2186, 941
+  size: 139, 143
+  orig: 512, 288
+  offset: 191, 0
+  index: -1
+Ncoin/rs_No_2/N51
+  rotate: false
+  xy: 1529, 833
+  size: 149, 132
+  orig: 512, 288
+  offset: 184, 0
+  index: -1
+Ncoin/rs_No_2/N52
+  rotate: false
+  xy: 1819, 843
+  size: 127, 122
+  orig: 512, 288
+  offset: 205, 0
+  index: -1
+Ncoin/rs_No_2/N53
+  rotate: false
+  xy: 3198, 1722
+  size: 127, 110
+  orig: 512, 288
+  offset: 202, 0
+  index: -1
+Ncoin/rs_No_2/N54
+  rotate: false
+  xy: 3064, 1734
+  size: 132, 98
+  orig: 512, 288
+  offset: 200, 0
+  index: -1
+Ncoin/rs_No_2/N55
+  rotate: false
+  xy: 3430, 1747
+  size: 91, 85
+  orig: 512, 288
+  offset: 198, 0
+  index: -1
+Ncoin/rs_No_2/N56
+  rotate: true
+  xy: 2331, 985
+  size: 95, 71
+  orig: 512, 288
+  offset: 195, 0
+  index: -1
+Ncoin/rs_No_2/N57
+  rotate: true
+  xy: 1948, 869
+  size: 96, 56
+  orig: 512, 288
+  offset: 194, 0
+  index: -1
+Ncoin/rs_No_2/N58
+  rotate: false
+  xy: 4062, 2013
+  size: 30, 33
+  orig: 512, 288
+  offset: 226, 8
+  index: -1
+Ncoin/rs_No_2/N59
+  rotate: false
+  xy: 516, 47
+  size: 29, 25
+  orig: 512, 288
+  offset: 226, 0
+  index: -1
+Ncoin/rs_No_2/N60
+  rotate: false
+  xy: 2186, 1082
+  size: 25, 8
+  orig: 512, 288
+  offset: 227, 0
+  index: -1

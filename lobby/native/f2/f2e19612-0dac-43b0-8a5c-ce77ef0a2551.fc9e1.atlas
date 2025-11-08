@@ -1,0 +1,90 @@
+
+MD52.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer7
+  rotate: false
+  xy: 686, 18
+  size: 235, 231
+  orig: 235, 231
+  offset: 0, 0
+  index: -1
+br_md5
+  rotate: true
+  xy: 2, 29
+  size: 220, 391
+  orig: 220, 391
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 923, 126
+  size: 120, 123
+  orig: 120, 123
+  offset: 0, 0
+  index: -1
+d2
+  rotate: true
+  xy: 1419, 169
+  size: 80, 88
+  orig: 80, 88
+  offset: 0, 0
+  index: -1
+light2
+  rotate: true
+  xy: 395, 38
+  size: 211, 289
+  orig: 211, 289
+  offset: 0, 0
+  index: -1
+md5
+  rotate: false
+  xy: 1045, 134
+  size: 132, 59
+  orig: 132, 59
+  offset: 0, 0
+  index: -1
+sc1
+  rotate: false
+  xy: 1045, 223
+  size: 171, 26
+  orig: 171, 26
+  offset: 0, 0
+  index: -1
+sc2
+  rotate: false
+  xy: 1045, 195
+  size: 171, 26
+  orig: 171, 26
+  offset: 0, 0
+  index: -1
+soicau
+  rotate: false
+  xy: 2, 2
+  size: 183, 25
+  orig: 183, 25
+  offset: 0, 0
+  index: -1
+tai
+  rotate: false
+  xy: 1323, 188
+  size: 94, 61
+  orig: 94, 61
+  offset: 0, 0
+  index: -1
+vm
+  rotate: false
+  xy: 923, 47
+  size: 103, 77
+  orig: 103, 77
+  offset: 0, 0
+  index: -1
+xiu
+  rotate: false
+  xy: 1218, 183
+  size: 103, 66
+  orig: 103, 66
+  offset: 0, 0
+  index: -1

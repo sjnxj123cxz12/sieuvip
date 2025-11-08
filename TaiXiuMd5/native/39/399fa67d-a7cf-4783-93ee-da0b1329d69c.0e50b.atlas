@@ -1,0 +1,139 @@
+
+tungxx.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+animation1
+  rotate: false
+  xy: 2, 534
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1
+animation10
+  rotate: false
+  xy: 534, 2
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1
+animation11
+  rotate: false
+  xy: 800, 268
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1
+animation12
+  rotate: false
+  xy: 1066, 534
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1
+animation13
+  rotate: false
+  xy: 800, 2
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1
+animation14
+  rotate: false
+  xy: 1066, 268
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1
+animation15
+  rotate: false
+  xy: 1332, 534
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1
+animation16
+  rotate: false
+  xy: 1066, 2
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1
+animation17
+  rotate: false
+  xy: 1332, 268
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1
+animation18
+  rotate: false
+  xy: 1598, 534
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1
+animation19
+  rotate: false
+  xy: 1332, 2
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1
+animation2
+  rotate: false
+  xy: 2, 268
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1
+animation3
+  rotate: false
+  xy: 268, 534
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1
+animation4
+  rotate: false
+  xy: 2, 2
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1
+animation5
+  rotate: false
+  xy: 268, 268
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1
+animation6
+  rotate: false
+  xy: 534, 534
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1
+animation7
+  rotate: false
+  xy: 268, 2
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1
+animation8
+  rotate: false
+  xy: 534, 268
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1
+animation9
+  rotate: false
+  xy: 800, 534
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1

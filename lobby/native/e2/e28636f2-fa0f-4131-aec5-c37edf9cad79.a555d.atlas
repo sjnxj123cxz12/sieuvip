@@ -1,0 +1,76 @@
+
+pop.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg11
+  rotate: true
+  xy: 2, 2
+  size: 236, 405
+  orig: 236, 405
+  offset: 0, 0
+  index: -1
+bg22
+  rotate: false
+  xy: 409, 13
+  size: 221, 225
+  orig: 221, 225
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 1175, 155
+  size: 107, 83
+  orig: 107, 83
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: true
+  xy: 1284, 159
+  size: 79, 94
+  orig: 79, 94
+  offset: 0, 0
+  index: -1
+kinh
+  rotate: false
+  xy: 632, 25
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 870, 96
+  size: 198, 142
+  orig: 198, 142
+  offset: 0, 0
+  index: -1
+tai1
+  rotate: false
+  xy: 1175, 134
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+tai2
+  rotate: false
+  xy: 870, 73
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+tay1
+  rotate: false
+  xy: 1070, 108
+  size: 103, 130
+  orig: 103, 130
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 632, 62
+  size: 176, 236
+  orig: 176, 236
+  offset: 0, 0
+  index: -1

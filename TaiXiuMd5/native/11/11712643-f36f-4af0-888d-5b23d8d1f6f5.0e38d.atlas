@@ -1,0 +1,13 @@
+
+vongquay.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx
+  rotate: false
+  xy: 2, 2
+  size: 400, 412
+  orig: 400, 412
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,293 @@
+
+SapNo-Bonus-FreeSpine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx/fx-1/smoke.001
+  rotate: false
+  xy: 2, 914
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.002
+  rotate: false
+  xy: 2, 830
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.003
+  rotate: false
+  xy: 238, 914
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.004
+  rotate: false
+  xy: 2, 746
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.005
+  rotate: false
+  xy: 238, 830
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.006
+  rotate: false
+  xy: 474, 914
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.007
+  rotate: false
+  xy: 2, 662
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.008
+  rotate: false
+  xy: 238, 746
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.009
+  rotate: false
+  xy: 474, 830
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.010
+  rotate: false
+  xy: 710, 914
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.011
+  rotate: false
+  xy: 2, 578
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.012
+  rotate: false
+  xy: 238, 662
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.013
+  rotate: false
+  xy: 474, 746
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.014
+  rotate: false
+  xy: 710, 830
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.015
+  rotate: false
+  xy: 2, 494
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.016
+  rotate: false
+  xy: 238, 578
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.017
+  rotate: false
+  xy: 474, 662
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.018
+  rotate: false
+  xy: 710, 746
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.019
+  rotate: false
+  xy: 2, 410
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.020
+  rotate: false
+  xy: 2, 410
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.021
+  rotate: false
+  xy: 2, 410
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.022
+  rotate: false
+  xy: 2, 410
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.023
+  rotate: false
+  xy: 2, 410
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+Fx/fx-1/smoke.024
+  rotate: false
+  xy: 2, 410
+  size: 234, 82
+  orig: 234, 82
+  offset: 0, 0
+  index: -1
+InGame/Thang/Bonus Game/1-1
+  rotate: false
+  xy: 249, 319
+  size: 115, 116
+  orig: 115, 116
+  offset: 0, 0
+  index: -1
+InGame/Thang/Bonus Game/1-2
+  rotate: true
+  xy: 131, 291
+  size: 117, 116
+  orig: 117, 116
+  offset: 0, 0
+  index: -1
+InGame/Thang/Bonus Game/1-3
+  rotate: true
+  xy: 2, 2
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+InGame/Thang/Bonus Game/1-4
+  rotate: false
+  xy: 366, 319
+  size: 110, 116
+  orig: 110, 116
+  offset: 0, 0
+  index: -1
+InGame/Thang/Bonus Game/2-1
+  rotate: true
+  xy: 710, 652
+  size: 92, 105
+  orig: 92, 105
+  offset: 0, 0
+  index: -1
+InGame/Thang/Bonus Game/2-2
+  rotate: true
+  xy: 474, 573
+  size: 87, 105
+  orig: 87, 105
+  offset: 0, 0
+  index: -1
+InGame/Thang/Bonus Game/2-3
+  rotate: true
+  xy: 581, 571
+  size: 89, 105
+  orig: 89, 105
+  offset: 0, 0
+  index: -1
+InGame/Thang/Bonus Game/2-4
+  rotate: true
+  xy: 817, 652
+  size: 92, 105
+  orig: 92, 105
+  offset: 0, 0
+  index: -1
+InGame/Thang/Bonus Game/2-5
+  rotate: false
+  xy: 459, 466
+  size: 93, 105
+  orig: 93, 105
+  offset: 0, 0
+  index: -1
+InGame/Thang/Free Spine/1-1
+  rotate: true
+  xy: 688, 567
+  size: 83, 101
+  orig: 83, 101
+  offset: 0, 0
+  index: -1
+InGame/Thang/Free Spine/1-2
+  rotate: false
+  xy: 554, 468
+  size: 94, 101
+  orig: 94, 101
+  offset: 0, 0
+  index: -1
+InGame/Thang/Free Spine/1-3
+  rotate: true
+  xy: 791, 563
+  size: 87, 101
+  orig: 87, 101
+  offset: 0, 0
+  index: -1
+InGame/Thang/Free Spine/1-4
+  rotate: true
+  xy: 650, 474
+  size: 91, 101
+  orig: 91, 101
+  offset: 0, 0
+  index: -1
+InGame/Thang/Free Spine/2-1
+  rotate: false
+  xy: 2, 269
+  size: 127, 139
+  orig: 127, 139
+  offset: 0, 0
+  index: -1
+InGame/Thang/Free Spine/2-2
+  rotate: false
+  xy: 2, 128
+  size: 120, 139
+  orig: 120, 139
+  offset: 0, 0
+  index: -1
+InGame/Thang/Free Spine/2-3
+  rotate: false
+  xy: 372, 437
+  size: 85, 139
+  orig: 85, 139
+  offset: 0, 0
+  index: -1
+InGame/Thang/Free Spine/2-4
+  rotate: false
+  xy: 238, 437
+  size: 132, 139
+  orig: 132, 139
+  offset: 0, 0
+  index: -1

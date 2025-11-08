@@ -1,0 +1,27 @@
+
+chamber20000.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20000 Chamber
+  rotate: false
+  xy: 2, 40
+  size: 254, 341
+  orig: 254, 341
+  offset: 0, 0
+  index: -1
+20000 Glowing Orb
+  rotate: false
+  xy: 258, 104
+  size: 212, 277
+  orig: 212, 277
+  offset: 0, 0
+  index: -1
+20000 Text
+  rotate: false
+  xy: 2, 2
+  size: 137, 36
+  orig: 137, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+Quaythuong.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 93
+  rotate: false
+  xy: 2, 454
+  size: 203, 200
+  orig: 203, 200
+  offset: 0, 0
+  index: -1
+Layer 94
+  rotate: false
+  xy: 841, 662
+  size: 171, 167
+  orig: 171, 167
+  offset: 0, 0
+  index: -1
+multiplier_coin_burst_000
+  rotate: true
+  xy: 441, 625
+  size: 187, 195
+  orig: 187, 195
+  offset: 0, 0
+  index: -1
+multiplier_coin_burst_001
+  rotate: false
+  xy: 2, 249
+  size: 195, 203
+  orig: 195, 203
+  offset: 0, 0
+  index: -1
+multiplier_coin_burst_002
+  rotate: false
+  xy: 441, 814
+  size: 196, 203
+  orig: 196, 203
+  offset: 0, 0
+  index: -1
+multiplier_coin_burst_003
+  rotate: false
+  xy: 207, 456
+  size: 199, 198
+  orig: 199, 198
+  offset: 0, 0
+  index: -1
+multiplier_coin_burst_004
+  rotate: false
+  xy: 639, 820
+  size: 200, 197
+  orig: 200, 197
+  offset: 0, 0
+  index: -1
+multiplier_coin_burst_005
+  rotate: false
+  xy: 2, 52
+  size: 194, 195
+  orig: 194, 195
+  offset: 0, 0
+  index: -1
+multiplier_coin_burst_006
+  rotate: false
+  xy: 408, 435
+  size: 192, 188
+  orig: 192, 188
+  offset: 0, 0
+  index: -1
+multiplier_coin_burst_007
+  rotate: true
+  xy: 841, 831
+  size: 186, 178
+  orig: 186, 178
+  offset: 0, 0
+  index: -1
+multiplier_coin_burst_008
+  rotate: true
+  xy: 602, 438
+  size: 185, 174
+  orig: 185, 174
+  offset: 0, 0
+  index: -1
+q
+  rotate: false
+  xy: 2, 656
+  size: 437, 361
+  orig: 437, 361
+  offset: 0, 0
+  index: -1
+quay
+  rotate: false
+  xy: 2, 5
+  size: 144, 45
+  orig: 144, 45
+  offset: 0, 0
+  index: -1

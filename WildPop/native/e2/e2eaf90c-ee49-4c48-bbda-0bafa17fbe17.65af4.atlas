@@ -1,0 +1,27 @@
+
+Random.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 12
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 2, 260
+  size: 259, 259
+  orig: 259, 259
+  offset: 0, 0
+  index: -1
+Layer 14 copy 2
+  rotate: false
+  xy: 263, 429
+  size: 185, 90
+  orig: 185, 90
+  offset: 0, 0
+  index: -1

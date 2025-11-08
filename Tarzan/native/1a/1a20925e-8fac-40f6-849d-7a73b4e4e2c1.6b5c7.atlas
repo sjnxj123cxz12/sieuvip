@@ -1,0 +1,62 @@
+
+SapNo-Lobby-P100.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+100
+  rotate: false
+  xy: 160, 2
+  size: 88, 51
+  orig: 88, 51
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 294, 107
+  size: 264, 356
+  orig: 264, 356
+  offset: 0, 0
+  index: -1
+Border 1
+  rotate: false
+  xy: 2, 55
+  size: 290, 408
+  orig: 290, 408
+  offset: 0, 0
+  index: -1
+Elsa
+  rotate: false
+  xy: 560, 111
+  size: 234, 352
+  orig: 234, 352
+  offset: 0, 0
+  index: -1
+Frostswirl
+  rotate: false
+  xy: 796, 263
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 156, 51
+  orig: 156, 51
+  offset: 0, 0
+  index: -1
+Snowflake
+  rotate: false
+  xy: 796, 161
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+flare15
+  rotate: false
+  xy: 294, 55
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

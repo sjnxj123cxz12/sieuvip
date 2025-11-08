@@ -1,0 +1,97 @@
+
+TNK-Bonus-X2-X3-Girl.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 482, 416
+  size: 415, 599
+  orig: 415, 599
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 444, 198
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 899, 420
+  size: 127, 74
+  orig: 127, 74
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 899, 774
+  size: 256, 241
+  orig: 256, 241
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 299, 24
+  size: 80, 105
+  orig: 80, 105
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 1157, 854
+  size: 161, 279
+  orig: 161, 279
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1438, 895
+  size: 114, 120
+  orig: 114, 120
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 2, 106
+  size: 140, 440
+  orig: 140, 440
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 482, 249
+  size: 165, 405
+  orig: 165, 405
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 899, 496
+  size: 179, 276
+  orig: 179, 276
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 248
+  size: 478, 767
+  orig: 478, 767
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 2, 2
+  size: 102, 295
+  orig: 102, 295
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1080, 713
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1

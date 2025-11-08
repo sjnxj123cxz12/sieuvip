@@ -1,0 +1,146 @@
+
+SapNo-InGame-BackGroud-1.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+InGame/BackGroud/bg-2/bg-2/12
+  rotate: false
+  xy: 1567, 840
+  size: 255, 134
+  orig: 255, 134
+  offset: 0, 0
+  index: -1
+InGame/BackGroud/bg-2/bg-2/13
+  rotate: true
+  xy: 1025, 708
+  size: 266, 308
+  orig: 266, 308
+  offset: 0, 0
+  index: -1
+InGame/BackGroud/bg-2/bg-2/14
+  rotate: false
+  xy: 1335, 768
+  size: 230, 206
+  orig: 230, 206
+  offset: 0, 0
+  index: -1
+InGame/BackGroud/bg-2/bg-2/15
+  rotate: true
+  xy: 1951, 638
+  size: 167, 95
+  orig: 167, 95
+  offset: 0, 0
+  index: -1
+InGame/BackGroud/bg-2/bg-2/17
+  rotate: true
+  xy: 965, 557
+  size: 113, 153
+  orig: 113, 153
+  offset: 0, 0
+  index: -1
+InGame/BackGroud/bg-2/bg-2/18
+  rotate: false
+  xy: 669, 364
+  size: 188, 191
+  orig: 188, 191
+  offset: 0, 0
+  index: -1
+InGame/BackGroud/bg-2/bg-2/19
+  rotate: false
+  xy: 1824, 807
+  size: 206, 167
+  orig: 206, 167
+  offset: 0, 0
+  index: -1
+InGame/BackGroud/bg-2/bg-2/20
+  rotate: true
+  xy: 859, 362
+  size: 193, 169
+  orig: 193, 169
+  offset: 0, 0
+  index: -1
+InGame/BackGroud/bg-2/bg-2/21
+  rotate: false
+  xy: 2, 50
+  size: 357, 550
+  orig: 357, 550
+  offset: 0, 0
+  index: -1
+InGame/BackGroud/bg-2/bg-2/22
+  rotate: true
+  xy: 702, 557
+  size: 113, 261
+  orig: 113, 261
+  offset: 0, 0
+  index: -1
+InGame/BackGroud/bg-2/bg-2/23
+  rotate: false
+  xy: 1030, 380
+  size: 117, 175
+  orig: 117, 175
+  offset: 0, 0
+  index: -1
+InGame/BackGroud/bg-2/bg-2/27
+  rotate: false
+  xy: 2, 602
+  size: 698, 372
+  orig: 698, 372
+  offset: 0, 0
+  index: -1
+InGame/BackGroud/bg-2/bg-2/28
+  rotate: false
+  xy: 1762, 665
+  size: 187, 140
+  orig: 187, 140
+  offset: 0, 0
+  index: -1
+InGame/BackGroud/bg-2/bg-2/29
+  rotate: false
+  xy: 1120, 585
+  size: 174, 121
+  orig: 174, 121
+  offset: 0, 0
+  index: -1
+InGame/BackGroud/bg-2/bg-2/32
+  rotate: true
+  xy: 1567, 669
+  size: 169, 193
+  orig: 169, 193
+  offset: 0, 0
+  index: -1
+InGame/BackGroud/bg-2/bg-2/35
+  rotate: false
+  xy: 361, 81
+  size: 268, 245
+  orig: 268, 245
+  offset: 0, 0
+  index: -1
+InGame/BackGroud/bg-2/bg-2/36
+  rotate: false
+  xy: 361, 328
+  size: 306, 272
+  orig: 306, 272
+  offset: 0, 0
+  index: -1
+InGame/BackGroud/bg-2/bg-2/37
+  rotate: false
+  xy: 702, 672
+  size: 321, 302
+  orig: 321, 302
+  offset: 0, 0
+  index: -1
+InGame/BackGroud/bg-2/bg-2/5
+  rotate: true
+  xy: 1335, 710
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+InGame/BackGroud/bg-2/bg-2/9
+  rotate: false
+  xy: 2, 2
+  size: 141, 46
+  orig: 141, 46
+  offset: 0, 0
+  index: -1

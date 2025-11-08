@@ -1,0 +1,62 @@
+
+free.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 567
+  rotate: false
+  xy: 764, 459
+  size: 585, 546
+  orig: 585, 546
+  offset: 0, 0
+  index: -1
+Layer 570
+  rotate: true
+  xy: 516, 2
+  size: 368, 252
+  orig: 368, 252
+  offset: 0, 0
+  index: -1
+Layer 571
+  rotate: false
+  xy: 1351, 681
+  size: 493, 324
+  orig: 493, 324
+  offset: 0, 0
+  index: -1
+Layer 572
+  rotate: false
+  xy: 2, 36
+  size: 512, 334
+  orig: 512, 334
+  offset: 0, 0
+  index: -1
+Layer 684
+  rotate: true
+  xy: 1351, 372
+  size: 307, 437
+  orig: 307, 437
+  offset: 0, 0
+  index: -1
+Layer 685
+  rotate: false
+  xy: 2, 22
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+free
+  rotate: true
+  xy: 1846, 376
+  size: 629, 70
+  orig: 629, 70
+  offset: 0, 0
+  index: -1
+h
+  rotate: false
+  xy: 2, 372
+  size: 760, 633
+  orig: 760, 633
+  offset: 0, 0
+  index: -1

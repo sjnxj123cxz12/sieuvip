@@ -1,0 +1,41 @@
+
+SapNo-Thang-2-Coin.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Big_Win/Layer 17
+  rotate: false
+  xy: 54, 8
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+Big_Win/Layer 17 copy 2
+  rotate: false
+  xy: 2, 2
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+Big_Win/Layer 17 copy 3
+  rotate: false
+  xy: 111, 8
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+Big_Win/Layer 8 copy
+  rotate: true
+  xy: 168, 3
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+Big_Win/Layer 8 copy 3
+  rotate: false
+  xy: 219, 19
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1

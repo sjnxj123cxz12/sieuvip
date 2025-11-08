@@ -1,0 +1,69 @@
+
+Freespin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F
+  rotate: false
+  xy: 260, 250
+  size: 243, 74
+  orig: 243, 74
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 2, 247
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: true
+  xy: 371, 179
+  size: 69, 96
+  orig: 69, 96
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 260, 326
+  size: 213, 177
+  orig: 213, 177
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 260, 180
+  size: 109, 68
+  orig: 109, 68
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 259, 99
+  size: 89, 79
+  orig: 89, 79
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: false
+  xy: 259, 25
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: true
+  xy: 475, 460
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: false
+  xy: 2, 2
+  size: 255, 243
+  orig: 255, 243
+  offset: 0, 0
+  index: -1

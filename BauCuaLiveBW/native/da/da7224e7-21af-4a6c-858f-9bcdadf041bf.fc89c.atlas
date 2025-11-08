@@ -1,0 +1,55 @@
+
+anim_label_livebaucua.png
+size: 154,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow1
+  rotate: false
+  xy: 2, 51
+  size: 36, 101
+  orig: 36, 101
+  offset: 0, 0
+  index: -1
+glow2
+  rotate: false
+  xy: 76, 75
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+glow3
+  rotate: false
+  xy: 2, 2
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+label-green
+  rotate: false
+  xy: 114, 76
+  size: 34, 76
+  orig: 37, 78
+  offset: 0, 0
+  index: -1
+label-red
+  rotate: false
+  xy: 40, 52
+  size: 34, 100
+  orig: 37, 102
+  offset: 0, 0
+  index: -1
+laber-blue
+  rotate: false
+  xy: 40, 4
+  size: 34, 46
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+starcaro
+  rotate: false
+  xy: 76, 59
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1

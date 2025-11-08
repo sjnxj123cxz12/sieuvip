@@ -1,0 +1,55 @@
+
+baucua.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 207, 193
+  size: 200, 55
+  orig: 200, 55
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 44
+  size: 203, 204
+  orig: 203, 204
+  offset: 0, 0
+  index: -1
+mat
+  rotate: true
+  xy: 2, 2
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+mat1
+  rotate: false
+  xy: 207, 45
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+tay
+  rotate: true
+  xy: 334, 105
+  size: 86, 73
+  orig: 86, 73
+  offset: 0, 0
+  index: -1
+tay2
+  rotate: false
+  xy: 409, 194
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 207, 96
+  size: 125, 95
+  orig: 125, 95
+  offset: 0, 0
+  index: -1

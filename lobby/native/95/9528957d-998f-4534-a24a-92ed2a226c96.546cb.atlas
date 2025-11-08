@@ -1,0 +1,125 @@
+
+Icon_Lobby_TaiXiuLive.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 2
+  size: 236, 405
+  orig: 236, 405
+  offset: 0, 0
+  index: -1
+dot_light_01
+  rotate: false
+  xy: 409, 42
+  size: 279, 126
+  orig: 279, 126
+  offset: 0, 0
+  index: -1
+dot_light_02
+  rotate: false
+  xy: 763, 112
+  size: 279, 126
+  orig: 279, 126
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 1044, 110
+  size: 277, 128
+  orig: 277, 128
+  offset: 0, 0
+  index: -1
+img_dice_01
+  rotate: false
+  xy: 1323, 135
+  size: 110, 103
+  orig: 110, 103
+  offset: 0, 0
+  index: -1
+img_dice_02
+  rotate: false
+  xy: 1532, 140
+  size: 89, 98
+  orig: 89, 98
+  offset: 0, 0
+  index: -1
+img_dice_03
+  rotate: false
+  xy: 1435, 139
+  size: 95, 99
+  orig: 95, 99
+  offset: 0, 0
+  index: -1
+img_sparkle_white
+  rotate: false
+  xy: 1623, 146
+  size: 94, 92
+  orig: 94, 92
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 409, 170
+  size: 352, 68
+  orig: 352, 68
+  offset: 0, 0
+  index: -1
+sparkle_01
+  rotate: false
+  xy: 1719, 182
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+sparkle_02
+  rotate: true
+  xy: 409, 5
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+sparkle_03
+  rotate: true
+  xy: 409, 5
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+sparkle_04
+  rotate: false
+  xy: 690, 108
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+star_icon
+  rotate: false
+  xy: 690, 59
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+star_icon copy
+  rotate: false
+  xy: 1772, 191
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+star_icon copy 2
+  rotate: false
+  xy: 1323, 110
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+star_icon copy 3
+  rotate: false
+  xy: 1719, 157
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1

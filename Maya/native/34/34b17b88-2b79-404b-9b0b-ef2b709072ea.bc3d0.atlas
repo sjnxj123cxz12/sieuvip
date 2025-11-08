@@ -1,0 +1,328 @@
+
+SapNo-InGame-IconVo-S.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr06.png
+  rotate: false
+  xy: 2, 1636
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr07.png
+  rotate: false
+  xy: 2, 1250
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr08.png
+  rotate: false
+  xy: 2, 864
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr09.png
+  rotate: false
+  xy: 2, 478
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr10.png
+  rotate: false
+  xy: 2, 92
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr11.png
+  rotate: true
+  xy: 210, 1814
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr12.png
+  rotate: true
+  xy: 596, 1814
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr13.png
+  rotate: true
+  xy: 982, 1814
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr14.png
+  rotate: true
+  xy: 1368, 1814
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr15.png
+  rotate: false
+  xy: 1754, 1636
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr16.png
+  rotate: true
+  xy: 210, 1606
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr17.png
+  rotate: true
+  xy: 596, 1606
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr18.png
+  rotate: true
+  xy: 982, 1606
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr19.png
+  rotate: true
+  xy: 1368, 1606
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr20.png
+  rotate: false
+  xy: 1754, 1250
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr21.png
+  rotate: false
+  xy: 210, 864
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr22.png
+  rotate: true
+  xy: 210, 1398
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr23.png
+  rotate: false
+  xy: 210, 478
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr24.png
+  rotate: false
+  xy: 210, 92
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr25.png
+  rotate: true
+  xy: 596, 1398
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr26.png
+  rotate: true
+  xy: 982, 1398
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr27.png
+  rotate: true
+  xy: 1368, 1398
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr28.png
+  rotate: true
+  xy: 418, 1190
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr29.png
+  rotate: true
+  xy: 804, 1190
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr30.png
+  rotate: true
+  xy: 1190, 1190
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr31.png
+  rotate: true
+  xy: 1576, 1042
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr32.png
+  rotate: true
+  xy: 418, 982
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr33.png
+  rotate: true
+  xy: 804, 982
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr34.png
+  rotate: true
+  xy: 1190, 982
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr35.png
+  rotate: true
+  xy: 1576, 834
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr36.png
+  rotate: false
+  xy: 418, 596
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr37.png
+  rotate: true
+  xy: 626, 774
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr38.png
+  rotate: true
+  xy: 1012, 774
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr39.png
+  rotate: true
+  xy: 1398, 626
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr40.png
+  rotate: false
+  xy: 1784, 448
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr41.png
+  rotate: true
+  xy: 626, 566
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr43.png
+  rotate: false
+  xy: 418, 210
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr44.png
+  rotate: true
+  xy: 1012, 566
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr45.png
+  rotate: true
+  xy: 1398, 418
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr46.png
+  rotate: false
+  xy: 1784, 62
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr47.png
+  rotate: true
+  xy: 418, 2
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr48.png
+  rotate: true
+  xy: 626, 210
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr49.png
+  rotate: true
+  xy: 1012, 358
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr50.png
+  rotate: true
+  xy: 1398, 210
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr51.png
+  rotate: true
+  xy: 1012, 150
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1
+InGame/Icon-InGame/explosion_one_symb_cr53.png/explosion_one_symb_cr52.png
+  rotate: true
+  xy: 1398, 2
+  size: 206, 384
+  orig: 206, 384
+  offset: 0, 0
+  index: -1

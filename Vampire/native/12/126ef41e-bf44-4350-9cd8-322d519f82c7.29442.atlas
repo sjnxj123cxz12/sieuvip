@@ -1,0 +1,90 @@
+
+wild.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Curves 1061
+  rotate: false
+  xy: 183, 31
+  size: 167, 458
+  orig: 167, 458
+  offset: 0, 0
+  index: -1
+Layer 1060
+  rotate: false
+  xy: 521, 52
+  size: 167, 437
+  orig: 167, 437
+  offset: 0, 0
+  index: -1
+Layer 1062
+  rotate: false
+  xy: 690, 360
+  size: 160, 129
+  orig: 160, 129
+  offset: 0, 0
+  index: -1
+Layer 1063
+  rotate: false
+  xy: 852, 396
+  size: 160, 93
+  orig: 160, 93
+  offset: 0, 0
+  index: -1
+Layer 1065
+  rotate: false
+  xy: 690, 92
+  size: 98, 147
+  orig: 98, 147
+  offset: 0, 0
+  index: -1
+Layer 1066
+  rotate: false
+  xy: 790, 203
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Layer 1066 copy
+  rotate: false
+  xy: 790, 203
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Selective Color 1 copy 2
+  rotate: false
+  xy: 352, 31
+  size: 167, 458
+  orig: 167, 458
+  offset: 0, 0
+  index: -1
+Shape 1
+  rotate: false
+  xy: 690, 58
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+WILD copy
+  rotate: false
+  xy: 852, 339
+  size: 155, 55
+  orig: 155, 55
+  offset: 0, 0
+  index: -1
+df
+  rotate: false
+  xy: 690, 241
+  size: 160, 117
+  orig: 160, 117
+  offset: 0, 0
+  index: -1
+sd
+  rotate: false
+  xy: 2, 2
+  size: 179, 487
+  orig: 179, 487
+  offset: 0, 0
+  index: -1

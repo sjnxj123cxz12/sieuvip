@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 472,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hũ Hoàng
+  rotate: false
+  xy: 290, 282
+  size: 164, 42
+  orig: 164, 42
+  offset: 0, 0
+  index: -1
+Kim Long
+  rotate: false
+  xy: 269, 238
+  size: 152, 42
+  orig: 152, 42
+  offset: 0, 0
+  index: -1
+gold
+  rotate: false
+  xy: 269, 2
+  size: 112, 82
+  orig: 112, 82
+  offset: 0, 0
+  index: -1
+hk
+  rotate: true
+  xy: 290, 326
+  size: 210, 177
+  orig: 210, 178
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 2, 11
+  size: 265, 269
+  orig: 287, 286
+  offset: 7, 8
+  index: -1
+l2
+  rotate: false
+  xy: 2, 282
+  size: 286, 254
+  orig: 290, 254
+  offset: 1, 0
+  index: -1
+l3
+  rotate: true
+  xy: 416, 95
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+nap
+  rotate: false
+  xy: 269, 86
+  size: 145, 67
+  orig: 145, 67
+  offset: 0, 0
+  index: -1
+ruong
+  rotate: false
+  xy: 269, 155
+  size: 145, 81
+  orig: 145, 81
+  offset: 0, 0
+  index: -1
+ruongsau
+  rotate: true
+  xy: 423, 135
+  size: 145, 47
+  orig: 146, 126
+  offset: 0, 46
+  index: -1

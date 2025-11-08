@@ -1,0 +1,166 @@
+
+Vampire-BonusGame-Lose.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bonusgame/Badquy-P/1
+  rotate: false
+  xy: 2, 1582
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1
+images/bonusgame/Badquy-P/10
+  rotate: false
+  xy: 1472, 1582
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1
+images/bonusgame/Badquy-P/11
+  rotate: false
+  xy: 2, 2
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1
+images/bonusgame/Badquy-P/12
+  rotate: false
+  xy: 492, 397
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1
+images/bonusgame/Badquy-P/13
+  rotate: false
+  xy: 982, 792
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1
+images/bonusgame/Badquy-P/14
+  rotate: false
+  xy: 1472, 1187
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1
+images/bonusgame/Badquy-P/15
+  rotate: false
+  xy: 492, 2
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1
+images/bonusgame/Badquy-P/16
+  rotate: false
+  xy: 982, 397
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1
+images/bonusgame/Badquy-P/17
+  rotate: false
+  xy: 1472, 792
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1
+images/bonusgame/Badquy-P/18
+  rotate: false
+  xy: 982, 2
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1
+images/bonusgame/Badquy-P/19
+  rotate: false
+  xy: 1472, 397
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1
+images/bonusgame/Badquy-P/2
+  rotate: false
+  xy: 2, 1187
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1
+images/bonusgame/Badquy-P/20
+  rotate: false
+  xy: 1472, 2
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1
+images/bonusgame/Badquy-P/3
+  rotate: false
+  xy: 492, 1582
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1
+images/bonusgame/Badquy-P/4
+  rotate: false
+  xy: 2, 792
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1
+images/bonusgame/Badquy-P/5
+  rotate: false
+  xy: 492, 1187
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1
+images/bonusgame/Badquy-P/6
+  rotate: false
+  xy: 982, 1582
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1
+images/bonusgame/Badquy-P/7
+  rotate: false
+  xy: 2, 397
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1
+images/bonusgame/Badquy-P/8
+  rotate: false
+  xy: 492, 792
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1
+images/bonusgame/Badquy-P/9
+  rotate: false
+  xy: 982, 1187
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1
+
+Vampire-BonusGame-Lose2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bonusgame/Badquy-P/21
+  rotate: false
+  xy: 2, 2
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1
+images/bonusgame/Badquy-P/22
+  rotate: false
+  xy: 492, 2
+  size: 488, 393
+  orig: 488, 393
+  offset: 0, 0
+  index: -1

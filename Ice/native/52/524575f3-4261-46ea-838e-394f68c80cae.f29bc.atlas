@@ -1,0 +1,48 @@
+
+chamber100.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+100 Chamber
+  rotate: true
+  xy: 2, 2
+  size: 247, 291
+  orig: 247, 291
+  offset: 0, 0
+  index: -1
+100 Charm
+  rotate: false
+  xy: 295, 3
+  size: 114, 116
+  orig: 114, 116
+  offset: 0, 0
+  index: -1
+100 Ring
+  rotate: false
+  xy: 425, 158
+  size: 67, 91
+  orig: 67, 91
+  offset: 0, 0
+  index: -1
+100 Text
+  rotate: false
+  xy: 425, 120
+  size: 71, 36
+  orig: 71, 36
+  offset: 0, 0
+  index: -1
+100 Water Effect
+  rotate: false
+  xy: 411, 99
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+flames_flash_green
+  rotate: false
+  xy: 295, 121
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,243 @@
+
+nohu_baucualive.png
+size: 2028,2044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 57
+  rotate: false
+  xy: 1584, 660
+  size: 204, 483
+  orig: 204, 483
+  offset: 0, 0
+  index: -1
+btn1
+  rotate: false
+  xy: 1792, 663
+  size: 154, 113
+  orig: 154, 113
+  offset: 0, 0
+  index: -1
+btn1a
+  rotate: true
+  xy: 1956, 1711
+  size: 79, 44
+  orig: 79, 44
+  offset: 0, 0
+  index: -1
+btn2
+  rotate: true
+  xy: 1956, 1794
+  size: 79, 58
+  orig: 79, 58
+  offset: 0, 0
+  index: -1
+detenlua
+  rotate: true
+  xy: 1956, 1877
+  size: 163, 68
+  orig: 163, 68
+  offset: 0, 0
+  index: -1
+notien_00
+  rotate: false
+  xy: 4, 1534
+  size: 786, 506
+  orig: 786, 506
+  offset: 0, 0
+  index: -1
+notien_01
+  rotate: false
+  xy: 4, 1024
+  size: 786, 506
+  orig: 786, 506
+  offset: 0, 0
+  index: -1
+notien_02
+  rotate: false
+  xy: 794, 1534
+  size: 786, 506
+  orig: 786, 506
+  offset: 0, 0
+  index: -1
+notien_03
+  rotate: false
+  xy: 4, 514
+  size: 786, 506
+  orig: 786, 506
+  offset: 0, 0
+  index: -1
+notien_04
+  rotate: false
+  xy: 794, 1024
+  size: 786, 506
+  orig: 786, 506
+  offset: 0, 0
+  index: -1
+notien_05
+  rotate: false
+  xy: 4, 4
+  size: 786, 506
+  orig: 786, 506
+  offset: 0, 0
+  index: -1
+notien_06
+  rotate: false
+  xy: 794, 514
+  size: 786, 506
+  orig: 786, 506
+  offset: 0, 0
+  index: -1
+notien_07
+  rotate: false
+  xy: 794, 4
+  size: 786, 506
+  orig: 786, 506
+  offset: 0, 0
+  index: -1
+qsang1
+  rotate: false
+  xy: 1584, 1662
+  size: 368, 378
+  orig: 368, 378
+  offset: 0, 0
+  index: -1
+quetsamg_00
+  rotate: true
+  xy: 1781, 1221
+  size: 437, 185
+  orig: 437, 185
+  offset: 0, 0
+  index: -1
+quetsamg_01
+  rotate: true
+  xy: 1792, 780
+  size: 437, 185
+  orig: 437, 185
+  offset: 0, 0
+  index: -1
+quetsamg_02
+  rotate: true
+  xy: 1782, 219
+  size: 437, 185
+  orig: 437, 185
+  offset: 0, 0
+  index: -1
+tenlua
+  rotate: true
+  xy: 1584, 20
+  size: 193, 407
+  orig: 193, 407
+  offset: 0, 0
+  index: -1
+tenlua_blur
+  rotate: false
+  xy: 1584, 1147
+  size: 193, 511
+  orig: 193, 511
+  offset: 0, 0
+  index: -1
+text no hu
+  rotate: true
+  xy: 1584, 217
+  size: 439, 194
+  orig: 439, 194
+  offset: 0, 0
+  index: -1
+
+nohu_baucualive2.png
+size: 2009,1510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 58
+  rotate: true
+  xy: 4, 19
+  size: 187, 404
+  orig: 187, 404
+  offset: 0, 0
+  index: -1
+khunghu copy
+  rotate: false
+  xy: 1584, 886
+  size: 420, 149
+  orig: 420, 149
+  offset: 0, 0
+  index: -1
+notien_08
+  rotate: true
+  xy: 4, 720
+  size: 786, 506
+  orig: 786, 506
+  offset: 0, 0
+  index: -1
+notien_09
+  rotate: false
+  xy: 4, 210
+  size: 786, 506
+  orig: 786, 506
+  offset: 0, 0
+  index: -1
+notien_10
+  rotate: true
+  xy: 514, 720
+  size: 786, 506
+  orig: 786, 506
+  offset: 0, 0
+  index: -1
+notien_11
+  rotate: false
+  xy: 794, 210
+  size: 786, 506
+  orig: 786, 506
+  offset: 0, 0
+  index: -1
+notien_12
+  rotate: true
+  xy: 1024, 720
+  size: 786, 506
+  orig: 786, 506
+  offset: 0, 0
+  index: -1
+qsang2
+  rotate: true
+  xy: 1534, 1039
+  size: 467, 471
+  orig: 467, 471
+  offset: 0, 0
+  index: -1
+quetsamg_03
+  rotate: false
+  xy: 412, 21
+  size: 437, 185
+  orig: 437, 185
+  offset: 0, 0
+  index: -1
+quetsamg_04
+  rotate: false
+  xy: 853, 21
+  size: 437, 185
+  orig: 437, 185
+  offset: 0, 0
+  index: -1
+quetsamg_05
+  rotate: false
+  xy: 1294, 21
+  size: 437, 185
+  orig: 437, 185
+  offset: 0, 0
+  index: -1
+quetsamg_06
+  rotate: true
+  xy: 1735, 445
+  size: 437, 185
+  orig: 437, 185
+  offset: 0, 0
+  index: -1
+quetsamg_07
+  rotate: true
+  xy: 1735, 4
+  size: 437, 185
+  orig: 437, 185
+  offset: 0, 0
+  index: -1

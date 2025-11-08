@@ -1,0 +1,160 @@
+
+volta_098.png
+size: 195,534
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Volta font
+  rotate: true
+  xy: 152, 359
+  size: 173, 40
+  orig: 173, 40
+  offset: 0, 0
+  index: -1
+ball 1
+  rotate: false
+  xy: 2, 321
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1
+ball 11
+  rotate: false
+  xy: 130, 233
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+ball 13
+  rotate: false
+  xy: 2, 195
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+ball 15
+  rotate: false
+  xy: 66, 195
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+ball 17
+  rotate: false
+  xy: 130, 170
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+ball 19
+  rotate: false
+  xy: 2, 132
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+ball 21
+  rotate: false
+  xy: 66, 132
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+ball 23
+  rotate: false
+  xy: 130, 107
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+ball 25
+  rotate: false
+  xy: 2, 69
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+ball 27
+  rotate: false
+  xy: 66, 69
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+ball 29
+  rotate: false
+  xy: 130, 44
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+ball 3
+  rotate: false
+  xy: 67, 321
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+ball 5
+  rotate: false
+  xy: 131, 296
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+ball 7
+  rotate: false
+  xy: 2, 258
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+ball 9
+  rotate: false
+  xy: 66, 258
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+ball shine
+  rotate: false
+  xy: 2, 384
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+volta text1
+  rotate: false
+  xy: 73, 34
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+volta text2
+  rotate: true
+  xy: 2, 19
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+volta text3
+  rotate: true
+  xy: 154, 7
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+volta text4
+  rotate: true
+  xy: 119, 2
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+volta text5
+  rotate: true
+  xy: 38, 23
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1

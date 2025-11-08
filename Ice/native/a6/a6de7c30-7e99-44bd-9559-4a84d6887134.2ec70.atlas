@@ -1,0 +1,48 @@
+
+LaRung.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leaf1
+  rotate: false
+  xy: 44, 113
+  size: 48, 13
+  orig: 48, 13
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: false
+  xy: 2, 100
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+leaf3
+  rotate: false
+  xy: 2, 2
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+leaf4
+  rotate: false
+  xy: 2, 33
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+leaf5
+  rotate: false
+  xy: 2, 65
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+leaf6
+  rotate: false
+  xy: 94, 96
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1

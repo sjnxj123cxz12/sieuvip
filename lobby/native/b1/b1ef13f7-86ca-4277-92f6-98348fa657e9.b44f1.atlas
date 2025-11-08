@@ -1,0 +1,132 @@
+
+XOCDIA.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BIGWIN
+  rotate: false
+  xy: 397, 20
+  size: 126, 25
+  orig: 126, 25
+  offset: 0, 0
+  index: -1
+ban
+  rotate: false
+  xy: 658, 166
+  size: 228, 88
+  orig: 228, 88
+  offset: 0, 0
+  index: -1
+br_live
+  rotate: true
+  xy: 999, 198
+  size: 56, 18
+  orig: 56, 18
+  offset: 0, 0
+  index: -1
+br_xocdia
+  rotate: true
+  xy: 2, 28
+  size: 226, 393
+  orig: 226, 393
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 879, 8
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 525, 14
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 561, 15
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+d4
+  rotate: false
+  xy: 596, 15
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+dia
+  rotate: false
+  xy: 758, 88
+  size: 107, 76
+  orig: 107, 76
+  offset: 0, 0
+  index: -1
+icon_live
+  rotate: false
+  xy: 2, 12
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+live_texxt
+  rotate: true
+  xy: 758, 58
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+mat1
+  rotate: true
+  xy: 397, 47
+  size: 207, 259
+  orig: 207, 259
+  offset: 0, 0
+  index: -1
+mat2
+  rotate: false
+  xy: 773, 7
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+mat3
+  rotate: false
+  xy: 826, 7
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+mo
+  rotate: false
+  xy: 658, 2
+  size: 113, 54
+  orig: 113, 54
+  offset: 0, 0
+  index: -1
+tay_mat3
+  rotate: true
+  xy: 773, 41
+  size: 45, 149
+  orig: 45, 149
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 658, 58
+  size: 98, 106
+  orig: 98, 106
+  offset: 0, 0
+  index: -1
+xoc
+  rotate: false
+  xy: 888, 178
+  size: 109, 76
+  orig: 109, 76
+  offset: 0, 0
+  index: -1

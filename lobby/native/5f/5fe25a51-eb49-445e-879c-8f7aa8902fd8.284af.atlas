@@ -1,0 +1,48 @@
+
+x6bt.png
+size: 327,327
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Big Coin
+  rotate: false
+  xy: 2, 83
+  size: 138, 120
+  orig: 141, 122
+  offset: 2, 1
+  index: -1
+Blue fire
+  rotate: false
+  xy: 142, 47
+  size: 97, 89
+  orig: 99, 91
+  offset: 1, 1
+  index: -1
+Close
+  rotate: false
+  xy: 2, 2
+  size: 91, 79
+  orig: 93, 81
+  offset: 1, 1
+  index: -1
+Glow
+  rotate: false
+  xy: 2, 205
+  size: 141, 120
+  orig: 145, 124
+  offset: 2, 2
+  index: -1
+Open
+  rotate: false
+  xy: 145, 234
+  size: 107, 91
+  orig: 109, 93
+  offset: 1, 1
+  index: -1
+Red fire
+  rotate: true
+  xy: 145, 138
+  size: 94, 101
+  orig: 94, 101
+  offset: 0, 0
+  index: -1

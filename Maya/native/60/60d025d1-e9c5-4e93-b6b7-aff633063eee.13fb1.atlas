@@ -1,0 +1,258 @@
+
+SapNo-Thang-1.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx/fX-2/10
+  rotate: false
+  xy: 2, 726
+  size: 297, 296
+  orig: 297, 296
+  offset: 0, 0
+  index: -1
+Fx/fX-2/11
+  rotate: false
+  xy: 839, 785
+  size: 255, 237
+  orig: 255, 237
+  offset: 0, 0
+  index: -1
+Fx/fX-2/12
+  rotate: false
+  xy: 1346, 784
+  size: 248, 238
+  orig: 248, 238
+  offset: 0, 0
+  index: -1
+Fx/fX-2/13
+  rotate: false
+  xy: 1596, 786
+  size: 249, 236
+  orig: 249, 236
+  offset: 0, 0
+  index: -1
+Fx/fX-2/14
+  rotate: false
+  xy: 839, 552
+  size: 247, 231
+  orig: 247, 231
+  offset: 0, 0
+  index: -1
+Fx/fX-2/15
+  rotate: false
+  xy: 1088, 557
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+Fx/fX-2/16
+  rotate: true
+  xy: 269, 192
+  size: 233, 210
+  orig: 233, 210
+  offset: 0, 0
+  index: -1
+Fx/fX-2/17
+  rotate: false
+  xy: 581, 541
+  size: 214, 210
+  orig: 214, 210
+  offset: 0, 0
+  index: -1
+Fx/fX-2/18
+  rotate: false
+  xy: 1847, 817
+  size: 194, 205
+  orig: 194, 205
+  offset: 0, 0
+  index: -1
+Fx/fX-2/19
+  rotate: false
+  xy: 1301, 376
+  size: 77, 179
+  orig: 77, 179
+  offset: 0, 0
+  index: -1
+Fx/fX-2/2
+  rotate: true
+  xy: 269, 5
+  size: 185, 191
+  orig: 185, 191
+  offset: 0, 0
+  index: -1
+Fx/fX-2/3
+  rotate: true
+  xy: 1088, 351
+  size: 204, 211
+  orig: 204, 211
+  offset: 0, 0
+  index: -1
+Fx/fX-2/4
+  rotate: true
+  xy: 1334, 561
+  size: 221, 227
+  orig: 221, 227
+  offset: 0, 0
+  index: -1
+Fx/fX-2/5
+  rotate: true
+  xy: 1096, 784
+  size: 238, 248
+  orig: 238, 248
+  offset: 0, 0
+  index: -1
+Fx/fX-2/6
+  rotate: false
+  xy: 581, 753
+  size: 256, 269
+  orig: 256, 269
+  offset: 0, 0
+  index: -1
+Fx/fX-2/7
+  rotate: false
+  xy: 2, 148
+  size: 265, 277
+  orig: 265, 277
+  offset: 0, 0
+  index: -1
+Fx/fX-2/8
+  rotate: false
+  xy: 301, 728
+  size: 278, 294
+  orig: 278, 294
+  offset: 0, 0
+  index: -1
+Fx/fX-2/9
+  rotate: false
+  xy: 2, 427
+  size: 293, 297
+  orig: 293, 297
+  offset: 0, 0
+  index: -1
+InGame/Thang/Bonus Game/2-2
+  rotate: false
+  xy: 1592, 677
+  size: 87, 105
+  orig: 87, 105
+  offset: 0, 0
+  index: -1
+InGame/Thang/Thang Lon/2-1
+  rotate: true
+  xy: 797, 599
+  size: 152, 32
+  orig: 152, 32
+  offset: 0, 0
+  index: -1
+InGame/Thang/Thang Lon/2-2
+  rotate: false
+  xy: 2, 2
+  size: 114, 31
+  orig: 114, 31
+  offset: 0, 0
+  index: -1
+InGame/Thang/Thang Sieu Lon/1-1
+  rotate: false
+  xy: 297, 613
+  size: 92, 111
+  orig: 92, 111
+  offset: 0, 0
+  index: -1
+InGame/Thang/Thang Sieu Lon/1-2
+  rotate: false
+  xy: 162, 35
+  size: 105, 111
+  orig: 105, 111
+  offset: 0, 0
+  index: -1
+InGame/Thang/Thang Sieu Lon/1-3
+  rotate: true
+  xy: 2, 41
+  size: 105, 158
+  orig: 105, 158
+  offset: 0, 0
+  index: -1
+InGame/Thang/Thang Sieu Lon/1-4
+  rotate: true
+  xy: 1380, 328
+  size: 94, 113
+  orig: 94, 113
+  offset: 0, 0
+  index: -1
+InGame/Thang/Thang Sieu Lon/1-5
+  rotate: false
+  xy: 1495, 311
+  size: 102, 111
+  orig: 102, 111
+  offset: 0, 0
+  index: -1
+InGame/Thang/Thang Sieu Lon/2-1
+  rotate: false
+  xy: 1847, 788
+  size: 159, 27
+  orig: 159, 27
+  offset: 0, 0
+  index: -1
+InGame/Thang/Thang Sieu Lon/2-2
+  rotate: true
+  xy: 1563, 561
+  size: 221, 27
+  orig: 221, 27
+  offset: 0, 0
+  index: -1
+InGame/Thang/Thang Sieu Lon/2-3
+  rotate: true
+  xy: 495, 630
+  size: 96, 27
+  orig: 96, 27
+  offset: 0, 0
+  index: -1
+InGame/Thang/Thang Sieu Lon/3-1
+  rotate: false
+  xy: 297, 500
+  size: 99, 111
+  orig: 99, 111
+  offset: 0, 0
+  index: -1
+InGame/Thang/Thang Sieu Lon/3-2
+  rotate: true
+  xy: 462, 10
+  size: 65, 111
+  orig: 65, 111
+  offset: 0, 0
+  index: -1
+InGame/Thang/Thang Sieu Lon/3-3
+  rotate: false
+  xy: 1493, 424
+  size: 95, 135
+  orig: 95, 135
+  offset: 0, 0
+  index: -1
+InGame/Thang/Thang Sieu Lon/3-4
+  rotate: false
+  xy: 391, 615
+  size: 102, 111
+  orig: 102, 111
+  offset: 0, 0
+  index: -1
+InGame/Thang/Thang Sieu Lon/4-1
+  rotate: false
+  xy: 398, 502
+  size: 93, 111
+  orig: 93, 111
+  offset: 0, 0
+  index: -1
+InGame/Thang/Thang Sieu Lon/4-2
+  rotate: false
+  xy: 1380, 424
+  size: 111, 135
+  orig: 111, 135
+  offset: 0, 0
+  index: -1
+InGame/Thang/Thang Sieu Lon/4-3
+  rotate: false
+  xy: 462, 77
+  size: 101, 113
+  orig: 101, 113
+  offset: 0, 0
+  index: -1

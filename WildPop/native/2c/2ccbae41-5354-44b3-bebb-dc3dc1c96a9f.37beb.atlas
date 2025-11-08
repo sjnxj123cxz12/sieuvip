@@ -1,0 +1,48 @@
+
+Dragon.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: false
+  xy: 2, 244
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 2, 82
+  size: 219, 160
+  orig: 219, 160
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 2, 2
+  size: 69, 78
+  orig: 69, 78
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 223, 216
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 260, 372
+  size: 188, 128
+  orig: 188, 128
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 260, 263
+  size: 196, 107
+  orig: 196, 107
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+ruong bonus.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dong
+  rotate: false
+  xy: 391, 77
+  size: 172, 162
+  orig: 172, 162
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 197, 56
+  size: 192, 183
+  orig: 192, 183
+  offset: 0, 0
+  index: -1
+mo
+  rotate: false
+  xy: 2, 2
+  size: 193, 237
+  orig: 193, 237
+  offset: 0, 0
+  index: -1

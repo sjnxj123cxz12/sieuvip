@@ -1,0 +1,83 @@
+
+thanglon.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 157
+  rotate: false
+  xy: 1487, 281
+  size: 355, 205
+  orig: 355, 205
+  offset: 0, 0
+  index: -1
+Layer 158
+  rotate: false
+  xy: 642, 267
+  size: 467, 219
+  orig: 467, 219
+  offset: 0, 0
+  index: -1
+Layer 572
+  rotate: true
+  xy: 642, 2
+  size: 263, 374
+  orig: 263, 374
+  offset: 0, 0
+  index: -1
+Layer 572 copy
+  rotate: true
+  xy: 1111, 223
+  size: 263, 374
+  orig: 263, 374
+  offset: 0, 0
+  index: -1
+Layer 573
+  rotate: false
+  xy: 2, 8
+  size: 318, 382
+  orig: 318, 382
+  offset: 0, 0
+  index: -1
+Layer 573 copy
+  rotate: false
+  xy: 322, 8
+  size: 318, 382
+  orig: 318, 382
+  offset: 0, 0
+  index: -1
+Layer 575
+  rotate: true
+  xy: 1018, 37
+  size: 184, 365
+  orig: 184, 365
+  offset: 0, 0
+  index: -1
+Layer 575 copy
+  rotate: true
+  xy: 1487, 95
+  size: 184, 365
+  orig: 184, 365
+  offset: 0, 0
+  index: -1
+Layer 578
+  rotate: false
+  xy: 1844, 312
+  size: 176, 174
+  orig: 176, 174
+  offset: 0, 0
+  index: -1
+Layer 578 copy
+  rotate: false
+  xy: 1844, 312
+  size: 176, 174
+  orig: 176, 174
+  offset: 0, 0
+  index: -1
+free copy
+  rotate: false
+  xy: 2, 392
+  size: 625, 94
+  orig: 625, 94
+  offset: 0, 0
+  index: -1

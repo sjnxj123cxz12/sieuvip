@@ -1,0 +1,41 @@
+
+momotagv.png
+size: 167,167
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+120%
+  rotate: true
+  xy: 138, 59
+  size: 106, 27
+  orig: 106, 27
+  offset: 0, 0
+  index: -1
+Knit
+  rotate: false
+  xy: 82, 46
+  size: 26, 13
+  orig: 28, 15
+  offset: 1, 1
+  index: -1
+Knit Back
+  rotate: false
+  xy: 110, 51
+  size: 16, 8
+  orig: 18, 10
+  offset: 1, 1
+  index: -1
+Layer 3 copy
+  rotate: false
+  xy: 2, 61
+  size: 134, 104
+  orig: 134, 106
+  offset: 0, 0
+  index: -1
+MOMO
+  rotate: false
+  xy: 2, 18
+  size: 78, 41
+  orig: 80, 43
+  offset: 1, 1
+  index: -1

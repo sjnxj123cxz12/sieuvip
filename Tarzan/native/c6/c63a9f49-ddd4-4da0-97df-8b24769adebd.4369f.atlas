@@ -1,0 +1,69 @@
+
+SapNo-Lobby-P5000.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5.000
+  rotate: false
+  xy: 321, 74
+  size: 146, 52
+  orig: 146, 52
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 321, 128
+  size: 232, 362
+  orig: 232, 362
+  offset: 0, 0
+  index: -1
+Border 5000
+  rotate: false
+  xy: 2, 74
+  size: 317, 416
+  orig: 317, 416
+  offset: 0, 0
+  index: -1
+Elsa Base
+  rotate: false
+  xy: 555, 192
+  size: 189, 298
+  orig: 189, 298
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 948, 470
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: true
+  xy: 746, 211
+  size: 77, 119
+  orig: 77, 119
+  offset: 0, 0
+  index: -1
+Low Hair
+  rotate: true
+  xy: 2, 2
+  size: 70, 129
+  orig: 70, 129
+  offset: 0, 0
+  index: -1
+flare15
+  rotate: false
+  xy: 555, 140
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+glowspiky2
+  rotate: false
+  xy: 746, 290
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

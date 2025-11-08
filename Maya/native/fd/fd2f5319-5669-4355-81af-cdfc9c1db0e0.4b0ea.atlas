@@ -1,0 +1,153 @@
+
+SapNo-Lobby-P10000.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx/fx-3/bluelight
+  rotate: false
+  xy: 297, 891
+  size: 563, 125
+  orig: 563, 125
+  offset: 0, 0
+  index: -1
+Fx/fx-38/1
+  rotate: false
+  xy: 568, 671
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+Fx/fx-38/10
+  rotate: false
+  xy: 1008, 578
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+Fx/fx-38/11
+  rotate: false
+  xy: 1228, 578
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+Fx/fx-38/12
+  rotate: false
+  xy: 1448, 578
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+Fx/fx-38/13
+  rotate: false
+  xy: 1668, 578
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+Fx/fx-38/14
+  rotate: false
+  xy: 568, 451
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+Fx/fx-38/15
+  rotate: false
+  xy: 788, 358
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+Fx/fx-38/2
+  rotate: false
+  xy: 297, 222
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+Fx/fx-38/3
+  rotate: false
+  xy: 297, 2
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+Fx/fx-38/4
+  rotate: false
+  xy: 862, 798
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+Fx/fx-38/5
+  rotate: false
+  xy: 1082, 798
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+Fx/fx-38/6
+  rotate: false
+  xy: 1302, 798
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+Fx/fx-38/7
+  rotate: false
+  xy: 1522, 798
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+Fx/fx-38/8
+  rotate: false
+  xy: 1742, 798
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+Fx/fx-38/9
+  rotate: false
+  xy: 788, 578
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+Looby/10K
+  rotate: false
+  xy: 2, 31
+  size: 236, 43
+  orig: 236, 43
+  offset: 0, 0
+  index: -1
+Looby/room100-2
+  rotate: false
+  xy: 2, 547
+  size: 293, 469
+  orig: 293, 469
+  offset: 0, 0
+  index: -1
+Looby/room10K
+  rotate: false
+  xy: 2, 76
+  size: 293, 469
+  orig: 293, 469
+  offset: 0, 0
+  index: -1
+Looby/room10K-icon
+  rotate: false
+  xy: 297, 658
+  size: 269, 231
+  orig: 269, 231
+  offset: 0, 0
+  index: -1
+Looby/room10K-icon-2
+  rotate: false
+  xy: 297, 442
+  size: 251, 214
+  orig: 251, 214
+  offset: 0, 0
+  index: -1

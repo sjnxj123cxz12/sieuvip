@@ -1,0 +1,27 @@
+
+icon_mohom.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BanhBao
+  rotate: false
+  xy: 2, 2
+  size: 188, 155
+  orig: 188, 155
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 159
+  size: 421, 316
+  orig: 421, 316
+  offset: 0, 0
+  index: -1
+ruong_mo
+  rotate: false
+  xy: 425, 255
+  size: 191, 220
+  orig: 191, 220
+  offset: 0, 0
+  index: -1

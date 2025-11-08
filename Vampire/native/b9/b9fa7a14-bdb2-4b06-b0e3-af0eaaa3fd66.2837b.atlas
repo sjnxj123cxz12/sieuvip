@@ -1,0 +1,55 @@
+
+bonus.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 142
+  rotate: false
+  xy: 356, 37
+  size: 153, 89
+  orig: 153, 89
+  offset: 0, 0
+  index: -1
+Layer 143
+  rotate: false
+  xy: 2, 45
+  size: 175, 81
+  orig: 175, 81
+  offset: 0, 0
+  index: -1
+Layer 144 copy 14
+  rotate: false
+  xy: 179, 45
+  size: 175, 81
+  orig: 175, 81
+  offset: 0, 0
+  index: -1
+Layer 145
+  rotate: false
+  xy: 2, 2
+  size: 161, 41
+  orig: 161, 41
+  offset: 0, 0
+  index: -1
+Layer 146
+  rotate: false
+  xy: 668, 46
+  size: 139, 80
+  orig: 139, 80
+  offset: 0, 0
+  index: -1
+Layer 147
+  rotate: false
+  xy: 511, 47
+  size: 155, 79
+  orig: 155, 79
+  offset: 0, 0
+  index: -1
+Layer 148
+  rotate: false
+  xy: 165, 14
+  size: 150, 29
+  orig: 150, 29
+  offset: 0, 0
+  index: -1

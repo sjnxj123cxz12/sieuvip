@@ -1,0 +1,41 @@
+
+Qua.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: false
+  xy: 2, 234
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 2, 116
+  size: 193, 116
+  orig: 193, 116
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: true
+  xy: 260, 239
+  size: 101, 118
+  orig: 101, 118
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 260, 342
+  size: 129, 148
+  orig: 129, 148
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: true
+  xy: 2, 2
+  size: 112, 164
+  orig: 112, 164
+  offset: 0, 0
+  index: -1

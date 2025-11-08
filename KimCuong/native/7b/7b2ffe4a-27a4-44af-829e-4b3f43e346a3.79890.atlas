@@ -1,0 +1,62 @@
+
+muc1.png
+size: 193,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cuoc
+  rotate: true
+  xy: 127, 94
+  size: 150, 63
+  orig: 150, 63
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 2, 108
+  size: 136, 118
+  orig: 138, 120
+  offset: 1, 1
+  index: -1
+mat
+  rotate: true
+  xy: 175, 55
+  size: 37, 9
+  orig: 39, 11
+  offset: 1, 1
+  index: -1
+tay1
+  rotate: false
+  xy: 127, 32
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+tay2
+  rotate: true
+  xy: 175, 32
+  size: 21, 16
+  orig: 24, 18
+  offset: 2, 1
+  index: -1
+tay2-1
+  rotate: false
+  xy: 127, 2
+  size: 31, 28
+  orig: 33, 30
+  offset: 1, 1
+  index: -1
+tay2-2
+  rotate: true
+  xy: 160, 5
+  size: 25, 24
+  orig: 27, 26
+  offset: 1, 1
+  index: -1
+than
+  rotate: true
+  xy: 2, 17
+  size: 89, 123
+  orig: 89, 123
+  offset: 0, 0
+  index: -1

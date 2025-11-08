@@ -1,0 +1,55 @@
+
+free spin.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: false
+  xy: 183, 82
+  size: 179, 127
+  orig: 179, 127
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 62
+  size: 179, 147
+  orig: 179, 147
+  offset: 0, 0
+  index: -1
+free spin
+  rotate: false
+  xy: 2, 24
+  size: 151, 36
+  orig: 151, 36
+  offset: 0, 0
+  index: -1
+la 1
+  rotate: false
+  xy: 155, 44
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+la 2
+  rotate: true
+  xy: 183, 63
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+tai 1
+  rotate: false
+  xy: 364, 188
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+tai 2
+  rotate: false
+  xy: 2, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

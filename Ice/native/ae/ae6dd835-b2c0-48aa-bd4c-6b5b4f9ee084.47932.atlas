@@ -1,0 +1,83 @@
+
+SapNo-Lobby-P1000.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1.000
+  rotate: false
+  xy: 859, 462
+  size: 125, 48
+  orig: 125, 48
+  offset: 0, 0
+  index: -1
+2-effect-dup-500x512
+  rotate: false
+  xy: 707, 356
+  size: 150, 154
+  orig: 150, 154
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 287, 191
+  size: 227, 319
+  orig: 227, 319
+  offset: 0, 0
+  index: -1
+Border 1000
+  rotate: false
+  xy: 2, 144
+  size: 283, 366
+  orig: 283, 366
+  offset: 0, 0
+  index: -1
+Diamond
+  rotate: true
+  xy: 104, 2
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+Elsa White
+  rotate: false
+  xy: 516, 227
+  size: 189, 283
+  orig: 189, 283
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 104, 27
+  size: 50, 115
+  orig: 50, 115
+  offset: 0, 0
+  index: -1
+Silk 1
+  rotate: false
+  xy: 707, 261
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: -1
+Silk 2
+  rotate: false
+  xy: 2, 3
+  size: 100, 139
+  orig: 100, 139
+  offset: 0, 0
+  index: -1
+flames_impact_blue
+  rotate: false
+  xy: 859, 396
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+flare15
+  rotate: false
+  xy: 800, 304
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

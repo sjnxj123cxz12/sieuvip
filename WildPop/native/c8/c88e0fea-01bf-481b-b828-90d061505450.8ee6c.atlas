@@ -1,0 +1,76 @@
+
+wpx6.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Board
+  rotate: false
+  xy: 418, 53
+  size: 224, 181
+  orig: 224, 181
+  offset: 0, 0
+  index: -1
+Circur
+  rotate: false
+  xy: 205, 21
+  size: 211, 213
+  orig: 211, 213
+  offset: 0, 0
+  index: -1
+Hũ
+  rotate: false
+  xy: 803, 144
+  size: 80, 56
+  orig: 80, 56
+  offset: 0, 0
+  index: -1
+Lower Board
+  rotate: false
+  xy: 2, 2
+  size: 201, 232
+  orig: 201, 232
+  offset: 0, 0
+  index: -1
+X
+  rotate: false
+  xy: 885, 158
+  size: 1, 1
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+p100
+  rotate: false
+  xy: 644, 201
+  size: 157, 33
+  orig: 157, 33
+  offset: 0, 0
+  index: -1
+p1000
+  rotate: false
+  xy: 644, 166
+  size: 157, 33
+  orig: 157, 33
+  offset: 0, 0
+  index: -1
+p10k
+  rotate: false
+  xy: 803, 202
+  size: 157, 32
+  orig: 157, 32
+  offset: 0, 0
+  index: -1
+p5k
+  rotate: false
+  xy: 644, 132
+  size: 157, 32
+  orig: 157, 32
+  offset: 0, 0
+  index: -1
+x6
+  rotate: false
+  xy: 644, 81
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1

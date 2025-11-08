@@ -1,0 +1,132 @@
+
+SU7.png
+size: 2946,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 20
+  rotate: true
+  xy: 2843, 213
+  size: 137, 93
+  orig: 160, 115
+  offset: 10, 11
+  index: -1
+as nong
+  rotate: false
+  xy: 1769, 47
+  size: 136, 303
+  orig: 622, 661
+  offset: 477, 202
+  index: -1
+body
+  rotate: false
+  xy: 1907, 25
+  size: 199, 118
+  orig: 199, 126
+  offset: 0, 0
+  index: -1
+dich
+  rotate: true
+  xy: 2843, 10
+  size: 111, 73
+  orig: 194, 123
+  offset: 41, 25
+  index: -1
+gio
+  rotate: false
+  xy: 2, 11
+  size: 78, 4
+  orig: 80, 6
+  offset: 1, 1
+  index: -1
+laser
+  rotate: false
+  xy: 2, 65
+  size: 1765, 285
+  orig: 1852, 361
+  offset: 30, 38
+  index: -1
+no 1
+  rotate: true
+  xy: 2843, 123
+  size: 88, 101
+  orig: 90, 103
+  offset: 1, 1
+  index: -1
+no 2
+  rotate: false
+  xy: 2108, 2
+  size: 123, 141
+  orig: 125, 143
+  offset: 1, 1
+  index: -1
+no 3
+  rotate: false
+  xy: 2649, 175
+  size: 168, 175
+  orig: 170, 177
+  offset: 1, 1
+  index: -1
+no 4
+  rotate: false
+  xy: 2276, 161
+  size: 185, 189
+  orig: 187, 191
+  offset: 1, 1
+  index: -1
+no 5
+  rotate: false
+  xy: 2463, 161
+  size: 184, 189
+  orig: 186, 191
+  offset: 1, 1
+  index: -1
+no 6
+  rotate: true
+  xy: 1907, 145
+  size: 205, 183
+  orig: 207, 185
+  offset: 1, 1
+  index: -1
+no 7
+  rotate: true
+  xy: 2092, 145
+  size: 205, 182
+  orig: 205, 183
+  offset: 0, 1
+  index: -1
+no 8
+  rotate: false
+  xy: 2423, 2
+  size: 215, 157
+  orig: 215, 158
+  offset: 0, 0
+  index: -1
+no 9
+  rotate: false
+  xy: 2640, 6
+  size: 201, 153
+  orig: 201, 155
+  offset: 0, 1
+  index: -1
+outer glow
+  rotate: false
+  xy: 2233, 51
+  size: 188, 92
+  orig: 235, 164
+  offset: 24, 36
+  index: -1
+tia lua 1
+  rotate: false
+  xy: 2, 17
+  size: 47, 18
+  orig: 52, 22
+  offset: 3, 2
+  index: -1
+tia lua 2
+  rotate: false
+  xy: 2, 37
+  size: 78, 26
+  orig: 82, 30
+  offset: 2, 2
+  index: -1

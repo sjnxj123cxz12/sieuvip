@@ -1,0 +1,104 @@
+
+SapNo-Bonus-FreeSpine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 5
+  rotate: false
+  xy: 310, 137
+  size: 119, 134
+  orig: 119, 134
+  offset: 0, 0
+  index: -1
+I
+  rotate: false
+  xy: 431, 113
+  size: 51, 158
+  orig: 51, 158
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 2, 240
+  size: 300, 269
+  orig: 300, 269
+  offset: 0, 0
+  index: -1
+Layer 37
+  rotate: false
+  xy: 2, 2
+  size: 196, 236
+  orig: 196, 236
+  offset: 0, 0
+  index: -1
+Layer 38
+  rotate: false
+  xy: 502, 285
+  size: 198, 224
+  orig: 198, 224
+  offset: 0, 0
+  index: -1
+Layer 39
+  rotate: false
+  xy: 702, 318
+  size: 176, 191
+  orig: 176, 191
+  offset: 0, 0
+  index: -1
+Layer 40
+  rotate: false
+  xy: 304, 273
+  size: 196, 236
+  orig: 196, 236
+  offset: 0, 0
+  index: -1
+N
+  rotate: false
+  xy: 880, 351
+  size: 118, 158
+  orig: 118, 158
+  offset: 0, 0
+  index: -1
+P
+  rotate: false
+  xy: 200, 80
+  size: 108, 158
+  orig: 108, 158
+  offset: 0, 0
+  index: -1
+d
+  rotate: true
+  xy: 484, 155
+  size: 86, 164
+  orig: 86, 164
+  offset: 0, 0
+  index: -1
+g
+  rotate: true
+  xy: 650, 152
+  size: 89, 127
+  orig: 89, 127
+  offset: 0, 0
+  index: -1
+gach
+  rotate: false
+  xy: 502, 243
+  size: 374, 40
+  orig: 374, 40
+  offset: 0, 0
+  index: -1
+r
+  rotate: true
+  xy: 779, 146
+  size: 95, 127
+  orig: 95, 127
+  offset: 0, 0
+  index: -1
+t
+  rotate: true
+  xy: 484, 43
+  size: 110, 127
+  orig: 110, 127
+  offset: 0, 0
+  index: -1

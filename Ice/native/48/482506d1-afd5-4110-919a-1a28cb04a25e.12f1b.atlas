@@ -1,0 +1,27 @@
+
+Icon-Jackpot.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 1
+  rotate: false
+  xy: 2, 49
+  size: 149, 147
+  orig: 149, 147
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 2, 2
+  size: 143, 45
+  orig: 143, 45
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 153, 63
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1

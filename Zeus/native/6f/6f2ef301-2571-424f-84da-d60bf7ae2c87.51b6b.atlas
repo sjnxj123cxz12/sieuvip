@@ -1,0 +1,188 @@
+
+TNK-Lobby-P1000.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7.TNK-2/Spine/Bonus-X2/X2-Fall/1-1
+  rotate: true
+  xy: 856, 681
+  size: 77, 115
+  orig: 77, 115
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Bonus-X2/X2-Fall/2
+  rotate: true
+  xy: 326, 471
+  size: 233, 308
+  orig: 233, 308
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Bonus-X2/X2-Fall/2-2
+  rotate: false
+  xy: 402, 12
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Bonus-X2/X2-Fall/4
+  rotate: false
+  xy: 811, 336
+  size: 68, 142
+  orig: 68, 142
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Bonus-X2/X2-Fall/6
+  rotate: true
+  xy: 630, 208
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Bonus-X2/X2-Fall/7
+  rotate: true
+  xy: 504, 163
+  size: 90, 124
+  orig: 90, 124
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Bonus-X2/X2-Fall/8
+  rotate: false
+  xy: 2, 2
+  size: 124, 133
+  orig: 124, 133
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Bonus-X2/X2-images/Layer 212 copy
+  rotate: true
+  xy: 2, 137
+  size: 348, 312
+  orig: 348, 312
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Bonus-X2/X2-images/Layer 214
+  rotate: false
+  xy: 650, 273
+  size: 159, 205
+  orig: 159, 205
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Bonus-X2/khung
+  rotate: false
+  xy: 326, 706
+  size: 317, 316
+  orig: 317, 316
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Bonus-X2/lock-images/1
+  rotate: true
+  xy: 316, 43
+  size: 112, 213
+  orig: 112, 213
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Bonus-X2/lock-images/2
+  rotate: true
+  xy: 316, 5
+  size: 36, 84
+  orig: 36, 84
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Bonus-X2/lock-images/3
+  rotate: true
+  xy: 645, 760
+  size: 262, 333
+  orig: 262, 333
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Bonus-X2/lock-images/4
+  rotate: true
+  xy: 645, 667
+  size: 91, 209
+  orig: 91, 209
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Bonus-X2/lock-images/5
+  rotate: false
+  xy: 980, 894
+  size: 35, 128
+  orig: 35, 128
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Bonus-X2/lock-images/6
+  rotate: false
+  xy: 504, 255
+  size: 144, 214
+  orig: 144, 214
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P1000/images/1
+  rotate: false
+  xy: 609, 43
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P1000/images/1-1
+  rotate: false
+  xy: 316, 157
+  size: 186, 312
+  orig: 186, 312
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P1000/images/2-2
+  rotate: true
+  xy: 980, 839
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P1000/images/3
+  rotate: true
+  xy: 609, 100
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P1000/images/4
+  rotate: false
+  xy: 2, 487
+  size: 322, 535
+  orig: 322, 535
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P1000/images/5
+  rotate: true
+  xy: 531, 46
+  size: 115, 76
+  orig: 115, 76
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P1000/images/6
+  rotate: false
+  xy: 811, 269
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P1000/images/7
+  rotate: true
+  xy: 128, 3
+  size: 132, 186
+  orig: 132, 186
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P1000/images/8
+  rotate: true
+  xy: 636, 480
+  size: 185, 199
+  orig: 185, 199
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P1000/images/9
+  rotate: true
+  xy: 980, 778
+  size: 59, 19
+  orig: 59, 19
+  offset: 0, 0
+  index: -1

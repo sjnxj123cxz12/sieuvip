@@ -1,0 +1,55 @@
+
+freespin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frag 1
+  rotate: false
+  xy: 537, 296
+  size: 83, 49
+  orig: 83, 49
+  offset: 0, 0
+  index: -1
+Frag 2
+  rotate: false
+  xy: 782, 367
+  size: 80, 33
+  orig: 80, 33
+  offset: 0, 0
+  index: -1
+Frag 3
+  rotate: false
+  xy: 261, 70
+  size: 103, 52
+  orig: 103, 52
+  offset: 0, 0
+  index: -1
+Frag 4
+  rotate: false
+  xy: 2, 2
+  size: 111, 52
+  orig: 111, 52
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 2, 56
+  size: 257, 66
+  orig: 257, 66
+  offset: 0, 0
+  index: -1
+Glow Back
+  rotate: false
+  xy: 2, 124
+  size: 533, 276
+  orig: 533, 276
+  offset: 0, 0
+  index: -1
+Text
+  rotate: false
+  xy: 537, 347
+  size: 243, 53
+  orig: 243, 53
+  offset: 0, 0
+  index: -1

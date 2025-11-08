@@ -1,0 +1,83 @@
+
+AVIATOR.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+br
+  rotate: true
+  xy: 2, 9
+  size: 226, 393
+  orig: 226, 393
+  offset: 0, 0
+  index: -1
+f1
+  rotate: false
+  xy: 397, 2
+  size: 195, 114
+  orig: 195, 114
+  offset: 0, 0
+  index: -1
+f2
+  rotate: false
+  xy: 828, 179
+  size: 120, 56
+  orig: 120, 56
+  offset: 0, 0
+  index: -1
+f3
+  rotate: false
+  xy: 828, 179
+  size: 120, 56
+  orig: 120, 56
+  offset: 0, 0
+  index: -1
+f4
+  rotate: false
+  xy: 828, 179
+  size: 120, 56
+  orig: 120, 56
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 950, 196
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 950, 155
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+l3
+  rotate: false
+  xy: 603, 89
+  size: 95, 51
+  orig: 95, 51
+  offset: 0, 0
+  index: -1
+l4
+  rotate: false
+  xy: 828, 118
+  size: 110, 59
+  orig: 110, 59
+  offset: 0, 0
+  index: -1
+maybay
+  rotate: false
+  xy: 397, 118
+  size: 204, 117
+  orig: 204, 117
+  offset: 0, 0
+  index: -1
+texxt
+  rotate: false
+  xy: 603, 142
+  size: 223, 93
+  orig: 223, 93
+  offset: 0, 0
+  index: -1

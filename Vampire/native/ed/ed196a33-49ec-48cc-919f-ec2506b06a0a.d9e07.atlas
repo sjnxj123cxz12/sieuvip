@@ -1,0 +1,454 @@
+
+ConDoi.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/x2game/images/01
+  rotate: true
+  xy: 1249, 6
+  size: 22, 20
+  orig: 230, 230
+  offset: 101, 98
+  index: -1
+images/x2game/images/02
+  rotate: false
+  xy: 2005, 985
+  size: 38, 37
+  orig: 230, 230
+  offset: 91, 90
+  index: -1
+images/x2game/images/03
+  rotate: true
+  xy: 1972, 679
+  size: 52, 56
+  orig: 230, 230
+  offset: 84, 80
+  index: -1
+images/x2game/images/04
+  rotate: false
+  xy: 1946, 347
+  size: 96, 89
+  orig: 230, 230
+  offset: 64, 67
+  index: -1
+images/x2game/images/05
+  rotate: true
+  xy: 1512, 679
+  size: 152, 112
+  orig: 230, 230
+  offset: 38, 62
+  index: -1
+images/x2game/images/06
+  rotate: true
+  xy: 998, 819
+  size: 203, 133
+  orig: 230, 230
+  offset: 14, 54
+  index: -1
+images/x2game/images/07
+  rotate: true
+  xy: 409, 157
+  size: 213, 135
+  orig: 230, 230
+  offset: 9, 50
+  index: -1
+images/x2game/images/08
+  rotate: true
+  xy: 367, 589
+  size: 215, 133
+  orig: 230, 230
+  offset: 8, 45
+  index: -1
+images/x2game/images/09
+  rotate: true
+  xy: 366, 372
+  size: 215, 137
+  orig: 230, 230
+  offset: 8, 43
+  index: -1
+images/x2game/images/10
+  rotate: true
+  xy: 216, 589
+  size: 215, 149
+  orig: 230, 230
+  offset: 8, 37
+  index: -1
+images/x2game/images/11
+  rotate: true
+  xy: 208, 370
+  size: 215, 156
+  orig: 230, 230
+  offset: 8, 35
+  index: -1
+images/x2game/images/12
+  rotate: true
+  xy: 628, 809
+  size: 213, 165
+  orig: 230, 230
+  offset: 9, 31
+  index: -1
+images/x2game/images/13
+  rotate: true
+  xy: 546, 169
+  size: 208, 173
+  orig: 230, 230
+  offset: 11, 27
+  index: -1
+images/x2game/images/14
+  rotate: true
+  xy: 1267, 826
+  size: 196, 177
+  orig: 230, 230
+  offset: 17, 24
+  index: -1
+images/x2game/images/15
+  rotate: true
+  xy: 1446, 833
+  size: 189, 184
+  orig: 230, 230
+  offset: 20, 20
+  index: -1
+images/x2game/images/16
+  rotate: true
+  xy: 923, 2
+  size: 182, 190
+  orig: 230, 230
+  offset: 23, 18
+  index: -1
+images/x2game/images/17
+  rotate: true
+  xy: 725, 2
+  size: 180, 196
+  orig: 230, 230
+  offset: 24, 16
+  index: -1
+images/x2game/images/18
+  rotate: false
+  xy: 904, 607
+  size: 190, 203
+  orig: 230, 230
+  offset: 18, 14
+  index: -1
+images/x2game/images/19
+  rotate: false
+  xy: 714, 387
+  size: 196, 206
+  orig: 230, 230
+  offset: 16, 13
+  index: -1
+images/x2game/images/20
+  rotate: false
+  xy: 795, 812
+  size: 201, 210
+  orig: 230, 230
+  offset: 14, 11
+  index: -1
+images/x2game/images/21
+  rotate: false
+  xy: 505, 379
+  size: 207, 212
+  orig: 230, 230
+  offset: 12, 10
+  index: -1
+images/x2game/images/22
+  rotate: false
+  xy: 2, 587
+  size: 212, 216
+  orig: 230, 230
+  offset: 9, 9
+  index: -1
+images/x2game/images/23
+  rotate: false
+  xy: 2, 805
+  size: 211, 217
+  orig: 230, 230
+  offset: 10, 9
+  index: -1
+images/x2game/images/24
+  rotate: false
+  xy: 200, 152
+  size: 207, 215
+  orig: 230, 230
+  offset: 9, 10
+  index: -1
+images/x2game/images/25
+  rotate: false
+  xy: 215, 806
+  size: 205, 216
+  orig: 230, 230
+  offset: 9, 10
+  index: -1
+images/x2game/images/26
+  rotate: false
+  xy: 2, 369
+  size: 204, 216
+  orig: 230, 230
+  offset: 9, 10
+  index: -1
+images/x2game/images/27
+  rotate: false
+  xy: 422, 808
+  size: 204, 214
+  orig: 230, 230
+  offset: 10, 10
+  index: -1
+images/x2game/images/28
+  rotate: false
+  xy: 699, 595
+  size: 203, 212
+  orig: 230, 230
+  offset: 9, 10
+  index: -1
+images/x2game/images/29
+  rotate: false
+  xy: 502, 593
+  size: 195, 213
+  orig: 230, 230
+  offset: 17, 11
+  index: -1
+images/x2game/images/30
+  rotate: false
+  xy: 2, 151
+  size: 196, 216
+  orig: 230, 230
+  offset: 17, 11
+  index: -1
+images/x2game/images/31
+  rotate: true
+  xy: 1230, 625
+  size: 197, 155
+  orig: 230, 230
+  offset: 16, 55
+  index: -1
+images/x2game/images/32
+  rotate: true
+  xy: 912, 407
+  size: 198, 132
+  orig: 230, 230
+  offset: 16, 55
+  index: -1
+images/x2game/images/33
+  rotate: true
+  xy: 980, 207
+  size: 198, 132
+  orig: 230, 230
+  offset: 16, 55
+  index: -1
+images/x2game/images/34
+  rotate: true
+  xy: 1046, 407
+  size: 198, 132
+  orig: 230, 230
+  offset: 16, 55
+  index: -1
+images/x2game/images/35
+  rotate: true
+  xy: 1096, 619
+  size: 198, 132
+  orig: 230, 230
+  offset: 16, 55
+  index: -1
+images/x2game/images/36
+  rotate: true
+  xy: 1133, 824
+  size: 198, 132
+  orig: 230, 230
+  offset: 16, 55
+  index: -1
+images/x2game/images/37
+  rotate: true
+  xy: 1114, 207
+  size: 198, 132
+  orig: 230, 230
+  offset: 16, 55
+  index: -1
+images/x2game/images/38
+  rotate: true
+  xy: 1115, 7
+  size: 198, 132
+  orig: 230, 230
+  offset: 16, 55
+  index: -1
+images/x2game/images/39
+  rotate: true
+  xy: 1180, 419
+  size: 198, 132
+  orig: 230, 230
+  offset: 16, 55
+  index: -1
+images/x2game/images/40
+  rotate: true
+  xy: 1248, 221
+  size: 196, 133
+  orig: 230, 230
+  offset: 17, 55
+  index: -1
+images/x2game/images/41
+  rotate: false
+  xy: 2, 2
+  size: 182, 147
+  orig: 230, 230
+  offset: 23, 45
+  index: -1
+images/x2game/images/42
+  rotate: true
+  xy: 1249, 30
+  size: 189, 132
+  orig: 230, 230
+  offset: 20, 55
+  index: -1
+images/x2game/images/43
+  rotate: true
+  xy: 1314, 427
+  size: 196, 128
+  orig: 230, 230
+  offset: 17, 56
+  index: -1
+images/x2game/images/44
+  rotate: true
+  xy: 721, 184
+  size: 201, 127
+  orig: 230, 230
+  offset: 15, 52
+  index: -1
+images/x2game/images/45
+  rotate: true
+  xy: 850, 186
+  size: 199, 128
+  orig: 230, 230
+  offset: 16, 44
+  index: -1
+images/x2game/images/46
+  rotate: false
+  xy: 354, 11
+  size: 185, 139
+  orig: 230, 230
+  offset: 23, 38
+  index: -1
+images/x2game/images/47
+  rotate: true
+  xy: 1699, 90
+  size: 157, 154
+  orig: 230, 230
+  offset: 36, 29
+  index: -1
+images/x2game/images/48
+  rotate: true
+  xy: 1801, 601
+  size: 130, 169
+  orig: 230, 230
+  offset: 56, 20
+  index: -1
+images/x2game/images/49
+  rotate: true
+  xy: 1819, 895
+  size: 127, 184
+  orig: 230, 230
+  offset: 55, 12
+  index: -1
+images/x2game/images/50
+  rotate: false
+  xy: 1387, 634
+  size: 123, 190
+  orig: 230, 230
+  offset: 53, 9
+  index: -1
+images/x2game/images/51
+  rotate: true
+  xy: 1632, 888
+  size: 134, 185
+  orig: 230, 230
+  offset: 47, 11
+  index: -1
+images/x2game/images/52
+  rotate: true
+  xy: 186, 4
+  size: 145, 166
+  orig: 230, 230
+  offset: 39, 21
+  index: -1
+images/x2game/images/53
+  rotate: true
+  xy: 1547, 86
+  size: 161, 150
+  orig: 230, 230
+  offset: 29, 32
+  index: -1
+images/x2game/images/54
+  rotate: false
+  xy: 1632, 735
+  size: 174, 151
+  orig: 230, 230
+  offset: 21, 37
+  index: -1
+images/x2game/images/55
+  rotate: false
+  xy: 541, 3
+  size: 182, 152
+  orig: 230, 230
+  offset: 17, 34
+  index: -1
+images/x2game/images/56
+  rotate: false
+  xy: 1819, 733
+  size: 182, 160
+  orig: 230, 230
+  offset: 17, 29
+  index: -1
+images/x2game/images/57
+  rotate: false
+  xy: 1626, 575
+  size: 173, 158
+  orig: 230, 230
+  offset: 24, 30
+  index: -1
+images/x2game/images/58
+  rotate: false
+  xy: 1444, 466
+  size: 169, 166
+  orig: 230, 230
+  offset: 28, 24
+  index: -1
+images/x2game/images/59
+  rotate: true
+  xy: 1801, 438
+  size: 161, 164
+  orig: 230, 230
+  offset: 35, 26
+  index: -1
+images/x2game/images/60
+  rotate: true
+  xy: 1615, 412
+  size: 161, 164
+  orig: 230, 230
+  offset: 35, 26
+  index: -1
+images/x2game/images/61
+  rotate: true
+  xy: 1444, 303
+  size: 161, 164
+  orig: 230, 230
+  offset: 35, 26
+  index: -1
+images/x2game/images/62
+  rotate: true
+  xy: 1781, 275
+  size: 161, 163
+  orig: 230, 230
+  offset: 35, 26
+  index: -1
+images/x2game/images/63
+  rotate: true
+  xy: 1610, 249
+  size: 161, 163
+  orig: 230, 230
+  offset: 35, 26
+  index: -1
+images/x2game/images/64
+  rotate: true
+  xy: 1383, 141
+  size: 160, 162
+  orig: 230, 230
+  offset: 35, 27
+  index: -1
