@@ -1154,7 +1154,7 @@ var t;
 t = function() {
 function t() {}
 t.prototype.execute = function(t) {
-return cc.ServerConnector.getInstance().sendRequest(cc.SubdomainName.XOC_XOC_LIVE, "api/XocDia/GetBigWinner", function(e) {
+return cc.ServerConnector.getInstance().sendRequest("xocdialive-bigwin-b52.", "api/XocDia/GetBigWinner", function(e) {
 var i = JSON.parse(e);
 return t.onXXGetBigWinnerResponse(i);
 });
@@ -1356,7 +1356,7 @@ function t() {}
 t.prototype.execute = function(t) {
 var e = "api/XocDia/GetHistory";
 console.log("getHistory =====================>" + e);
-return cc.ServerConnector.getInstance().sendRequest("xocdialive.", e, function(e) {
+return cc.ServerConnector.getInstance().sendRequest("xocdialive-bigwin-b52.", e, function(e) {
 var i = JSON.parse(e);
 return t.onXXGetHistoryResponse(i);
 });
@@ -2662,9 +2662,10 @@ XXLiveBWResultView: [ function(t, e) {
 "use strict";
 cc._RF.push(e, "a72b37l84hAq649TJsq2vi4", "XXLiveBWResultView");
 (function() {
+var t;
 cc.XXLiveBWResultView = cc.Class({
 extends: cc.Component,
-properties: {
+properties: (t = {
 nodeBatNan: cc.Node,
 nodeDia: cc.Node,
 animationBat: sp.Skeleton,
@@ -2673,20 +2674,14 @@ sfVis: [ cc.SpriteFrame ],
 animResult: cc.Animation,
 nodeChan: cc.Node,
 nodeLe: cc.Node,
-node2up2down: cc.Node,
-nodeChan1: cc.Node,
-nodeChan2: cc.Node,
-nodeChan3: cc.Node,
-nodeLe1: cc.Node,
-nodeLe2: cc.Node,
-nodeLe3: cc.Node,
-nodeBigWin: [ cc.Node ]
-},
+node2up2down: cc.Node
+}, t.nodeChan = cc.Node, t.node4d = cc.Node, t.node4t = cc.Node, t.nodeLe = cc.Node, 
+t.node3t = cc.Node, t.node3d = cc.Node, t.nodeBigWin = [ cc.Node ], t),
 onLoad: function() {
 cc.XXLiveBWController.getInstance().setXXLiveBWResultView(this);
 this.currentState = -1;
 this.nodeResult = this.animResult.node;
-this.nodeFxResult = this.nodeChan1.parent;
+this.nodeFxResult = this.nodeChan.parent;
 this.batNanPos = cc.v2(0, 43);
 },
 reset: function() {},
@@ -2761,12 +2756,12 @@ var n = this;
 this.nodeFxResult.active = !0;
 this.nodeResult.active = !0;
 this.animResult.stop();
-this.nodeChan1.active = !1;
-this.nodeChan2.active = !1;
-this.nodeChan3.active = !1;
-this.nodeLe1.active = !1;
-this.nodeLe2.active = !1;
-this.nodeLe3.active = !1;
+this.nodeChan.active = !1;
+this.node4d.active = !1;
+this.node4t.active = !1;
+this.nodeLe.active = !1;
+this.node3d.active = !1;
+this.node3t.active = !1;
 this.node2up2down.active = !1;
 if (cc.XXLiveBWController.getInstance().getIsNan() && !i) {
 this.nodeDia.active = !1;
@@ -2797,27 +2792,27 @@ this.animResult.play("le_blink");
 }
 switch (o) {
 case cc.XXLiveBWGate.THREE_UP:
-this.nodeLe1.active = !0;
-this.nodeLe3.active = !0;
+this.nodeLe.active = !0;
+this.node3t.active = !0;
 break;
 
 case cc.XXLiveBWGate.THREE_DOWN:
-this.nodeLe1.active = !0;
-this.nodeChan3.active = !0;
+this.nodeLe.active = !0;
+this.node3d.active = !0;
 break;
 
 case cc.XXLiveBWGate.FOUR_DOWN:
-this.nodeChan1.active = !0;
-this.nodeLe2.active = !0;
+this.nodeChan.active = !0;
+this.node4t.active = !0;
 break;
 
 case cc.XXLiveBWGate.FOUR_UP:
-this.nodeChan1.active = !0;
-this.nodeChan2.active = !0;
+this.nodeChan.active = !0;
+this.node4d.active = !0;
 break;
 
 case cc.XXLiveBWGate.TWO_UP_TWO_DOWN:
-this.nodeChan1.active = !0;
+this.nodeChan.active = !0;
 this.node2up2down.active = !0;
 break;
 
@@ -3562,8 +3557,7 @@ var t;
 t = function() {
 function t() {}
 t.prototype.execute = function(t) {
-var e = cc.SubdomainName.XOC_XOC_LIVE;
-return cc.ServerConnector.getInstance().sendRequest(e, "api/XocDia/GetPlayersNotInGame", function(e) {
+return cc.ServerConnector.getInstance().sendRequest("xocdialive-bigwin-b52.", "api/XocDia/GetPlayersNotInGame", function(e) {
 var i = JSON.parse(e);
 return t.onGetGroupUserResponse(i);
 });

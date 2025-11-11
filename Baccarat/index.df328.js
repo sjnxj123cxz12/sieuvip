@@ -1,1 +1,3263 @@
-function _0x2ce9(_0xe0d6e7,_0x2db97b){var _0x5cd4c0=_0x5cd4();return _0x2ce9=function(_0x2ce9ec,_0x371418){_0x2ce9ec=_0x2ce9ec-0x114;var _0x312155=_0x5cd4c0[_0x2ce9ec];return _0x312155;},_0x2ce9(_0xe0d6e7,_0x2db97b);}function _0x5cd4(){var _0x462611=['scrollView','getColorTy','9231ecXkxl','currentSes','yeZZp','avatars','mage','sfPPair','3|2|1|0|4','Sprite','3b98ex1jiV','VgAKz','esponse','sfPBanker','Ibppq','item','pmj','BET_SESSIO','WWavo','itemPool','|8|4','AOWsb','oView','sfMusics','resetPlaye','zVWSS','ZGQuh','esView','nRMZj','spriteFram','AccountID','cb9eaicw+1','UIWaitingL','psView','putChipToP','setWinVipR','2|4|3|1|0','setToSetup','Fbs','animation','100K','enableMusi','wjNfb','jTiOd','Bacarat_Ch','eBiBk','NZDkV','zlagK','closePopup','GnABI','PopupBacaV','showChat','send','gUWbi','ssage','chipsBetTi','nodeParent','setCardVie','ihrtZ','pAHkI','Status','BacaratCar','XHSID','WMnFw','33A','BacaratHub','JOIN_GAME','GateData','UxmgM','qqBUv','lbBet','oupUserCom','CQhIu','OwZY2c+8gx','uxahW','Normal','playAnimat','pop','nerCommand','JxNte','lbScoreBan','xxpsJ','VDDnD','mand','dLEwg','lgxJk','KttAm','ekqlD','oBiyk','MffPk','MjlEM','SHOW_RESUL','efabs','playSound','==data==','MTEGj','rBet','areaPlayer','reset','PlayerCard','ard','hip','getChildBy','enableClic','bDxrJ','fsvgJ','btnBet','nodeGraph','LORbC','nodeBetX2','ntroller','getAssetVi','length','iewBase','nodeTopVie','8|1|6|0|3|','nker','ector','nijKP','getBetLog','Bacarat_So','__require','sendReques','cSbMv','utCard','ltResponse','lbResult','ForBetSess','reconnect','cLWUm','NameNoForm','stepX','16-extreme','bMZMO','dvXaY','gFcRN','nodeInfo','OWXfB','Gfprx','Avatar','push','cLtSt','Chip','updateBala','PLAYER_PAI','activeGrap','BacaratMap','sendRoomMe','2|3|1|4|0','AYER','NaPef','tCard','lstPlayerC','RpwIt','function','pwo','upUserComm','qnNqC','mnYpz','posChips','XJvhR','Parent','showMessag','mGMPP','rdView','BET_OF_ACC','hhXQj','5|2','lbRefund','HẾT\x20THỜI\x20G','setScore','ayout','SendSocket','qaamb','lbWin','zmgqP','toString','moveToEndF','totalUserT','showScoreS','Again','tCau','showBubble','sTie','showGateWi','gameAssets','sfPlayers','RSLFC','moveTo','tAGcV','NickName','REGISTER_L','USERS','nbrWg','Tie','VbAik','PlayNow','OwaJE','VLajM','prefabBetL','acarat','xNuKx','fAccount','nodeSoiCau','AudioTypes','air','Prefab','1f6a39hW/B','ntyQz','enableSoun','creen','removeAllC','aNwpp','itemID','getTopSess','1312252MXLwMs','MJGAh','UserManage','viewSoiCau','koPKv','iCau','upUserList','WcOWY','mgyal','ines','BICH','open-card','ckchi','utton','xYYLz','3539415rRsveB','0mt','tPosY','phiên\x20trướ','BacaratVie','wIcFU','get','setBetView','xLmsv','node','SESSION_IN','prefabHelp','getSchedul','mainUserIn','isShowCard','xDLrD','rotateTo','Score','erInfor','XPsMq','Edeis','0AW','0|4|5|2|1|','avatar','kWdHM','ameItem','isArray','foView','size','split','XRELx','hrctn','iCauComman','3Item','/EU','LtnYH','agCcF','CauCommand','setAnchorP','bacaratPop','kBet','OUNT','e9f543lVEp','4|2|0|1|3','7|4|5|1|2|','OPEN_CARD','lbTotalWin','sfSuitBich','touchend','subDomainN','setCurrent','ddfa3kmvaB','indexOf','updateBetO','TWczF','yJmAw','GioEn','AL_GOLD','kHKvm','fadeOut','initialize','TkJKZ','TQwir','PsA','feSbL','ame','bankerRota','spTop','activeLayo','ieTwT','nodeSessio','join','sound','showStatus','NzHJF','axWoo','QNwia','Chat','chip10kPoo','INhRq','|12|14|5|1','concat','AiLfc','scaleY','gRerr','0|1|3|2|4','ectpq','HbqIw','spacing','Hbcia','toryItem','BacaratAss','Bacarat_Be','winResult','BANKER_PAI','ession','ffshG','jpqjA','destroyHel','chipsBetPP','6871cIxGh5','INGAME','nFMLU','mUs','doVYQ','047601jfqd','odeSpaceAR','d\x20module\x20\x27','Tool','ata','ChipSprite','tvBUt','SessionID','ntInChildr','DhlDX','9|13|2|7|6','BacaratSoi','1|3|0|1|10','tqVvO','lbStatus','ZLog','W_ROUD','3|5|4|2|1|','wxjmu','AllCallbac','BacaratHis','sqyVM','skeEmotion','btnBetX2','MuNTR','oint','vqflD','10GcTlxk','playerSpri','pUser','SpriteFram','rotateCard','3540800xoJmdJ','View','destroyGro','XzEbO','play','setAnimati','bHazL','/signalr/n','USrGK','lJlIn','LttOy','BET','rResultUI','0|6|3','RUCqr','clearList','setScale','550dbpUucF','jNYXh','bqllW','UIScreenMa','setWinResu','ngMenu','UkiwY','GojzR','2|0|5|1|3|','lastTimeRe','setBetLogS','tieSprite','Result','url','groupUserL','posGroupUs','connectSuc','Config','ncePlayer','dVsAQ','emotion','getCurrent','SDAGa','unschedule','0|1|4|2|3','lbTime','stepY','hipForUser','2Item','nnerComman','opacity','5|9|0|8|12','ryyIF','avatarDef','iVRhN','spawnCount','nceCurrPla','istView','Đã\x20bet','wqDoA','destroyTop','onBacarat_','a0769OwAqt','IyLrS','edbxB','hips','sfCardBack','UPDATE_TOT','rval','BacaratCon','deCard','nPYrU','chip100kPo','createHist','OCOId','ankerBet','CtoYRJlmU0','CHIP_BET','layoutCard','AccountCon','bacarat/im','gO8','bd807vGB69','Vxwzl','TIE','colorRed','world','State','PxscU','tHtjR','FPfPl','ugjPt','onGetBigWi','7|1|0|5|2|','pBankerWin','mtIVi','removeBord','ExitLobby','ionDetail','KU4ad3pVsj','nodeBorder','posPPlayer','BtNnO','BaccaratHu','ker','connect','IjdIr','nodeAreaBa','pBankerSpr','ack','hiGgT','RED','ersInGame','interval','sfPlayer','AudioContr','45wylCMp','EsQTI','Table','getSfCardB','ChatRoomCo','sprite','GvSvS','convertUTC','fJvQS','chipsBetPl','sfSuitCo','4|0|3|1|2','lbSessionI','ips','ScrollView','min','======>','CsEPJ','LeEta','WIleI','yView','bTpTx','open','layer','7582304OHywge','TjYJL','e234dp5HkF','BetValue','notify-che','ionId','BjqWm','CrPBu','addChild','nodeAreaPB','hOLMG','1551bpINPp','Ckr1U+1A/z','TmRoh','QiHgV','ion','YBAxI','RrLMy','zCAGP','getWinVipR','GetSoiCauR','5237cjlaHF','wnoCV','win','easeOut','totalPPlay','PolygonCol','tBet','moveCard','BHyew','EXIT_LOBBY','QCbTh','UZrvB','label','closeSetti','6432EgUVnc','ueByNumber','showSlotsM','iKpmL','instantiat','599f7PeRZZ','FDDKM','YZEHI','playerShow','sfSuitRo','bankerCard','UGtQr','totalPBank','ory','lstPlayers','BCPopupCon','EAVE_ROOM','Site','BacaratGro','TEP','content','prefabHist','lbChip','ayer','ccarat.','totalUserP','10|17|1|4|','color','aWKeQ','popToRootS','disableBet','N5K7PmKr4h','GameState','gateWin','ionInfo','whpho','yHeEs','Ki5cT2Hcsz','resetCard','0a9402v8J1','SumaryBet','dItem','startTimer','r+Z','iate','WnEkN','PLAYER_MES','On5Q/RFzcp','initParamC','laDZz','QxEuU','lBet','ySessionID','2|6|3','target','clearAllCh','Tjfpo','rootCardsP','execute','loader','nodeBetLin','Enum','upControll','PPWej','initListSo','XEsUW','stop','0|2|4|3|1|','parent','kk4','ool','OSSYk','MethodHubO','listAvtars','cYZyU','sfTie','playerWin','GateSignal','hideWaitin','toryComman','BacaratChi','yeMKm','lgjVs','ide','nJqcK','ger','nodeRootx','initValue','tonBet','IAN\x20CƯỢC','Wra','nodeLayout','YlEMR','TwFln','removeFrom','PNaxO','changeSpri','rgu','suvVi','tOnHub','CORE','yBczH','ListView','getChipsLo','TotalBetTi','jGKAE','pRDVo','3b748TwRH1','Api','CC7qwHzVYZ','removeChil','mGM','zHQqq','BacaratCat','duration','string','WHITE','0|4|3|2|1','floor','systemEven','Bacarat_Hi','mfrzN','lbSession','iOkAo','getSfBack','oller','BacaratBut','SubdomainN','chip500kPo','bacarat/pr','prefabGrap','convertToN','dView','CMJaf','BacaratHel','Refund','updateTime','Bacarat2Co','zUpOz','onBetSideC','aTleh','updatePosi','BACCARAT','setChipWin','3|2|4|0|1','bVKXa','setsView','Balance','spriteNode','Pwigh','|4|6|1|3|7','nodeAreaTi','areaTie','ayerPair','width','ava_money','cess','tStPO','OWxgI','VbZfG','ieBet','active','yvVkt','sfTies','createTopV','runAction','cMZYk','xcOuA','updateItem','NtHxa','prefabTop','children','_RF','map','wBKMv','nDetailVie','sbpMP','KẾT\x20QUẢ','ElNWU','hwfXZ','createChip','winVipResu','fJKam','core','setSoiCauV','ojt','setAvatars','Item','gJlnW','formatName','19|5|17|20','nodeEmotio','Name','parse','3|0|2|1|4','M77E6SSj77','layerBet','vRWgy','player','2|4|3|0|1','cQ3','initCard','DcqAj','EqXRM','xaJCG','gate','Account','GrsRi','onHubMessa','topListVie','uHRJa','EVENT_GAME','idPlayNow','resetSprit','nager','tOibb','resetLbTot','ygon','2dcccAD6xZ','HandValueB','put','tweenValue','BANKER','spriteSoun','gFHfM','rsE','playerRota','hideBusy','teFrame','KTzKB','updatePlay','BacaratInf','totalUserB','interactab','FO6shxyYNU','upView','ordinalVal','O3rrlJhy/Q','sfSuitTep','AphCB','VskMU','UeqLY','Component','eUnSW','NdrIS','ZXExB','BaccaratNo','toryListVi','prefabSess','zIndex','height','ENTER_LOBB','3|13|18|12','SAGE','VKiIn','CHIP_SELEC','BacaratWin','BetSide','setAvatarD','LrqEDKSAdf','GqJi16JO3F','spriteTop','0|4|2|6','music','deDepth','QDktF','inished','aSQKd','position','HxUDw','getBetLogS','slideCardO','vqZnV','OORBH','sfSounds','bankerWin','F8V','and','bankerSpri','oryView','call','moveChipBe','PREPARE_NE','PibuH','mute','winResultR','472827twiBQC','ers','Suite','Bet','PTtZE','areaPPair','moveCards','anker','_VIP','gMenu','zdkTW','rCard','ions','erBet','exports','esult','f075eNlEkF','totalPlaye','ersUI','Button','SfButton','7Ot','clearBetLo','JJqqU','IHQDS','tXCKp','16|5|9|13|','animLbWin','updateOrdi','Frame','Bacarat_In','BacaratBet','wBKom','includes','openSettin','tDWML','VyEOh','3|0|2|7|6|','Unregister','pIvPm','CONNECTED','howCard','lUserBetSi','destroy','Skeleton','LabelIncre','isNative','colorWhite','Bacarat_Ca','onGetHisto','IhURx','FFJ1Gr+80r','getTime','PNvgK','@Sound','updateSess','RUYna','PiOpF','upUserView','RIsmD','getPositio','registerPl','layoutChip','lPNEk','borderCard','BacaratAct','MethodHubN','|8|16|9|6|','schedule','nBet','isConnect','game','XDDwe','Bacarat_As','vVRMj','touchstart','Money','mKeGs','lbScorePla','PopupContr','orldSpaceA','DISCONNECT','pPairWin','posDealer','qdCZk','3|5|2|4|1|','mVXQH','CVrsU','nInView','totalBanke','bSQuQ','sionId','lastConten','ydysq','SrdTB','updateInte','hfgli','s5w','BubbleChat','points','chip1kPool','BoqFN5Bthg','playerLeav','BETTING','lbBubbleCh','resetLayou','sessionID','lstPosPlay','activeTime','LbScoreBan','nal','Wmuzl','upItem','QogOD','at/GetPlay','sfPrefabCh','btnBetAgai','1|0|2|4|3','betSide','LbScorePla','xVN','AudioPoolB','chipsBetPB','Ecobp','ocv','colorYello','random','bufferZone','playerCard','SEND_MESSA','chip5kPool','ConfigMana','IefNM','XuWPq','IXWeg','ServiceID','jfkjU','NodePool','getAvatarI','createGrou','lider','lbRank','etView','aPYhb','nodeHistor','callFunc','playerStat','showBusy','Banker','YXsBA','getWinResu','TIME','forceShowR','PLAY_NOW','JqSLK','lbSId','RGDjD','getCompone','positionPl','ionWin','NetConfig','CuBwI','====>','eEWmS','QfPgy','lstBankerC','initCardOn','itemTempla','otion','nQdcF','RFqhB','betLogSess','MIAQN','PLAYER','getBetLogB','connectHub','JmYpE','0|4|1|3|2','JReeV','otiSh','nodeAreaPl','RPSyi','@Music','getSfBorde','BacaratSet','NwOTQ','formatNumb','prototype','oxCTd','api/Baccar','UNREGISTER','esqDS','items','A6Yemu9V6D','posPBanker','ijgam','Cards','storyComma','86e35ceRst','initListCa','rootConten','-sexy-girl','0|4|1|5|3|','roll','releaseRes','Ellapsed','OnBaccarat','animationS','betLog','Class','forEach','setPositio','ServerConn','setBetLog','ZPUBw','DisplayNam','updateChip','createHelp','eYwsV','2|7|4|5','XYpmv','down','KguKe','randomPosC','iCrAZ','setBacarat','tEGhP','playerResu','BankerCard','gniJX','clearPools','aLsYz','IqUtb','XhTeR','chipBet','JJsdU','setDefault','tieWin','Color','pyLCq','RSEAs','historyLis','time','BACARAT','initRootPo','kEsXM','vWteP','GpNxD','sKBjR','1Item','ufxpd','isPaused','PSIpt','Award','nodeAreaPP','dXgwP','NoteDepth','cLvQm','ce383GOFHB','UJWuD','0|3|4|2|1','BankerBet','TotalBetPl','DFYmm','isActiveCh','getLocatio','stopAnimat','AArOc','OIpbNPPBVM','223529grlPOW','lengthNode','setAvatar','nodePPair','ltUI','THgdQ','currAccId','sfBankers','ipsView','lQj','at/GetHist','ezosg','initBetLog','uovqH','NHBLT','unRegister','WIN_RESULT','ItemSoiCau','rUI','nalr/negot','nodeBubble','WebSocKet','destroyHis','chOLs','currentSta','sendSignal','b87fd464AJ','setItem','nodeHelpVi','convertToW','XFxyG','kUKbO','PlayerStat','troller','addBorderC','nkerPair','jvQcP','Time','IdmpO','2:9001/sig','iew',':\x20#','BacaratCol','BigGateIDW','instance','lbTotalPla','sNotify','xYXIt','ixEby','Label','ketManager','currPlayer','AcYnGoAOmp','BacaratPop','lbSID','kQMEn','fbRHG','AudioSourc','PWYEIpYnK4','pPairSprit','TxNHw','xxHub','tingView','WnNzR','pView','ConfigInfo','director','openPopup','egotiate','D4LZvSi9f1','prefabGrou','getService','SUMMARY_PL','forceShowC','YcGWh','3|4|2|0|1','0|12|9|4|2','5c2aekkhBx','nnTvv','setCatCauV','BET_SUCCES','Gate','pointInPol','Dir','spriteBord','sDgBw','P.Pair','zNOFK','prepareSli','ZypCX','QpXXj','yer','musicBackg','getInstanc','onBet','xxWin','winResultV','CnPUU','onSlideCar','rRuBI','QswhG','refundChip','nhjsO','cJUHD','8|3|7|1|5|','iveGraph','gmfpB','erCard','nodeBetAga','filter','checkIsEmo','PlayerBet','hildren','PokVN','SWJOB','ptZok','ite','resetList','isActive','setAssetVi','krUcK','fe2711mK0R','xhyXt','getChipsWi','round','createView','_LEAVE_ROO','ser','5Uq','runRefundC','B.Pair','ryResponse','lick','vjc','g44','stringify','pUserView','CauView','Lhod/7s7oL','pOf','tView','initChipsW','95ea4ir9rF','Player','aveRoom','UPZbt','calculateS','MESSAGE','nodeChat','updateReal','C8e','setChipsVi','YmNky','BacaratTop','Fy4UzGpNv9','OlruX','zGhpf','WS/','chat','setPopupVi','sequence','setInfoVie','AslhF','positionsU','sfBanker','Animation','a712cUwlVZ','hdeYk','kjLsb','nickName','6|1|7|5|2|','Bacarat_Gr','6|4|7|2|1|','Node','d1v','setActiveB','ofDWv','lbName','layoutPare','clear','stopAutoSc','chipsWin','spriteAtla','sfBorderCa','TotalBetBa','areaPBanke','log','getCardVal','1|0|3|2|4','posPlayer','hjhiu','Pos','uSdWX','IsBankerPa','Chưa\x20có\x20dữ','QNOCl','at/GetSoiC','qqHwP','banker','59d96druut','nName','getSpriteF','JC76p2KuG+','RECONNECT_','|2|11|10','YUfLV','EventDispa','CiFMH','EventType','hND','GateWebSoc','messages','oNuYs','KlhRi','Bacarat_Wi','updateTota','off','alBet','8498BxYEnh','4|1|2|0|3','ionWinners','ages','lbNickName','nodeRooty','bind','YdpOO','npHYn','showScoreA','F94S7u7ZCG','getSpriteC','toryView','YEsiC','P+4nkvrmac','stopAllAct','chipsBetBa','Intersecti','fhNUg','betValue','500K','ayerUI','tionPlayer','iqxLc','nce','NvpuWkER+U','200e4Gvazd','isPlaying','setSpiteFr','lbBalance','QYcGU','activeNode','BacaratPla'];_0x5cd4=function(){return _0x462611;};return _0x5cd4();}var _0x4efc99=_0x2ce9;(function(_0x1252a8,_0x365a8d){var _0x12588f=_0x2ce9,_0x398265=_0x1252a8();while(!![]){try{var _0x2c3790=parseInt(_0x12588f(0x427))/0x1*(-parseInt(_0x12588f(0x14b))/0x2)+parseInt(_0x12588f(0x31a))/0x3+parseInt(_0x12588f(0x5f9))/0x4+-parseInt(_0x12588f(0x608))/0x5+-parseInt(_0x12588f(0x1fc))/0x6*(-parseInt(_0x12588f(0x501))/0x7)+-parseInt(_0x12588f(0x1d9))/0x8+-parseInt(_0x12588f(0x1c1))/0x9*(-parseInt(_0x12588f(0x150))/0xa);if(_0x2c3790===_0x365a8d)break;else _0x398265['push'](_0x398265['shift']());}catch(_0x5888db){_0x398265['push'](_0x398265['shift']());}}}(_0x5cd4,0xbf724),window[_0x4efc99(0x59b)]=function t(_0x29b30d,_0x110bfc,_0x6cac8b){var _0x5a544a=_0x4efc99,_0x46c98a={'LeEta':function(_0x256b3f,_0x1c6cfd){return _0x256b3f(_0x1c6cfd);},'zmgqP':function(_0xcc7b8d,_0x4d326d){return _0xcc7b8d==_0x4d326d;},'RFqhB':_0x5a544a(0x5bc),'ypaOS':function(_0x5a99dd,_0x26facd){return _0x5a99dd&&_0x26facd;},'NdrIS':function(_0x160def,_0x15b23f,_0x1281bd){return _0x160def(_0x15b23f,_0x1281bd);},'YZEHI':function(_0x7a4681,_0x3c3226,_0x5a5a09){return _0x7a4681(_0x3c3226,_0x5a5a09);},'cLvQm':'Cannot\x20fin'+_0x5a544a(0x132),'wBKMv':function(_0x34c0b9,_0x4ba282){return _0x34c0b9<_0x4ba282;}};function _0x54d781(_0x46548b,_0x4fc08c){var _0x191bb9=_0x5a544a;if(!_0x110bfc[_0x46548b]){if(!_0x29b30d[_0x46548b]){var _0x3beef2=_0x46548b[_0x191bb9(0x625)]('/');_0x3beef2=_0x3beef2[_0x3beef2[_0x191bb9(0x592)]-0x1];if(!_0x29b30d[_0x3beef2]){var _0x477808=_0x46c98a[_0x191bb9(0x5d1)](_0x46c98a['RFqhB'],typeof __require)&&__require;if(_0x46c98a['ypaOS'](!_0x4fc08c,_0x477808))return _0x46c98a[_0x191bb9(0x2f0)](_0x477808,_0x3beef2,!0x0);if(_0x330721)return _0x46c98a[_0x191bb9(0x203)](_0x330721,_0x3beef2,!0x0);throw new Error(_0x46c98a[_0x191bb9(0x41b)]+_0x46548b+'\x27');}_0x46548b=_0x3beef2;}var _0x4337d6=_0x110bfc[_0x46548b]={'exports':{}};_0x29b30d[_0x46548b][0x0][_0x191bb9(0x314)](_0x4337d6[_0x191bb9(0x328)],function(_0x4fda7f){var _0x11ce92=_0x191bb9;return _0x46c98a[_0x11ce92(0x1d3)](_0x54d781,_0x29b30d[_0x46548b][0x1][_0x4fda7f]||_0x4fda7f);},_0x4337d6,_0x4337d6[_0x191bb9(0x328)],t,_0x29b30d,_0x110bfc,_0x6cac8b);}return _0x110bfc[_0x46548b][_0x191bb9(0x328)];}for(var _0x330721=_0x46c98a['zmgqP'](_0x46c98a[_0x5a544a(0x3c4)],typeof __require)&&__require,_0x2bc9d1=0x0;_0x46c98a[_0x5a544a(0x2aa)](_0x2bc9d1,_0x6cac8b[_0x5a544a(0x592)]);_0x2bc9d1++)_0x46c98a[_0x5a544a(0x1d3)](_0x54d781,_0x6cac8b[_0x2bc9d1]);return _0x54d781;}({'AudioPoolBacarat':[function(_0x34b614,_0x124e7d){'use strict';var _0x2e18b3=_0x4efc99,_0x3cfe89={'ScAuZ':'44fc0rixLR'+_0x2e18b3(0x50b)+_0x2e18b3(0x37b),'clEiC':'AudioPoolB'+_0x2e18b3(0x5ea)};cc['_RF']['push'](_0x124e7d,_0x3cfe89['ScAuZ'],_0x3cfe89['clEiC']),function(){var _0xc0c17d=_0x2e18b3;cc[_0xc0c17d(0x393)+'acarat']=cc[_0xc0c17d(0x3eb)]({'extends':cc[_0xc0c17d(0x2ee)],'properties':{'musicBackground':cc[_0xc0c17d(0x460)+'e'],'moveCard':cc[_0xc0c17d(0x460)+'e'],'chipBet':cc['AudioSourc'+'e'],'chipSelect':cc[_0xc0c17d(0x460)+'e']},'onLoad':function(){var _0x4ee15d=_0xc0c17d;cc[_0x4ee15d(0x1c0)+'oller'][_0x4ee15d(0x484)+'e']()['setAudioPo'+'ol'](this);},'enableMusic':function(_0x301d32){var _0x3ec062=_0xc0c17d;this['musicBackg'+'round']&&(_0x301d32?this['musicBackg'+_0x3ec062(0x4a3)][_0x3ec062(0x51c)]||this['musicBackg'+_0x3ec062(0x4a3)][_0x3ec062(0x154)]():this[_0x3ec062(0x483)+_0x3ec062(0x4a3)][_0x3ec062(0x23e)]());},'enableSound':function(_0x55ebe8){var _0x4e2078=_0xc0c17d;this[_0x4e2078(0x404)][_0x4e2078(0x318)]=!_0x55ebe8,this[_0x4e2078(0x1f5)]['mute']=!_0x55ebe8,this[_0x4e2078(0x483)+_0x4e2078(0x4a3)][_0x4e2078(0x318)]=!_0x55ebe8;},'getAudioClip':function(_0x3d6fee){var _0x390646=_0xc0c17d,_0x283928=null;switch(_0x3d6fee){case cc['AudioTypes'][_0x390646(0x2fb)+'T']:_0x283928=this['chipSelect'];break;case cc[_0x390646(0x5ee)]['CHIP_BET']:_0x283928=this[_0x390646(0x404)];break;case cc[_0x390646(0x5ee)][_0x390646(0x635)]:_0x283928=this[_0x390646(0x1f5)];}return _0x283928;}});}[_0x2e18b3(0x314)](void 0x0),cc[_0x2e18b3(0x2a8)][_0x2e18b3(0x56f)]();},{}],'Bacarat2Controller':[function(_0x240b71,_0x4ef752){'use strict';var _0x3800cf=_0x4efc99,_0x5d4e0b={'OSSYk':function(_0x2d7215,_0x3ddd97){return _0x2d7215===_0x3ddd97;},'PNaxO':function(_0x346510,_0x5ef939){return _0x346510>_0x5ef939;},'aNwpp':_0x3800cf(0x4a0)+'BE5P3OAk2q'+_0x3800cf(0x4f8),'feSbL':_0x3800cf(0x285)+_0x3800cf(0x590)};cc[_0x3800cf(0x2a8)][_0x3800cf(0x5ae)](_0x4ef752,_0x5d4e0b[_0x3800cf(0x5f6)],_0x5d4e0b[_0x3800cf(0x648)]),function(){var _0x2abe52={'dXgwP':function(_0x2cb432,_0x90af6){var _0x507941=_0x2ce9;return _0x5d4e0b[_0x507941(0x243)](_0x2cb432,_0x90af6);},'tDWML':function(_0x5124b3,_0x2f19c8){var _0xc105c4=_0x2ce9;return _0x5d4e0b[_0xc105c4(0x25b)](_0x5124b3,_0x2f19c8);}},_0x2d9e4c;_0x2d9e4c=(function(){var _0x532a7c=_0x2ce9,_0x4f26a3={'toOTA':function(_0x138860,_0x23e8c1){var _0x4c562e=_0x2ce9;return _0x2abe52[_0x4c562e(0x33d)](_0x138860,_0x23e8c1);},'yeZZp':function(_0x1a2b8a,_0x1e141b){return _0x1a2b8a-_0x1e141b;}},_0x429914;function _0x56abde(){}return _0x429914=void 0x0,_0x56abde['getInstanc'+'e']=function(){var _0x313143=_0x2ce9;return _0x2abe52[_0x313143(0x419)](void 0x0,_0x429914)&&(_0x429914=this),_0x429914['prototype'];},_0x56abde[_0x532a7c(0x3d5)]['setBacarat'+'View']=function(_0x4c127d){var _0x54a813=_0x532a7c;return this[_0x54a813(0x60c)+'w']=_0x4c127d;},_0x56abde[_0x532a7c(0x3d5)]['sendReques'+'tOnHub']=function(_0x2a96a1,_0x23f5e2,_0x11d459){var _0x348d9e=_0x532a7c;if(this['BacaratVie'+'w'])return this[_0x348d9e(0x60c)+'w'][_0x348d9e(0x59c)+_0x348d9e(0x25f)](_0x2a96a1,_0x23f5e2,_0x11d459);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x2fe)+'ef']=function(_0x464208){var _0x5b668=_0x532a7c;return this[_0x5b668(0x182)]=_0x464208;},_0x56abde['prototype']['getAvatarD'+'ef']=function(){var _0x950fe=_0x532a7c;return this[_0x950fe(0x182)];},_0x56abde['prototype'][_0x532a7c(0x2b6)]=function(_0x1047f0){return this['avatars']=_0x1047f0;},_0x56abde[_0x532a7c(0x3d5)]['getAvatars']=function(){var _0x164294=_0x532a7c;return this[_0x164294(0x527)];},_0x56abde[_0x532a7c(0x3d5)]['updateBala'+_0x532a7c(0x519)]=function(_0x3f12a8){var _0x4d0d22=_0x532a7c;this[_0x4d0d22(0x60c)+'w'][_0x4d0d22(0x5b1)+_0x4d0d22(0x519)](_0x3f12a8);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x4c8)+'w']=function(_0x459509){var _0x494b1d=_0x532a7c;return this[_0x494b1d(0x338)+_0x494b1d(0x623)]=_0x459509;},_0x56abde['prototype']['playerLeav'+'e']=function(_0x38a761){var _0x475e71=_0x532a7c;this['BacaratVie'+'w'][_0x475e71(0x380)+'e'](_0x38a761),this['Bacarat_In'+_0x475e71(0x623)][_0x475e71(0x380)+'e'](_0x38a761);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x351)+'ionInfo']=function(_0x17f8f9){var _0x3ff85f=_0x532a7c;return this[_0x3ff85f(0x338)+_0x3ff85f(0x623)][_0x3ff85f(0x351)+'ionInfo'](_0x17f8f9);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x2e2)+_0x532a7c(0x1bd)]=function(_0x1a1b10){var _0x3fb4c2=_0x532a7c;return this[_0x3fb4c2(0x338)+_0x3fb4c2(0x623)][_0x3fb4c2(0x2e2)+'ersInGame'](_0x1a1b10);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x124)]=function(_0x544fb8){var _0x3c39bf=_0x532a7c;return this[_0x3c39bf(0x338)+_0x3c39bf(0x623)]['winResult'](_0x544fb8);},_0x56abde['prototype'][_0x532a7c(0x165)+'lt']=function(_0x3556a4){var _0x3766fa=_0x532a7c;return this[_0x3766fa(0x319)+_0x3766fa(0x52e)]=_0x3556a4;},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x3b0)+'lt']=function(){var _0xfa2367=_0x532a7c;return this[_0xfa2367(0x319)+'esponse'];},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x545)+_0x532a7c(0x329)]=function(_0x2e7675){var _0x272a3d=_0x532a7c;return this[_0x272a3d(0x2b1)+_0x272a3d(0x59f)]=_0x2e7675;},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x1ec)+'esult']=function(){var _0x317279=_0x532a7c;return this['winVipResu'+_0x317279(0x59f)];},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x487)+'ip']=function(_0x2785a3){var _0x4029ed=_0x532a7c;return this['Bacarat_In'+'foView'][_0x4029ed(0x487)+'ip'](_0x2785a3);},_0x56abde['prototype'][_0x532a7c(0x204)+_0x532a7c(0x37c)]=function(_0xa49e0b){var _0x320800=_0x532a7c;return this[_0x320800(0x338)+_0x320800(0x623)][_0x320800(0x204)+_0x320800(0x37c)](_0xa49e0b);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x320)]=function(_0x4e9b55){var _0x29052e=_0x532a7c;return this[_0x29052e(0x338)+'foView']['moveCards'](_0x4e9b55);},_0x56abde['prototype']['updatePlay'+'ersUI']=function(_0x2c0fdf){var _0xf56bd=_0x532a7c;return this[_0xf56bd(0x338)+_0xf56bd(0x623)][_0xf56bd(0x2e2)+_0xf56bd(0x32c)](_0x2c0fdf);},_0x56abde[_0x532a7c(0x3d5)]['updatePlay'+_0x532a7c(0x61a)]=function(_0xaad100){var _0x149956=_0x532a7c;return this['Bacarat_In'+_0x149956(0x623)][_0x149956(0x2e2)+_0x149956(0x61a)](_0xaad100);},_0x56abde['prototype'][_0x532a7c(0x5b1)+_0x532a7c(0x185)+'yer']=function(_0x2248ce){var _0x5df2b5=_0x532a7c;return this[_0x5df2b5(0x338)+_0x5df2b5(0x623)]['updateBala'+_0x5df2b5(0x185)+_0x5df2b5(0x482)](_0x2248ce);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x204)+_0x532a7c(0x37c)]=function(_0x4a5ee9){var _0x9573f6=_0x532a7c;return this['Bacarat_In'+_0x9573f6(0x623)][_0x9573f6(0x204)+_0x9573f6(0x37c)](_0x4a5ee9);},_0x56abde['prototype'][_0x532a7c(0x5b1)+_0x532a7c(0x173)]=function(_0x3644ff){var _0x5ac837=_0x532a7c;return this[_0x5ac837(0x338)+_0x5ac837(0x623)][_0x5ac837(0x5b1)+_0x5ac837(0x173)](_0x3644ff);},_0x56abde['prototype'][_0x532a7c(0x289)+_0x532a7c(0x517)+'UI']=function(_0x550ba6){var _0x43adb9=_0x532a7c;return this[_0x43adb9(0x4ca)+'I']=_0x550ba6;},_0x56abde[_0x532a7c(0x3d5)]['positionPl'+'ayerUI']=function(){var _0x104e88=_0x532a7c;return this[_0x104e88(0x4ca)+'I'];},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x49e)+'ew']=function(_0x632e41){var _0x2432cd=_0x532a7c;return this['Bacarat_As'+_0x2432cd(0x28e)]=_0x632e41;},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x591)+'ew']=function(){var _0x2da31f=_0x532a7c;return this[_0x2da31f(0x363)+'setsView'];},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x278)]=function(_0x26e31f){var _0x35a9d1=_0x532a7c;return this[_0x35a9d1(0x363)+_0x35a9d1(0x28e)][_0x35a9d1(0x278)](_0x26e31f);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x3d1)+_0x532a7c(0x325)]=function(){var _0x37ca19=_0x532a7c;return this[_0x37ca19(0x363)+'setsView'][_0x37ca19(0x3d1)+_0x37ca19(0x325)]();},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x2b0)]=function(_0x1e7e97){var _0x11cf02=_0x532a7c;return this['Bacarat_As'+_0x11cf02(0x28e)][_0x11cf02(0x2b0)](_0x1e7e97);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x1c4)+_0x532a7c(0x1ba)]=function(){var _0x4a43b6=_0x532a7c;return this['Bacarat_As'+_0x4a43b6(0x28e)][_0x4a43b6(0x1c4)+'ack']();},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x50c)+_0x532a7c(0x586)]=function(_0x3f618a,_0x2afc04){var _0x14188b=_0x532a7c;return this[_0x14188b(0x363)+_0x14188b(0x28e)][_0x14188b(0x50c)+_0x14188b(0x586)](_0x3f618a,_0x2afc04);},_0x56abde[_0x532a7c(0x3d5)]['getCardVal'+_0x532a7c(0x1fd)]=function(_0x2c9ac9){var _0x1abf21=_0x532a7c;return this[_0x1abf21(0x363)+'setsView'][_0x1abf21(0x4e2)+_0x1abf21(0x1fd)](_0x2c9ac9);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x523)+'pe']=function(_0x172063){var _0x94ba72=_0x532a7c;return this['Bacarat_As'+_0x94ba72(0x28e)][_0x94ba72(0x523)+'pe'](_0x172063);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x544)+_0x532a7c(0x242)]=function(_0x52578d,_0x128aba){return this['Bacarat_As'+'setsView']['putChipToP'+'ool'](_0x52578d,_0x128aba);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x400)]=function(){var _0x5aebc5=_0x532a7c;return this[_0x5aebc5(0x363)+_0x5aebc5(0x28e)][_0x5aebc5(0x400)]();},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x60f)]=function(_0x3ae660){var _0x790e67=_0x532a7c;return this[_0x790e67(0x123)+_0x790e67(0x4b3)]=_0x3ae660;},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x485)]=function(_0x4ac2ab){var _0x10230a=_0x532a7c;return this[_0x10230a(0x123)+'tView'][_0x10230a(0x485)](_0x4ac2ab);},_0x56abde['prototype'][_0x532a7c(0x589)+_0x532a7c(0x630)]=function(_0x49a3b7){var _0x38170e=_0x532a7c;return this[_0x38170e(0x123)+'tView']['enableClic'+_0x38170e(0x630)](_0x49a3b7);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x21a)+'Again']=function(_0x499802){var _0x1a1d92=_0x532a7c;return this['Bacarat_Be'+'tView'][_0x1a1d92(0x21a)+_0x1a1d92(0x5d6)](_0x499802);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x56e)+_0x532a7c(0x3b9)]=function(_0x4d23b3){var _0x5a0b83=_0x532a7c;return this[_0x5a0b83(0x123)+_0x5a0b83(0x4b3)]['playAnimat'+_0x5a0b83(0x3b9)](_0x4d23b3);},_0x56abde['prototype']['stopAnimat'+_0x532a7c(0x3b9)]=function(){var _0x57deb5=_0x532a7c;return this[_0x57deb5(0x123)+_0x57deb5(0x4b3)][_0x57deb5(0x424)+_0x57deb5(0x3b9)]();},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x4fe)+_0x532a7c(0x344)+'de']=function(_0x2fda18,_0x2e7b45){var _0x1f4b7c=_0x532a7c;return this[_0x1f4b7c(0x123)+_0x1f4b7c(0x4b3)][_0x1f4b7c(0x4fe)+_0x1f4b7c(0x344)+'de'](_0x2fda18,_0x2e7b45);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x4fe)+_0x532a7c(0x22f)]=function(_0x55e5f2){var _0x2c1429=_0x532a7c;return this[_0x2c1429(0x123)+_0x2c1429(0x4b3)]['updateTota'+_0x2c1429(0x22f)](_0x55e5f2);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x63d)+_0x532a7c(0x5ec)]=function(_0x527123){var _0x2db422=_0x532a7c;return this['Bacarat_Be'+_0x2db422(0x4b3)]['updateBetO'+_0x2db422(0x5ec)](_0x527123);},_0x56abde[_0x532a7c(0x3d5)]['setCardVie'+'w']=function(_0x22eeef){var _0x61ad2e=_0x532a7c;return this['Bacarat_Ca'+_0x61ad2e(0x5c6)]=_0x22eeef;},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x520)+'Score']=function(_0x4ac95b){var _0x38a9f8=_0x532a7c;return this[_0x38a9f8(0x34a)+'rdView'][_0x38a9f8(0x520)+'Score'](_0x4ac95b);},_0x56abde[_0x532a7c(0x3d5)]['activeNode'+_0x532a7c(0x3de)]=function(_0x1c3792){var _0x14ccc3=_0x532a7c;return this[_0x14ccc3(0x34a)+_0x14ccc3(0x5c6)][_0x14ccc3(0x520)+_0x14ccc3(0x3de)](_0x1c3792);},_0x56abde['prototype'][_0x532a7c(0x5d5)+_0x532a7c(0x24f)]=function(_0x213af8){var _0x52f5b0=_0x532a7c;return this[_0x52f5b0(0x34a)+_0x52f5b0(0x5c6)][_0x52f5b0(0x5d5)+_0x52f5b0(0x24f)](_0x213af8);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x383)+_0x532a7c(0x5b9)]=function(){var _0x34988b=_0x532a7c;return this[_0x34988b(0x34a)+'rdView'][_0x34988b(0x383)+_0x34988b(0x5b9)]();},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x489)+'d']=function(_0x262222){var _0x88065c=_0x532a7c;return this[_0x88065c(0x34a)+_0x88065c(0x5c6)]['onSlideCar'+'d'](_0x262222);},_0x56abde['prototype']['slideCardO'+'nBet']=function(){var _0x186d15=_0x532a7c;return this[_0x186d15(0x34a)+'rdView'][_0x186d15(0x30b)+_0x186d15(0x35f)]();},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x3c0)+_0x532a7c(0x1c3)]=function(){var _0x13d762=_0x532a7c;return this[_0x13d762(0x34a)+_0x13d762(0x5c6)]['initCardOn'+_0x13d762(0x1c3)]();},_0x56abde['prototype'][_0x532a7c(0x3b2)+_0x532a7c(0x329)]=function(_0x1b651d,_0x350563){var _0x167e1d=_0x532a7c;return this['Bacarat_Ca'+_0x167e1d(0x5c6)][_0x167e1d(0x3b2)+_0x167e1d(0x329)](_0x1b651d,_0x350563);},_0x56abde['prototype'][_0x532a7c(0x4be)+'ew']=function(_0x6a124c){var _0x18485b=_0x532a7c;return this['Bacarat_Ch'+_0x18485b(0x42f)]=_0x6a124c;},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x315)+'t']=function(_0x14b025,_0x50720b,_0x40e8f4,_0x50837b){var _0x443da0=_0x532a7c;return this[_0x443da0(0x54e)+'ipsView'][_0x443da0(0x315)+'t'](_0x14b025,_0x50720b,_0x40e8f4,_0x50837b);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x263)+'se']=function(_0x48a027,_0x556f42){var _0x451508=_0x532a7c;return this[_0x451508(0x54e)+_0x451508(0x42f)][_0x451508(0x263)+'se'](_0x48a027,_0x556f42);},_0x56abde[_0x532a7c(0x3d5)]['refundChip'+'s']=function(_0x21a25f){var _0x2fcca9=_0x532a7c;return this[_0x2fcca9(0x54e)+_0x2fcca9(0x42f)][_0x2fcca9(0x48c)+'s'](_0x21a25f);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x48c)+'sTie']=function(){var _0x26d6b4=_0x532a7c;return this[_0x26d6b4(0x54e)+_0x26d6b4(0x42f)][_0x26d6b4(0x48c)+_0x26d6b4(0x5d9)]();},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x233)+_0x532a7c(0x1ce)]=function(){var _0x54e7c9=_0x532a7c;return this[_0x54e7c9(0x54e)+'ipsView']['clearAllCh'+_0x54e7c9(0x1ce)]();},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x22c)+_0x532a7c(0x18e)]=function(){var _0x57cf77=_0x532a7c;return this[_0x57cf77(0x54e)+_0x57cf77(0x42f)]['initParamC'+'hips']();},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x3f2)+_0x532a7c(0x5a1)+_0x532a7c(0x1e8)]=function(_0x3a0c3){var _0x46bebe=_0x532a7c;return this[_0x46bebe(0x54e)+'ipsView'][_0x46bebe(0x3f2)+_0x46bebe(0x5a1)+'ion'](_0x3a0c3);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x330)+'g']=function(_0x440edc){var _0xcc4111=_0x532a7c,_0x591188={'YBAxI':function(_0x576c97,_0x540807){return _0x4f26a3['toOTA'](_0x576c97,_0x540807);},'hwfXZ':function(_0x1d96d8,_0x33362d){var _0x5b5c8e=_0x2ce9;return _0x4f26a3[_0x5b5c8e(0x526)](_0x1d96d8,_0x33362d);}};this[_0xcc4111(0x3ea)]=this[_0xcc4111(0x3ea)]['filter'](function(_0x4ef5ac){var _0x9b860d=_0xcc4111;return _0x591188[_0x9b860d(0x1e9)](_0x4ef5ac[_0x9b860d(0x384)],_0x591188[_0x9b860d(0x2af)](_0x440edc,0x1));});},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x3c8)+'ySessionID']=function(_0x3b1540){var _0x2ebaf1=_0x532a7c,_0xb7f98a={'WIleI':function(_0x3195e2,_0x1ff62d){return _0x3195e2==_0x1ff62d;}};return this[_0x2ebaf1(0x3ea)]['filter'](function(_0x5481c1){var _0x5ecf21=_0x2ebaf1;return _0xb7f98a[_0x5ecf21(0x1d4)](_0x5481c1['sessionID'],_0x3b1540-0x1);});},_0x56abde[_0x532a7c(0x3d5)]['setBetLog']=function(_0x1d6d40){var _0x30e42a=_0x532a7c;return this[_0x30e42a(0x3ea)][_0x30e42a(0x5ae)](_0x1d6d40);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x599)]=function(){var _0x14b33b=_0x532a7c;return this[_0x14b33b(0x3ea)];},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x433)]=function(){var _0x83b39c=_0x532a7c;return this[_0x83b39c(0x3ea)]=[];},_0x56abde['prototype'][_0x532a7c(0x2b4)+'iew']=function(_0x434539){var _0x16cae2=_0x532a7c;return this[_0x16cae2(0x59a)+_0x16cae2(0x5fe)]=_0x434539;},_0x56abde['prototype'][_0x532a7c(0x23c)+_0x532a7c(0x5fe)]=function(_0x54566a){var _0x19a6d5=_0x532a7c;return this[_0x19a6d5(0x59a)+_0x19a6d5(0x5fe)][_0x19a6d5(0x23c)+_0x19a6d5(0x5fe)](_0x54566a);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x5b3)+'h']=function(_0x4b4ceb){var _0x28f865=_0x532a7c;this[_0x28f865(0x59a)+_0x28f865(0x5fe)][_0x28f865(0x5b3)+'h'](_0x4b4ceb),this[_0x28f865(0x34a)+'tCau'][_0x28f865(0x5b3)+'h'](_0x4b4ceb);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x476)+_0x532a7c(0x44f)]=function(_0x430340){var _0x50a8d0=_0x532a7c;return this[_0x50a8d0(0x34a)+_0x50a8d0(0x5d7)]=_0x430340;},_0x56abde[_0x532a7c(0x3d5)]['initListCa'+_0x532a7c(0x5d7)]=function(_0x27e506){var _0x4bb444=_0x532a7c;return this[_0x4bb444(0x34a)+_0x4bb444(0x5d7)][_0x4bb444(0x3e1)+'tCau'](_0x27e506);},_0x56abde['prototype'][_0x532a7c(0x28b)]=function(_0x29cb63,_0x16a6c4,_0x308f07){var _0x19cc00=_0x532a7c;return this[_0x19cc00(0x4dc)][_0x19cc00(0x5ae)]([_0x29cb63,_0x16a6c4,_0x308f07]);},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x4a2)+'n']=function(){var _0x130dce=_0x532a7c;return this[_0x130dce(0x4dc)];},_0x56abde[_0x532a7c(0x3d5)]['initChipsW'+'in']=function(){var _0x2a570c=_0x532a7c;return this[_0x2a570c(0x4dc)]=[];},_0x56abde['prototype'][_0x532a7c(0x16b)+_0x532a7c(0x126)]=function(_0x589129){var _0x25dc00=_0x532a7c;return this[_0x25dc00(0x3c5)+_0x25dc00(0x1e8)]=_0x589129;},_0x56abde[_0x532a7c(0x3d5)]['getBetLogS'+'ession']=function(){var _0x6c0cdf=_0x532a7c;return this[_0x6c0cdf(0x3c5)+_0x6c0cdf(0x1e8)];},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x63a)+_0x532a7c(0x1a4)]=function(_0x27c0c8){var _0x32c8e9=_0x532a7c;return this[_0x32c8e9(0x43f)+'te']=_0x27c0c8;},_0x56abde['prototype'][_0x532a7c(0x176)+_0x532a7c(0x1a4)]=function(){var _0x5f2582=_0x532a7c;return this[_0x5f2582(0x43f)+'te'];},_0x56abde[_0x532a7c(0x3d5)][_0x532a7c(0x4bc)+_0x532a7c(0x28f)]=function(_0x4c6ef3){var _0x8adea4=_0x532a7c;lngui['UserManage'+'r']['instance'][_0x8adea4(0x615)+'fo'][_0x8adea4(0x366)]=_0x4c6ef3,lngui[_0x8adea4(0x4f5)+'tch'][_0x8adea4(0x453)]['emit'](lngui[_0x8adea4(0x2cf)+_0x8adea4(0x260)][_0x8adea4(0x190)+_0x8adea4(0x641)],lngui[_0x8adea4(0x5fb)+'r'][_0x8adea4(0x453)][_0x8adea4(0x615)+'fo'][_0x8adea4(0x366)]);},_0x56abde;}()),cc['Bacarat2Co'+'ntroller']=_0x2d9e4c;}[_0x3800cf(0x314)](void 0x0),cc['_RF'][_0x3800cf(0x56f)]();},{}],'BacaratActiveGraph':[function(_0x412a47,_0x4c9858){'use strict';var _0x4878ca=_0x4efc99;cc[_0x4878ca(0x2a8)][_0x4878ca(0x5ae)](_0x4c9858,_0x4878ca(0x2d6)+'J4qycKQbsj'+_0x4878ca(0x25d),'BacaratAct'+_0x4878ca(0x490)),cc[_0x4878ca(0x3eb)]({'extends':cc[_0x4878ca(0x2ee)],'onActiveGraph':function(){var _0x315e95=_0x4878ca;cc['Bacarat2Co'+_0x315e95(0x590)]['getInstanc'+'e']()[_0x315e95(0x5b3)+'h'](!0x0);},'onDeactiveGraph':function(){var _0x34bb57=_0x4878ca;cc[_0x34bb57(0x285)+_0x34bb57(0x590)][_0x34bb57(0x484)+'e']()[_0x34bb57(0x5b3)+'h'](!0x1);}}),cc[_0x4878ca(0x2a8)][_0x4878ca(0x56f)]();},{}],'BacaratAssetView':[function(_0x3151bb,_0x23d59d){'use strict';var _0x9e2c1=_0x4efc99,_0x4c5d09={'ZMGNS':_0x9e2c1(0x169)+'4','hdeYk':function(_0x109dad,_0x420d08){return _0x109dad+_0x420d08;},'gFHfM':function(_0x40f33b,_0x322d58){return _0x40f33b%_0x322d58;},'BQNYn':function(_0x2081a5,_0x5b4dbd){return _0x2081a5-_0x5b4dbd;},'hrctn':function(_0x3e4b52,_0x465115){return _0x3e4b52-_0x465115;},'bqllW':function(_0xd6c2c2,_0x9fbab3){return _0xd6c2c2-_0x9fbab3;},'oNuYs':function(_0x202bdd,_0x14dc41){return _0x202bdd>_0x14dc41;},'lgjVs':function(_0x2e8a56,_0x1196d1){return _0x2e8a56>_0x1196d1;},'KweMo':'10K','VyEOh':_0x9e2c1(0x54a),'NwOTQ':_0x9e2c1(0x515),'pRDVo':function(_0x2b8e75,_0xbecb9f){return _0x2b8e75+_0xbecb9f;},'RGDjD':function(_0x20332c,_0x475954){return _0x20332c*_0x475954;},'iVRhN':function(_0x4c6013,_0x20bb85){return _0x4c6013/_0x20bb85;},'KynNc':_0x9e2c1(0x474)+_0x9e2c1(0x37f)+'Q/V','jfkjU':_0x9e2c1(0x122)+_0x9e2c1(0x3a8)};cc[_0x9e2c1(0x2a8)][_0x9e2c1(0x5ae)](_0x23d59d,_0x4c5d09['KynNc'],_0x4c5d09[_0x9e2c1(0x3a2)]),function(){var _0x5ad655=_0x9e2c1,_0x51cb97={'XHSID':function(_0x3c21d3,_0x314aea){var _0x2dacce=_0x2ce9;return _0x4c5d09[_0x2dacce(0x266)](_0x3c21d3,_0x314aea);},'QYcGU':function(_0x4475a7,_0x118aac){var _0x1eb38d=_0x2ce9;return _0x4c5d09[_0x1eb38d(0x3b6)](_0x4475a7,_0x118aac);},'cLWUm':function(_0x208a6d,_0x3249d2){var _0x545d5a=_0x2ce9;return _0x4c5d09[_0x545d5a(0x183)](_0x208a6d,_0x3249d2);}};cc[_0x5ad655(0x122)+_0x5ad655(0x3a8)]=cc[_0x5ad655(0x3eb)]({'extends':cc[_0x5ad655(0x2ee)],'properties':{'sfBorderCard':cc[_0x5ad655(0x14e)+'e'],'sfPrefabChip':[cc['Prefab']],'sfSuitCo':[cc['SpriteFram'+'e']],'sfSuitRo':[cc[_0x5ad655(0x14e)+'e']],'sfSuitTep':[cc[_0x5ad655(0x14e)+'e']],'sfSuitBich':[cc[_0x5ad655(0x14e)+'e']],'sfCardBack':cc['SpriteFram'+'e'],'sfPlayers':[cc[_0x5ad655(0x14e)+'e']],'sfBankers':[cc[_0x5ad655(0x14e)+'e']],'sfTies':[cc[_0x5ad655(0x14e)+'e']],'colorWhite':cc[_0x5ad655(0x408)],'colorYellow':cc[_0x5ad655(0x408)],'colorRed':cc['Color']},'onLoad':function(){var _0x561fb9=_0x5ad655,_0x10cb2f=_0x4c5d09['ZMGNS'][_0x561fb9(0x625)]('|'),_0x57d239=0x0;while(!![]){switch(_0x10cb2f[_0x57d239++]){case'0':this[_0x561fb9(0x37e)]=new cc[(_0x561fb9(0x3a3))]();continue;case'1':this[_0x561fb9(0x115)+'l']=new cc['NodePool']();continue;case'2':cc['Bacarat2Co'+_0x561fb9(0x590)][_0x561fb9(0x484)+'e']()[_0x561fb9(0x49e)+'ew'](this);continue;case'3':this[_0x561fb9(0x195)+'ol']=new cc['NodePool']();continue;case'4':this[_0x561fb9(0x27c)+'ol']=new cc[(_0x561fb9(0x3a3))]();continue;case'5':this[_0x561fb9(0x39c)]=new cc[(_0x561fb9(0x3a3))]();continue;}break;}},'clearPools':function(){var _0x39fa79=_0x5ad655;try{var _0x4c28f1=_0x39fa79(0x38f)['split']('|'),_0x56212a=0x0;while(!![]){switch(_0x4c28f1[_0x56212a++]){case'0':this[_0x39fa79(0x39c)][_0x39fa79(0x4da)]();continue;case'1':this[_0x39fa79(0x37e)][_0x39fa79(0x4da)]();continue;case'2':this[_0x39fa79(0x115)+'l']['clear']();continue;case'3':this[_0x39fa79(0x27c)+'ol'][_0x39fa79(0x4da)]();continue;case'4':this[_0x39fa79(0x195)+'ol'][_0x39fa79(0x4da)]();continue;}break;}}catch(_0x28e7c0){}},'getSfBorderCard':function(){var _0xf2b8db=_0x5ad655;return this[_0xf2b8db(0x4de)+'rd'];},'getSfCardBack':function(){var _0x41b6cb=_0x5ad655;return this[_0x41b6cb(0x18f)];},'getSpriteCard':function(_0x488df6,_0x236c11){var _0x30ea78=_0x5ad655,_0x574528=null;_0x488df6=parseInt(_0x488df6);switch(_0x236c11){case cc[_0x30ea78(0x34a)+'rd']['CO']:_0x574528=this[_0x30ea78(0x1cb)];break;case cc['Bacarat_Ca'+'rd']['RO']:_0x574528=this[_0x30ea78(0x205)];break;case cc['Bacarat_Ca'+'rd'][_0x30ea78(0x20f)]:_0x574528=this[_0x30ea78(0x2ea)];break;case cc[_0x30ea78(0x34a)+'rd'][_0x30ea78(0x603)]:_0x574528=this[_0x30ea78(0x637)];}return-0x1===_0x488df6?null:_0x574528[_0x488df6];},'getCardValue':function(_0x1de4fb,_0x2200c3){var _0x3971d5=_0x5ad655;return _0x51cb97[_0x3971d5(0x560)](_0x51cb97[_0x3971d5(0x51f)](0x4,_0x1de4fb-0x3),_0x51cb97[_0x3971d5(0x5a3)](_0x2200c3,0xd));},'getCardValueByNumber':function(_0x1c0f7b){var _0xf5c9=_0x5ad655,_0x18d1f4=_0x4c5d09[_0xf5c9(0x4ce)](_0x4c5d09[_0xf5c9(0x2dc)](_0x4c5d09['BQNYn'](_0x1c0f7b,0x1),0xd),0x1),_0x4a56df=_0x4c5d09[_0xf5c9(0x627)](_0x1c0f7b,_0x18d1f4);return this['getSpriteC'+'ard'](_0x4c5d09[_0xf5c9(0x163)](_0x18d1f4,0x1),_0x4a56df);},'getSpriteByName':function(_0x4bfcfa){var _0x28a96b=_0x5ad655;return this[_0x28a96b(0x4dd)+_0x28a96b(0x455)][_0x28a96b(0x4f0)+'rame'](_0x4bfcfa);},'createChip':function(_0x3867bc){var _0x15a4e8=_0x5ad655,_0x933e32=null;switch(_0x3867bc){case cc[_0x15a4e8(0x5b4)+_0x15a4e8(0x5b0)]['1K']:_0x933e32=_0x4c5d09[_0x15a4e8(0x4fb)](this['chip1kPool']['size'](),0x0)?this[_0x15a4e8(0x37e)][_0x15a4e8(0x60e)]():cc[_0x15a4e8(0x200)+'e'](this['sfPrefabCh'+'ip'][0x0]);break;case cc[_0x15a4e8(0x5b4)+_0x15a4e8(0x5b0)]['5K']:_0x933e32=_0x4c5d09[_0x15a4e8(0x24e)](this['chip5kPool'][_0x15a4e8(0x624)](),0x0)?this['chip5kPool']['get']():cc[_0x15a4e8(0x200)+'e'](this[_0x15a4e8(0x38d)+'ip'][0x1]);break;case cc[_0x15a4e8(0x5b4)+_0x15a4e8(0x5b0)][_0x4c5d09['KweMo']]:_0x933e32=this['chip10kPoo'+'l']['size']()>0x0?this[_0x15a4e8(0x115)+'l'][_0x15a4e8(0x60e)]():cc[_0x15a4e8(0x200)+'e'](this['sfPrefabCh'+'ip'][0x2]);break;case cc[_0x15a4e8(0x5b4)+_0x15a4e8(0x5b0)][_0x4c5d09[_0x15a4e8(0x33e)]]:_0x933e32=_0x4c5d09[_0x15a4e8(0x24e)](this[_0x15a4e8(0x195)+'ol'][_0x15a4e8(0x624)](),0x0)?this[_0x15a4e8(0x195)+'ol'][_0x15a4e8(0x60e)]():cc[_0x15a4e8(0x200)+'e'](this[_0x15a4e8(0x38d)+'ip'][0x3]);break;case cc['BacaratMap'+'Chip'][_0x4c5d09[_0x15a4e8(0x3d3)]]:_0x933e32=_0x4c5d09['oNuYs'](this[_0x15a4e8(0x27c)+'ol']['size'](),0x0)?this['chip500kPo'+'ol'][_0x15a4e8(0x60e)]():cc[_0x15a4e8(0x200)+'e'](this['sfPrefabCh'+'ip'][0x4]);}return _0x933e32&&_0x933e32['setScale'](0.5,0.5),_0x933e32;},'putChipToPool':function(_0x21c652,_0x4ceb5e){var _0x21f839=_0x5ad655;switch(_0x4ceb5e){case 0x3e8:this[_0x21f839(0x37e)][_0x21f839(0x2d8)](_0x21c652);break;case 0x1388:this[_0x21f839(0x39c)]['put'](_0x21c652);break;case 0x2710:this[_0x21f839(0x115)+'l'][_0x21f839(0x2d8)](_0x21c652);break;case 0x186a0:this[_0x21f839(0x195)+'ol'][_0x21f839(0x2d8)](_0x21c652);break;case 0x7a120:this[_0x21f839(0x27c)+'ol'][_0x21f839(0x2d8)](_0x21c652);}},'getColorType':function(_0x3bf449){var _0x1601db=_0x5ad655;switch(_0x3bf449){case cc[_0x1601db(0x451)+'or'][_0x1601db(0x270)]:return this[_0x1601db(0x349)];case cc[_0x1601db(0x451)+'or']['YELLOW']:return this[_0x1601db(0x397)+'w'];case cc[_0x1601db(0x451)+'or']['RED']:return this[_0x1601db(0x1a2)];}}});}['call'](void 0x0),cc[_0x9e2c1(0x2a8)][_0x9e2c1(0x56f)]();},{}],'BacaratBetView':[function(_0x3cb400,_0x1c8126){'use strict';var _0x5b5a6d=_0x4efc99,_0x5514e1={'xYXIt':_0x5b5a6d(0x2ba)+_0x5b5a6d(0x35d)+'4|15|7|10|'+_0x5b5a6d(0x2f8)+'|2|11|14|1'+'|0','laDZz':'win','uovqH':_0x5b5a6d(0x29d),'WcOWY':_0x5b5a6d(0x1cc),'FdnNA':_0x5b5a6d(0x52a),'pIvPm':function(_0x1aae97,_0x197a9c){return _0x1aae97===_0x197a9c;},'YiNNt':function(_0x11aff3,_0x507899){return _0x11aff3===_0x507899;},'CnPUU':function(_0x487b09,_0x5f4447){return _0x487b09===_0x5f4447;},'rvBJT':function(_0x3488e8,_0x3e6760){return _0x3488e8===_0x3e6760;},'fbRHG':function(_0x30a6e4,_0xff90fd){return _0x30a6e4!=_0xff90fd;},'hiGgT':function(_0x1b573c,_0x55f8d9){return _0x1b573c-_0x55f8d9;},'IhURx':function(_0x14974e,_0x154a35){return _0x14974e*_0x154a35;},'vWteP':function(_0x52d727,_0x282396){return _0x52d727(_0x282396);},'eBiBk':_0x5b5a6d(0x4e9)+'\x20liệu\x20của\x20'+_0x5b5a6d(0x60b)+'c.','XdKte':_0x5b5a6d(0x365),'jblJi':_0x5b5a6d(0x638),'zldXW':function(_0x3f04ea,_0x283bdc){return _0x3f04ea==_0x283bdc;},'CMJaf':'animtion0','OlruX':_0x5b5a6d(0x3e4)+'2','nnTvv':'bd01a76mXB'+_0x5b5a6d(0x34d)+_0x5b5a6d(0x241),'aSQKd':'BacaratBet'+_0x5b5a6d(0x151)};cc[_0x5b5a6d(0x2a8)]['push'](_0x1c8126,_0x5514e1[_0x5b5a6d(0x475)],_0x5514e1[_0x5b5a6d(0x307)]),function(){var _0x1d2335=_0x5b5a6d,_0x52b34a={'TQwir':function(_0x1e04c9,_0x473eff){var _0x45bca5=_0x2ce9;return _0x5514e1[_0x45bca5(0x45f)](_0x1e04c9,_0x473eff);},'CiFMH':function(_0x248b4b,_0x5f2c7e){return _0x248b4b(_0x5f2c7e);},'mVXQH':function(_0x562772,_0x4572c6){var _0x466b35=_0x2ce9;return _0x5514e1[_0x466b35(0x1bb)](_0x562772,_0x4572c6);},'bREwu':function(_0x43490e,_0x86512c){return _0x43490e(_0x86512c);},'qqHwP':function(_0x2bd64a,_0x13a3e2){var _0x13f75e=_0x2ce9;return _0x5514e1[_0x13f75e(0x34c)](_0x2bd64a,_0x13a3e2);},'MffPk':function(_0x5b5119,_0x17f411){var _0x4f62bc=_0x2ce9;return _0x5514e1[_0x4f62bc(0x410)](_0x5b5119,_0x17f411);},'LtnYH':function(_0x3c530a,_0x401d9b){var _0x3bf21b=_0x2ce9;return _0x5514e1[_0x3bf21b(0x410)](_0x3c530a,_0x401d9b);},'yvVkt':_0x5514e1[_0x1d2335(0x54f)],'RrLMy':_0x5514e1['XdKte'],'tOibb':_0x5514e1['jblJi'],'cGLKu':function(_0x37bf5d,_0x45e653){return _0x5514e1['zldXW'](_0x37bf5d,_0x45e653);},'NtHxa':_0x5514e1[_0x1d2335(0x281)],'NAedh':_0x5514e1[_0x1d2335(0x4c2)],'vqZnV':function(_0xa3581,_0x52c8b1){return _0xa3581(_0x52c8b1);}};cc['BacaratBet'+'View']=cc[_0x1d2335(0x3eb)]({'extends':cc['Component'],'properties':{'nodeLayoutBet':cc[_0x1d2335(0x4d4)],'nodeAreaPPair':cc['Node'],'sfPPair':[cc['SpriteFram'+'e']],'nodeAreaPlayer':cc['Node'],'sfPlayer':[cc[_0x1d2335(0x14e)+'e']],'nodeAreaTie':cc[_0x1d2335(0x4d4)],'sfTie':[cc[_0x1d2335(0x14e)+'e']],'nodeAreaBanker':cc[_0x1d2335(0x4d4)],'sfBanker':[cc[_0x1d2335(0x14e)+'e']],'nodeAreaPBanker':cc['Node'],'sfPBanker':[cc[_0x1d2335(0x14e)+'e']],'totalPPlayerBet':cc['Label'],'totalUserPPlayerBet':cc[_0x1d2335(0x458)],'totalPlayerBet':cc['Label'],'totalUserPlayerBet':cc[_0x1d2335(0x458)],'totalTieBet':cc[_0x1d2335(0x458)],'totalUserTieBet':cc[_0x1d2335(0x458)],'totalBankerBet':cc[_0x1d2335(0x458)],'totalUserBankerBet':cc[_0x1d2335(0x458)],'totalPBankerBet':cc[_0x1d2335(0x458)],'totalUserPBankerBet':cc['Label'],'btnBet':[cc[_0x1d2335(0x4d4)]],'nodeBetX2':cc[_0x1d2335(0x4d4)],'nodeBetAgain':cc[_0x1d2335(0x4d4)]},'onLoad':function(){var _0x553d71=_0x1d2335,_0x2fab08=_0x5514e1[_0x553d71(0x456)][_0x553d71(0x625)]('|'),_0x2c140b=0x0;while(!![]){switch(_0x2fab08[_0x2c140b++]){case'0':this[_0x553d71(0x38e)+'n']=this[_0x553d71(0x493)+'in']['getCompone'+'nt'](cc[_0x553d71(0x32d)]);continue;case'1':this[_0x553d71(0x147)]=this['nodeBetX2'][_0x553d71(0x3b7)+'nt'](cc[_0x553d71(0x32d)]);continue;case'2':this[_0x553d71(0x30f)]=this[_0x553d71(0x1b8)+_0x553d71(0x596)][_0x553d71(0x588)+_0x553d71(0x2bc)](_0x5514e1[_0x553d71(0x22d)])[_0x553d71(0x3b7)+'nt'](sp[_0x553d71(0x346)]);continue;case'3':this[_0x553d71(0x36c)]=this[_0x553d71(0x418)+_0x553d71(0x5ef)][_0x553d71(0x588)+_0x553d71(0x2bc)](_0x553d71(0x1f0))['getCompone'+'nt'](sp[_0x553d71(0x346)]);continue;case'4':this['playerSpri'+'te']=this[_0x553d71(0x3ce)+_0x553d71(0x213)]['getCompone'+'nt'](cc[_0x553d71(0x52b)]);continue;case'5':this[_0x553d71(0x514)]=0x1388;continue;case'6':this[_0x553d71(0x462)+'e']=this[_0x553d71(0x418)+_0x553d71(0x5ef)][_0x553d71(0x3b7)+'nt'](cc[_0x553d71(0x52b)]);continue;case'7':this[_0x553d71(0x312)+'te']=this[_0x553d71(0x1b8)+_0x553d71(0x596)][_0x553d71(0x3b7)+'nt'](cc['Sprite']);continue;case'8':this[_0x553d71(0x294)]=this[_0x553d71(0x293)+'e'][_0x553d71(0x3b7)+'nt'](cc[_0x553d71(0x1f3)+_0x553d71(0x3a6)]);continue;case'9':this[_0x553d71(0x4e0)+'r']=this['nodeAreaPB'+_0x553d71(0x321)][_0x553d71(0x3b7)+'nt'](cc[_0x553d71(0x1f3)+_0x553d71(0x3a6)]);continue;case'10':this[_0x553d71(0x1b9)+_0x553d71(0x49b)]=this[_0x553d71(0x1e2)+_0x553d71(0x321)]['getCompone'+'nt'](cc[_0x553d71(0x52b)]);continue;case'11':this[_0x553d71(0x1ab)]=this[_0x553d71(0x1e2)+_0x553d71(0x321)][_0x553d71(0x588)+_0x553d71(0x2bc)](_0x5514e1[_0x553d71(0x22d)])[_0x553d71(0x3b7)+'nt'](sp['Skeleton']);continue;case'12':this[_0x553d71(0x407)]=this[_0x553d71(0x293)+'e'][_0x553d71(0x588)+_0x553d71(0x2bc)](_0x5514e1[_0x553d71(0x22d)])[_0x553d71(0x3b7)+'nt'](sp['Skeleton']);continue;case'13':console[_0x553d71(0x4e1)](this[_0x553d71(0x36c)]);continue;case'14':this[_0x553d71(0x2d4)+_0x553d71(0x500)]();continue;case'15':this['tieSprite']=this[_0x553d71(0x293)+'e']['getCompone'+'nt'](cc['Sprite']);continue;case'16':this['areaBanker']=this[_0x553d71(0x1b8)+_0x553d71(0x596)]['getCompone'+'nt'](cc[_0x553d71(0x1f3)+_0x553d71(0x3a6)]);continue;case'17':this[_0x553d71(0x31f)]=this['nodeAreaPP'+_0x553d71(0x5ef)]['getCompone'+'nt'](cc[_0x553d71(0x1f3)+_0x553d71(0x3a6)]);continue;case'18':this[_0x553d71(0x248)]=this[_0x553d71(0x3ce)+'ayer'][_0x553d71(0x588)+_0x553d71(0x2bc)](_0x5514e1[_0x553d71(0x22d)])[_0x553d71(0x3b7)+'nt'](sp[_0x553d71(0x346)]);continue;case'19':cc[_0x553d71(0x285)+_0x553d71(0x590)][_0x553d71(0x484)+'e']()[_0x553d71(0x60f)](this);continue;case'20':this[_0x553d71(0x583)]=this['nodeAreaPl'+_0x553d71(0x213)]['getCompone'+'nt'](cc['PolygonCol'+'lider']);continue;}break;}},'resetLbTotalBet':function(){var _0x1841d5=_0x1d2335;[this[_0x1841d5(0x1f2)+_0x1841d5(0x327)],this[_0x1841d5(0x215)+_0x1841d5(0x496)],this[_0x1841d5(0x32b)+_0x1841d5(0x582)],this[_0x1841d5(0x215)+_0x1841d5(0x2c0)],this['totalTieBe'+'t'],this[_0x1841d5(0x5d4)+_0x1841d5(0x29c)],this[_0x1841d5(0x373)+_0x1841d5(0x582)],this[_0x1841d5(0x2e4)+_0x1841d5(0x198)],this['totalPBank'+_0x1841d5(0x327)],this['totalUserP'+_0x1841d5(0x41f)]][_0x1841d5(0x2a9)](function(_0x4709ea){var _0x6d5349=_0x1841d5;return _0x4709ea[_0x6d5349(0x26f)]='';});},'onEnable':function(){cc['director']['getCollisi'+'onManager']()['enabled']=!0x0;},'onDisable':function(){},'setBetValue':function(_0xe669f9,_0x3aedb6){var _0x412626=_0x1d2335;_0x52b34a[_0x412626(0x646)](_0x3aedb6=_0x52b34a['CiFMH'](parseInt,_0x3aedb6),this['betValue'])&&(this[_0x412626(0x514)]=_0x3aedb6,cc[_0x412626(0x1c0)+_0x412626(0x279)]['getInstanc'+'e']()[_0x412626(0x57f)](cc[_0x412626(0x5ee)]['CHIP_SELEC'+'T']),this[_0x412626(0x2d1)+'eButton'](),this[_0x412626(0x4d6)+_0x412626(0x606)](_0xe669f9[_0x412626(0x232)]));},'setActiveButton':function(_0x93109a){var _0x158102=_0x1d2335;_0x93109a[_0x158102(0x588)+_0x158102(0x2bc)](_0x158102(0x29d))['active']=!0x0;var _0x556cea=cc[_0x158102(0x5de)](0.3,cc['v2'](_0x93109a['x'],0xf));_0x93109a[_0x158102(0x2a1)](_0x556cea);},'resetSpriteButton':function(){var _0x13eb01=_0x1d2335,_0x910a52=this[_0x13eb01(0x58c)],_0x267fde=this;_0x910a52[_0x13eb01(0x3ec)](function(_0x23cf4e,_0x3a7aaf){var _0x118a8e=_0x13eb01;_0x267fde[_0x118a8e(0x406)+_0x118a8e(0x32e)](_0x23cf4e,_0x3a7aaf);});},'setDefaultSfButton':function(_0x38d548){var _0xdbc27c=_0x1d2335;_0x38d548[_0xdbc27c(0x588)+_0xdbc27c(0x2bc)](_0x5514e1[_0xdbc27c(0x434)])[_0xdbc27c(0x29d)]=!0x1;var _0x18b191=cc[_0xdbc27c(0x5de)](0.3,cc['v2'](_0x38d548['x'],0x0));_0x38d548[_0xdbc27c(0x2a1)](_0x18b191);},'onBetAgain':function(_0x29cf85,_0x40484e){var _0x117641=_0x1d2335,_0x4a8337={'PPWej':function(_0x53b403,_0x549056){var _0x2eefa3=_0x2ce9;return _0x52b34a[_0x2eefa3(0x370)](_0x53b403,_0x549056);},'BtNnO':function(_0x450dbf,_0x170ae4){return _0x52b34a['bREwu'](_0x450dbf,_0x170ae4);},'UGtQr':function(_0xb4c4df,_0x3ba4fc){var _0xc8a980=_0x2ce9;return _0x52b34a[_0xc8a980(0x4ec)](_0xb4c4df,_0x3ba4fc);}},_0x3a0253=this;_0x40484e=_0x52b34a[_0x117641(0x57b)](parseInt,_0x40484e);var _0x5bb186=cc[_0x117641(0x285)+_0x117641(0x590)]['getInstanc'+'e']()['getBetLogB'+_0x117641(0x230)](cc['Bacarat2Co'+_0x117641(0x590)]['getInstanc'+'e']()['getBetLogS'+_0x117641(0x126)]());if(0x0!==_0x5bb186[_0x117641(0x592)]){for(var _0x5430ed=function(_0x46bcff){var _0x5e8fe1={'suvVi':function(_0x276529,_0x1a586e){return _0x276529===_0x1a586e;},'sqyVM':function(_0x39b652,_0x2a6d99){var _0x134ded=_0x2ce9;return _0x4a8337[_0x134ded(0x23b)](_0x39b652,_0x2a6d99);},'PxscU':function(_0xab5c8,_0xe1fedf){var _0x58680f=_0x2ce9;return _0x4a8337[_0x58680f(0x1b3)](_0xab5c8,_0xe1fedf);},'HbqIw':function(_0x2a832b,_0x2c01f8){var _0x5096b0=_0x2ce9;return _0x4a8337[_0x5096b0(0x207)](_0x2a832b,_0x2c01f8);}};_0x5bb186['map'](function(_0x1b0d4c,_0x43b695){var _0x30b7cf=_0x2ce9,_0x1a521c=setTimeout(function(){var _0xac0b5e=_0x2ce9;if(_0x5e8fe1[_0xac0b5e(0x25e)](cc[_0xac0b5e(0x285)+_0xac0b5e(0x590)][_0xac0b5e(0x484)+'e']()[_0xac0b5e(0x176)+_0xac0b5e(0x1a4)](),cc[_0xac0b5e(0x5b4)+_0xac0b5e(0x21c)]['BETTING'])&&_0x5e8fe1[_0xac0b5e(0x25e)](_0x1b0d4c[_0xac0b5e(0x384)],_0x5e8fe1[_0xac0b5e(0x145)](cc[_0xac0b5e(0x285)+_0xac0b5e(0x590)][_0xac0b5e(0x484)+'e']()[_0xac0b5e(0x30a)+'ession'](),0x1)))this[_0xac0b5e(0x59c)+_0xac0b5e(0x1f4)](_0x1b0d4c['value'],_0x1b0d4c[_0xac0b5e(0x390)]);else try{_0x5e8fe1[_0xac0b5e(0x1a5)](clearTimeout,_0x1a521c);}catch(_0x6ed353){}}[_0x30b7cf(0x507)](_0x3a0253),_0x5e8fe1[_0x30b7cf(0x11e)](0x78,_0x43b695)*_0x46bcff);},_0x3a0253);},_0x25b0c5=0x1;_0x25b0c5<=_0x40484e;_0x25b0c5++)_0x52b34a[_0x117641(0x62b)](_0x5430ed,_0x25b0c5);this[_0x117641(0x21a)+'Again'](!0x0);}else cc[_0x117641(0x369)+_0x117641(0x279)][_0x117641(0x484)+'e']()[_0x117641(0x1fe)+'essage'](_0x52b34a[_0x117641(0x29e)]);},'disableBetAgain':function(_0x34aed1){var _0x16d43c=_0x1d2335,_0x10c0fe=('1|2|5|3|4|'+'0')[_0x16d43c(0x625)]('|'),_0xcf1e6f=0x0;while(!![]){switch(_0x10c0fe[_0xcf1e6f++]){case'0':this['nodeBetAga'+'in']['color']=_0x2b0b08;continue;case'1':this[_0x16d43c(0x38e)+'n']['interactab'+'le']=!_0x34aed1;continue;case'2':this[_0x16d43c(0x147)][_0x16d43c(0x2e5)+'le']=!_0x34aed1;continue;case'3':_0x34aed1&&(_0x2b0b08=cc[_0x16d43c(0x408)]['GRAY']);continue;case'4':this[_0x16d43c(0x58f)][_0x16d43c(0x217)]=_0x2b0b08;continue;case'5':var _0x2b0b08=cc[_0x16d43c(0x408)][_0x16d43c(0x270)];continue;}break;}},'initBetEvent':function(){var _0xc3dd33=_0x1d2335;this[_0xc3dd33(0x257)+'Bet']['on'](_0x52b34a[_0xc3dd33(0x1ea)],function(_0xa87f1){var _0x868c=_0xc3dd33;this['onBetSideC'+'lick'](_0xa87f1[_0x868c(0x423)+'n'](),_0x52b34a[_0x868c(0x1ea)]);},this),this[_0xc3dd33(0x257)+_0xc3dd33(0x31d)]['on'](_0x52b34a[_0xc3dd33(0x2d3)],function(_0x338453){var _0x487e14=_0xc3dd33;this[_0x487e14(0x287)+_0x487e14(0x4ab)](_0x338453[_0x487e14(0x423)+'n'](),_0x487e14(0x638));},this);},'enableClickBet':function(_0x2c479d){var _0x1878de=_0x1d2335;if(_0x2c479d)this['initBetEve'+'nt']();else this[_0x1878de(0x257)+_0x1878de(0x31d)][_0x1878de(0x4ff)](cc[_0x1878de(0x4d4)][_0x1878de(0x4f7)]['TOUCH_STAR'+'T']),this[_0x1878de(0x257)+'Bet'][_0x1878de(0x4ff)](cc['Node'][_0x1878de(0x4f7)]['TOUCH_END']),this[_0x1878de(0x25c)+_0x1878de(0x2e0)](this[_0x1878de(0x462)+'e'],this[_0x1878de(0x529)],_0x52b34a[_0x1878de(0x2d3)],cc['BacaratBet'+_0x1878de(0x20d)]['PLAYER_PAI'+'R']),this[_0x1878de(0x25c)+'teFrame'](this[_0x1878de(0x14c)+'te'],this['sfPlayer'],_0x1878de(0x638),cc['BacaratBet'+'Site']['PLAYER']),this[_0x1878de(0x25c)+_0x1878de(0x2e0)](this[_0x1878de(0x16c)],this[_0x1878de(0x247)],_0x52b34a[_0x1878de(0x2d3)],cc[_0x1878de(0x339)+_0x1878de(0x20d)][_0x1878de(0x1a1)]),this[_0x1878de(0x25c)+_0x1878de(0x2e0)](this[_0x1878de(0x312)+'te'],this[_0x1878de(0x4cb)],_0x52b34a[_0x1878de(0x2d3)],cc[_0x1878de(0x339)+_0x1878de(0x20d)][_0x1878de(0x2da)]),this[_0x1878de(0x25c)+_0x1878de(0x2e0)](this[_0x1878de(0x1b9)+_0x1878de(0x49b)],this[_0x1878de(0x52f)],_0x52b34a[_0x1878de(0x2d3)],cc[_0x1878de(0x339)+_0x1878de(0x20d)][_0x1878de(0x125)+'R']);},'onBetSideClick':function(_0x14ca41,_0xb96227){var _0x3a9d95=_0x1d2335,_0x4752de=_0x5514e1[_0x3a9d95(0x600)]['split']('|'),_0x3887d0=0x0;while(!![]){switch(_0x4752de[_0x3887d0++]){case'0':cc[_0x3a9d95(0x512)+'on'][_0x3a9d95(0x479)+_0x3a9d95(0x2d5)](_0x14ca41,this['areaPlayer'][_0x3a9d95(0x1a3)][_0x3a9d95(0x37d)])&&this[_0x3a9d95(0x25c)+_0x3a9d95(0x2e0)](this[_0x3a9d95(0x14c)+'te'],this[_0x3a9d95(0x1bf)],_0xb96227,cc[_0x3a9d95(0x339)+'Site']['PLAYER']);continue;case'1':cc[_0x3a9d95(0x512)+'on'][_0x3a9d95(0x479)+_0x3a9d95(0x2d5)](_0x14ca41,this['areaBanker']['world'][_0x3a9d95(0x37d)])&&this['changeSpri'+'teFrame'](this[_0x3a9d95(0x312)+'te'],this[_0x3a9d95(0x4cb)],_0xb96227,cc[_0x3a9d95(0x339)+_0x3a9d95(0x20d)][_0x3a9d95(0x2da)]);continue;case'2':cc[_0x3a9d95(0x512)+'on'][_0x3a9d95(0x479)+_0x3a9d95(0x2d5)](_0x14ca41,this[_0x3a9d95(0x4e0)+'r']['world'][_0x3a9d95(0x37d)])&&this[_0x3a9d95(0x25c)+_0x3a9d95(0x2e0)](this[_0x3a9d95(0x1b9)+_0x3a9d95(0x49b)],this[_0x3a9d95(0x52f)],_0xb96227,cc[_0x3a9d95(0x339)+'Site'][_0x3a9d95(0x125)+'R']);continue;case'3':cc[_0x3a9d95(0x512)+'on'][_0x3a9d95(0x479)+'ygon'](_0x14ca41,this[_0x3a9d95(0x294)][_0x3a9d95(0x1a3)][_0x3a9d95(0x37d)])&&this[_0x3a9d95(0x25c)+'teFrame'](this[_0x3a9d95(0x16c)],this[_0x3a9d95(0x247)],_0xb96227,cc[_0x3a9d95(0x339)+_0x3a9d95(0x20d)]['TIE']);continue;case'4':cc['Intersecti'+'on'][_0x3a9d95(0x479)+_0x3a9d95(0x2d5)](_0x14ca41,this[_0x3a9d95(0x31f)][_0x3a9d95(0x1a3)]['points'])&&this[_0x3a9d95(0x25c)+'teFrame'](this['pPairSprit'+'e'],this['sfPPair'],_0xb96227,cc[_0x3a9d95(0x339)+_0x3a9d95(0x20d)]['PLAYER_PAI'+'R']);continue;}break;}},'changeSpriteFrame':function(_0x44901f,_0x25bd5f,_0x45b336,_0x4d256c){var _0xe3014a=_0x1d2335;if(_0x52b34a['cGLKu'](_0x52b34a[_0xe3014a(0x1ea)],_0x45b336))_0x44901f['spriteFram'+'e']=_0x25bd5f[0x1],this[_0xe3014a(0x485)](_0x4d256c);else _0x44901f[_0xe3014a(0x53f)+'e']=_0x25bd5f[0x0];},'playAnimationWin':function(_0x5779de){var _0x571e3e=_0x1d2335,_0x5298c1=null;switch(_0x5779de=_0x52b34a[_0x571e3e(0x4f6)](parseInt,_0x5779de)){case cc[_0x571e3e(0x339)+_0x571e3e(0x20d)][_0x571e3e(0x5b2)+'R']:_0x5298c1=this[_0x571e3e(0x36c)];break;case cc[_0x571e3e(0x339)+_0x571e3e(0x20d)]['PLAYER']:_0x5298c1=this['playerWin'];break;case cc[_0x571e3e(0x339)+_0x571e3e(0x20d)][_0x571e3e(0x1a1)]:_0x5298c1=this[_0x571e3e(0x407)];break;case cc[_0x571e3e(0x339)+_0x571e3e(0x20d)][_0x571e3e(0x2da)]:_0x5298c1=this['bankerWin'];break;case cc[_0x571e3e(0x339)+'Site']['BANKER_PAI'+'R']:_0x5298c1=this[_0x571e3e(0x1ab)];}null!=_0x5298c1&&(_0x5298c1[_0x571e3e(0x611)][_0x571e3e(0x29d)]=!0x0,_0x5298c1['setAnimati'+'on'](0x1,_0x52b34a[_0x571e3e(0x2a5)],!0x0));},'stopAnimationWin':function(){var _0x40571a=_0x1d2335,_0x3f5026=_0x52b34a['NAedh'][_0x40571a(0x625)]('|'),_0x1b8c5e=0x0;while(!![]){switch(_0x3f5026[_0x1b8c5e++]){case'0':this[_0x40571a(0x36c)][_0x40571a(0x611)][_0x40571a(0x29d)]=!0x1;continue;case'1':this[_0x40571a(0x407)][_0x40571a(0x611)][_0x40571a(0x29d)]=!0x1;continue;case'2':this[_0x40571a(0x2d4)+_0x40571a(0x500)]();continue;case'3':this[_0x40571a(0x1ab)][_0x40571a(0x611)][_0x40571a(0x29d)]=!0x1;continue;case'4':this['playerWin'][_0x40571a(0x611)][_0x40571a(0x29d)]=!0x1;continue;case'5':this[_0x40571a(0x30f)][_0x40571a(0x611)][_0x40571a(0x29d)]=!0x1;continue;}break;}},'onBet':function(_0x54050c){var _0x497e05=_0x1d2335;this[_0x497e05(0x21a)+'Again'](!0x0),cc['AudioContr'+_0x497e05(0x279)][_0x497e05(0x484)+'e']()[_0x497e05(0x57f)](cc[_0x497e05(0x5ee)][_0x497e05(0x19a)]),this[_0x497e05(0x59c)+_0x497e05(0x1f4)](this[_0x497e05(0x514)],_0x54050c);},'updateTotalUserBetSide':function(_0x457524,_0x4a9c40){var _0x11fff4=_0x1d2335,_0x49288a=null;switch(_0x457524=parseInt(_0x457524)){case cc[_0x11fff4(0x339)+_0x11fff4(0x20d)][_0x11fff4(0x5b2)+'R']:_0x49288a=this[_0x11fff4(0x215)+_0x11fff4(0x496)];break;case cc[_0x11fff4(0x339)+_0x11fff4(0x20d)][_0x11fff4(0x3c7)]:_0x49288a=this[_0x11fff4(0x215)+_0x11fff4(0x2c0)];break;case cc[_0x11fff4(0x339)+'Site'][_0x11fff4(0x1a1)]:_0x49288a=this[_0x11fff4(0x5d4)+_0x11fff4(0x29c)];break;case cc[_0x11fff4(0x339)+_0x11fff4(0x20d)][_0x11fff4(0x2da)]:_0x49288a=this[_0x11fff4(0x2e4)+'ankerBet'];break;case cc[_0x11fff4(0x339)+_0x11fff4(0x20d)][_0x11fff4(0x125)+'R']:_0x49288a=this['totalUserP'+_0x11fff4(0x41f)];}_0x49288a[_0x11fff4(0x26f)]=cc[_0x11fff4(0x133)][_0x11fff4(0x484)+'e']()[_0x11fff4(0x3d4)+'er'](_0x4a9c40);},'updateBetOfAccount':function(_0x5b1be8){var _0x24767b=_0x1d2335,_0x4d93f5=this;_0x5b1be8[_0x24767b(0x2a9)](function(_0x162051){var _0x4574c9=_0x24767b,_0x4dbe64=null;switch(_0x52b34a[_0x4574c9(0x30c)](parseInt,_0x162051['BetSide'])){case cc[_0x4574c9(0x339)+_0x4574c9(0x20d)][_0x4574c9(0x5b2)+'R']:_0x4dbe64=_0x4d93f5['totalUserP'+_0x4574c9(0x496)];break;case cc['BacaratBet'+_0x4574c9(0x20d)][_0x4574c9(0x3c7)]:_0x4dbe64=_0x4d93f5[_0x4574c9(0x215)+_0x4574c9(0x2c0)];break;case cc[_0x4574c9(0x339)+'Site'][_0x4574c9(0x1a1)]:_0x4dbe64=_0x4d93f5['totalUserT'+_0x4574c9(0x29c)];break;case cc['BacaratBet'+_0x4574c9(0x20d)][_0x4574c9(0x2da)]:_0x4dbe64=_0x4d93f5['totalUserB'+_0x4574c9(0x198)];break;case cc[_0x4574c9(0x339)+_0x4574c9(0x20d)][_0x4574c9(0x125)+'R']:_0x4dbe64=_0x4d93f5[_0x4574c9(0x215)+'BankerBet'];}_0x4dbe64[_0x4574c9(0x26f)]=cc[_0x4574c9(0x133)][_0x4574c9(0x484)+'e']()['formatNumb'+'er'](_0x162051['BetValue']);});},'updateTotalBet':function(_0x246f6a){var _0x12c557=_0x1d2335,_0x48029b=_0x5514e1['FdnNA'][_0x12c557(0x625)]('|'),_0x4b2485=0x0;while(!![]){switch(_0x48029b[_0x4b2485++]){case'0':this['totalBanke'+_0x12c557(0x582)][_0x12c557(0x26f)]=0x0===_0x246f6a[_0x12c557(0x4df)+_0x12c557(0x596)]?'':cc[_0x12c557(0x133)][_0x12c557(0x484)+'e']()[_0x12c557(0x3d4)+'er'](_0x246f6a[_0x12c557(0x4df)+_0x12c557(0x596)]);continue;case'1':this['totalTieBe'+'t']['string']=_0x5514e1[_0x12c557(0x341)](0x0,_0x246f6a['TotalBetTi'+'e'])?'':cc[_0x12c557(0x133)][_0x12c557(0x484)+'e']()[_0x12c557(0x3d4)+'er'](_0x246f6a[_0x12c557(0x264)+'e']);continue;case'2':this[_0x12c557(0x32b)+'rBet'][_0x12c557(0x26f)]=_0x5514e1['YiNNt'](0x0,_0x246f6a[_0x12c557(0x420)+_0x12c557(0x213)])?'':cc[_0x12c557(0x133)]['getInstanc'+'e']()[_0x12c557(0x3d4)+'er'](_0x246f6a['TotalBetPl'+_0x12c557(0x213)]);continue;case'3':this[_0x12c557(0x1f2)+_0x12c557(0x327)][_0x12c557(0x26f)]=_0x5514e1[_0x12c557(0x488)](0x0,_0x246f6a[_0x12c557(0x420)+'ayerPair'])?'':cc[_0x12c557(0x133)][_0x12c557(0x484)+'e']()['formatNumb'+'er'](_0x246f6a[_0x12c557(0x420)+_0x12c557(0x295)]);continue;case'4':this[_0x12c557(0x208)+'erBet'][_0x12c557(0x26f)]=_0x5514e1['rvBJT'](0x0,_0x246f6a['TotalBetBa'+_0x12c557(0x44a)])?'':cc['Tool']['getInstanc'+'e']()[_0x12c557(0x3d4)+'er'](_0x246f6a['TotalBetBa'+_0x12c557(0x44a)]);continue;}break;}},'sendRequestBet':function(_0x42871f,_0x1b4c56){var _0x520369=_0x1d2335;return cc[_0x520369(0x285)+_0x520369(0x590)]['getInstanc'+'e']()[_0x520369(0x59c)+_0x520369(0x25f)](cc['MethodHubN'+_0x520369(0x649)][_0x520369(0x15b)],_0x42871f,_0x1b4c56);}});}['call'](void 0x0),cc[_0x5b5a6d(0x2a8)][_0x5b5a6d(0x56f)]();},{}],'BacaratButtonBet':[function(_0x172906,_0x4de059){'use strict';var _0x551f57=_0x4efc99,_0x1fe5eb={'YiJWV':_0x551f57(0x27a)+_0x551f57(0x254)};cc[_0x551f57(0x2a8)][_0x551f57(0x5ae)](_0x4de059,'10647PQfzN'+_0x551f57(0x4b1)+_0x551f57(0x4a7),_0x1fe5eb['YiJWV']),function(){var _0x59b3d5=_0x551f57;cc[_0x59b3d5(0x27a)+_0x59b3d5(0x254)]=cc[_0x59b3d5(0x3eb)]({'extends':cc[_0x59b3d5(0x2ee)],'properties':{'spriteButtons':[cc[_0x59b3d5(0x14e)+'e']]}});}['call'](void 0x0),cc['_RF'][_0x551f57(0x56f)]();},{}],'BacaratCardItem':[function(_0x2f653d,_0x21fa02){'use strict';var _0x45f8e6=_0x4efc99,_0x598c8b={'Ibppq':_0x45f8e6(0x5b6),'iCrAZ':_0x45f8e6(0x4cd)+_0x45f8e6(0x56b)+_0x45f8e6(0x647),'sKBjR':_0x45f8e6(0x55f)+_0x45f8e6(0x225),'EjQnX':_0x45f8e6(0x36f)+'0','wnoCV':function(_0x28ede8,_0x268278){return _0x28ede8!=_0x268278;}},_0x13422f=_0x598c8b[_0x45f8e6(0x530)][_0x45f8e6(0x625)]('|'),_0x5eff59=0x0;while(!![]){switch(_0x13422f[_0x5eff59++]){case'0':cc['_RF'][_0x45f8e6(0x56f)]();continue;case'1':cc[_0x45f8e6(0x2a8)][_0x45f8e6(0x5ae)](_0x21fa02,_0x598c8b[_0x45f8e6(0x3fa)],_0x598c8b[_0x45f8e6(0x412)]);continue;case'2':var _0x45ff78={'jQneL':_0x598c8b['EjQnX'],'uxahW':_0x45f8e6(0x604),'XhTeR':function(_0xbd100b,_0x1365c2){var _0x8337f6=_0x45f8e6;return _0x598c8b[_0x8337f6(0x1ef)](_0xbd100b,_0x1365c2);}};continue;case'3':continue;case'4':(function(){var _0x44b395=_0x45f8e6,_0xe4330c={'aTleh':_0x45ff78['jQneL'],'rdVpA':_0x45ff78[_0x44b395(0x56c)],'fCXPA':'0|2|3|1|4','OwaJE':function(_0x1c6d0a,_0x57600b){var _0x1d4fec=_0x44b395;return _0x45ff78[_0x1d4fec(0x403)](_0x1c6d0a,_0x57600b);}};cc[_0x44b395(0x55f)+'dItem']=cc['Class']({'extends':cc['Component'],'properties':{'ordinalValue':-0x1,'cardNumber':-0x1,'cardSuite':-0x1,'animation':cc['Animation']},'onLoad':function(){var _0x4b4d05=_0x44b395,_0x223918=_0xe4330c[_0x4b4d05(0x288)][_0x4b4d05(0x625)]('|'),_0x416955=0x0;while(!![]){switch(_0x223918[_0x416955++]){case'0':this[_0x4b4d05(0x47b)+'er'][_0x4b4d05(0x53f)+'e']=cc[_0x4b4d05(0x285)+_0x4b4d05(0x590)][_0x4b4d05(0x484)+'e']()[_0x4b4d05(0x3d1)+_0x4b4d05(0x325)]();continue;case'1':this[_0x4b4d05(0x47b)+'er']=this[_0x4b4d05(0x1b1)]['addCompone'+'nt'](cc['Sprite']);continue;case'2':this[_0x4b4d05(0x1b1)]=new cc[(_0x4b4d05(0x4d4))](_0x4b4d05(0x35a));continue;case'3':this['duration']=0.5;continue;case'4':this[_0x4b4d05(0x1b1)][_0x4b4d05(0x160)](1.5,1.5);continue;case'5':this[_0x4b4d05(0x290)]=this['node']['getCompone'+'nt'](cc[_0x4b4d05(0x52b)]);continue;}break;}},'onDestroy':function(){var _0x32a78d=_0x44b395;try{this[_0x32a78d(0x611)]['stopAllAct'+_0x32a78d(0x326)]();}catch(_0x43ff81){}},'prepareSlideCard':function(){var _0x4bd512=_0x44b395;this[_0x4bd512(0x611)][_0x4bd512(0x308)]=cc['v2'](0x0,0x91),this['node'][_0x4bd512(0x160)](0.3,0.3),this[_0x4bd512(0x611)]['angle']=0x0,this[_0x4bd512(0x611)][_0x4bd512(0x510)+_0x4bd512(0x326)]();},'initCard':function(){var _0x449c29=_0x44b395;this[_0x449c29(0x290)]||(this[_0x449c29(0x290)]=this['node'][_0x449c29(0x3b7)+'nt'](cc['Sprite'])),this[_0x449c29(0x290)][_0x449c29(0x53f)+'e']=cc[_0x449c29(0x285)+'ntroller'][_0x449c29(0x484)+'e']()['getSfCardB'+'ack']();},'onShowCard':function(){var _0x29e5a2=_0x44b395;this['spriteNode'][_0x29e5a2(0x53f)+'e']=cc[_0x29e5a2(0x285)+_0x29e5a2(0x590)]['getInstanc'+'e']()[_0x29e5a2(0x4e2)+_0x29e5a2(0x1fd)](this[_0x29e5a2(0x2e8)+'ue']);},'animationShowCard':function(_0x779896){var _0x4cc7cf=_0x44b395;_0x779896&&this[_0x4cc7cf(0x449)+'ard'](),this['animation'][_0x4cc7cf(0x154)](_0xe4330c['rdVpA']);},'addBorderCard':function(){var _0x11da0d=_0x44b395;this[_0x11da0d(0x1b1)]['parent']=this['node'],this[_0x11da0d(0x1b1)][_0x11da0d(0x62e)+_0x11da0d(0x149)](cc['v2'](0.7,0.3));},'removeBorderCard':function(){var _0x5577a4=_0x44b395;this[_0x5577a4(0x611)]['removeAllC'+'hildren']();},'forceShowCard':function(_0x5a9374,_0x1c0ec0){var _0x41cd52=_0x44b395;if(-0x1!=this[_0x41cd52(0x2e8)+'ue']){var _0x35c5d7=_0xe4330c['fCXPA'][_0x41cd52(0x625)]('|'),_0x2c6baa=0x0;while(!![]){switch(_0x35c5d7[_0x2c6baa++]){case'0':this['node'][_0x41cd52(0x29d)]=!0x0;continue;case'1':this[_0x41cd52(0x611)][_0x41cd52(0x160)](0.55,0.55);continue;case'2':this[_0x41cd52(0x290)]['spriteFram'+'e']=cc['Bacarat2Co'+'ntroller'][_0x41cd52(0x484)+'e']()[_0x41cd52(0x4e2)+_0x41cd52(0x1fd)](this[_0x41cd52(0x2e8)+'ue']);continue;case'3':this[_0x41cd52(0x611)][_0x41cd52(0x308)]=_0x5a9374;continue;case'4':_0x1c0ec0&&(this['node']['angle']=_0x1c0ec0);continue;}break;}}},'updateOrdinal':function(_0x38543a){this['ordinalVal'+'ue']=0x0!=_0x38543a?_0x38543a:-0x1;},'initValue':function(_0x5d4939){var _0x9d202a=_0x44b395;this[_0x9d202a(0x2e8)+'ue']=_0xe4330c[_0x9d202a(0x5e7)](0x0,_0x5d4939)?_0x5d4939:-0x1,this[_0x9d202a(0x2c5)](),this[_0x9d202a(0x584)]();},'reset':function(){var _0x25dc80=_0x44b395;this[_0x25dc80(0x611)]['active']=!0x1,this[_0x25dc80(0x47f)+_0x25dc80(0x193)]();},'moveTo':function(_0x56788f){var _0x21c287=_0x44b395;this['node'][_0x21c287(0x29d)]=!0x0;var _0x100f07=cc['scaleTo'](this[_0x21c287(0x26e)],0.55,0.55),_0x4d4d85=cc[_0x21c287(0x5de)](this[_0x21c287(0x26e)],_0x56788f);this['node'][_0x21c287(0x2a1)](cc['spawn'](_0x4d4d85,_0x100f07));},'setPosition':function(_0x3598b5){var _0x11b997=_0x44b395;this[_0x11b997(0x611)][_0x11b997(0x29d)]=!0x0,this[_0x11b997(0x611)]['setScale'](cc['v2'](0.55,0.55)),this['node']['position']=_0x3598b5;},'moveToEnd':function(_0x568a17){var _0x5deae7=_0x44b395;if(this[_0x5deae7(0x611)]){var _0x356297=_0x5deae7(0x472)[_0x5deae7(0x625)]('|'),_0x18652c=0x0;while(!![]){switch(_0x356297[_0x18652c++]){case'0':var _0x59a457=cc[_0x5deae7(0x3ab)](this[_0x5deae7(0x5d3)+_0x5deae7(0x306)],null,this['node']);continue;case'1':this[_0x5deae7(0x611)][_0x5deae7(0x2a1)](cc[_0x5deae7(0x4c7)](_0x58002c,_0x59a457));continue;case'2':_0x58002c['easing'](cc[_0x5deae7(0x1f1)](0x1));continue;case'3':this[_0x5deae7(0x611)]['opacity']=0x64;continue;case'4':var _0x58002c=cc[_0x5deae7(0x5de)](0.5,_0x568a17);continue;}break;}}},'rotateCard':function(_0x3cdaef){var _0x3a3568=_0x44b395;this[_0x3a3568(0x1ad)+_0x3a3568(0x492)]();var _0x2d759c=cc[_0x3a3568(0x618)](this['duration'],_0x3cdaef);this['node'][_0x3a3568(0x2a1)](_0x2d759c);}});}[_0x45f8e6(0x314)](void 0x0));continue;}break;}},{}],'BacaratCardView':[function(_0x176ae8,_0x52078b){'use strict';var _0x4bf7a9=_0x4efc99,_0x2aa581={'VgAKz':_0x4bf7a9(0x11c),'FDDKM':_0x4bf7a9(0x180)+_0x4bf7a9(0x292)+_0x4bf7a9(0x4f3),'VLajM':_0x4bf7a9(0x55f)+_0x4bf7a9(0x225),'PiOpF':'4|3|2|0|5|'+'1','UyHYP':_0x4bf7a9(0x334)+_0x4bf7a9(0x216)+'14|12|0|3|'+'7|6|11|8|1'+_0x4bf7a9(0x5c9),'INhRq':function(_0xff4533,_0x59628){return _0xff4533>_0x59628;},'kEsXM':function(_0x4f97c5,_0xa8ca66){return _0x4f97c5(_0xa8ca66);},'WsyQr':function(_0x3ca085,_0x1c7923){return _0x3ca085+_0x1c7923;},'mgyal':function(_0x3c75c5,_0x3bc000){return _0x3c75c5%_0x3bc000;},'RUYna':function(_0x5ac9cf,_0x255c05){return _0x5ac9cf-_0x255c05;},'VbAik':_0x4bf7a9(0x13a)+_0x4bf7a9(0x117)+_0x4bf7a9(0x13c)+_0x4bf7a9(0x536),'qTfiH':function(_0x11a8af,_0x3965ba){return _0x11a8af!=_0x3965ba;},'QNwia':function(_0x42873f,_0x30325f){return _0x42873f!=_0x30325f;},'jvQcP':'BacaratCar'+'dView'},_0x41746e=_0x2aa581[_0x4bf7a9(0x52d)][_0x4bf7a9(0x625)]('|'),_0x3497d3=0x0;while(!![]){switch(_0x41746e[_0x3497d3++]){case'0':var _0x3e026c={'GpNxD':_0x2aa581[_0x4bf7a9(0x202)],'ectpq':_0x2aa581[_0x4bf7a9(0x5e8)],'Ecobp':_0x2aa581[_0x4bf7a9(0x353)],'GvSvS':_0x2aa581['UyHYP'],'aLsYz':function(_0x357a08,_0x21d342){var _0xe20075=_0x4bf7a9;return _0x2aa581[_0xe20075(0x116)](_0x357a08,_0x21d342);},'krUcK':function(_0x4bd29f,_0x5b2ba6){return _0x2aa581['kEsXM'](_0x4bd29f,_0x5b2ba6);},'sDgBw':function(_0x5b4625,_0x5d1df5){return _0x2aa581['WsyQr'](_0x5b4625,_0x5d1df5);},'olGYQ':function(_0x2aaac2,_0x2c96dd){var _0x3b5c41=_0x4bf7a9;return _0x2aa581[_0x3b5c41(0x40f)](_0x2aaac2,_0x2c96dd);},'tHtjR':function(_0x915ee8,_0x30ebe5){var _0x33fd02=_0x4bf7a9;return _0x2aa581[_0x33fd02(0x601)](_0x915ee8,_0x30ebe5);},'xsNcU':function(_0x2a73d6,_0x4fa157){var _0x26f71b=_0x4bf7a9;return _0x2aa581[_0x26f71b(0x352)](_0x2a73d6,_0x4fa157);},'lodPV':_0x2aa581[_0x4bf7a9(0x5e5)],'wBKom':function(_0x67ed7,_0x507e99){return _0x2aa581['qTfiH'](_0x67ed7,_0x507e99);},'EsQTI':_0x4bf7a9(0x4d3)+'3|0|5|8','nQkdr':function(_0x440056,_0x1237e3){var _0x41465a=_0x4bf7a9;return _0x2aa581[_0x41465a(0x654)](_0x440056,_0x1237e3);}};continue;case'1':continue;case'2':(function(){var _0x24eeb9=_0x4bf7a9,_0x42f77e={'bHazL':function(_0x40e142,_0x17c37d){return _0x40e142+_0x17c37d;},'IjdIr':function(_0x525958,_0x45e5c7){var _0x2fa4bf=_0x2ce9;return _0x3e026c[_0x2fa4bf(0x1a6)](_0x525958,_0x45e5c7);},'UxmgM':function(_0x23527a,_0x220770){return _0x3e026c['xsNcU'](_0x23527a,_0x220770);},'BjqWm':function(_0x173a2e,_0x179e73){return _0x173a2e>=_0x179e73;},'KguKe':function(_0xcbe34c,_0x13611d){return _0xcbe34c>=_0x13611d;},'acxTw':_0x3e026c['lodPV'],'WMnFw':function(_0x3e945d,_0x39a8e6){var _0x46c678=_0x2ce9;return _0x3e026c[_0x46c678(0x33a)](_0x3e945d,_0x39a8e6);},'KnXqI':_0x3e026c[_0x24eeb9(0x1c2)],'NzHJF':function(_0x12e2f4,_0x403ea1){return _0x3e026c['nQkdr'](_0x12e2f4,_0x403ea1);},'jNYXh':function(_0x108021,_0x31d1bc){return _0x3e026c['nQkdr'](_0x108021,_0x31d1bc);},'jpqjA':function(_0x831c57,_0x3205b2){var _0xe539ed=_0x24eeb9;return _0x3e026c[_0xe539ed(0x33a)](_0x831c57,_0x3205b2);},'ZwJrN':function(_0x75b64c,_0x545598){var _0x2bf420=_0x24eeb9;return _0x3e026c[_0x2bf420(0x47c)](_0x75b64c,_0x545598);},'ptZok':function(_0x5273d8,_0x37bddd){return _0x5273d8==_0x37bddd;},'eEWmS':function(_0x58d964,_0x51cc64){return _0x58d964!=_0x51cc64;},'kjLsb':function(_0x440148,_0xd03d85){var _0x39f7ee=_0x24eeb9;return _0x3e026c[_0x39f7ee(0x49f)](_0x440148,_0xd03d85);}};cc[_0x24eeb9(0x55f)+_0x24eeb9(0x280)]=cc[_0x24eeb9(0x3eb)]({'extends':cc[_0x24eeb9(0x2ee)],'properties':{'lstPlayerCard':[cc[_0x24eeb9(0x4d4)]],'lbScorePlayer':cc[_0x24eeb9(0x458)],'lstBankerCard':[cc[_0x24eeb9(0x4d4)]],'lbScoreBanker':cc['Label']},'onLoad':function(){var _0x1badd6=_0x24eeb9,_0x42018a=_0x3e026c[_0x1badd6(0x411)][_0x1badd6(0x625)]('|'),_0x507936=0x0;while(!![]){switch(_0x42018a[_0x507936++]){case'0':this[_0x1badd6(0x39a)+'2Item']=this['lstPlayerC'+'ard'][0x1]['getCompone'+'nt'](_0x3e026c[_0x1badd6(0x11d)]);continue;case'1':this['nodeParent'+'LbScorePla'+_0x1badd6(0x482)]=this[_0x1badd6(0x368)+_0x1badd6(0x482)]['node'][_0x1badd6(0x240)];continue;case'2':this[_0x1badd6(0x2de)+'te']=-0x5a;continue;case'3':this[_0x1badd6(0x55a)+_0x1badd6(0x387)+_0x1badd6(0x1b5)]=this[_0x1badd6(0x572)+_0x1badd6(0x1b5)][_0x1badd6(0x611)]['parent'];continue;case'4':this['bankerCard'+'2Item']=this[_0x1badd6(0x3bf)+'ard'][0x1][_0x1badd6(0x3b7)+'nt'](_0x3e026c[_0x1badd6(0x11d)]);continue;case'5':cc[_0x1badd6(0x285)+_0x1badd6(0x590)]['getInstanc'+'e']()[_0x1badd6(0x55b)+'w'](this);continue;case'6':this[_0x1badd6(0x206)+'3Item']=this[_0x1badd6(0x3bf)+_0x1badd6(0x586)][0x2]['getCompone'+'nt'](_0x3e026c[_0x1badd6(0x11d)]);continue;case'7':this[_0x1badd6(0x383)+_0x1badd6(0x5b9)]();continue;case'8':this['playerCard'+'3Item']=this[_0x1badd6(0x5ba)+_0x1badd6(0x586)][0x2][_0x1badd6(0x3b7)+'nt'](_0x3e026c[_0x1badd6(0x11d)]);continue;case'9':this[_0x1badd6(0x39a)+'1Item']=this['lstPlayerC'+'ard'][0x0][_0x1badd6(0x3b7)+'nt'](_0x3e026c[_0x1badd6(0x11d)]);continue;case'10':this[_0x1badd6(0x235)+'os']=this[_0x1badd6(0x40e)+'sitionCard'+'s']();continue;case'11':this[_0x1badd6(0x64a)+'te']=0x5a;continue;case'12':this[_0x1badd6(0x206)+_0x1badd6(0x413)]=this[_0x1badd6(0x3bf)+_0x1badd6(0x586)][0x0]['getCompone'+'nt'](_0x3e026c['ectpq']);continue;}break;}},'activeNodeScore':function(_0x234afd){var _0x440ba4=_0x24eeb9;this[_0x440ba4(0x55a)+_0x440ba4(0x391)+'yer'][_0x440ba4(0x29d)]=_0x234afd,this[_0x440ba4(0x55a)+_0x440ba4(0x387)+_0x440ba4(0x1b5)][_0x440ba4(0x29d)]=_0x234afd;},'activeNodeCards':function(_0x2223d5){var _0x258a32=_0x24eeb9;this[_0x258a32(0x39a)+_0x258a32(0x413)]['node'][_0x258a32(0x29d)]=_0x2223d5,this[_0x258a32(0x39a)+_0x258a32(0x17d)]['node'][_0x258a32(0x29d)]=_0x2223d5,this[_0x258a32(0x39a)+_0x258a32(0x629)][_0x258a32(0x611)][_0x258a32(0x29d)]=_0x2223d5,this[_0x258a32(0x206)+_0x258a32(0x413)][_0x258a32(0x611)]['active']=_0x2223d5,this[_0x258a32(0x206)+_0x258a32(0x17d)]['node'][_0x258a32(0x29d)]=_0x2223d5,this[_0x258a32(0x206)+_0x258a32(0x629)][_0x258a32(0x611)][_0x258a32(0x29d)]=_0x2223d5;},'resetLayoutCard':function(){var _0x191c66=_0x24eeb9;this[_0x191c66(0x520)+_0x191c66(0x3de)](!0x1),this[_0x191c66(0x520)+_0x191c66(0x619)](!0x1);},'initRootPositionCards':function(){var _0x3e058d=_0x24eeb9,_0x219d4c=[],_0x28896c=[];return this[_0x3e058d(0x5ba)+'ard']['map'](function(_0x3faaf6){var _0xad24d9=_0x3e058d;_0x219d4c[_0xad24d9(0x5ae)](_0x3faaf6[_0xad24d9(0x308)]);}),this[_0x3e058d(0x3bf)+_0x3e058d(0x586)][_0x3e058d(0x2a9)](function(_0x280020){var _0x5e3156=_0x3e058d;_0x28896c[_0x5e3156(0x5ae)](_0x280020['position']);}),{'playerCardPos':_0x219d4c,'bankerCardPos':_0x28896c};},'showScoreSide':function(_0x5158fa){var _0x3b6031=_0x24eeb9;_0x5158fa[_0x3b6031(0x16d)],this['activeNode'+_0x3b6031(0x3de)](!0x0),this[_0x3b6031(0x368)+_0x3b6031(0x482)][_0x3b6031(0x26f)]=_0x5158fa[_0x3b6031(0x16d)]['HandValueP'+_0x3b6031(0x1d8)],this[_0x3b6031(0x572)+_0x3b6031(0x1b5)][_0x3b6031(0x26f)]=_0x5158fa[_0x3b6031(0x16d)][_0x3b6031(0x2d7)+_0x3b6031(0x321)];},'showScoreArr':function(_0x96e66f){var _0x2cf308=_0x24eeb9,_0x305245=_0x96e66f[_0x2cf308(0x2c2)],_0x4d0b62=_0x96e66f[_0x2cf308(0x4ed)];this[_0x2cf308(0x520)+'Score'](!0x0),this[_0x2cf308(0x368)+_0x2cf308(0x482)][_0x2cf308(0x26f)]=this[_0x2cf308(0x4b9)+_0x2cf308(0x2b3)](_0x305245),this[_0x2cf308(0x572)+'ker'][_0x2cf308(0x26f)]=this[_0x2cf308(0x4b9)+_0x2cf308(0x2b3)](_0x4d0b62);},'calculateScore':function(_0x18ba7d){var _0x3001ff=_0x24eeb9,_0x3be04d=0x0;return _0x18ba7d[_0x3001ff(0x2a9)](function(_0x50ec5c){var _0x5c2375=_0x3001ff,_0x2bffaa=_0x42f77e[_0x5c2375(0x156)](_0x42f77e[_0x5c2375(0x1b7)](_0x42f77e[_0x5c2375(0x566)](_0x50ec5c,0x1),0xd),0x1);_0x3be04d+=_0x2bffaa=_0x42f77e[_0x5c2375(0x1df)](_0x2bffaa,0xa)?0x0:_0x2bffaa;}),_0x42f77e[_0x3001ff(0x3f8)](_0x3be04d,0xa)?_0x3be04d[_0x3001ff(0x5d2)]()[_0x3001ff(0x625)]('')[0x1]:_0x3be04d;},'initCardOnTable':function(){var _0x18d992=_0x24eeb9,_0x5a17e7=(_0x18d992(0x61e)+'3')[_0x18d992(0x625)]('|'),_0x969515=0x0;while(!![]){switch(_0x5a17e7[_0x969515++]){case'0':var _0x1df1d6=this[_0x18d992(0x235)+'os'][_0x18d992(0x39a)+_0x18d992(0x4e6)],_0x58104c=this[_0x18d992(0x235)+'os'][_0x18d992(0x206)+_0x18d992(0x4e6)];continue;case'1':this[_0x18d992(0x206)+'1Item']['setPositio'+'n'](_0x58104c[0x0]);continue;case'2':this[_0x18d992(0x39a)+_0x18d992(0x17d)][_0x18d992(0x3ed)+'n'](_0x1df1d6[0x1]);continue;case'3':this['bankerCard'+_0x18d992(0x17d)][_0x18d992(0x3ed)+'n'](_0x58104c[0x1]);continue;case'4':this[_0x18d992(0x222)]();continue;case'5':this[_0x18d992(0x39a)+_0x18d992(0x413)][_0x18d992(0x3ed)+'n'](_0x1df1d6[0x0]);continue;}break;}},'resetCard':function(){var _0x58f4ce=_0x24eeb9,_0x396c73=_0x3e026c[_0x58f4ce(0x395)][_0x58f4ce(0x625)]('|'),_0x247510=0x0;while(!![]){switch(_0x396c73[_0x247510++]){case'0':this[_0x58f4ce(0x206)+_0x58f4ce(0x413)][_0x58f4ce(0x253)](-0x1);continue;case'1':this[_0x58f4ce(0x206)+_0x58f4ce(0x629)]['initValue'](-0x1);continue;case'2':this[_0x58f4ce(0x39a)+_0x58f4ce(0x629)][_0x58f4ce(0x253)](-0x1);continue;case'3':this['playerCard'+_0x58f4ce(0x17d)]['initValue'](-0x1);continue;case'4':this['playerCard'+_0x58f4ce(0x413)]['initValue'](-0x1);continue;case'5':this[_0x58f4ce(0x206)+_0x58f4ce(0x17d)][_0x58f4ce(0x253)](-0x1);continue;}break;}},'slideCardOnBet':function(){var _0x5a01f0=_0x24eeb9,_0x3edd14=this['rootCardsP'+'os'][_0x5a01f0(0x39a)+_0x5a01f0(0x4e6)],_0xd84e7f=this[_0x5a01f0(0x235)+'os'][_0x5a01f0(0x206)+'Pos'];this[_0x5a01f0(0x222)](),cc['game'][_0x5a01f0(0x415)]()?(this[_0x5a01f0(0x39a)+_0x5a01f0(0x413)]['setPositio'+'n'](_0x3edd14[0x0]),this[_0x5a01f0(0x39a)+_0x5a01f0(0x17d)]['setPositio'+'n'](_0x3edd14[0x1]),this[_0x5a01f0(0x206)+_0x5a01f0(0x413)][_0x5a01f0(0x3ed)+'n'](_0xd84e7f[0x0]),this[_0x5a01f0(0x206)+_0x5a01f0(0x17d)][_0x5a01f0(0x3ed)+'n'](_0xd84e7f[0x1])):(cc[_0x5a01f0(0x469)]['getSchedul'+'er']()[_0x5a01f0(0x35e)](function(){var _0x35d539=_0x5a01f0;cc['AudioContr'+_0x35d539(0x279)][_0x35d539(0x484)+'e']()[_0x35d539(0x57f)](cc[_0x35d539(0x5ee)][_0x35d539(0x635)]),this['playerCard'+'1Item']['moveTo'](_0x3edd14[0x0]);},this,0x0,0x0,0x0,!0x1),cc[_0x5a01f0(0x469)][_0x5a01f0(0x614)+'er']()[_0x5a01f0(0x35e)](function(){var _0x3edb62=_0x5a01f0;cc[_0x3edb62(0x1c0)+'oller']['getInstanc'+'e']()[_0x3edb62(0x57f)](cc['AudioTypes']['OPEN_CARD']),this['bankerCard'+_0x3edb62(0x413)][_0x3edb62(0x5de)](_0xd84e7f[0x0]);},this,0x0,0x0,0.3,!0x1),cc[_0x5a01f0(0x469)][_0x5a01f0(0x614)+'er']()[_0x5a01f0(0x35e)](function(){var _0x29073a=_0x5a01f0;cc['AudioContr'+_0x29073a(0x279)]['getInstanc'+'e']()['playSound'](cc[_0x29073a(0x5ee)][_0x29073a(0x635)]),this['playerCard'+'2Item'][_0x29073a(0x5de)](_0x3edd14[0x1]);},this,0x0,0x0,0.6,!0x1),cc[_0x5a01f0(0x469)]['getSchedul'+'er']()[_0x5a01f0(0x35e)](function(){var _0x35d483=_0x5a01f0;cc[_0x35d483(0x1c0)+'oller'][_0x35d483(0x484)+'e']()['playSound'](cc[_0x35d483(0x5ee)][_0x35d483(0x635)]),this[_0x35d483(0x206)+_0x35d483(0x17d)][_0x35d483(0x5de)](_0xd84e7f[0x1]);},this,0x0,0x0,0.9,!0x1));},'onSlideCard':function(_0x52c20c){var _0x48038e=_0x24eeb9,_0x18e0d1=_0x42f77e['acxTw'][_0x48038e(0x625)]('|'),_0x516f2c=0x0;while(!![]){switch(_0x18e0d1[_0x516f2c++]){case'0':this[_0x48038e(0x39a)+_0x48038e(0x629)][_0x48038e(0x336)+_0x48038e(0x388)](_0x450103);continue;case'1':this[_0x48038e(0x206)+_0x48038e(0x413)][_0x48038e(0x336)+'nal'](_0x3b512c);continue;case'2':0x0!=_0x450103&&_0x42f77e[_0x48038e(0x561)](0x0,_0x30a3f7)&&(_0x40cdc8=0x7);continue;case'3':this['playerCard'+_0x48038e(0x17d)][_0x48038e(0x336)+_0x48038e(0x388)](_0xe25127);continue;case'4':if(cc[_0x48038e(0x361)][_0x48038e(0x415)]()){var _0x2c6779=_0x42f77e['KnXqI'][_0x48038e(0x625)]('|'),_0x6e37b2=0x0;while(!![]){switch(_0x2c6779[_0x6e37b2++]){case'0':this[_0x48038e(0x50a)+'rr']({'player':[_0x33aab0,_0xe25127,_0x450103],'banker':[_0x3b512c,_0x15c20a,_0x30a3f7]});continue;case'1':this[_0x48038e(0x206)+'2Item']['forceShowC'+_0x48038e(0x586)](_0x1af3f9[0x1]);continue;case'2':this[_0x48038e(0x206)+_0x48038e(0x413)]['forceShowC'+_0x48038e(0x586)](_0x1af3f9[0x0]);continue;case'3':this['bankerCard'+_0x48038e(0x629)]['forceShowC'+_0x48038e(0x586)](_0x1af3f9[0x2],this['bankerRota'+'te']);continue;case'4':this[_0x48038e(0x39a)+_0x48038e(0x17d)][_0x48038e(0x470)+_0x48038e(0x586)](_0x6cd530[0x1]);continue;case'5':this[_0x48038e(0x5da)+'n'](_0x3861ae);continue;case'6':this[_0x48038e(0x39a)+'1Item'][_0x48038e(0x470)+'ard'](_0x6cd530[0x0]);continue;case'7':this[_0x48038e(0x39a)+_0x48038e(0x629)]['forceShowC'+'ard'](_0x6cd530[0x2],this['playerRota'+'te']);continue;case'8':cc[_0x48038e(0x285)+_0x48038e(0x590)]['getInstanc'+'e']()['clearPools']();continue;}break;}}else{if(cc['game'][_0x48038e(0x415)]()){var _0xbeed84='4|3|0|2|1'[_0x48038e(0x625)]('|'),_0x48c107=0x0;while(!![]){switch(_0xbeed84[_0x48c107++]){case'0':this[_0x48038e(0x206)+'1Item'][_0x48038e(0x470)+_0x48038e(0x586)](_0x1af3f9[0x0]);continue;case'1':this[_0x48038e(0x50a)+'rr']({'player':[_0x33aab0,_0xe25127],'banker':[_0x3b512c,_0x15c20a]});continue;case'2':this[_0x48038e(0x206)+'2Item'][_0x48038e(0x470)+_0x48038e(0x586)](_0x1af3f9[0x1]);continue;case'3':this[_0x48038e(0x39a)+_0x48038e(0x17d)][_0x48038e(0x470)+'ard'](_0x6cd530[0x1]);continue;case'4':this[_0x48038e(0x39a)+_0x48038e(0x413)][_0x48038e(0x470)+_0x48038e(0x586)](_0x6cd530[0x0]);continue;}break;}}else cc[_0x48038e(0x469)][_0x48038e(0x614)+'er']()['schedule'](function(){var _0x42a998=_0x48038e;this['playerCard'+'1Item']['animationS'+_0x42a998(0x343)](),this[_0x42a998(0x206)+_0x42a998(0x413)][_0x42a998(0x3e9)+_0x42a998(0x343)](),cc[_0x42a998(0x469)][_0x42a998(0x614)+'er']()['schedule'](function(){var _0xa6af8c=_0x42a998;this[_0xa6af8c(0x50a)+'rr']({'player':[_0x33aab0],'banker':[_0x3b512c]});},this,0x0,0x0,0.5,!0x1);},this,0x0,0x0,0x0,!0x1),cc['director'][_0x48038e(0x614)+'er']()['schedule'](function(){var _0x41b284=_0x48038e;this[_0x41b284(0x39a)+'2Item'][_0x41b284(0x3e9)+_0x41b284(0x343)](),this['bankerCard'+_0x41b284(0x17d)][_0x41b284(0x3e9)+'howCard'](),cc[_0x41b284(0x469)][_0x41b284(0x614)+'er']()[_0x41b284(0x35e)](function(){var _0x48f8b6=_0x41b284;this[_0x48f8b6(0x50a)+'rr']({'player':[_0x33aab0,_0xe25127],'banker':[_0x3b512c,_0x15c20a]});},this,0x0,0x0,0.5,!0x1);},this,0x0,0x0,0x1,!0x1);if(_0x42f77e[_0x48038e(0x652)](0x0,_0x450103))cc['game'][_0x48038e(0x415)]()?(this['playerCard'+_0x48038e(0x629)][_0x48038e(0x470)+_0x48038e(0x586)](_0x6cd530[0x2],this['playerRota'+'te']),this[_0x48038e(0x50a)+'rr']({'player':[_0x33aab0,_0xe25127,_0x450103],'banker':[_0x3b512c,_0x15c20a]})):(cc[_0x48038e(0x469)]['getSchedul'+'er']()[_0x48038e(0x35e)](function(){var _0x406586=_0x48038e;cc['AudioContr'+_0x406586(0x279)][_0x406586(0x484)+'e']()['playSound'](cc[_0x406586(0x5ee)][_0x406586(0x635)]),this[_0x406586(0x39a)+_0x406586(0x629)][_0x406586(0x5de)](_0x6cd530[0x2]);},this,0x0,0x0,2.5,!0x1),cc[_0x48038e(0x469)][_0x48038e(0x614)+'er']()['schedule'](function(){var _0x5394d4=_0x48038e;this[_0x5394d4(0x39a)+_0x5394d4(0x629)][_0x5394d4(0x3e9)+_0x5394d4(0x343)](!0x0),cc['director'][_0x5394d4(0x614)+'er']()[_0x5394d4(0x35e)](function(){var _0x5144d5=_0x5394d4;this[_0x5144d5(0x39a)+_0x5144d5(0x629)]['rotateCard'](this[_0x5144d5(0x2de)+'te']),this['showScoreA'+'rr']({'player':[_0x33aab0,_0xe25127,_0x450103],'banker':[_0x3b512c,_0x15c20a]});},this,0x0,0x0,0x1,!0x1);},this,0x0,0x0,3.5,!0x1));else this['playerCard'+_0x48038e(0x629)][_0x48038e(0x584)]();if(_0x42f77e[_0x48038e(0x162)](0x0,_0x30a3f7)){if(cc[_0x48038e(0x361)][_0x48038e(0x415)]())this[_0x48038e(0x206)+_0x48038e(0x629)]['forceShowC'+_0x48038e(0x586)](_0x1af3f9[0x2],this[_0x48038e(0x64a)+'te']),this[_0x48038e(0x50a)+'rr']({'player':[_0x33aab0,_0xe25127,_0x450103],'banker':[_0x3b512c,_0x15c20a,_0x30a3f7]});else{var _0x3e1925=_0x42f77e[_0x48038e(0x128)](0x0,_0x450103)?4.5:2.5;cc['director'][_0x48038e(0x614)+'er']()[_0x48038e(0x35e)](function(){var _0xbba9c8=_0x48038e;cc[_0xbba9c8(0x1c0)+_0xbba9c8(0x279)][_0xbba9c8(0x484)+'e']()['playSound'](cc[_0xbba9c8(0x5ee)][_0xbba9c8(0x635)]),this[_0xbba9c8(0x206)+_0xbba9c8(0x629)][_0xbba9c8(0x5de)](_0x1af3f9[0x2]);},this,0x0,0x0,_0x3e1925,!0x1),cc['director'][_0x48038e(0x614)+'er']()['schedule'](function(){var _0x520eaa=_0x48038e;this[_0x520eaa(0x206)+_0x520eaa(0x629)][_0x520eaa(0x3e9)+_0x520eaa(0x343)](!0x0),cc[_0x520eaa(0x469)][_0x520eaa(0x614)+'er']()['schedule'](function(){var _0x2a144f=_0x520eaa;this[_0x2a144f(0x206)+_0x2a144f(0x629)][_0x2a144f(0x14f)](this[_0x2a144f(0x64a)+'te']),this['showScoreA'+'rr']({'player':[_0x33aab0,_0xe25127,_0x450103],'banker':[_0x3b512c,_0x15c20a,_0x30a3f7]});},this,0x0,0x0,0x1,!0x1);},this,0x0,0x0,_0x42f77e['ZwJrN'](_0x3e1925,0x1),!0x1);}}else this[_0x48038e(0x206)+_0x48038e(0x629)][_0x48038e(0x584)]();cc[_0x48038e(0x361)][_0x48038e(0x415)]()?cc['Bacarat2Co'+_0x48038e(0x590)][_0x48038e(0x484)+'e']()[_0x48038e(0x233)+'ips']():cc['director'][_0x48038e(0x614)+'er']()['schedule'](function(){var _0x3f97b6=_0x48038e,_0x17e491=_0x3861ae[_0x3f97b6(0x625)](','),_0x5be9e8=['1','2','3','4','5']['filter'](function(_0xf62c5){var _0x654fb5=_0x3f97b6;return!_0x17e491[_0x654fb5(0x33b)](_0xf62c5);}),_0x12c852=_0x17e491[_0x3f97b6(0x33b)](_0x1bf250[_0x3f97b6(0x3c3)]('',cc[_0x3f97b6(0x339)+'Site'][_0x3f97b6(0x1a1)]));this[_0x3f97b6(0x5da)+'n'](_0x3861ae),_0x5be9e8['map'](function(_0x56e0a7){var _0x20eb85=_0x3f97b6;_0x56e0a7=_0x1bf250[_0x20eb85(0x2eb)](parseInt,_0x56e0a7),cc[_0x20eb85(0x285)+_0x20eb85(0x590)][_0x20eb85(0x484)+'e']()[_0x20eb85(0x263)+'se'](_0x56e0a7,_0x12c852);},this),cc[_0x3f97b6(0x469)]['getSchedul'+'er']()[_0x3f97b6(0x35e)](function(){var _0x2d9fd3=_0x3f97b6;_0x17e491[_0x2d9fd3(0x2a9)](function(_0x30d579){var _0x671e45=_0x2d9fd3;_0x30d579=parseInt(_0x30d579),cc[_0x671e45(0x285)+_0x671e45(0x590)][_0x671e45(0x484)+'e']()[_0x671e45(0x48c)+'s'](_0x30d579);},this),_0x12c852&&cc['Bacarat2Co'+_0x2d9fd3(0x590)][_0x2d9fd3(0x484)+'e']()['refundChip'+_0x2d9fd3(0x5d9)]();},this,0x0,0x0,0x2,!0x1);},this,0x0,0x0,_0x40cdc8,!0x1);}continue;case'5':this[_0x48038e(0x39a)+_0x48038e(0x413)][_0x48038e(0x611)][_0x48038e(0x29d)]||this[_0x48038e(0x3c0)+'Table']();continue;case'6':_0x42f77e[_0x48038e(0x49a)](0x0,_0x450103)&&_0x42f77e[_0x48038e(0x162)](0x0,_0x30a3f7)&&(_0x40cdc8=5.5);continue;case'7':_0x42f77e[_0x48038e(0x3bd)](0x0,_0x450103)&&_0x42f77e[_0x48038e(0x49a)](0x0,_0x30a3f7)&&(_0x40cdc8=0x5);continue;case'8':this[_0x48038e(0x206)+_0x48038e(0x629)][_0x48038e(0x336)+_0x48038e(0x388)](_0x30a3f7);continue;case'9':var _0x1bf250={'AphCB':function(_0x2cb4e1,_0xe0d768){var _0x3e5979=_0x48038e;return _0x42f77e[_0x3e5979(0x4cf)](_0x2cb4e1,_0xe0d768);},'nQdcF':function(_0x43bb60,_0x3b1640){var _0x265c15=_0x48038e;return _0x42f77e[_0x265c15(0x156)](_0x43bb60,_0x3b1640);}};continue;case'10':this[_0x48038e(0x206)+_0x48038e(0x17d)]['updateOrdi'+_0x48038e(0x388)](_0x15c20a);continue;case'11':this[_0x48038e(0x39a)+_0x48038e(0x413)]['updateOrdi'+_0x48038e(0x388)](_0x33aab0);continue;case'12':cc[_0x48038e(0x469)][_0x48038e(0x614)+'er']()['schedule'](function(){var _0x95018a=_0x48038e,_0x9883cf=cc[_0x95018a(0x285)+_0x95018a(0x590)][_0x95018a(0x484)+'e']()[_0x95018a(0x3b0)+'lt']();_0x9883cf&&cc[_0x95018a(0x285)+_0x95018a(0x590)]['getInstanc'+'e']()[_0x95018a(0x124)](_0x9883cf);var _0x3027d1=cc[_0x95018a(0x285)+_0x95018a(0x590)][_0x95018a(0x484)+'e']()['getWinVipR'+_0x95018a(0x329)]();_0x3027d1&&cc['Bacarat2Co'+_0x95018a(0x590)]['getInstanc'+'e']()[_0x95018a(0x487)+'ip'](_0x3027d1);},this,0x0,0x0,_0x42f77e[_0x48038e(0x156)](_0x40cdc8,4.8),!0x1);continue;case'13':var _0x3c78e8=_0x52c20c['Result'],_0x3861ae=_0x3c78e8[_0x48038e(0x565)],_0x33aab0=_0x3c78e8['PlayerCard'+'1'],_0xe25127=_0x3c78e8[_0x48038e(0x585)+'2'],_0x450103=_0x3c78e8[_0x48038e(0x585)+'3'],_0x3b512c=_0x3c78e8['BankerCard'+'1'],_0x15c20a=_0x3c78e8[_0x48038e(0x3fe)+'2'],_0x30a3f7=_0x3c78e8['BankerCard'+'3'],_0x40cdc8=1.5;continue;case'14':var _0x6cd530=this[_0x48038e(0x235)+'os'][_0x48038e(0x39a)+'Pos'],_0x1af3f9=this[_0x48038e(0x235)+'os'][_0x48038e(0x206)+_0x48038e(0x4e6)];continue;}break;}},'showGateWin':function(_0x516e83){var _0x1d7027=_0x24eeb9;_0x516e83[_0x1d7027(0x625)](',')[_0x1d7027(0x2a9)](function(_0x531f69){var _0x30329f=_0x1d7027;cc[_0x30329f(0x285)+_0x30329f(0x590)][_0x30329f(0x484)+'e']()['playAnimat'+_0x30329f(0x3b9)](_0x531f69);},this);},'forceShowResult':function(_0x120ac8,_0x540da2){var _0x3bd5b6=_0x24eeb9,_0x252b31=_0x3e026c[_0x3bd5b6(0x1c7)][_0x3bd5b6(0x625)]('|'),_0x4386ed=0x0;while(!![]){switch(_0x252b31[_0x4386ed++]){case'0':this[_0x3bd5b6(0x39a)+_0x3bd5b6(0x629)][_0x3bd5b6(0x470)+_0x3bd5b6(0x586)](_0x13c1e8[0x2],this[_0x3bd5b6(0x2de)+'te']);continue;case'1':this[_0x3bd5b6(0x206)+_0x3bd5b6(0x17d)][_0x3bd5b6(0x253)](_0x5b1205);continue;case'2':if(_0x3e026c[_0x3bd5b6(0x401)](_0x3e026c[_0x3bd5b6(0x49f)](parseInt,_0x540da2),0x5)&&!cc[_0x3bd5b6(0x361)]['isPaused']())cc[_0x3bd5b6(0x469)][_0x3bd5b6(0x614)+'er']()[_0x3bd5b6(0x35e)](function(){var _0x5220bb=_0x3bd5b6;_0x2e8348[_0x5220bb(0x2a9)](function(_0x2d388d){var _0x2ecd38=_0x5220bb;_0x2d388d=_0x5e3348[_0x2ecd38(0x2c7)](parseInt,_0x2d388d),cc[_0x2ecd38(0x285)+_0x2ecd38(0x590)][_0x2ecd38(0x484)+'e']()[_0x2ecd38(0x263)+'se'](_0x2d388d,_0x203c92);},this);},this,0x0,0x0,0x1,!0x1),cc[_0x3bd5b6(0x469)][_0x3bd5b6(0x614)+'er']()[_0x3bd5b6(0x35e)](function(){var _0x52cb32=_0x3bd5b6;_0x3d5cbb[_0x52cb32(0x2a9)](function(_0x449e3b){var _0x14333e=_0x52cb32;_0x449e3b=parseInt(_0x449e3b),cc['Bacarat2Co'+'ntroller']['getInstanc'+'e']()[_0x14333e(0x48c)+'s'](_0x449e3b);},this),_0x203c92&&cc[_0x52cb32(0x285)+_0x52cb32(0x590)][_0x52cb32(0x484)+'e']()['refundChip'+_0x52cb32(0x5d9)]();},this,0x0,0x0,1.5,!0x1);else cc[_0x3bd5b6(0x285)+_0x3bd5b6(0x590)][_0x3bd5b6(0x484)+'e']()[_0x3bd5b6(0x233)+_0x3bd5b6(0x1ce)]();continue;case'3':this[_0x3bd5b6(0x206)+'1Item'][_0x3bd5b6(0x470)+_0x3bd5b6(0x586)](_0xcddd5f[0x0]);continue;case'4':this['bankerCard'+_0x3bd5b6(0x629)][_0x3bd5b6(0x253)](_0x153370);continue;case'5':var _0x3c1344=_0x120ac8[_0x3bd5b6(0x16d)],_0x42a706=_0x3c1344[_0x3bd5b6(0x565)],_0x1e4ed2=_0x3c1344[_0x3bd5b6(0x585)+'1'],_0x2fdfd4=_0x3c1344[_0x3bd5b6(0x585)+'2'],_0x17dfde=_0x3c1344[_0x3bd5b6(0x585)+'3'],_0x547d0e=_0x3c1344[_0x3bd5b6(0x3fe)+'1'],_0x5b1205=_0x3c1344[_0x3bd5b6(0x3fe)+'2'],_0x153370=_0x3c1344[_0x3bd5b6(0x3fe)+'3'],_0x13c1e8=this[_0x3bd5b6(0x235)+'os'][_0x3bd5b6(0x39a)+_0x3bd5b6(0x4e6)],_0xcddd5f=this[_0x3bd5b6(0x235)+'os'][_0x3bd5b6(0x206)+_0x3bd5b6(0x4e6)];continue;case'6':this['bankerCard'+_0x3bd5b6(0x629)]['forceShowC'+_0x3bd5b6(0x586)](_0xcddd5f[0x2],this['bankerRota'+'te']);continue;case'7':this[_0x3bd5b6(0x206)+'2Item'][_0x3bd5b6(0x470)+_0x3bd5b6(0x586)](_0xcddd5f[0x1]);continue;case'8':this[_0x3bd5b6(0x5da)+'n'](_0x42a706);continue;case'9':this['playerCard'+_0x3bd5b6(0x413)][_0x3bd5b6(0x253)](_0x1e4ed2);continue;case'10':this[_0x3bd5b6(0x39a)+_0x3bd5b6(0x629)][_0x3bd5b6(0x253)](_0x17dfde);continue;case'11':this[_0x3bd5b6(0x50a)+'rr']({'player':[_0x1e4ed2,_0x2fdfd4,_0x17dfde],'banker':[_0x547d0e,_0x5b1205,_0x153370]});continue;case'12':this[_0x3bd5b6(0x39a)+_0x3bd5b6(0x17d)][_0x3bd5b6(0x470)+_0x3bd5b6(0x586)](_0x13c1e8[0x1]);continue;case'13':this['playerCard'+_0x3bd5b6(0x17d)][_0x3bd5b6(0x253)](_0x2fdfd4);continue;case'14':this[_0x3bd5b6(0x39a)+'1Item'][_0x3bd5b6(0x470)+_0x3bd5b6(0x586)](_0x13c1e8[0x0]);continue;case'15':var _0x3d5cbb=_0x42a706['split'](','),_0x2e8348=['1','2','3','4','5']['filter'](function(_0x39a8b2){var _0x4074dd=_0x3bd5b6;return!_0x3d5cbb[_0x4074dd(0x33b)](_0x39a8b2);}),_0x203c92=_0x3d5cbb['includes'](_0x3e026c['sDgBw']('',cc[_0x3bd5b6(0x339)+'Site'][_0x3bd5b6(0x1a1)]));continue;case'16':var _0x5e3348={'EqXRM':function(_0xbcdf5,_0x9047ec){return _0x3e026c['olGYQ'](_0xbcdf5,_0x9047ec);}};continue;case'17':this[_0x3bd5b6(0x206)+'1Item'][_0x3bd5b6(0x253)](_0x547d0e);continue;}break;}}});}[_0x4bf7a9(0x314)](void 0x0));continue;case'3':cc[_0x4bf7a9(0x2a8)][_0x4bf7a9(0x5ae)](_0x52078b,_0x4bf7a9(0x632)+_0x4bf7a9(0x4f1)+_0x4bf7a9(0x256),_0x2aa581[_0x4bf7a9(0x44b)]);continue;case'4':cc[_0x4bf7a9(0x2a8)][_0x4bf7a9(0x56f)]();continue;}break;}},{}],'BacaratCatCauView':[function(_0x178ee1,_0x4dc6ae){'use strict';var _0x1afcfb=_0x4efc99,_0x385a1c={'WnEkN':_0x1afcfb(0x546),'eUnSW':_0x1afcfb(0x48f)+_0x1afcfb(0x302),'oBiyk':function(_0x17b7e3,_0x5f4c4d){return _0x17b7e3!==_0x5f4c4d;},'hfgli':_0x1afcfb(0x141)+'6|0','vRWgy':function(_0x4c9d21,_0x320bf6){return _0x4c9d21+_0x320bf6;},'NmGUv':function(_0x12caf3,_0x586fb0){return _0x12caf3-_0x586fb0;},'zOjsv':_0x1afcfb(0x1ee)+_0x1afcfb(0x4c1)+_0x1afcfb(0x392),'Edeis':_0x1afcfb(0x26d)+_0x1afcfb(0x4b0)},_0x1c20ed=_0x385a1c[_0x1afcfb(0x229)]['split']('|'),_0x25da24=0x0;while(!![]){switch(_0x1c20ed[_0x25da24++]){case'0':cc[_0x1afcfb(0x2a8)]['pop']();continue;case'1':cc[_0x1afcfb(0x3eb)]({'extends':cc[_0x1afcfb(0x2ee)],'properties':{'itemTemplate':cc[_0x1afcfb(0x4d4)],'layoutParent':cc[_0x1afcfb(0x4d4)]},'onLoad':function(){var _0x33eebc=_0x1afcfb,_0x31edf2=_0x515438[_0x33eebc(0x553)][_0x33eebc(0x625)]('|'),_0x365353=0x0;while(!![]){switch(_0x31edf2[_0x365353++]){case'0':this[_0x33eebc(0x428)]=0x5;continue;case'1':this[_0x33eebc(0x5a5)]=-0x13;continue;case'2':this[_0x33eebc(0x535)]=new cc[(_0x33eebc(0x3a3))]();continue;case'3':this[_0x33eebc(0x252)]=-0xa;continue;case'4':this['isActive']=!0x1;continue;case'5':this['stepY']=0x13;continue;case'6':for(var _0x135e1a=0x0;_0x515438['YcGWh'](_0x135e1a,0x64);_0x135e1a++)this['itemPool']['put'](cc[_0x33eebc(0x200)+'e'](this['itemTempla'+'te']));continue;case'7':this[_0x33eebc(0x506)]=-0x26;continue;case'8':cc[_0x33eebc(0x285)+_0x33eebc(0x590)]['getInstanc'+'e']()[_0x33eebc(0x476)+_0x33eebc(0x44f)](this);continue;}break;}},'activeGraph':function(_0x5e97a5){var _0x49c4cb=_0x1afcfb;this['node'][_0x49c4cb(0x29d)]=_0x5e97a5,this[_0x49c4cb(0x49d)]=_0x5e97a5;},'initListCatCau':function(_0xcd8ce0){var _0x2cb48c=_0x1afcfb;if(_0xcd8ce0&&_0x515438[_0x2cb48c(0x2c6)](0x0,_0xcd8ce0[_0x2cb48c(0x592)])){var _0x2fa584=_0x515438[_0x2cb48c(0x60d)]['split']('|'),_0x470e58=0x0;while(!![]){switch(_0x2fa584[_0x470e58++]){case'0':this[_0x2cb48c(0x611)][_0x2cb48c(0x29d)]=this[_0x2cb48c(0x49d)];continue;case'1':for(var _0x44b1ca=0x1;_0x515438[_0x2cb48c(0x471)](_0x44b1ca,_0xcd8ce0['length']);_0x44b1ca++){_0x363c97[_0x4ddade][0x0][_0x2cb48c(0x452)+'in']==_0xcd8ce0[_0x44b1ca][_0x2cb48c(0x452)+'in']&&_0x515438[_0x2cb48c(0x2c6)](_0x363c97[_0x4ddade][_0x2cb48c(0x592)],this[_0x2cb48c(0x428)])||(_0x363c97[++_0x4ddade]=[]),_0x363c97[_0x4ddade]['push'](_0xcd8ce0[_0x44b1ca]);}continue;case'2':_0x363c97[_0x4ddade][_0x2cb48c(0x5ae)](_0xcd8ce0[0x0]);continue;case'3':try{this[_0x2cb48c(0x15f)]();}catch(_0x1437c0){}continue;case'4':_0x363c97[_0x4ddade]=[];continue;case'5':var _0x4ddade=0x0,_0x363c97=[];continue;case'6':this['draw'](_0x363c97);continue;}break;}}},'draw':function(_0x344034){var _0xfdd22a=_0x1afcfb,_0x2c5877=('5|0|2|1|3|'+'4')[_0xfdd22a(0x625)]('|'),_0x370052=0x0;while(!![]){switch(_0x2c5877[_0x370052++]){case'0':var _0x16d434=this,_0x51f19e=0x13*_0x344034[_0xfdd22a(0x592)];continue;case'1':this[_0xfdd22a(0x4d9)+'nt']['width']=_0x51f19e;continue;case'2':_0x51f19e=_0x515438[_0xfdd22a(0x50e)](_0x51f19e,0x1a4)?0x1a4:_0x51f19e;continue;case'3':this[_0xfdd22a(0x4d9)+'nt'][_0xfdd22a(0x2f6)]=0x64;continue;case'4':_0x344034[_0xfdd22a(0x2a9)](function(_0x407d01,_0x12e12f){var _0x1e6063=_0xfdd22a,_0x356405={'ntyQz':function(_0x45bbdb,_0x2dbb13){var _0x19ef53=_0x2ce9;return _0x100578[_0x19ef53(0x2c8)](_0x45bbdb,_0x2dbb13);}},_0x40c5c1=_0x100578['xgyKM'](_0x16d434['nodeRooty'],_0x100578['raplr'](0x5,_0x407d01[_0x1e6063(0x592)])*_0x16d434[_0x1e6063(0x17b)]);_0x407d01[_0x1e6063(0x2a9)](function(_0x425ea0,_0x23601a){var _0x513ed9=_0x1e6063,_0x169314=_0x16d434[_0x513ed9(0x5a5)]*_0x12e12f+_0x16d434[_0x513ed9(0x252)],_0x472daa=_0x40c5c1+_0x356405[_0x513ed9(0x5f2)](_0x23601a,_0x16d434[_0x513ed9(0x17b)]),_0x4a6702=null,_0x11ed0f=(_0x4a6702=_0x16d434[_0x513ed9(0x535)][_0x513ed9(0x624)]()>0x0?_0x16d434[_0x513ed9(0x535)][_0x513ed9(0x60e)]():cc[_0x513ed9(0x200)+'e'](_0x16d434[_0x513ed9(0x3c1)+'te']))[_0x513ed9(0x3b7)+'nt'](cc[_0x513ed9(0x438)]);_0x11ed0f[_0x513ed9(0x51d)+_0x513ed9(0x621)](_0x425ea0[_0x513ed9(0x452)+'in'],_0x425ea0['IsPlayerPa'+'ir'],_0x425ea0['IsBankerPa'+'ir']),_0x11ed0f[_0x513ed9(0x5cc)](_0x425ea0['HandValue']),_0x4a6702[_0x513ed9(0x240)]=_0x16d434[_0x513ed9(0x4d9)+'nt'],_0x4a6702[_0x513ed9(0x308)]=cc['v2'](_0x169314,_0x472daa);},_0x16d434);},this);continue;case'5':var _0x100578={'xaJCG':function(_0x3f724e,_0x14b5fa){return _0x3f724e*_0x14b5fa;},'xgyKM':function(_0xb4333b,_0x45d944){var _0x52429d=_0xfdd22a;return _0x515438[_0x52429d(0x5ab)](_0xb4333b,_0x45d944);},'raplr':function(_0x1217fb,_0x7bce58){var _0x462d06=_0xfdd22a;return _0x515438[_0x462d06(0x2ac)](_0x1217fb,_0x7bce58);}};continue;}break;}},'clearList':function(){var _0x19ffdb=_0x1afcfb,_0x9bae34=this,_0x37c91e=this[_0x19ffdb(0x4d9)+'nt'][_0x19ffdb(0x2a7)];_0x515438['LXnqw'](_0x37c91e['length'],0x0)&&_0x37c91e[_0x19ffdb(0x2a9)](function(_0x41f8cc){var _0x41390a=_0x19ffdb;_0x9bae34[_0x41390a(0x535)][_0x41390a(0x2d8)](_0x41f8cc);},this),this[_0x19ffdb(0x4d9)+'nt'][_0x19ffdb(0x5f5)+_0x19ffdb(0x497)](!0x0);},'onDestroy':function(){var _0x2bb732=_0x1afcfb;try{this[_0x2bb732(0x535)][_0x2bb732(0x4da)]();}catch(_0x41e34c){}}});continue;case'2':var _0x515438={'GnABI':_0x385a1c[_0x1afcfb(0x2ef)],'YcGWh':function(_0x1b857a,_0x4b7e6c){return _0x1b857a<_0x4b7e6c;},'DcqAj':function(_0x407e33,_0x22e7b2){var _0x3a4584=_0x1afcfb;return _0x385a1c[_0x3a4584(0x57a)](_0x407e33,_0x22e7b2);},'wIcFU':_0x385a1c[_0x1afcfb(0x37a)],'YEsiC':function(_0x17b897,_0x23138b){return _0x17b897<_0x23138b;},'OWXfB':function(_0x288f70,_0x29d3c1){var _0x3107b2=_0x1afcfb;return _0x385a1c[_0x3107b2(0x2c1)](_0x288f70,_0x29d3c1);},'sbpMP':function(_0x1e7cb5,_0x119dff){return _0x385a1c['NmGUv'](_0x1e7cb5,_0x119dff);},'LXnqw':function(_0x2affe0,_0x5032b7){return _0x2affe0>_0x5032b7;}};continue;case'3':cc[_0x1afcfb(0x2a8)][_0x1afcfb(0x5ae)](_0x4dc6ae,_0x385a1c['zOjsv'],_0x385a1c[_0x1afcfb(0x61c)]);continue;case'4':continue;}break;}},{}],'BacaratChipsView':[function(_0x424eaf,_0x2b2928){'use strict';var _0x35ed25=_0x4efc99,_0x3922ad={'UJWuD':function(_0x5515b1,_0x51abde){return _0x5515b1!==_0x51abde;},'RpwIt':function(_0x3ed5c6,_0x586d69){return _0x3ed5c6(_0x586d69);},'nijKP':function(_0x232388,_0xd47c06){return _0x232388!==_0xd47c06;},'chOLs':function(_0x44d370,_0x2c753b){return _0x44d370>_0x2c753b;},'KttAm':function(_0x595dd9,_0x19c951){return _0x595dd9/_0x19c951;},'OEwUH':function(_0x3a8948,_0x38db3b){return _0x3a8948*_0x38db3b;},'KlhRi':function(_0x58e423,_0x5614e9){return _0x58e423+_0x5614e9;},'ryyIF':function(_0x16a6fc,_0xac257e){return _0x16a6fc-_0xac257e;},'iOkAo':_0x35ed25(0x24c)+_0x35ed25(0x543)};cc['_RF'][_0x35ed25(0x5ae)](_0x2b2928,_0x35ed25(0x18b)+_0x35ed25(0x22b)+_0x35ed25(0x4bd),_0x3922ad[_0x35ed25(0x277)]),function(){var _0x45ba0d=_0x35ed25,_0x397058={'BHyew':function(_0x1744b1,_0x2b51fe){var _0x2960ce=_0x2ce9;return _0x3922ad[_0x2960ce(0x578)](_0x1744b1,_0x2b51fe);},'ihwjq':function(_0x5f09a8,_0x312b20){return _0x5f09a8+_0x312b20;},'gJlnW':function(_0x3c42ed,_0x12d03b){return _0x3922ad['OEwUH'](_0x3c42ed,_0x12d03b);},'eYwsV':function(_0x38bc40,_0x437fb7){var _0x104ee2=_0x2ce9;return _0x3922ad[_0x104ee2(0x4fc)](_0x38bc40,_0x437fb7);},'QCbTh':function(_0x5e43b6,_0x10b602){var _0x160039=_0x2ce9;return _0x3922ad[_0x160039(0x181)](_0x5e43b6,_0x10b602);},'edbxB':function(_0x47d0b3,_0x27add){return _0x47d0b3+_0x27add;},'nJqcK':function(_0x21f51f,_0x226fb7){return _0x21f51f(_0x226fb7);},'QswhG':function(_0x405b63,_0x551f59){return _0x405b63===_0x551f59;},'SWJOB':function(_0x4a8986,_0x18139e){return _0x3922ad['UJWuD'](_0x4a8986,_0x18139e);},'ugjPt':function(_0x30c546,_0x5bb92f){var _0x2fc8e5=_0x2ce9;return _0x3922ad[_0x2fc8e5(0x43e)](_0x30c546,_0x5bb92f);},'WWavo':function(_0x5812b6,_0x4a63a8){return _0x5812b6>_0x4a63a8;},'cCKYi':function(_0x33113e,_0x1127c6){var _0x37b2be=_0x2ce9;return _0x3922ad[_0x37b2be(0x598)](_0x33113e,_0x1127c6);},'otiSh':function(_0x47d966,_0x379023){return _0x47d966!=_0x379023;}};cc[_0x45ba0d(0x24c)+_0x45ba0d(0x543)]=cc[_0x45ba0d(0x3eb)]({'extends':cc['Component'],'properties':{'layoutChip':cc[_0x45ba0d(0x4d4)],'posChips':[cc[_0x45ba0d(0x4d4)]],'posPPlayer':cc[_0x45ba0d(0x4d4)],'posPlayer':cc['Node'],'posTie':cc[_0x45ba0d(0x4d4)],'posBanker':cc['Node'],'posPBanker':cc[_0x45ba0d(0x4d4)],'posGroupUsers':cc[_0x45ba0d(0x4d4)],'posDealer':cc[_0x45ba0d(0x4d4)],'lstPosPlayer':[cc[_0x45ba0d(0x4d4)]]},'onLoad':function(){var _0x907ff9=_0x45ba0d;cc['Bacarat2Co'+_0x907ff9(0x590)][_0x907ff9(0x484)+'e']()[_0x907ff9(0x4be)+'ew'](this),this['initParamC'+_0x907ff9(0x18e)]();},'initParamChips':function(){var _0xf17d89=_0x45ba0d;this['chipsBetPP'+_0xf17d89(0x5ef)]=[],this[_0xf17d89(0x1ca)+'ayer']=[],this[_0xf17d89(0x559)+'e']=[],this[_0xf17d89(0x511)+_0xf17d89(0x596)]=[],this[_0xf17d89(0x394)+_0xf17d89(0x321)]=[];},'randomPosChip':function(_0x2fdae7,_0x59a3c4){var _0x101aad=_0x45ba0d,_0x494171=null;switch(_0x59a3c4=parseInt(_0x59a3c4)){case cc[_0x101aad(0x339)+_0x101aad(0x20d)][_0x101aad(0x5b2)+'R']:_0x494171=this[_0x101aad(0x1b2)];break;case cc[_0x101aad(0x339)+'Site']['PLAYER']:_0x494171=this[_0x101aad(0x4e4)];break;case cc[_0x101aad(0x339)+'Site'][_0x101aad(0x1a1)]:_0x494171=this['posTie'];break;case cc[_0x101aad(0x339)+_0x101aad(0x20d)]['BANKER']:_0x494171=this['posBanker'];break;case cc[_0x101aad(0x339)+_0x101aad(0x20d)][_0x101aad(0x125)+'R']:_0x494171=this[_0x101aad(0x3dc)];}var _0x2390a2=_0x494171['position'],_0xb865bd=_0x397058['BHyew'](_0x494171['width'],0x2),_0x1605eb=-_0xb865bd,_0x3b08c3=_0x397058[_0x101aad(0x1f6)](_0x494171['height'],0x2),_0x48d93e=-_0x3b08c3,_0x437b25=Math[_0x101aad(0x272)](_0x397058['ihwjq'](_0x397058[_0x101aad(0x2b8)](Math['random'](),_0x397058[_0x101aad(0x3f4)](_0x397058[_0x101aad(0x1f8)](_0xb865bd,_0x1605eb),0x1)),_0x1605eb)),_0x4df886=Math[_0x101aad(0x272)](_0x397058[_0x101aad(0x18d)](Math[_0x101aad(0x398)]()*(_0x3b08c3-_0x48d93e+0x1),_0x48d93e));return _0x2390a2['x']=_0x2390a2['x']+_0x437b25,_0x2390a2['y']=_0x2390a2['y']+_0x4df886,_0x2390a2;},'moveChipBet':function(_0x2f9055,_0x21610c,_0x47f397,_0x48acfb){var _0x4bfa48=_0x45ba0d;this['layoutChip'][_0x4bfa48(0x308)]=cc['v2'](0x0,0x0);try{_0x2f9055=_0x397058[_0x4bfa48(0x250)](parseInt,_0x2f9055);var _0x1adcb4=this[_0x4bfa48(0x5c1)][cc['BacaratMap'+_0x4bfa48(0x135)+'Frame'][_0x2f9055]][_0x4bfa48(0x308)];if(_0x397058[_0x4bfa48(0x48b)](_0x47f397,cc[_0x4bfa48(0x24c)+_0x4bfa48(0x4b2)][_0x4bfa48(0x5e2)])){_0x1adcb4=this[_0x4bfa48(0x170)+_0x4bfa48(0x31b)][_0x4bfa48(0x308)];var _0x17f79b=cc['Bacarat2Co'+_0x4bfa48(0x590)]['getInstanc'+'e']()['positionPl'+_0x4bfa48(0x516)]()[_0x4bfa48(0x63c)](_0x48acfb);_0x397058[_0x4bfa48(0x499)](-0x1,_0x17f79b)&&(_0x1adcb4=this[_0x4bfa48(0x385)+'er'][_0x17f79b][_0x4bfa48(0x308)]);}var _0x3a32c6=this['randomPosC'+_0x4bfa48(0x587)](_0x2f9055,_0x21610c),_0x5612bf=cc['Bacarat2Co'+'ntroller']['getInstanc'+'e']()['createChip'](cc[_0x4bfa48(0x5b4)+_0x4bfa48(0x135)+_0x4bfa48(0x337)][_0x2f9055]);_0x5612bf[_0x4bfa48(0x240)]=this[_0x4bfa48(0x358)],_0x5612bf['position']=_0x1adcb4;var _0x20e607=cc[_0x4bfa48(0x5de)](0.3,_0x3a32c6);cc[_0x4bfa48(0x361)][_0x4bfa48(0x415)]()?_0x5612bf['position']=_0x3a32c6:_0x5612bf[_0x4bfa48(0x2a1)](_0x20e607);var _0x579ff6=_0x1adcb4;_0x397058[_0x4bfa48(0x48b)](_0x47f397,cc['BacaratChi'+_0x4bfa48(0x4b2)][_0x4bfa48(0x3c7)])&&(_0x579ff6=this[_0x4bfa48(0x385)+'er'][0x0][_0x4bfa48(0x308)]);switch(_0x21610c){case cc[_0x4bfa48(0x339)+_0x4bfa48(0x20d)][_0x4bfa48(0x5b2)+'R']:this['chipsBetPP'+_0x4bfa48(0x5ef)]['push']([_0x5612bf,_0x2f9055,_0x579ff6]);break;case cc['BacaratBet'+'Site'][_0x4bfa48(0x3c7)]:this['chipsBetPl'+_0x4bfa48(0x213)][_0x4bfa48(0x5ae)]([_0x5612bf,_0x2f9055,_0x579ff6]);break;case cc[_0x4bfa48(0x339)+_0x4bfa48(0x20d)][_0x4bfa48(0x1a1)]:this[_0x4bfa48(0x559)+'e'][_0x4bfa48(0x5ae)]([_0x5612bf,_0x2f9055,_0x579ff6]);break;case cc[_0x4bfa48(0x339)+_0x4bfa48(0x20d)][_0x4bfa48(0x2da)]:this['chipsBetBa'+_0x4bfa48(0x596)][_0x4bfa48(0x5ae)]([_0x5612bf,_0x2f9055,_0x579ff6]);break;case cc[_0x4bfa48(0x339)+'Site']['BANKER_PAI'+'R']:this[_0x4bfa48(0x394)+_0x4bfa48(0x321)][_0x4bfa48(0x5ae)]([_0x5612bf,_0x2f9055,_0x579ff6]);}}catch(_0xdcad8a){}},'updateChipForBetSession':function(_0x4d7462){var _0x31ca1f=_0x45ba0d,_0x3c29de={'kUKbO':function(_0xa0d6c9,_0x101574){return _0xa0d6c9(_0x101574);},'YlEMR':function(_0x52de3a,_0x425c24){var _0x95442a=_0x2ce9;return _0x3922ad[_0x95442a(0x41d)](_0x52de3a,_0x425c24);},'wwSKj':function(_0x142167,_0x350b8d){return _0x142167!==_0x350b8d;}},_0x45bf14=this;0x0!==_0x4d7462[_0x31ca1f(0x592)]&&_0x4d7462[_0x31ca1f(0x2a9)](function(_0x1f363f){var _0x225d73=_0x31ca1f;_0x3c29de['wwSKj'](0x0,_0x1f363f[_0x225d73(0x592)])&&_0x1f363f[_0x225d73(0x2a9)](function(_0x59a8fd){var _0xdbb1c9=_0x225d73,_0x128729=_0x3c29de[_0xdbb1c9(0x446)](parseInt,_0x59a8fd[_0xdbb1c9(0x2fd)]),_0x2bf846=_0x3c29de[_0xdbb1c9(0x446)](parseInt,_0x59a8fd[_0xdbb1c9(0x1dc)]),_0x5e1368=cc[_0xdbb1c9(0x285)+_0xdbb1c9(0x590)][_0xdbb1c9(0x484)+'e']()[_0xdbb1c9(0x2b0)](cc['BacaratMap'+_0xdbb1c9(0x135)+_0xdbb1c9(0x337)][_0x2bf846]);if(_0x5e1368){var _0x202ce2=_0x45bf14[_0xdbb1c9(0x3f9)+_0xdbb1c9(0x587)](_0x2bf846,_0x128729);_0x5e1368[_0xdbb1c9(0x240)]=_0x45bf14['layoutChip'],_0x5e1368[_0xdbb1c9(0x308)]=_0x202ce2;var _0x32c996=_0x45bf14[_0xdbb1c9(0x170)+'ers']['position'],_0x204f4a=cc['Bacarat2Co'+_0xdbb1c9(0x590)][_0xdbb1c9(0x484)+'e']()[_0xdbb1c9(0x3b8)+_0xdbb1c9(0x516)]()[_0xdbb1c9(0x63c)](_0x59a8fd['AccountID']);_0x3c29de[_0xdbb1c9(0x258)](-0x1,_0x204f4a)&&(_0x32c996=_0x45bf14[_0xdbb1c9(0x385)+'er'][_0x204f4a]['position']);switch(_0x128729){case cc[_0xdbb1c9(0x339)+'Site'][_0xdbb1c9(0x5b2)+'R']:_0x45bf14['chipsBetPP'+_0xdbb1c9(0x5ef)][_0xdbb1c9(0x5ae)]([_0x5e1368,_0x2bf846,_0x32c996]);break;case cc['BacaratBet'+_0xdbb1c9(0x20d)]['PLAYER']:_0x45bf14[_0xdbb1c9(0x1ca)+_0xdbb1c9(0x213)][_0xdbb1c9(0x5ae)]([_0x5e1368,_0x2bf846,_0x32c996]);break;case cc[_0xdbb1c9(0x339)+_0xdbb1c9(0x20d)]['TIE']:_0x45bf14[_0xdbb1c9(0x559)+'e'][_0xdbb1c9(0x5ae)]([_0x5e1368,_0x2bf846,_0x32c996]);break;case cc[_0xdbb1c9(0x339)+_0xdbb1c9(0x20d)][_0xdbb1c9(0x2da)]:_0x45bf14['chipsBetBa'+_0xdbb1c9(0x596)]['push']([_0x5e1368,_0x2bf846,_0x32c996]);break;case cc[_0xdbb1c9(0x339)+'Site']['BANKER_PAI'+'R']:_0x45bf14[_0xdbb1c9(0x394)+_0xdbb1c9(0x321)]['push']([_0x5e1368,_0x2bf846,_0x32c996]);}}},_0x45bf14);},this);},'refundChips':function(_0x344e8e){var _0x4d7546=_0x45ba0d,_0x5a4695=this,_0x4bb60a=null;switch(_0x344e8e=_0x3922ad[_0x4d7546(0x5bb)](parseInt,_0x344e8e)){case cc[_0x4d7546(0x339)+_0x4d7546(0x20d)][_0x4d7546(0x5b2)+'R']:_0x4bb60a=this[_0x4d7546(0x12a)+'air'];break;case cc['BacaratBet'+_0x4d7546(0x20d)][_0x4d7546(0x3c7)]:_0x4bb60a=this['chipsBetPl'+_0x4d7546(0x213)];break;case cc['BacaratBet'+_0x4d7546(0x20d)]['TIE']:_0x4bb60a=this[_0x4d7546(0x559)+'e'];break;case cc[_0x4d7546(0x339)+'Site'][_0x4d7546(0x2da)]:_0x4bb60a=this[_0x4d7546(0x511)+_0x4d7546(0x596)];break;case cc[_0x4d7546(0x339)+_0x4d7546(0x20d)]['BANKER_PAI'+'R']:_0x4bb60a=this[_0x4d7546(0x394)+_0x4d7546(0x321)];break;default:return;}var _0x1e0a74=0x0;_0x4bb60a&&_0x3922ad[_0x4d7546(0x598)](0x0,_0x4bb60a[_0x4d7546(0x592)])&&(_0x4bb60a[_0x4d7546(0x2a9)](function(_0x2cbb2a,_0x3e6ecb){var _0x1e172f=_0x4d7546;try{_0x1e0a74=_0x397058['gJlnW'](0.1,_0x3e6ecb=_0x397058[_0x1e172f(0x1a8)](_0x3e6ecb,0x5)?0x5:_0x3e6ecb);var _0x5e9d52=cc['Bacarat2Co'+_0x1e172f(0x590)][_0x1e172f(0x484)+'e']()['createChip'](cc['BacaratMap'+_0x1e172f(0x135)+_0x1e172f(0x337)][_0x2cbb2a[0x1]]);_0x5e9d52[_0x1e172f(0x240)]=_0x5a4695[_0x1e172f(0x358)],_0x5e9d52[_0x1e172f(0x308)]=_0x5a4695[_0x1e172f(0x36d)]['position'];var _0x341d68=_0x5a4695[_0x1e172f(0x3f9)+_0x1e172f(0x587)](_0x2cbb2a[0x1],_0x344e8e);if(cc['game'][_0x1e172f(0x415)]())_0x5e9d52[_0x1e172f(0x308)]=_0x341d68;else{var _0x41085c=cc['moveTo'](0.3,_0x341d68);cc['director'][_0x1e172f(0x614)+'er']()['schedule'](function(){var _0x1615f7=_0x1e172f;_0x5e9d52[_0x1615f7(0x2a1)](_0x41085c);},_0x5a4695,0x0,0x0,_0x397058[_0x1e172f(0x2b8)](0.1,_0x3e6ecb),!0x1);}cc[_0x1e172f(0x285)+_0x1e172f(0x590)]['getInstanc'+'e']()[_0x1e172f(0x28b)](_0x2cbb2a[0x0],_0x2cbb2a[0x1],_0x2cbb2a[0x2]),cc[_0x1e172f(0x285)+_0x1e172f(0x590)][_0x1e172f(0x484)+'e']()['setChipWin'](_0x5e9d52,_0x2cbb2a[0x1],_0x2cbb2a[0x2]);}catch(_0xdede8c){}},this),cc[_0x4d7546(0x469)][_0x4d7546(0x614)+'er']()[_0x4d7546(0x35e)](function(){var _0x245fd8=_0x4d7546;this[_0x245fd8(0x4a8)+_0x245fd8(0x17c)]();},this,0x0,0x0,_0x1e0a74+1.5,!0x1));},'runRefundChipForUser':function(){var _0x446919=_0x45ba0d,_0xd18a12={'WnNzR':function(_0x4bc9f3,_0x436795,_0x35df0a){return _0x4bc9f3(_0x436795,_0x35df0a);},'ufxpd':function(_0x536786,_0x5240bd){var _0x4b0977=_0x2ce9;return _0x3922ad[_0x4b0977(0x43e)](_0x536786,_0x5240bd);},'RSEAs':function(_0x4dcfcb,_0x572435){return _0x4dcfcb*_0x572435;}},_0x369de1=this;try{cc[_0x446919(0x285)+'ntroller'][_0x446919(0x484)+'e']()[_0x446919(0x4a2)+'n']()[_0x446919(0x2a9)](function(_0x44c3d0,_0x118e97){var _0x1ac7bf=_0x446919,_0x4ec0fb={'Wmuzl':function(_0x127fa0,_0x31dbe0,_0x36c73e){var _0x281a2f=_0x2ce9;return _0xd18a12[_0x281a2f(0x466)](_0x127fa0,_0x31dbe0,_0x36c73e);}};_0xd18a12[_0x1ac7bf(0x414)](_0x118e97,0x5)&&(_0x118e97=0x5);var _0x745ab4=_0x44c3d0[0x2];if(cc[_0x1ac7bf(0x361)][_0x1ac7bf(0x415)]())cc[_0x1ac7bf(0x285)+_0x1ac7bf(0x590)][_0x1ac7bf(0x484)+'e']()['putChipToP'+_0x1ac7bf(0x242)](_0x44c3d0[0x0],_0x44c3d0[0x1]),_0x44c3d0[0x0][_0x1ac7bf(0x25a)+_0x1ac7bf(0x5c3)](!0x0);else cc[_0x1ac7bf(0x469)][_0x1ac7bf(0x614)+'er']()[_0x1ac7bf(0x35e)](function(){var _0x224af6=_0x1ac7bf,_0x41ab3f=cc['moveTo'](0.3,_0x745ab4),_0x73d61a=cc[_0x224af6(0x3ab)](function(){var _0x16d22f=_0x224af6;_0x44c3d0[0x0]['runAction'](cc[_0x16d22f(0x643)]()),_0x4ec0fb[_0x16d22f(0x389)](setTimeout,function(){var _0x537de7=_0x16d22f;cc[_0x537de7(0x285)+_0x537de7(0x590)][_0x537de7(0x484)+'e']()[_0x537de7(0x544)+_0x537de7(0x242)](_0x44c3d0[0x0],_0x44c3d0[0x1]);}[_0x16d22f(0x507)](this),0x3e8),_0x44c3d0[0x0]['removeFrom'+_0x16d22f(0x5c3)](!0x0);},this);_0x44c3d0[0x0]['runAction'](cc['sequence'](_0x41ab3f,_0x73d61a));},_0x369de1,0x0,0x0,_0xd18a12[_0x1ac7bf(0x40a)](0.1,_0x118e97),!0x1);},this);}catch(_0x49574e){}},'refundChipsTie':function(){var _0xd4d406=_0x45ba0d,_0xb73351=this;try{[][_0xd4d406(0x118)](this['chipsBetPl'+_0xd4d406(0x213)],this[_0xd4d406(0x511)+_0xd4d406(0x596)])[_0xd4d406(0x2a9)](function(_0x4b7c1a,_0x4cc2dc){var _0x4b9d6f=_0xd4d406;_0x397058[_0x4b9d6f(0x534)](_0x4cc2dc,0x5)&&(_0x4cc2dc=0x5);var _0x33bcaf=_0x4b7c1a[0x2];if(cc[_0x4b9d6f(0x361)][_0x4b9d6f(0x415)]())cc[_0x4b9d6f(0x285)+_0x4b9d6f(0x590)][_0x4b9d6f(0x484)+'e']()[_0x4b9d6f(0x544)+'ool'](_0x4b7c1a[0x0],_0x4b7c1a[0x1]),_0x4b7c1a[0x0][_0x4b9d6f(0x25a)+_0x4b9d6f(0x5c3)](!0x0);else cc['director'][_0x4b9d6f(0x614)+'er']()[_0x4b9d6f(0x35e)](function(){var _0x45ea7f=_0x4b9d6f,_0x3731d8=cc[_0x45ea7f(0x5de)](0.3,_0x33bcaf),_0x1bd48e=cc['callFunc'](function(){var _0x33f2b8=_0x45ea7f;cc[_0x33f2b8(0x285)+_0x33f2b8(0x590)][_0x33f2b8(0x484)+'e']()[_0x33f2b8(0x544)+_0x33f2b8(0x242)](_0x4b7c1a[0x0],_0x4b7c1a[0x1]),_0x4b7c1a[0x0][_0x33f2b8(0x25a)+_0x33f2b8(0x5c3)](!0x0);},this);_0x4b7c1a[0x0][_0x45ea7f(0x2a1)](cc[_0x45ea7f(0x4c7)](_0x3731d8,_0x1bd48e));},_0xb73351,0x0,0x0,0.1*_0x4cc2dc,!0x1);},this);}catch(_0x5c41e4){}},'getChipsLose':function(_0x120929,_0x5e667e){var _0x38067c=_0x45ba0d,_0x1adc31=this,_0x159e1a=null;switch(_0x120929=_0x397058[_0x38067c(0x250)](parseInt,_0x120929)){case cc[_0x38067c(0x339)+_0x38067c(0x20d)][_0x38067c(0x5b2)+'R']:_0x159e1a=this[_0x38067c(0x12a)+_0x38067c(0x5ef)];break;case cc[_0x38067c(0x339)+_0x38067c(0x20d)][_0x38067c(0x3c7)]:_0x159e1a=this[_0x38067c(0x1ca)+_0x38067c(0x213)];break;case cc['BacaratBet'+_0x38067c(0x20d)]['TIE']:_0x159e1a=this[_0x38067c(0x559)+'e'];break;case cc[_0x38067c(0x339)+'Site'][_0x38067c(0x2da)]:_0x159e1a=this[_0x38067c(0x511)+_0x38067c(0x596)];break;case cc[_0x38067c(0x339)+_0x38067c(0x20d)][_0x38067c(0x125)+'R']:_0x159e1a=this[_0x38067c(0x394)+'anker'];}_0x397058['cCKYi'](0x0,_0x159e1a['length'])&&(!_0x5e667e||_0x120929!=cc[_0x38067c(0x339)+_0x38067c(0x20d)][_0x38067c(0x3c7)]&&_0x397058[_0x38067c(0x3cd)](_0x120929,cc[_0x38067c(0x339)+'Site'][_0x38067c(0x2da)]))&&(_0x159e1a[_0x38067c(0x2a9)](function(_0x4824ce,_0x16ba5d){var _0x179a0d=_0x38067c;try{_0x397058[_0x179a0d(0x534)](_0x16ba5d,0x5)&&(_0x16ba5d=0x5);var _0x1c94b8=_0x1adc31[_0x179a0d(0x36d)]['position'];if(cc[_0x179a0d(0x361)][_0x179a0d(0x415)]())cc[_0x179a0d(0x285)+_0x179a0d(0x590)][_0x179a0d(0x484)+'e']()[_0x179a0d(0x544)+_0x179a0d(0x242)](_0x4824ce[0x0],_0x4824ce[0x1]),_0x4824ce[0x0]['removeFrom'+_0x179a0d(0x5c3)](!0x0);else cc[_0x179a0d(0x469)]['getSchedul'+'er']()[_0x179a0d(0x35e)](function(){var _0x5b53d7=_0x179a0d,_0x53e5ca=cc[_0x5b53d7(0x5de)](0.3,_0x1c94b8),_0x8415cc=cc[_0x5b53d7(0x3ab)](function(){var _0x258c69=_0x5b53d7;cc[_0x258c69(0x285)+_0x258c69(0x590)][_0x258c69(0x484)+'e']()[_0x258c69(0x544)+_0x258c69(0x242)](_0x4824ce[0x0],_0x4824ce[0x1]),_0x4824ce[0x0][_0x258c69(0x25a)+'Parent'](!0x0);},this);_0x4824ce[0x0]['runAction'](cc[_0x5b53d7(0x4c7)](_0x53e5ca,_0x8415cc));},_0x1adc31,0x0,0x0,_0x397058[_0x179a0d(0x2b8)](0.1,_0x16ba5d),!0x1);}catch(_0x7f4f){}},this),_0x159e1a=[]);},'clearAllChips':function(){var _0x331e14=_0x45ba0d;cc[_0x331e14(0x285)+_0x331e14(0x590)][_0x331e14(0x484)+'e']()[_0x331e14(0x400)](),this[_0x331e14(0x358)][_0x331e14(0x5f5)+_0x331e14(0x497)]();}});}[_0x35ed25(0x314)](void 0x0),cc['_RF'][_0x35ed25(0x56f)]();},{}],'BacaratController':[function(_0x13f496,_0x76b9a6){'use strict';var _0x60a93a=_0x4efc99,_0x2eb7ef={'ijgam':function(_0x3dd734,_0x360072){return _0x3dd734>_0x360072;},'xNuKx':_0x60a93a(0x192)+_0x60a93a(0x448)};cc[_0x60a93a(0x2a8)][_0x60a93a(0x5ae)](_0x76b9a6,_0x60a93a(0x524)+_0x60a93a(0x2e6)+_0x60a93a(0x2c4),_0x2eb7ef[_0x60a93a(0x5eb)]),function(){var _0x182b43=_0x60a93a,_0x40a5d1={'XYpmv':function(_0x189738,_0x49ea92){var _0x49bd9c=_0x2ce9;return _0x2eb7ef[_0x49bd9c(0x3dd)](_0x189738,_0x49ea92);},'HeSzK':function(_0x59b6fa,_0x4a0fd8){return _0x59b6fa-_0x4a0fd8;}},_0x31caf5;_0x31caf5=(function(){var _0x4c6a0e=_0x2ce9,_0x1a0bca={'mKeGs':function(_0x444ba8,_0x5b03b7){var _0x187c5c=_0x2ce9;return _0x40a5d1[_0x187c5c(0x3f6)](_0x444ba8,_0x5b03b7);},'VskMU':function(_0x424ee1,_0x3a1318){return _0x424ee1-_0x3a1318;},'TNZgU':function(_0x1c1ccc,_0x23832c){return _0x1c1ccc==_0x23832c;},'ibICq':function(_0x4f9824,_0xdd7dea){return _0x40a5d1['HeSzK'](_0x4f9824,_0xdd7dea);}},_0x25efc2;function _0x31ac1f(){}return _0x25efc2=void 0x0,_0x31ac1f[_0x4c6a0e(0x484)+'e']=function(){var _0x457340=_0x4c6a0e;return void 0x0===_0x25efc2&&(_0x25efc2=this),_0x25efc2[_0x457340(0x3d5)];},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x3fb)+_0x4c6a0e(0x151)]=function(_0x5c95e2){var _0x5cea0c=_0x4c6a0e;return this[_0x5cea0c(0x60c)+'w']=_0x5c95e2;},_0x31ac1f['prototype'][_0x4c6a0e(0x59c)+_0x4c6a0e(0x25f)]=function(_0x1095d5,_0x7f96c,_0x18bb51){var _0x30b7c3=_0x4c6a0e;if(this[_0x30b7c3(0x60c)+'w'])return this[_0x30b7c3(0x60c)+'w'][_0x30b7c3(0x59c)+_0x30b7c3(0x25f)](_0x1095d5,_0x7f96c,_0x18bb51);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x5b1)+_0x4c6a0e(0x519)]=function(_0x5f25c2){var _0x421399=_0x4c6a0e;this[_0x421399(0x60c)+'w']['updateBala'+_0x421399(0x519)](_0x5f25c2);},_0x31ac1f['prototype']['setInfoVie'+'w']=function(_0x588fd7){var _0xf4410b=_0x4c6a0e;return this['Bacarat_In'+_0xf4410b(0x623)]=_0x588fd7;},_0x31ac1f[_0x4c6a0e(0x3d5)]['playerLeav'+'e']=function(_0x48e732){var _0x2a13de=_0x4c6a0e;this[_0x2a13de(0x60c)+'w'][_0x2a13de(0x380)+'e'](_0x48e732),this[_0x2a13de(0x338)+'foView'][_0x2a13de(0x380)+'e'](_0x48e732);},_0x31ac1f['prototype'][_0x4c6a0e(0x351)+'ionInfo']=function(_0x1e52fc){var _0x17d4b3=_0x4c6a0e;return this['Bacarat_In'+'foView'][_0x17d4b3(0x351)+_0x17d4b3(0x21e)](_0x1e52fc);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x2e2)+_0x4c6a0e(0x1bd)]=function(_0x1c6d72){var _0xac49a3=_0x4c6a0e;return this['Bacarat_In'+_0xac49a3(0x623)]['updatePlay'+'ersInGame'](_0x1c6d72);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x124)]=function(_0x5350c6){var _0x59d58b=_0x4c6a0e;return this[_0x59d58b(0x338)+_0x59d58b(0x623)][_0x59d58b(0x124)](_0x5350c6);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x165)+'lt']=function(_0xb8dace){var _0x2df249=_0x4c6a0e;return this[_0x2df249(0x319)+_0x2df249(0x52e)]=_0xb8dace;},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x3b0)+'lt']=function(){var _0x1c8773=_0x4c6a0e;return this[_0x1c8773(0x319)+_0x1c8773(0x52e)];},_0x31ac1f[_0x4c6a0e(0x3d5)]['setWinVipR'+_0x4c6a0e(0x329)]=function(_0x48f017){var _0xda906f=_0x4c6a0e;return this[_0xda906f(0x2b1)+'ltResponse']=_0x48f017;},_0x31ac1f[_0x4c6a0e(0x3d5)]['getWinVipR'+_0x4c6a0e(0x329)]=function(){var _0xa2cb13=_0x4c6a0e;return this['winVipResu'+_0xa2cb13(0x59f)];},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x487)+'ip']=function(_0x16c3e6){var _0x2e9ea1=_0x4c6a0e;return this[_0x2e9ea1(0x338)+_0x2e9ea1(0x623)][_0x2e9ea1(0x487)+'ip'](_0x16c3e6);},_0x31ac1f[_0x4c6a0e(0x3d5)]['playerShow'+_0x4c6a0e(0x37c)]=function(_0x3cadb3){var _0x4e819f=_0x4c6a0e;return this[_0x4e819f(0x338)+_0x4e819f(0x623)][_0x4e819f(0x204)+_0x4e819f(0x37c)](_0x3cadb3);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x320)]=function(_0x4c2083){var _0x55ba11=_0x4c6a0e;return this['Bacarat_In'+'foView'][_0x55ba11(0x320)](_0x4c2083);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x2e2)+_0x4c6a0e(0x32c)]=function(_0x1f6f0b){var _0x540c5a=_0x4c6a0e;return this[_0x540c5a(0x338)+_0x540c5a(0x623)][_0x540c5a(0x2e2)+_0x540c5a(0x32c)](_0x1f6f0b);},_0x31ac1f['prototype'][_0x4c6a0e(0x2e2)+_0x4c6a0e(0x61a)]=function(_0x3b8618){var _0x24fec5=_0x4c6a0e;return this[_0x24fec5(0x338)+'foView'][_0x24fec5(0x2e2)+_0x24fec5(0x61a)](_0x3b8618);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x5b1)+'nceCurrPla'+_0x4c6a0e(0x482)]=function(_0x28b0ad){var _0x27c8be=_0x4c6a0e;return this[_0x27c8be(0x338)+_0x27c8be(0x623)][_0x27c8be(0x5b1)+_0x27c8be(0x185)+'yer'](_0x28b0ad);},_0x31ac1f['prototype']['playerShow'+_0x4c6a0e(0x37c)]=function(_0xf1530c){var _0xe793da=_0x4c6a0e;return this[_0xe793da(0x338)+_0xe793da(0x623)]['playerShow'+_0xe793da(0x37c)](_0xf1530c);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x5b1)+_0x4c6a0e(0x173)]=function(_0x6cbd04){var _0xa28a57=_0x4c6a0e;return this[_0xa28a57(0x338)+_0xa28a57(0x623)]['updateBala'+_0xa28a57(0x173)](_0x6cbd04);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x289)+'tionPlayer'+'UI']=function(_0x3c875b){var _0x293974=_0x4c6a0e;return this[_0x293974(0x4ca)+'I']=_0x3c875b;},_0x31ac1f['prototype'][_0x4c6a0e(0x3b8)+_0x4c6a0e(0x516)]=function(){var _0x222ff9=_0x4c6a0e;return this[_0x222ff9(0x4ca)+'I'];},_0x31ac1f[_0x4c6a0e(0x3d5)]['setAssetVi'+'ew']=function(_0x540d8c){var _0xd92f7d=_0x4c6a0e;return this[_0xd92f7d(0x363)+_0xd92f7d(0x28e)]=_0x540d8c;},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x591)+'ew']=function(){var _0x9bb6b5=_0x4c6a0e;return this[_0x9bb6b5(0x363)+_0x9bb6b5(0x28e)];},_0x31ac1f['prototype'][_0x4c6a0e(0x278)]=function(_0x5d5e30){var _0x1d8b3a=_0x4c6a0e;return this[_0x1d8b3a(0x363)+_0x1d8b3a(0x28e)]['getSfBack'](_0x5d5e30);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x3d1)+_0x4c6a0e(0x325)]=function(){var _0x238679=_0x4c6a0e;return this[_0x238679(0x363)+_0x238679(0x28e)][_0x238679(0x3d1)+_0x238679(0x325)]();},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x2b0)]=function(_0x44a123){var _0xfc5eb7=_0x4c6a0e;return this[_0xfc5eb7(0x363)+_0xfc5eb7(0x28e)][_0xfc5eb7(0x2b0)](_0x44a123);},_0x31ac1f['prototype'][_0x4c6a0e(0x1c4)+_0x4c6a0e(0x1ba)]=function(){var _0x1e079a=_0x4c6a0e;return this['Bacarat_As'+_0x1e079a(0x28e)][_0x1e079a(0x1c4)+_0x1e079a(0x1ba)]();},_0x31ac1f[_0x4c6a0e(0x3d5)]['getSpriteC'+_0x4c6a0e(0x586)]=function(_0x340024,_0x420287){var _0xd45061=_0x4c6a0e;return this['Bacarat_As'+_0xd45061(0x28e)][_0xd45061(0x50c)+_0xd45061(0x586)](_0x340024,_0x420287);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x4e2)+_0x4c6a0e(0x1fd)]=function(_0x25b194){var _0x1bb223=_0x4c6a0e;return this['Bacarat_As'+_0x1bb223(0x28e)][_0x1bb223(0x4e2)+_0x1bb223(0x1fd)](_0x25b194);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x523)+'pe']=function(_0x17a00f){var _0x463170=_0x4c6a0e;return this[_0x463170(0x363)+_0x463170(0x28e)][_0x463170(0x523)+'pe'](_0x17a00f);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x544)+_0x4c6a0e(0x242)]=function(_0x126c6d,_0x14b122){var _0x4f3efd=_0x4c6a0e;return this['Bacarat_As'+_0x4f3efd(0x28e)][_0x4f3efd(0x544)+_0x4f3efd(0x242)](_0x126c6d,_0x14b122);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x400)]=function(){var _0x416300=_0x4c6a0e;return this[_0x416300(0x363)+_0x416300(0x28e)][_0x416300(0x400)]();},_0x31ac1f['prototype']['setBetView']=function(_0x56a43a){var _0x4fbc3c=_0x4c6a0e;return this[_0x4fbc3c(0x123)+'tView']=_0x56a43a;},_0x31ac1f['prototype'][_0x4c6a0e(0x485)]=function(_0x1c5379){var _0x4f7fe1=_0x4c6a0e;return this['Bacarat_Be'+_0x4f7fe1(0x4b3)][_0x4f7fe1(0x485)](_0x1c5379);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x589)+_0x4c6a0e(0x630)]=function(_0x52ff79){var _0xa2927f=_0x4c6a0e;return this['Bacarat_Be'+_0xa2927f(0x4b3)]['enableClic'+_0xa2927f(0x630)](_0x52ff79);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x21a)+_0x4c6a0e(0x5d6)]=function(_0x1859fb){var _0x685321=_0x4c6a0e;return this['Bacarat_Be'+_0x685321(0x4b3)][_0x685321(0x21a)+_0x685321(0x5d6)](_0x1859fb);},_0x31ac1f['prototype'][_0x4c6a0e(0x56e)+_0x4c6a0e(0x3b9)]=function(_0x24e2f6){var _0x49d6cf=_0x4c6a0e;return this[_0x49d6cf(0x123)+_0x49d6cf(0x4b3)][_0x49d6cf(0x56e)+_0x49d6cf(0x3b9)](_0x24e2f6);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x424)+_0x4c6a0e(0x3b9)]=function(){var _0x4731bf=_0x4c6a0e;return this[_0x4731bf(0x123)+_0x4731bf(0x4b3)]['stopAnimat'+_0x4731bf(0x3b9)]();},_0x31ac1f[_0x4c6a0e(0x3d5)]['updateTota'+_0x4c6a0e(0x344)+'de']=function(_0x2c3a42,_0x2af2c9){var _0x6f1ce2=_0x4c6a0e;return this['Bacarat_Be'+_0x6f1ce2(0x4b3)]['updateTota'+_0x6f1ce2(0x344)+'de'](_0x2c3a42,_0x2af2c9);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x4fe)+_0x4c6a0e(0x22f)]=function(_0xbf14d5){var _0x2c1119=_0x4c6a0e;return this[_0x2c1119(0x123)+_0x2c1119(0x4b3)][_0x2c1119(0x4fe)+_0x2c1119(0x22f)](_0xbf14d5);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x63d)+'fAccount']=function(_0x2086b1){var _0x305371=_0x4c6a0e;return this[_0x305371(0x123)+_0x305371(0x4b3)][_0x305371(0x63d)+_0x305371(0x5ec)](_0x2086b1);},_0x31ac1f['prototype']['setCardVie'+'w']=function(_0x14adc7){var _0x4e994e=_0x4c6a0e;return this[_0x4e994e(0x34a)+_0x4e994e(0x5c6)]=_0x14adc7;},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x520)+_0x4c6a0e(0x619)]=function(_0x6b7186){var _0x322386=_0x4c6a0e;return this[_0x322386(0x34a)+'rdView'][_0x322386(0x520)+_0x322386(0x619)](_0x6b7186);},_0x31ac1f[_0x4c6a0e(0x3d5)]['activeNode'+_0x4c6a0e(0x3de)]=function(_0xfa9b8){var _0x3e7fc2=_0x4c6a0e;return this[_0x3e7fc2(0x34a)+_0x3e7fc2(0x5c6)][_0x3e7fc2(0x520)+_0x3e7fc2(0x3de)](_0xfa9b8);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x5d5)+'ide']=function(_0x4b4c76){var _0x4dbe6b=_0x4c6a0e;return this['Bacarat_Ca'+_0x4dbe6b(0x5c6)][_0x4dbe6b(0x5d5)+_0x4dbe6b(0x24f)](_0x4b4c76);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x383)+_0x4c6a0e(0x5b9)]=function(){var _0x3a3846=_0x4c6a0e;return this[_0x3a3846(0x34a)+_0x3a3846(0x5c6)][_0x3a3846(0x383)+_0x3a3846(0x5b9)]();},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x489)+'d']=function(_0x13314f){var _0x8b200a=_0x4c6a0e;return this[_0x8b200a(0x34a)+_0x8b200a(0x5c6)][_0x8b200a(0x489)+'d'](_0x13314f);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x30b)+_0x4c6a0e(0x35f)]=function(){var _0x2e5bf0=_0x4c6a0e;return this[_0x2e5bf0(0x34a)+_0x2e5bf0(0x5c6)]['slideCardO'+_0x2e5bf0(0x35f)]();},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x3c0)+_0x4c6a0e(0x1c3)]=function(){var _0x89533a=_0x4c6a0e;return this[_0x89533a(0x34a)+'rdView'][_0x89533a(0x3c0)+_0x89533a(0x1c3)]();},_0x31ac1f[_0x4c6a0e(0x3d5)]['forceShowR'+_0x4c6a0e(0x329)]=function(_0xa7f338,_0x506770){var _0x58f0f6=_0x4c6a0e;return this[_0x58f0f6(0x34a)+'rdView'][_0x58f0f6(0x3b2)+_0x58f0f6(0x329)](_0xa7f338,_0x506770);},_0x31ac1f['prototype'][_0x4c6a0e(0x4be)+'ew']=function(_0x3ddaae){var _0x4257ef=_0x4c6a0e;return this[_0x4257ef(0x54e)+_0x4257ef(0x42f)]=_0x3ddaae;},_0x31ac1f[_0x4c6a0e(0x3d5)]['moveChipBe'+'t']=function(_0x1dc26d,_0x24eb1d,_0x151c4e,_0x4ba918){var _0x3ab80b=_0x4c6a0e;return this[_0x3ab80b(0x54e)+_0x3ab80b(0x42f)][_0x3ab80b(0x315)+'t'](_0x1dc26d,_0x24eb1d,_0x151c4e,_0x4ba918);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x263)+'se']=function(_0x552bae,_0x3b107e){var _0x54ebca=_0x4c6a0e;return this[_0x54ebca(0x54e)+_0x54ebca(0x42f)][_0x54ebca(0x263)+'se'](_0x552bae,_0x3b107e);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x48c)+'s']=function(_0x1f6711){var _0x3810fd=_0x4c6a0e;return this[_0x3810fd(0x54e)+'ipsView'][_0x3810fd(0x48c)+'s'](_0x1f6711);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x48c)+_0x4c6a0e(0x5d9)]=function(){var _0x5559a2=_0x4c6a0e;return this[_0x5559a2(0x54e)+_0x5559a2(0x42f)][_0x5559a2(0x48c)+_0x5559a2(0x5d9)]();},_0x31ac1f[_0x4c6a0e(0x3d5)]['clearAllCh'+_0x4c6a0e(0x1ce)]=function(){var _0x455f5c=_0x4c6a0e;return this['Bacarat_Ch'+'ipsView'][_0x455f5c(0x233)+_0x455f5c(0x1ce)]();},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x22c)+_0x4c6a0e(0x18e)]=function(){var _0x4a9ac2=_0x4c6a0e;return this[_0x4a9ac2(0x54e)+_0x4a9ac2(0x42f)][_0x4a9ac2(0x22c)+_0x4a9ac2(0x18e)]();},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x3f2)+_0x4c6a0e(0x5a1)+_0x4c6a0e(0x1e8)]=function(_0x98ed02){var _0x582296=_0x4c6a0e;return this[_0x582296(0x54e)+_0x582296(0x42f)][_0x582296(0x3f2)+'ForBetSess'+_0x582296(0x1e8)](_0x98ed02);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x330)+'g']=function(_0x274360){var _0x21be8c=_0x4c6a0e,_0x59a06e={'TxYBK':function(_0x4c0a3e,_0x402010){var _0x59349e=_0x2ce9;return _0x1a0bca[_0x59349e(0x367)](_0x4c0a3e,_0x402010);},'TWczF':function(_0x37b2f9,_0x3e2d30){var _0x5ac806=_0x2ce9;return _0x1a0bca[_0x5ac806(0x2ec)](_0x37b2f9,_0x3e2d30);}};this[_0x21be8c(0x3ea)]=this[_0x21be8c(0x3ea)][_0x21be8c(0x494)](function(_0x24cf43){var _0x1a0681=_0x21be8c;return _0x59a06e['TxYBK'](_0x24cf43[_0x1a0681(0x384)],_0x59a06e[_0x1a0681(0x63e)](_0x274360,0x1));});},_0x31ac1f['prototype'][_0x4c6a0e(0x3c8)+_0x4c6a0e(0x230)]=function(_0x8723e0){var _0x53aab2=_0x4c6a0e;return this[_0x53aab2(0x3ea)][_0x53aab2(0x494)](function(_0x55f613){var _0x4d8ea3=_0x53aab2;return _0x1a0bca['TNZgU'](_0x55f613[_0x4d8ea3(0x384)],_0x1a0bca['ibICq'](_0x8723e0,0x1));});},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x3ef)]=function(_0x3cc21c){return this['betLog']['push'](_0x3cc21c);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x599)]=function(){return this['betLog'];},_0x31ac1f[_0x4c6a0e(0x3d5)]['initBetLog']=function(){return this['betLog']=[];},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x2b4)+_0x4c6a0e(0x44f)]=function(_0x404934){var _0x1dcba8=_0x4c6a0e;return this[_0x1dcba8(0x59a)+_0x1dcba8(0x5fe)]=_0x404934;},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x23c)+_0x4c6a0e(0x5fe)]=function(_0x5bf9f3){var _0x39c0e8=_0x4c6a0e;return this['Bacarat_So'+_0x39c0e8(0x5fe)]['initListSo'+_0x39c0e8(0x5fe)](_0x5bf9f3);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x5b3)+'h']=function(_0xd3926a){var _0x591d9a=_0x4c6a0e;this[_0x591d9a(0x59a)+_0x591d9a(0x5fe)][_0x591d9a(0x5b3)+'h'](_0xd3926a),this['Bacarat_Ca'+_0x591d9a(0x5d7)][_0x591d9a(0x5b3)+'h'](_0xd3926a);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x476)+_0x4c6a0e(0x44f)]=function(_0x53e56e){var _0x2179ac=_0x4c6a0e;return this['Bacarat_Ca'+_0x2179ac(0x5d7)]=_0x53e56e;},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x3e1)+_0x4c6a0e(0x5d7)]=function(_0x284426){var _0x10430e=_0x4c6a0e;return this[_0x10430e(0x34a)+_0x10430e(0x5d7)][_0x10430e(0x3e1)+'tCau'](_0x284426);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x28b)]=function(_0x3f00df,_0x3c6e79,_0x5bb931){var _0x310dab=_0x4c6a0e;return this[_0x310dab(0x4dc)][_0x310dab(0x5ae)]([_0x3f00df,_0x3c6e79,_0x5bb931]);},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x4a2)+'n']=function(){var _0x9de16a=_0x4c6a0e;return this[_0x9de16a(0x4dc)];},_0x31ac1f['prototype'][_0x4c6a0e(0x4b4)+'in']=function(){var _0x51584d=_0x4c6a0e;return this[_0x51584d(0x4dc)]=[];},_0x31ac1f[_0x4c6a0e(0x3d5)]['setBetLogS'+'ession']=function(_0x28d56d){var _0x25c951=_0x4c6a0e;return this[_0x25c951(0x3c5)+_0x25c951(0x1e8)]=_0x28d56d;},_0x31ac1f['prototype'][_0x4c6a0e(0x30a)+_0x4c6a0e(0x126)]=function(){var _0x36c1ce=_0x4c6a0e;return this[_0x36c1ce(0x3c5)+'ion'];},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x63a)+_0x4c6a0e(0x1a4)]=function(_0x3cb8e9){var _0x2e76a3=_0x4c6a0e;return this[_0x2e76a3(0x43f)+'te']=_0x3cb8e9;},_0x31ac1f[_0x4c6a0e(0x3d5)][_0x4c6a0e(0x176)+_0x4c6a0e(0x1a4)]=function(){var _0x20cc0e=_0x4c6a0e;return this[_0x20cc0e(0x43f)+'te'];},_0x31ac1f;}()),cc['BacaratCon'+_0x182b43(0x448)]=_0x31caf5;}['call'](void 0x0),cc[_0x60a93a(0x2a8)][_0x60a93a(0x56f)]();},{}],'BacaratGroupItem':[function(_0x517b06,_0x11523e){'use strict';var _0x5ddc6e=_0x4efc99,_0x2e464a={'yeMKm':_0x5ddc6e(0x20e)+'upItem'};cc[_0x5ddc6e(0x2a8)]['push'](_0x11523e,'f9dcdm7m3J'+_0x5ddc6e(0x426)+'ofg',_0x2e464a[_0x5ddc6e(0x24d)]),function(){var _0x49ee2b=_0x5ddc6e,_0x14d6bc={'nRMZj':function(_0x156455,_0x3ed3ee){return _0x156455<=_0x3ed3ee;}};cc[_0x49ee2b(0x20e)+_0x49ee2b(0x38a)]=cc[_0x49ee2b(0x3eb)]({'extends':cc['Component'],'properties':{'avatar':cc[_0x49ee2b(0x5ad)],'lbSId':cc[_0x49ee2b(0x458)],'lbNickName':cc[_0x49ee2b(0x458)],'lbBalance':cc[_0x49ee2b(0x458)],'lbSTT':cc['Label']},'updateItem':function(_0x19bd79,_0x553fa5){var _0x892697=_0x49ee2b;if(_0x19bd79){var _0x615ef2=('4|7|0|8|1|'+'2|6|5|3')[_0x892697(0x625)]('|'),_0x1f7380=0x0;while(!![]){switch(_0x615ef2[_0x1f7380++]){case'0':this['lbSTT']['string']=_0x553fa5+0x1;continue;case'1':this['avatar'][_0x892697(0x429)](cc[_0x892697(0x19c)+_0x892697(0x448)]['getInstanc'+'e']()[_0x892697(0x3a4)+_0x892697(0x528)](_0xd11cdd));continue;case'2':this['lbNickName'][_0x892697(0x26f)]=_0x102b3c[_0x892697(0x5e0)];continue;case'3':this[_0x892697(0x5f7)]=_0x553fa5;continue;case'4':var _0x102b3c=_0x19bd79[_0x892697(0x2ca)],_0xd11cdd=_0x102b3c[_0x892697(0x5ad)];continue;case'5':this[_0x892697(0x531)]=_0x19bd79;continue;case'6':this[_0x892697(0x51e)][_0x892697(0x26f)]=cc['Tool'][_0x892697(0x484)+'e']()['formatNumb'+'er'](_0x102b3c[_0x892697(0x28f)]);continue;case'7':_0x14d6bc[_0x892697(0x53e)](_0xd11cdd,0x0)&&(_0xd11cdd=0x1);continue;case'8':this[_0x892697(0x3b5)]['string']=cc[_0x892697(0x172)][_0x892697(0x484)+'e']()[_0x892697(0x46e)+_0x892697(0x5a4)+'at'](_0x102b3c[_0x892697(0x3a1)]);continue;}break;}}}});}[_0x5ddc6e(0x314)](void 0x0),cc[_0x5ddc6e(0x2a8)][_0x5ddc6e(0x56f)]();},{}],'BacaratGroupUserListView':[function(_0x3b9d2a,_0x235e8f){'use strict';var _0x7983e6=_0x4efc99,_0x490b86={'jTiOd':function(_0x316291,_0x40c931){return _0x316291!==_0x40c931;},'GojzR':_0x7983e6(0x2c3),'xhyXt':function(_0x47649a,_0x537424){return _0x47649a-_0x537424;},'gykgh':function(_0x8e21ce,_0x5eb8a6){return _0x8e21ce>=_0x5eb8a6;},'MOUHn':'4|2|0|1|3','ZXExB':function(_0x3bf628,_0x190f59){return _0x3bf628<_0x190f59;},'UeqLY':function(_0x3ed295,_0x11c28b){return _0x3ed295+_0x11c28b;},'NZDkV':function(_0x567b5e,_0x3265d5){return _0x567b5e-_0x3265d5;},'TxNHw':_0x7983e6(0x1db)+_0x7983e6(0x199)+_0x7983e6(0x61d),'hhXQj':'BacaratGro'+_0x7983e6(0x5ff)+_0x7983e6(0x151)};cc[_0x7983e6(0x2a8)][_0x7983e6(0x5ae)](_0x235e8f,_0x490b86[_0x7983e6(0x463)],_0x490b86[_0x7983e6(0x5c8)]),function(){var _0x130b15=_0x7983e6,_0x411d64={'bDxrJ':function(_0x3d60ef,_0x5e1995){var _0x5c89f5=_0x2ce9;return _0x490b86[_0x5c89f5(0x54d)](_0x3d60ef,_0x5e1995);},'VDDnD':_0x490b86[_0x130b15(0x168)],'zVWSS':function(_0x4899c4,_0x31836e){var _0x3526b7=_0x130b15;return _0x490b86[_0x3526b7(0x4a1)](_0x4899c4,_0x31836e);},'nahox':function(_0x318349,_0x1d0369){return _0x490b86['gykgh'](_0x318349,_0x1d0369);},'cMZYk':_0x490b86['MOUHn'],'ZwewD':function(_0x273d5e,_0x28ab53){return _0x273d5e+_0x28ab53;},'ffshG':function(_0x4b1094,_0x3e1643){return _0x4b1094*_0x3e1643;},'kHKvm':function(_0x4dded0,_0x5814c9){return _0x4dded0+_0x5814c9;},'tvBUt':function(_0x40ea1a,_0x2e0e01){var _0x55fbe1=_0x130b15;return _0x490b86[_0x55fbe1(0x2f1)](_0x40ea1a,_0x2e0e01);},'qaamb':function(_0x48894d,_0x9639d7){return _0x490b86['xhyXt'](_0x48894d,_0x9639d7);},'fhNUg':function(_0x41eb2d,_0x1eb189){var _0x201718=_0x130b15;return _0x490b86[_0x201718(0x2ed)](_0x41eb2d,_0x1eb189);},'QDktF':function(_0x1ce6fe,_0x21b0d0){var _0x3bd443=_0x130b15;return _0x490b86[_0x3bd443(0x550)](_0x1ce6fe,_0x21b0d0);},'XEsUW':function(_0x30e9c5,_0x109db2){return _0x30e9c5>_0x109db2;},'PTtZE':function(_0x5e6f9d,_0x25849a){var _0x98a2c4=_0x130b15;return _0x490b86[_0x98a2c4(0x4a1)](_0x5e6f9d,_0x25849a);}};cc['BacaratGro'+_0x130b15(0x5ff)+_0x130b15(0x151)]=cc[_0x130b15(0x3eb)]({'extends':cc[_0x130b15(0x2ee)],'properties':{'itemTemplate':cc[_0x130b15(0x4d4)],'scrollView':cc[_0x130b15(0x1cf)],'spawnCount':0x0,'spacing':0x0,'bufferZone':0x0},'onLoad':function(){var _0x1cde73=_0x130b15;this['spawnCount']=0xf;if(_0x411d64[_0x1cde73(0x58a)](null,this[_0x1cde73(0x522)])){var _0x4de91a=('3|1|4|0|2|'+'5')[_0x1cde73(0x625)]('|'),_0x163843=0x0;while(!![]){switch(_0x4de91a[_0x163843++]){case'0':this['updateInte'+'rval']=0.1;continue;case'1':this[_0x1cde73(0x3da)]=[];continue;case'2':this['lastConten'+_0x1cde73(0x60a)]=0x0;continue;case'3':this[_0x1cde73(0x210)]=this[_0x1cde73(0x522)][_0x1cde73(0x210)];continue;case'4':this[_0x1cde73(0x284)+'r']=0x0;continue;case'5':this[_0x1cde73(0x3e2)+'tY']=this[_0x1cde73(0x210)]['y'];continue;}break;}}},'resetList':function(){var _0x5b116d=_0x130b15;if(_0x411d64['bDxrJ'](null,this[_0x5b116d(0x522)])){var _0xa0b0b=_0x411d64[_0x5b116d(0x574)][_0x5b116d(0x625)]('|'),_0x59e47e=0x0;while(!![]){switch(_0xa0b0b[_0x59e47e++]){case'0':this[_0x5b116d(0x210)]['y']=this[_0x5b116d(0x3e2)+'tY'];continue;case'1':for(var _0x577916=this['content'][_0x5b116d(0x2a7)],_0x849cee=_0x411d64[_0x5b116d(0x53b)](_0x577916[_0x5b116d(0x592)],0x1);_0x411d64['nahox'](_0x849cee,0x0);_0x849cee--)this[_0x5b116d(0x210)]['removeChil'+'d'](_0x577916[_0x849cee]);continue;case'2':this['items']=[];continue;case'3':this[_0x5b116d(0x210)]=this['scrollView'][_0x5b116d(0x210)];continue;case'4':this['scrollView'][_0x5b116d(0x4db)+'roll']();continue;}break;}}},'getPositionInView':function(_0x5d3a77){var _0x1acb0a=_0x130b15,_0x43410b=_0x5d3a77['parent']['convertToW'+_0x1acb0a(0x36a)+'R'](_0x5d3a77[_0x1acb0a(0x308)]);return this[_0x1acb0a(0x522)][_0x1acb0a(0x611)][_0x1acb0a(0x27f)+'odeSpaceAR'](_0x43410b);},'initialize':function(_0x39c381){var _0x5e1eaa=_0x130b15,_0x4d54f1=_0x411d64[_0x5e1eaa(0x2a2)][_0x5e1eaa(0x625)]('|'),_0x211bd4=0x0;while(!![]){switch(_0x4d54f1[_0x211bd4++]){case'0':this[_0x5e1eaa(0x210)]['height']=_0x411d64['ZwewD'](_0x411d64['ffshG'](_0x295df8,_0x411d64[_0x5e1eaa(0x642)](this[_0x5e1eaa(0x3c1)+'te'][_0x5e1eaa(0x2f6)],this[_0x5e1eaa(0x11f)])),this[_0x5e1eaa(0x11f)]);continue;case'1':for(var _0x1f283d=Math['min'](this[_0x5e1eaa(0x184)],_0x295df8),_0x8bccc8=0x0;_0x411d64['tvBUt'](_0x8bccc8,_0x1f283d);++_0x8bccc8){var _0x160b0c=cc[_0x5e1eaa(0x200)+'e'](this[_0x5e1eaa(0x3c1)+'te']);this[_0x5e1eaa(0x210)][_0x5e1eaa(0x1e1)](_0x160b0c),_0x160b0c['setPositio'+'n'](0x0,_0x411d64[_0x5e1eaa(0x5cf)](-_0x160b0c[_0x5e1eaa(0x2f6)]*_0x411d64['fhNUg'](0.5,_0x8bccc8),_0x411d64[_0x5e1eaa(0x127)](this[_0x5e1eaa(0x11f)],_0x8bccc8+0x1))),_0x160b0c['getCompone'+'nt'](cc[_0x5e1eaa(0x20e)+_0x5e1eaa(0x38a)])['updateItem'](this['messages'][_0x8bccc8],_0x8bccc8),this[_0x5e1eaa(0x3da)]['push'](_0x160b0c);}continue;case'2':var _0x295df8=this[_0x5e1eaa(0x4fa)][_0x5e1eaa(0x592)];continue;case'3':this[_0x5e1eaa(0x3e2)+'tY']=this[_0x5e1eaa(0x210)]['y'];continue;case'4':this[_0x5e1eaa(0x4fa)]=_0x39c381;continue;}break;}},'update':function(_0x12c6e9){var _0x4f40f9=_0x130b15;this[_0x4f40f9(0x284)+'r']+=_0x12c6e9;if(!_0x411d64[_0x4f40f9(0x136)](this[_0x4f40f9(0x284)+'r'],this[_0x4f40f9(0x379)+_0x4f40f9(0x191)])){this[_0x4f40f9(0x284)+'r']=0x0;for(var _0x4c1e59=this[_0x4f40f9(0x3da)],_0x553b9c=this[_0x4f40f9(0x399)],_0x697cbb=_0x411d64['tvBUt'](this[_0x4f40f9(0x522)][_0x4f40f9(0x210)]['y'],this[_0x4f40f9(0x376)+_0x4f40f9(0x60a)]),_0x49b859=_0x411d64[_0x4f40f9(0x127)](this[_0x4f40f9(0x3c1)+'te'][_0x4f40f9(0x2f6)]+this[_0x4f40f9(0x11f)],_0x4c1e59[_0x4f40f9(0x592)]),_0x2e1e24=0x0;_0x411d64['tvBUt'](_0x2e1e24,_0x4c1e59[_0x4f40f9(0x592)]);++_0x2e1e24){var _0x152aaa=this[_0x4f40f9(0x356)+'nInView'](_0x4c1e59[_0x2e1e24]);if(_0x697cbb){if(_0x152aaa['y']<-_0x553b9c&&_0x411d64[_0x4f40f9(0x642)](_0x4c1e59[_0x2e1e24]['y'],_0x49b859)<0x0){_0x4c1e59[_0x2e1e24]['y']=_0x411d64[_0x4f40f9(0x642)](_0x4c1e59[_0x2e1e24]['y'],_0x49b859);var _0x431221=_0x4c1e59[_0x2e1e24][_0x4f40f9(0x3b7)+'nt'](cc[_0x4f40f9(0x20e)+_0x4f40f9(0x38a)]),_0x139790=_0x411d64[_0x4f40f9(0x305)](_0x431221[_0x4f40f9(0x5f7)],_0x4c1e59[_0x4f40f9(0x592)]);_0x431221[_0x4f40f9(0x2a4)](this[_0x4f40f9(0x4fa)][_0x139790],_0x139790);}}else _0x411d64[_0x4f40f9(0x23d)](_0x152aaa['y'],_0x553b9c)&&_0x411d64['XEsUW'](_0x411d64[_0x4f40f9(0x31e)](_0x4c1e59[_0x2e1e24]['y'],_0x49b859),-this[_0x4f40f9(0x210)][_0x4f40f9(0x2f6)])&&(_0x4c1e59[_0x2e1e24]['y']=_0x4c1e59[_0x2e1e24]['y']-_0x49b859,_0x139790=_0x411d64[_0x4f40f9(0x513)]((_0x431221=_0x4c1e59[_0x2e1e24][_0x4f40f9(0x3b7)+'nt'](cc[_0x4f40f9(0x20e)+_0x4f40f9(0x38a)]))[_0x4f40f9(0x5f7)],_0x4c1e59['length']),_0x431221[_0x4f40f9(0x2a4)](this[_0x4f40f9(0x4fa)][_0x139790],_0x139790));}this['lastConten'+_0x4f40f9(0x60a)]=this[_0x4f40f9(0x522)][_0x4f40f9(0x210)]['y'];}}});}[_0x7983e6(0x314)](void 0x0),cc[_0x7983e6(0x2a8)][_0x7983e6(0x56f)]();},{}],'BacaratGroupUserView':[function(_0x2c362c,_0x12c31d){'use strict';var _0x13b86c=_0x4efc99,_0x332203={'zUpOz':_0x13b86c(0x546),'BccNp':function(_0x28362c,_0x18a32c){return _0x28362c!==_0x18a32c;},'qbmVI':_0x13b86c(0x552)},_0x33605c=_0x332203[_0x13b86c(0x286)][_0x13b86c(0x625)]('|'),_0x3bcef7=0x0;while(!![]){switch(_0x33605c[_0x3bcef7++]){case'0':cc[_0x13b86c(0x2a8)][_0x13b86c(0x56f)]();continue;case'1':(function(){var _0x2fcac8=_0x13b86c,_0x102d9c={'dVsAQ':function(_0x5e2e44,_0x33a231){var _0x21f87c=_0x2ce9;return _0x5a83dc[_0x21f87c(0x537)](_0x5e2e44,_0x33a231);},'QogOD':_0x5a83dc[_0x2fcac8(0x29b)]};cc[_0x2fcac8(0x20e)+_0x2fcac8(0x354)]=cc['Class']({'extends':cc['Component'],'properties':{'groupUserListView':cc[_0x2fcac8(0x20e)+_0x2fcac8(0x5ff)+_0x2fcac8(0x151)]},'onLoad':function(){var _0x13c3c2=_0x2fcac8;this[_0x13c3c2(0x549)]=this[_0x13c3c2(0x611)]['getCompone'+'nt'](cc['Animation']),this[_0x13c3c2(0x611)]['zIndex']=0x63;},'onEnable':function(){var _0xf5b598=_0x2fcac8,_0x44a2a2=this;cc['director'][_0xf5b598(0x614)+'er']()[_0xf5b598(0x35e)](function(){_0x44a2a2['getGroupUs'+'er']();},this,0x1,0x0,0.2,!0x1),this[_0xf5b598(0x549)][_0xf5b598(0x154)](_0xf5b598(0x46a));},'getGroupUser':function(){var _0x52fa69=_0x2fcac8;new cc[(_0x52fa69(0x20e))+(_0x52fa69(0x5be))+(_0x52fa69(0x311))]()[_0x52fa69(0x236)](this);},'onGetGroupUserResponse':function(_0xe1155d){var _0x11563e=_0x2fcac8,_0x2dfc7a=_0xe1155d;_0x102d9c[_0x11563e(0x174)](null,_0x2dfc7a)&&_0x2dfc7a[_0x11563e(0x592)]>0x0&&(this[_0x11563e(0x16f)+'istView'][_0x11563e(0x49c)](),this[_0x11563e(0x16f)+_0x11563e(0x186)][_0x11563e(0x644)](_0x2dfc7a));},'closeClicked':function(){var _0x433571=_0x2fcac8;this['groupUserL'+_0x433571(0x186)][_0x433571(0x49c)](),this[_0x433571(0x549)][_0x433571(0x154)](_0x102d9c[_0x433571(0x38b)]);var _0x3aff60=this;cc[_0x433571(0x469)][_0x433571(0x614)+'er']()[_0x433571(0x35e)](function(){var _0x59a5c7=_0x433571;_0x3aff60[_0x59a5c7(0x549)][_0x59a5c7(0x23e)](),cc[_0x59a5c7(0x45c)+_0x59a5c7(0x23a)+'er']['getInstanc'+'e']()['destroyGro'+'upUserView']();},this,0x1,0x0,0.12,!0x1);}});}['call'](void 0x0));continue;case'2':var _0x5a83dc={'AOWsb':function(_0x354376,_0x58435a){return _0x332203['BccNp'](_0x354376,_0x58435a);},'VbZfG':_0x332203['qbmVI']};continue;case'3':cc['_RF'][_0x13b86c(0x5ae)](_0x12c31d,_0x13b86c(0x51b)+_0x13b86c(0x51a)+_0x13b86c(0x5bd),_0x13b86c(0x20e)+_0x13b86c(0x354));continue;case'4':continue;}break;}},{}],'BacaratHelpView':[function(_0xe6d33c,_0x273372){'use strict';var _0x38f86a=_0x4efc99;cc[_0x38f86a(0x2a8)]['push'](_0x273372,_0x38f86a(0x130)+_0x38f86a(0x2bf)+_0x38f86a(0x4ad),_0x38f86a(0x282)+_0x38f86a(0x467)),function(){var _0x31a349=_0x38f86a;cc[_0x31a349(0x282)+'pView']=cc[_0x31a349(0x3eb)]({'extends':cc['Component'],'properties':{},'onLoad':function(){var _0x3f2a27=_0x31a349;this[_0x3f2a27(0x549)]=this['node'][_0x3f2a27(0x3b7)+'nt'](cc['Animation']);},'closeFinished':function(){var _0x355067=_0x31a349;cc[_0x355067(0x45c)+_0x355067(0x23a)+'er'][_0x355067(0x484)+'e']()[_0x355067(0x129)+_0x355067(0x467)]();}});}[_0x38f86a(0x314)](void 0x0),cc['_RF'][_0x38f86a(0x56f)]();},{}],'BacaratHistoryItem':[function(_0x12a8bb,_0x2b7173){'use strict';var _0x5b3204=_0x4efc99,_0x10e4c1={'tqVvO':_0x5b3204(0x4b6),'doVYQ':_0x5b3204(0x5e4),'cLtSt':function(_0x18cd57,_0x30c1e4){return _0x18cd57+_0x30c1e4;},'bVKXa':function(_0x37612f,_0xa4116e){return _0x37612f(_0xa4116e);},'XuWPq':_0x5b3204(0x47d),'CsEPJ':_0x5b3204(0x4a9),'ZypCX':function(_0x327d58,_0x2e0468){return _0x327d58===_0x2e0468;},'whpho':function(_0x459eae,_0x1ae8ce){return _0x459eae>_0x1ae8ce;},'AfTXG':_0x5b3204(0x52c)+_0x5b3204(0x300)+_0x5b3204(0x4ac),'GrsRi':'BacaratHis'+'toryItem'};cc[_0x5b3204(0x2a8)]['push'](_0x2b7173,_0x10e4c1['AfTXG'],_0x10e4c1[_0x5b3204(0x2cb)]),function(){var _0x706543=_0x5b3204;cc[_0x706543(0x144)+'toryItem']=cc[_0x706543(0x3eb)]({'extends':cc[_0x706543(0x2ee)],'properties':{'lbSession':cc[_0x706543(0x458)],'lbTime':cc[_0x706543(0x458)],'lbSide':cc['Label'],'lbResult':cc[_0x706543(0x458)],'lbBet':cc[_0x706543(0x458)],'lbRefund':cc[_0x706543(0x458)],'lbWin':cc[_0x706543(0x458)]},'updateItem':function(_0x157a67,_0x4b2aba){var _0x20172e=_0x706543,_0x4263b7={'mtIVi':_0x20172e(0x47d),'KorZT':_0x10e4c1['tqVvO'],'CVrsU':_0x10e4c1[_0x20172e(0x12f)]};this[_0x20172e(0x276)][_0x20172e(0x26f)]=_0x10e4c1[_0x20172e(0x5af)]('#',_0x157a67[_0x20172e(0x137)]),this[_0x20172e(0x17a)][_0x20172e(0x26f)]=cc['Tool'][_0x20172e(0x484)+'e']()[_0x20172e(0x1c8)+_0x20172e(0x44c)](_0x157a67['CreateTime']);var _0x28b2c0='';switch(_0x10e4c1[_0x20172e(0x28d)](parseInt,_0x157a67['BetGateID'])){case cc[_0x20172e(0x339)+_0x20172e(0x20d)]['PLAYER_PAI'+'R']:_0x28b2c0=_0x10e4c1[_0x20172e(0x39f)];break;case cc['BacaratBet'+'Site'][_0x20172e(0x3c7)]:_0x28b2c0=_0x10e4c1[_0x20172e(0x13d)];break;case cc[_0x20172e(0x339)+_0x20172e(0x20d)]['TIE']:_0x28b2c0=_0x20172e(0x5e4);break;case cc[_0x20172e(0x339)+'Site'][_0x20172e(0x2da)]:_0x28b2c0=_0x20172e(0x3ae);break;case cc[_0x20172e(0x339)+'Site']['BANKER_PAI'+'R']:_0x28b2c0=_0x10e4c1[_0x20172e(0x1d2)];}this['lbSide'][_0x20172e(0x26f)]=_0x28b2c0;var _0x395569=[];if(_0x10e4c1[_0x20172e(0x480)]('',_0x157a67[_0x20172e(0x565)]))this['lbResult'][_0x20172e(0x26f)]='';else{_0x157a67[_0x20172e(0x565)][_0x20172e(0x625)](',')[_0x20172e(0x2a9)](function(_0x4166b7){var _0x128fbc=_0x20172e;switch(parseInt(_0x4166b7)){case cc['BacaratBet'+_0x128fbc(0x20d)][_0x128fbc(0x5b2)+'R']:_0x395569['push'](_0x4263b7[_0x128fbc(0x1ac)]);break;case cc[_0x128fbc(0x339)+_0x128fbc(0x20d)]['PLAYER']:_0x395569[_0x128fbc(0x5ae)](_0x4263b7['KorZT']);break;case cc[_0x128fbc(0x339)+_0x128fbc(0x20d)][_0x128fbc(0x1a1)]:_0x395569[_0x128fbc(0x5ae)](_0x4263b7[_0x128fbc(0x371)]);break;case cc[_0x128fbc(0x339)+'Site'][_0x128fbc(0x2da)]:_0x395569[_0x128fbc(0x5ae)](_0x128fbc(0x3ae));break;case cc[_0x128fbc(0x339)+'Site'][_0x128fbc(0x125)+'R']:_0x395569[_0x128fbc(0x5ae)](_0x128fbc(0x4a9));}});var _0x3e29bb;_0x3e29bb=_0x10e4c1[_0x20172e(0x21f)](_0x395569['length'],0x1)?_0x395569[_0x20172e(0x64f)](',\x20'):_0x395569[0x0],this[_0x20172e(0x5a0)]['string']=_0x3e29bb;}this[_0x20172e(0x568)][_0x20172e(0x26f)]=cc[_0x20172e(0x133)][_0x20172e(0x484)+'e']()['formatNumb'+'er'](_0x157a67[_0x20172e(0x31d)]),this[_0x20172e(0x5ca)]['string']=cc[_0x20172e(0x133)]['getInstanc'+'e']()[_0x20172e(0x3d4)+'er'](_0x157a67[_0x20172e(0x283)]),this[_0x20172e(0x5d0)][_0x20172e(0x26f)]=cc['Tool']['getInstanc'+'e']()['formatNumb'+'er'](_0x157a67[_0x20172e(0x417)]),this[_0x20172e(0x531)]=_0x157a67,this[_0x20172e(0x5f7)]=_0x4b2aba;}});}[_0x5b3204(0x314)](void 0x0),cc[_0x5b3204(0x2a8)][_0x5b3204(0x56f)]();},{}],'BacaratHistoryListView':[function(_0x4e30f5,_0x31e71d){'use strict';var _0x2c00cc=_0x4efc99,_0x1b41d4={'RuFjr':'0|1|3|4|2','CrPBu':_0x2c00cc(0x502),'ydysq':function(_0x52f99f,_0x58a6fc){return _0x52f99f>=_0x58a6fc;},'RPSyi':'4|3|2|1|0','aPYhb':function(_0x255e32,_0x137803){return _0x255e32<_0x137803;},'fJvQS':'4|0|1|3|2','bMZMO':function(_0x4b3802,_0x1fed95){return _0x4b3802+_0x1fed95;},'xxpsJ':function(_0x1b119a,_0x18576b){return _0x1b119a>_0x18576b;},'kQMEn':function(_0x1b16bd,_0x47ef56){return _0x1b16bd>_0x47ef56;},'QxEuU':function(_0x21b214,_0x5c6149){return _0x21b214-_0x5c6149;},'wxjmu':function(_0x5b9400,_0x22f17c){return _0x5b9400!==_0x22f17c;},'PSIpt':_0x2c00cc(0x223)+_0x2c00cc(0x1b0)+_0x2c00cc(0x32f),'gRerr':_0x2c00cc(0x144)+_0x2c00cc(0x2f3)+'ew'},_0xe7d478=_0x1b41d4['RuFjr']['split']('|'),_0x1bbaf0=0x0;while(!![]){switch(_0xe7d478[_0x1bbaf0++]){case'0':var _0x6eea66={'AslhF':_0x1b41d4[_0x2c00cc(0x1e0)],'RxgCJ':function(_0x386f7a,_0x33e700){var _0x4166e3=_0x2c00cc;return _0x1b41d4[_0x4166e3(0x377)](_0x386f7a,_0x33e700);},'lQSEj':_0x1b41d4[_0x2c00cc(0x3cf)],'SrdTB':function(_0x8f2b9f,_0x475db4){var _0x27f2e5=_0x2c00cc;return _0x1b41d4[_0x27f2e5(0x3a9)](_0x8f2b9f,_0x475db4);},'vVRMj':_0x1b41d4[_0x2c00cc(0x1c9)],'THgdQ':function(_0x384ca9,_0x1fe698){return _0x384ca9-_0x1fe698;},'bTpTx':function(_0x5286d5,_0x9fb794){var _0x213368=_0x2c00cc;return _0x1b41d4[_0x213368(0x5a7)](_0x5286d5,_0x9fb794);},'hOLMG':function(_0x247df7,_0x490057){return _0x247df7*_0x490057;},'lgxJk':function(_0x2b0fc0,_0x41ec18){return _0x2b0fc0<_0x41ec18;},'rfSws':function(_0x1c1b22,_0x38d616){return _0x1c1b22<_0x38d616;},'dvXaY':function(_0x18dce0,_0x2fd9f7){var _0x1effdd=_0x2c00cc;return _0x1b41d4[_0x1effdd(0x3a9)](_0x18dce0,_0x2fd9f7);},'zlagK':function(_0x119460,_0x4692d0){var _0x8e939b=_0x2c00cc;return _0x1b41d4[_0x8e939b(0x573)](_0x119460,_0x4692d0);},'ihrtZ':function(_0x306607,_0x3e2246){var _0x415f88=_0x2c00cc;return _0x1b41d4[_0x415f88(0x45e)](_0x306607,_0x3e2246);},'OCOId':function(_0xf6200f,_0x30278f){var _0x8e9a51=_0x2c00cc;return _0x1b41d4[_0x8e9a51(0x22e)](_0xf6200f,_0x30278f);},'qnNqC':function(_0x547250,_0x3aa53f){var _0x5879ba=_0x2c00cc;return _0x1b41d4[_0x5879ba(0x142)](_0x547250,_0x3aa53f);}};continue;case'1':continue;case'2':cc[_0x2c00cc(0x2a8)][_0x2c00cc(0x56f)]();continue;case'3':cc[_0x2c00cc(0x2a8)][_0x2c00cc(0x5ae)](_0x31e71d,_0x1b41d4[_0x2c00cc(0x416)],_0x1b41d4[_0x2c00cc(0x11b)]);continue;case'4':(function(){var _0x40e6d3=_0x2c00cc,_0xce83d={'PNvgK':function(_0x550e81,_0x4fd44d){var _0x63fc0c=_0x2ce9;return _0x6eea66[_0x63fc0c(0x5bf)](_0x550e81,_0x4fd44d);}};cc[_0x40e6d3(0x144)+_0x40e6d3(0x2f3)+'ew']=cc[_0x40e6d3(0x3eb)]({'extends':cc[_0x40e6d3(0x2ee)],'properties':{'itemTemplate':cc['Node'],'scrollView':cc[_0x40e6d3(0x1cf)],'spawnCount':0x0,'spacing':0x0,'bufferZone':0x0},'onLoad':function(){var _0x458e83=_0x40e6d3;this['spawnCount']=0xf,_0xce83d[_0x458e83(0x34f)](null,this[_0x458e83(0x522)])&&(this[_0x458e83(0x210)]=this[_0x458e83(0x522)][_0x458e83(0x210)],this[_0x458e83(0x3da)]=[],this[_0x458e83(0x284)+'r']=0x0,this[_0x458e83(0x379)+_0x458e83(0x191)]=0.1,this['lastConten'+_0x458e83(0x60a)]=0x0,this[_0x458e83(0x3e2)+'tY']=this['content']['y']);},'resetList':function(){var _0x19a858=_0x40e6d3;if(null!==this[_0x19a858(0x522)]){var _0x109f27=_0x6eea66[_0x19a858(0x4c9)][_0x19a858(0x625)]('|'),_0x5d8ccb=0x0;while(!![]){switch(_0x109f27[_0x5d8ccb++]){case'0':this[_0x19a858(0x210)]['y']=this[_0x19a858(0x3e2)+'tY'];continue;case'1':this['scrollView'][_0x19a858(0x4db)+_0x19a858(0x3e5)]();continue;case'2':this['content']=this[_0x19a858(0x522)][_0x19a858(0x210)];continue;case'3':for(var _0x3606a7=this[_0x19a858(0x210)]['children'],_0x404fc9=_0x3606a7[_0x19a858(0x592)]-0x1;_0x6eea66['RxgCJ'](_0x404fc9,0x0);_0x404fc9--)this[_0x19a858(0x210)][_0x19a858(0x26a)+'d'](_0x3606a7[_0x404fc9]);continue;case'4':this[_0x19a858(0x3da)]=[];continue;}break;}}},'getPositionInView':function(_0x3b5565){var _0x1b6785=_0x40e6d3,_0x57870e=_0x3b5565[_0x1b6785(0x240)][_0x1b6785(0x444)+_0x1b6785(0x36a)+'R'](_0x3b5565[_0x1b6785(0x308)]);return this['scrollView'][_0x1b6785(0x611)][_0x1b6785(0x27f)+_0x1b6785(0x131)](_0x57870e);},'initialize':function(_0x3c0f92){var _0x495bf7=_0x40e6d3,_0x42c7e9=_0x6eea66['lQSEj'][_0x495bf7(0x625)]('|'),_0x26dd07=0x0;while(!![]){switch(_0x42c7e9[_0x26dd07++]){case'0':this['rootConten'+'tY']=this['content']['y'];continue;case'1':for(var _0x598d36=Math[_0x495bf7(0x1d0)](this[_0x495bf7(0x184)],_0x4b80ef),_0x55e60f=0x0;_0x6eea66['SrdTB'](_0x55e60f,_0x598d36);++_0x55e60f){var _0x1635a0=_0x6eea66[_0x495bf7(0x364)][_0x495bf7(0x625)]('|'),_0x1e411b=0x0;while(!![]){switch(_0x1635a0[_0x1e411b++]){case'0':this['content'][_0x495bf7(0x1e1)](_0x527243);continue;case'1':_0x527243[_0x495bf7(0x3ed)+'n'](0x0,_0x6eea66[_0x495bf7(0x42c)](-_0x527243[_0x495bf7(0x2f6)]*(0.5+_0x55e60f),this[_0x495bf7(0x11f)]*(_0x55e60f+0x1)));continue;case'2':this[_0x495bf7(0x3da)][_0x495bf7(0x5ae)](_0x527243);continue;case'3':_0x527243[_0x495bf7(0x3b7)+'nt'](cc[_0x495bf7(0x144)+_0x495bf7(0x121)])[_0x495bf7(0x2a4)](this[_0x495bf7(0x4fa)][_0x55e60f],_0x55e60f);continue;case'4':var _0x527243=cc[_0x495bf7(0x200)+'e'](this[_0x495bf7(0x3c1)+'te']);continue;}break;}}continue;case'2':this['content'][_0x495bf7(0x2f6)]=_0x6eea66[_0x495bf7(0x1d6)](_0x6eea66[_0x495bf7(0x1e3)](_0x4b80ef,_0x6eea66['bTpTx'](this[_0x495bf7(0x3c1)+'te'][_0x495bf7(0x2f6)],this['spacing'])),this['spacing']);continue;case'3':var _0x4b80ef=this[_0x495bf7(0x4fa)]['length'];continue;case'4':this[_0x495bf7(0x4fa)]=_0x3c0f92;continue;}break;}},'update':function(_0x3c27fb){var _0x2b50c4=_0x40e6d3;this['updateTime'+'r']+=_0x3c27fb;if(!_0x6eea66[_0x2b50c4(0x577)](this['updateTime'+'r'],this[_0x2b50c4(0x379)+_0x2b50c4(0x191)])){this['updateTime'+'r']=0x0;for(var _0x2b4cfc=this['items'],_0x5a1446=this[_0x2b50c4(0x399)],_0x14a848=_0x6eea66['rfSws'](this['scrollView'][_0x2b50c4(0x210)]['y'],this[_0x2b50c4(0x376)+_0x2b50c4(0x60a)]),_0x4c385c=_0x6eea66[_0x2b50c4(0x1e3)](this[_0x2b50c4(0x3c1)+'te']['height']+this[_0x2b50c4(0x11f)],_0x2b4cfc[_0x2b50c4(0x592)]),_0x249385=0x0;_0x6eea66[_0x2b50c4(0x5a8)](_0x249385,_0x2b4cfc[_0x2b50c4(0x592)]);++_0x249385){var _0x2e40b3=this[_0x2b50c4(0x356)+_0x2b50c4(0x372)](_0x2b4cfc[_0x249385]);if(_0x14a848){if(_0x6eea66[_0x2b50c4(0x378)](_0x2e40b3['y'],-_0x5a1446)&&_0x6eea66[_0x2b50c4(0x577)](_0x2b4cfc[_0x249385]['y']+_0x4c385c,0x0)){_0x2b4cfc[_0x249385]['y']=_0x6eea66[_0x2b50c4(0x1d6)](_0x2b4cfc[_0x249385]['y'],_0x4c385c);var _0x7e0e7b=_0x2b4cfc[_0x249385][_0x2b50c4(0x3b7)+'nt'](cc['BacaratHis'+_0x2b50c4(0x121)]),_0x411e7c=_0x7e0e7b[_0x2b50c4(0x5f7)]-_0x2b4cfc['length'];_0x7e0e7b['updateItem'](this[_0x2b50c4(0x4fa)][_0x411e7c],_0x411e7c);}}else _0x6eea66[_0x2b50c4(0x551)](_0x2e40b3['y'],_0x5a1446)&&_0x6eea66[_0x2b50c4(0x55c)](_0x6eea66[_0x2b50c4(0x197)](_0x2b4cfc[_0x249385]['y'],_0x4c385c),-this['content'][_0x2b50c4(0x2f6)])&&(_0x2b4cfc[_0x249385]['y']=_0x2b4cfc[_0x249385]['y']-_0x4c385c,_0x411e7c=_0x6eea66[_0x2b50c4(0x1d6)]((_0x7e0e7b=_0x2b4cfc[_0x249385][_0x2b50c4(0x3b7)+'nt'](cc[_0x2b50c4(0x144)+'toryItem']))[_0x2b50c4(0x5f7)],_0x2b4cfc[_0x2b50c4(0x592)]),_0x7e0e7b[_0x2b50c4(0x2a4)](this[_0x2b50c4(0x4fa)][_0x411e7c],_0x411e7c));}this['lastConten'+_0x2b50c4(0x60a)]=this[_0x2b50c4(0x522)][_0x2b50c4(0x210)]['y'];}}});}[_0x2c00cc(0x314)](void 0x0));continue;}break;}},{}],'BacaratHistoryView':[function(_0x265364,_0x16a269){'use strict';var _0x3a7e19=_0x4efc99,_0x41479c={'yHeEs':'0|3|1|4|2','NaLGi':'openPopup','CQhIu':_0x3a7e19(0x552)},_0x2af7e2=_0x41479c[_0x3a7e19(0x220)][_0x3a7e19(0x625)]('|'),_0x4cb820=0x0;while(!![]){switch(_0x2af7e2[_0x4cb820++]){case'0':var _0x1989ac={'ElNWU':function(_0x510581,_0x13d645){return _0x510581!==_0x13d645;},'dLEwg':function(_0x361711,_0x24a5a8){return _0x361711>_0x24a5a8;},'fJKam':_0x41479c['NaLGi'],'TkJKZ':_0x41479c[_0x3a7e19(0x56a)]};continue;case'1':cc['_RF'][_0x3a7e19(0x5ae)](_0x16a269,'f6c9fCgiwZ'+_0x3a7e19(0x46c)+_0x3a7e19(0x227),'BacaratHis'+'toryView');continue;case'2':cc['_RF'][_0x3a7e19(0x56f)]();continue;case'3':continue;case'4':(function(){var _0x48dd23=_0x3a7e19,_0x390376={'PhuYx':_0x1989ac[_0x48dd23(0x2b2)],'agCcF':_0x1989ac[_0x48dd23(0x645)]};cc[_0x48dd23(0x144)+_0x48dd23(0x50d)]=cc[_0x48dd23(0x3eb)]({'extends':cc[_0x48dd23(0x2ee)],'properties':{'historyListView':cc[_0x48dd23(0x144)+_0x48dd23(0x2f3)+'ew']},'onLoad':function(){var _0x2c4b9a=_0x48dd23;this[_0x2c4b9a(0x549)]=this[_0x2c4b9a(0x611)][_0x2c4b9a(0x3b7)+'nt'](cc['Animation']),this[_0x2c4b9a(0x611)][_0x2c4b9a(0x2f5)]=0x63;},'onEnable':function(){var _0x43d354=_0x48dd23,_0x5ebc33=this;cc[_0x43d354(0x469)][_0x43d354(0x614)+'er']()[_0x43d354(0x35e)](function(){_0x5ebc33['getHistory']();},this,0x1,0x0,0.2,!0x1),this[_0x43d354(0x549)][_0x43d354(0x154)](_0x390376['PhuYx']);},'getHistory':function(){var _0x2ce0ab=_0x48dd23;new cc['BacaratHis'+'toryComman'+'d']()[_0x2ce0ab(0x236)](this);},'onGetHistoryResponse':function(_0x33fb60){var _0x4f6b86=_0x48dd23,_0xf4f86=_0x33fb60;_0x1989ac[_0x4f6b86(0x2ae)](null,_0xf4f86)&&_0x1989ac[_0x4f6b86(0x576)](_0xf4f86['length'],0x0)&&(this[_0x4f6b86(0x40b)+'tView'][_0x4f6b86(0x49c)](),this[_0x4f6b86(0x40b)+'tView'][_0x4f6b86(0x644)](_0xf4f86));},'closeClicked':function(){var _0x3e9982=_0x48dd23;this['historyLis'+_0x3e9982(0x4b3)][_0x3e9982(0x49c)](),this[_0x3e9982(0x549)]['play'](_0x390376[_0x3e9982(0x62c)]);var _0xe8d681=this;cc[_0x3e9982(0x469)][_0x3e9982(0x614)+'er']()[_0x3e9982(0x35e)](function(){var _0x2f42f8=_0x3e9982;_0xe8d681[_0x2f42f8(0x549)][_0x2f42f8(0x23e)](),cc['BacaratPop'+'upControll'+'er'][_0x2f42f8(0x484)+'e']()[_0x2f42f8(0x43d)+_0x2f42f8(0x50d)]();},this,0x1,0x0,0.12,!0x1);}});}[_0x3a7e19(0x314)](void 0x0));continue;}break;}},{}],'BacaratInfoView':[function(_0x4095fe,_0x4e9dce){'use strict';var _0x4d320e=_0x4efc99,_0x3d60c0={'XJvhR':_0x4d320e(0x634)+_0x4d320e(0x15d),'QfPgy':function(_0x1dca1a,_0x14f540){return _0x1dca1a!=_0x14f540;},'vXMCp':_0x4d320e(0x4d1)+'0|9|3|8|4','Pwigh':'ĐẶT\x20CƯỢC','tXCKp':_0x4d320e(0x595)+_0x4d320e(0x3f5),'CuBwI':function(_0x596f86,_0x4d05e4){return _0x596f86>=_0x4d05e4;},'fsvgJ':function(_0x489d84,_0x1cd667){return _0x489d84(_0x1cd667);},'pDYDc':_0x4d320e(0x2ad),'zHQqq':function(_0xfeed4f,_0x1065df){return _0xfeed4f+_0x1065df;},'UPZbt':function(_0xdc8451,_0x397965){return _0xdc8451!=_0x397965;},'IXWeg':'7|5|0|1|4|'+_0x4d320e(0x231),'IdmpO':_0x4d320e(0x5cb)+_0x4d320e(0x255),'cJUHD':function(_0x18ada6,_0x56bbea){return _0x18ada6!==_0x56bbea;},'aWKeQ':function(_0x163130,_0x384579){return _0x163130(_0x384579);},'mnYpz':function(_0x345e29,_0x308fad,_0x1e2b0){return _0x345e29(_0x308fad,_0x1e2b0);},'RNVsN':function(_0x4452f6,_0x31c2c1){return _0x4452f6<_0x31c2c1;},'wjNfb':function(_0x4379b,_0x42fbe1){return _0x4379b>_0x42fbe1;},'JJsdU':_0x4d320e(0x33f)+'5|1|4'};cc[_0x4d320e(0x2a8)]['push'](_0x4e9dce,_0x4d320e(0x5f1)+_0x4d320e(0x3db)+_0x4d320e(0x19e),'BacaratInf'+_0x4d320e(0x538)),function(){var _0xc00e94=_0x4d320e,_0x21f252={'Ciiel':function(_0x51056c,_0x322d0b){var _0x201444=_0x2ce9;return _0x3d60c0[_0x201444(0x218)](_0x51056c,_0x322d0b);},'OWxgI':function(_0x1b346b,_0x50d553){var _0x168b88=_0x2ce9;return _0x3d60c0[_0x168b88(0x4b8)](_0x1b346b,_0x50d553);},'RgIgK':function(_0x2de61e,_0x1d8a6d){var _0x24378f=_0x2ce9;return _0x3d60c0[_0x24378f(0x54c)](_0x2de61e,_0x1d8a6d);},'DhlDX':_0x3d60c0[_0xc00e94(0x405)],'LORbC':function(_0x455533,_0x46f4cc){return _0x455533!=_0x46f4cc;}};cc[_0xc00e94(0x2e3)+_0xc00e94(0x538)]=cc[_0xc00e94(0x3eb)]({'extends':cc[_0xc00e94(0x2ee)],'properties':{'lbTime':cc[_0xc00e94(0x458)],'lbSessionID':cc[_0xc00e94(0x458)],'layoutCard':cc[_0xc00e94(0x4d4)],'lbStatus':cc[_0xc00e94(0x458)],'lbTotalPlayer':cc['Label'],'lstPlayers':[cc[_0xc00e94(0x521)+'yer']]},'onLoad':function(){var _0x3752bd=_0xc00e94,_0x48aa72=_0x3d60c0[_0x3752bd(0x5c2)]['split']('|'),_0x4d63bb=0x0;while(!![]){switch(_0x48aa72[_0x4d63bb++]){case'0':this[_0x3752bd(0x1be)]=null;continue;case'1':this['isShowCard']=!0x1;continue;case'2':this[_0x3752bd(0x43f)+'te']=null;continue;case'3':this[_0x3752bd(0x45a)]=this['lstPlayers'][0x0];continue;case'4':this[_0x3752bd(0x386)+'r'](!0x1);continue;case'5':this[_0x3752bd(0x651)](null);continue;case'6':this[_0x3752bd(0x40c)]=0x0;continue;case'7':cc[_0x3752bd(0x285)+_0x3752bd(0x590)][_0x3752bd(0x484)+'e']()['setInfoVie'+'w'](this);continue;}break;}},'onDestroy':function(){var _0x34dbda=_0xc00e94;try{this[_0x34dbda(0x1be)]&&_0x21f252['Ciiel'](clearInterval,this[_0x34dbda(0x1be)]);}catch(_0x151d54){}},'updateSessionInfo':function(_0x40ce5e){var _0xdd304e=_0xc00e94,_0x2a158d=_0x40ce5e['CurrentSta'+'te'];switch(_0x2a158d){case cc[_0xdd304e(0x5b4)+_0xdd304e(0x21c)][_0xdd304e(0x381)]:if(_0x3d60c0[_0xdd304e(0x3be)](this[_0xdd304e(0x43f)+'te'],_0x2a158d)){var _0x5e37cd=_0x3d60c0['vXMCp'][_0xdd304e(0x625)]('|'),_0x3ff2ae=0x0;while(!![]){switch(_0x5e37cd[_0x3ff2ae++]){case'0':cc[_0xdd304e(0x285)+_0xdd304e(0x590)]['getInstanc'+'e']()['disableBet'+_0xdd304e(0x5d6)](!0x1);continue;case'1':cc[_0xdd304e(0x285)+'ntroller'][_0xdd304e(0x484)+'e']()[_0xdd304e(0x545)+'esult'](null);continue;case'2':this[_0xdd304e(0x616)]||cc[_0xdd304e(0x285)+_0xdd304e(0x590)]['getInstanc'+'e']()[_0xdd304e(0x3c0)+'Table']();continue;case'3':this[_0xdd304e(0x284)](_0x40ce5e[_0xdd304e(0x3e7)]);continue;case'4':cc[_0xdd304e(0x285)+_0xdd304e(0x590)][_0xdd304e(0x484)+'e']()[_0xdd304e(0x589)+_0xdd304e(0x630)](!0x0);continue;case'5':this[_0xdd304e(0x64c)+_0xdd304e(0x59e)](!0x0);continue;case'6':cc[_0xdd304e(0x285)+'ntroller']['getInstanc'+'e']()[_0xdd304e(0x165)+'lt'](null);continue;case'7':this[_0xdd304e(0x651)](_0x3d60c0[_0xdd304e(0x291)]);continue;case'8':this[_0xdd304e(0x386)+'r'](!0x0);continue;case'9':this[_0xdd304e(0x17a)][_0xdd304e(0x611)]['color']=cc[_0xdd304e(0x408)]['GREEN'];continue;}break;}}break;case cc[_0xdd304e(0x5b4)+'GameState'][_0xdd304e(0x57d)+'T']:if(this['currentSta'+'te']!=_0x2a158d){var _0x254f63=_0x3d60c0[_0xdd304e(0x333)][_0xdd304e(0x625)]('|'),_0x3fd806=0x0;while(!![]){switch(_0x254f63[_0x3fd806++]){case'0':this['lbTime']['node']['color']=cc[_0xdd304e(0x408)][_0xdd304e(0x270)];continue;case'1':this['activeLayo'+'utCard'](!0x0);continue;case'2':this['activeTime'+'r'](!0x0);continue;case'3':this[_0xdd304e(0x284)](_0x40ce5e['Ellapsed']);continue;case'4':cc[_0xdd304e(0x285)+_0xdd304e(0x590)][_0xdd304e(0x484)+'e']()['initChipsW'+'in']();continue;case'5':try{_0x3d60c0[_0xdd304e(0x3bb)](_0x3d60c0[_0xdd304e(0x58b)](parseInt,_0x40ce5e[_0xdd304e(0x3e7)]),0xf)&&!cc['game'][_0xdd304e(0x415)]()?cc[_0xdd304e(0x285)+_0xdd304e(0x590)]['getInstanc'+'e']()[_0xdd304e(0x489)+'d'](_0x40ce5e):cc[_0xdd304e(0x285)+_0xdd304e(0x590)][_0xdd304e(0x484)+'e']()['forceShowR'+_0xdd304e(0x329)](_0x40ce5e,_0x40ce5e[_0xdd304e(0x3e7)]);}catch(_0x2b0488){}continue;case'6':this[_0xdd304e(0x651)](_0x3d60c0['pDYDc']);continue;case'7':cc[_0xdd304e(0x285)+_0xdd304e(0x590)][_0xdd304e(0x484)+'e']()[_0xdd304e(0x589)+_0xdd304e(0x630)](!0x1);continue;case'8':this['showStatus'](null);continue;}break;}}break;case cc[_0xdd304e(0x5b4)+_0xdd304e(0x21c)][_0xdd304e(0x316)+_0xdd304e(0x140)]:if(_0x3d60c0[_0xdd304e(0x3be)](this[_0xdd304e(0x43f)+'te'],_0x2a158d)){var _0x412971=(_0xdd304e(0x473)+'|5|1|6|10|'+'8|3|7|11')['split']('|'),_0x2e218f=0x0;while(!![]){switch(_0x412971[_0x2e218f++]){case'0':this[_0xdd304e(0x616)]=!0x0;continue;case'1':cc['Bacarat2Co'+_0xdd304e(0x590)][_0xdd304e(0x484)+'e']()[_0xdd304e(0x424)+_0xdd304e(0x3b9)]();continue;case'2':cc[_0xdd304e(0x285)+_0xdd304e(0x590)][_0xdd304e(0x484)+'e']()[_0xdd304e(0x589)+_0xdd304e(0x630)](!0x1);continue;case'3':cc[_0xdd304e(0x285)+_0xdd304e(0x590)][_0xdd304e(0x484)+'e']()[_0xdd304e(0x16b)+_0xdd304e(0x126)](_0x3d60c0[_0xdd304e(0x26c)](cc[_0xdd304e(0x285)+_0xdd304e(0x590)][_0xdd304e(0x484)+'e']()['getBetLogS'+'ession'](),0x1));continue;case'4':this[_0xdd304e(0x386)+'r'](!0x1);continue;case'5':cc[_0xdd304e(0x285)+_0xdd304e(0x590)]['getInstanc'+'e']()[_0xdd304e(0x383)+_0xdd304e(0x5b9)]();continue;case'6':cc['Bacarat2Co'+_0xdd304e(0x590)][_0xdd304e(0x484)+'e']()[_0xdd304e(0x233)+_0xdd304e(0x1ce)]();continue;case'7':this[_0xdd304e(0x53a)+_0xdd304e(0x439)]();continue;case'8':cc['Bacarat2Co'+_0xdd304e(0x590)][_0xdd304e(0x484)+'e']()[_0xdd304e(0x330)+'g'](cc[_0xdd304e(0x285)+_0xdd304e(0x590)]['getInstanc'+'e']()[_0xdd304e(0x30a)+_0xdd304e(0x126)]());continue;case'9':this[_0xdd304e(0x64c)+'utCard'](!0x1);continue;case'10':cc[_0xdd304e(0x285)+_0xdd304e(0x590)][_0xdd304e(0x484)+'e']()[_0xdd304e(0x22c)+_0xdd304e(0x18e)]();continue;case'11':if(cc['game']['isPaused']())this[_0xdd304e(0x64c)+'utCard'](!0x0),cc['Bacarat2Co'+'ntroller'][_0xdd304e(0x484)+'e']()['initCardOn'+_0xdd304e(0x1c3)]();else cc[_0xdd304e(0x469)][_0xdd304e(0x614)+'er']()[_0xdd304e(0x35e)](function(){var _0x4e74df=_0xdd304e;this[_0x4e74df(0x64c)+_0x4e74df(0x59e)](!0x0),cc[_0x4e74df(0x285)+_0x4e74df(0x590)][_0x4e74df(0x484)+'e']()['slideCardO'+_0x4e74df(0x35f)]();},this,0x0,0x0,0.5,!0x1);continue;case'12':this[_0xdd304e(0x651)](null);continue;}break;}}break;case cc[_0xdd304e(0x5b4)+'GameState']['END_BETTIN'+'G']:if(_0x3d60c0['UPZbt'](this['currentSta'+'te'],_0x2a158d)){var _0x1d84f2=_0x3d60c0[_0xdd304e(0x3a0)][_0xdd304e(0x625)]('|'),_0x26506e=0x0;while(!![]){switch(_0x1d84f2[_0x26506e++]){case'0':this[_0xdd304e(0x284)](_0x40ce5e['Ellapsed']);continue;case'1':this['activeTime'+'r'](!0x0);continue;case'2':this[_0xdd304e(0x616)]||cc[_0xdd304e(0x285)+'ntroller'][_0xdd304e(0x484)+'e']()['initCardOn'+_0xdd304e(0x1c3)]();continue;case'3':cc[_0xdd304e(0x285)+_0xdd304e(0x590)][_0xdd304e(0x484)+'e']()[_0xdd304e(0x21a)+'Again'](!0x0);continue;case'4':this[_0xdd304e(0x64c)+_0xdd304e(0x59e)](!0x0);continue;case'5':this[_0xdd304e(0x17a)]['node']['color']=cc['Color'][_0xdd304e(0x1bc)];continue;case'6':cc[_0xdd304e(0x285)+_0xdd304e(0x590)][_0xdd304e(0x484)+'e']()[_0xdd304e(0x589)+_0xdd304e(0x630)](!0x1);continue;case'7':this[_0xdd304e(0x651)](_0x3d60c0[_0xdd304e(0x44d)]);continue;}break;}}}this[_0xdd304e(0x351)+_0xdd304e(0x1de)](_0x40ce5e['SessionID']),this[_0xdd304e(0x43f)+'te']=_0x2a158d,cc[_0xdd304e(0x285)+'ntroller']['getInstanc'+'e']()[_0xdd304e(0x63a)+_0xdd304e(0x1a4)](_0x2a158d);},'updatePlayersInGame':function(_0x1ac283){var _0xecfbe2=_0xc00e94;this[_0xecfbe2(0x454)+_0xecfbe2(0x482)]['string']=_0x1ac283;},'resetPlayerUI':function(){var _0x1664c9=_0xc00e94;this[_0x1664c9(0x20a)][_0x1664c9(0x2a9)](function(_0x26059e){var _0x36d99e=_0x1664c9;_0x26059e[_0x36d99e(0x53a)+_0x36d99e(0x15c)]();},this);},'updatePlayerInfor':function(_0x422707){var _0x230400=_0xc00e94;this['currPlayer'][_0x230400(0x357)+_0x230400(0x213)](_0x422707[_0x230400(0x2ca)]);},'updatePlayersUI':function(_0x30ac60){var _0x55e6e8=_0xc00e94,_0x2cdf9a=_0x21f252[_0x55e6e8(0x139)]['split']('|'),_0x21e17=0x0;while(!![]){switch(_0x2cdf9a[_0x21e17++]){case'0':this[_0x55e6e8(0x4ca)+'I']=[0x0,0x0,0x0,0x0,0x0,0x0,0x0];continue;case'1':this[_0x55e6e8(0x4ca)+'I'][_0x55e6e8(0x3ec)](function(_0x2cb340,_0x11b5f1){var _0x481114=_0x55e6e8;if(_0x21f252[_0x481114(0x29a)](0x0,_0x2cb340))try{var _0x2de266=_0x30ac60[_0x481114(0x494)](function(_0x1f6619){var _0x270f3f=_0x481114;return _0x1f6619[_0x270f3f(0x540)]==_0x2cb340;});_0x21f252['RgIgK'](_0x2de266[_0x481114(0x592)],0x0)&&_0x21f252[_0x481114(0x29a)](0x0,_0x11b5f1)&&this[_0x481114(0x20a)][_0x11b5f1][_0x481114(0x357)+_0x481114(0x213)](_0x2de266[0x0][_0x481114(0x2ca)]);}catch(_0x48ff31){}else this[_0x481114(0x20a)][_0x11b5f1]['unRegister'+_0x481114(0x4b6)]();},this);continue;case'2':var _0x1dc163=0x0;continue;case'3':var _0x4d9585=this;continue;case'4':cc[_0x55e6e8(0x285)+'ntroller'][_0x55e6e8(0x484)+'e']()['updatePosi'+_0x55e6e8(0x517)+'UI'](this[_0x55e6e8(0x4ca)+'I']);continue;case'5':_0x30ac60['map'](function(_0xb1965){var _0x37359d=_0x55e6e8;_0xb1965[_0x37359d(0x540)]!=lngui['UserManage'+'r'][_0x37359d(0x453)][_0x37359d(0x615)+'fo'][_0x37359d(0x540)]&&_0x1dc163<=0x6&&(_0x4d9585['positionsU'+'I'][_0x1dc163]=_0xb1965[_0x37359d(0x540)],_0x1dc163++);},this);continue;case'6':_0x1dc163++;continue;case'7':this[_0x55e6e8(0x4ca)+'I'][_0x1dc163]=lngui[_0x55e6e8(0x5fb)+'r'][_0x55e6e8(0x453)][_0x55e6e8(0x615)+'fo'][_0x55e6e8(0x540)];continue;}break;}},'updateBalanceCurrPlayer':function(_0x56c6f9){var _0x1573f4=_0xc00e94;this[_0x1573f4(0x45a)][_0x1573f4(0x3f2)+_0x1573f4(0x56d)](_0x56c6f9);},'updateBalancePlayer':function(_0x3d1dee){var _0x5aa378=_0xc00e94;if(_0x3d1dee){var _0x4eb5c4=_0x3d1dee[0x0],_0x2ee96e=_0x3d1dee[0x3];if(Array[_0x5aa378(0x622)](this[_0x5aa378(0x4ca)+'I'])){var _0x4a4fc5=this[_0x5aa378(0x4ca)+'I']['indexOf'](_0x4eb5c4);_0x3d60c0[_0x5aa378(0x48e)](-0x1,_0x4a4fc5)&&this[_0x5aa378(0x20a)]&&this['lstPlayers'][_0x4a4fc5]&&this[_0x5aa378(0x20a)][_0x4a4fc5][_0x5aa378(0x3f2)](_0x2ee96e);}}},'winResult':function(_0x9de5d6){var _0x3c1bea=_0xc00e94;this[_0x3c1bea(0x45a)][_0x3c1bea(0x3fd)+_0x3c1bea(0x42b)](_0x9de5d6[_0x3c1bea(0x417)],_0x9de5d6[_0x3c1bea(0x28f)]);},'winResultVip':function(_0xc8913a){var _0x3e92dd=_0xc00e94,_0x233828=this;_0xc8913a[_0x3e92dd(0x2a9)](function(_0x4a7956){var _0x58ae37=_0x3e92dd;if(_0x233828[_0x58ae37(0x4ca)+'I'][_0x58ae37(0x33b)](_0x4a7956['AccountID'])&&_0x4a7956[_0x58ae37(0x540)]!=lngui[_0x58ae37(0x5fb)+'r'][_0x58ae37(0x453)][_0x58ae37(0x615)+'fo'][_0x58ae37(0x540)]){var _0x164adc=_0x233828['positionsU'+'I']['indexOf'](_0x4a7956[_0x58ae37(0x540)]);_0x233828['lstPlayers'][_0x164adc]['playerResu'+_0x58ae37(0x42b)](_0x4a7956[_0x58ae37(0x417)],_0x4a7956[_0x58ae37(0x28f)]);}},this);},'showStatus':function(_0x19c73e){var _0x26fe6f=_0xc00e94;if(_0x21f252[_0x26fe6f(0x58e)](null,_0x19c73e))this[_0x26fe6f(0x13e)][_0x26fe6f(0x26f)]=_0x19c73e,this[_0x26fe6f(0x13e)]['node'][_0x26fe6f(0x240)][_0x26fe6f(0x29d)]=!0x0,this['lbStatus'][_0x26fe6f(0x611)]['getCompone'+'nt'](cc[_0x26fe6f(0x4cc)])[_0x26fe6f(0x154)](_0x26fe6f(0x1dd)+_0x26fe6f(0x605));else this[_0x26fe6f(0x13e)][_0x26fe6f(0x611)][_0x26fe6f(0x240)]['active']=!0x1;},'activeLayoutCard':function(_0x2c3b74){var _0x11971b=_0xc00e94;this[_0x11971b(0x19b)][_0x11971b(0x29d)]=_0x2c3b74;},'activeTimer':function(_0x3ec47c){var _0xda8999=_0xc00e94;this['lbTime']['node']['parent']['active']=_0x3ec47c,this[_0xda8999(0x1be)]&&!_0x3ec47c&&_0x3d60c0[_0xda8999(0x58b)](clearInterval,this[_0xda8999(0x1be)]);},'updateSessionId':function(_0x2733ac){var _0x3fc28a=_0xc00e94;this[_0x3fc28a(0x1cd)+'D'][_0x3fc28a(0x26f)]=_0x3d60c0[_0x3fc28a(0x26c)](_0x3fc28a(0x450),_0x2733ac);},'updateTime':function(_0x15d0ce){var _0x5b1afb=_0xc00e94;this[_0x5b1afb(0x1be)]&&_0x3d60c0['aWKeQ'](clearInterval,this['interval']),this[_0x5b1afb(0x40c)]=_0x3d60c0['fsvgJ'](parseInt,_0x15d0ce),this[_0x5b1afb(0x226)](),this[_0x5b1afb(0x1be)]=_0x3d60c0[_0x5b1afb(0x5c0)](setInterval,function(){var _0x38241f=_0x5b1afb;this[_0x38241f(0x226)]();}[_0x5b1afb(0x507)](this),0x3e8);},'startTimer':function(){var _0x483aa5=_0xc00e94;if(_0x3d60c0['RNVsN'](this[_0x483aa5(0x40c)],0x0))this[_0x483aa5(0x40c)]=0x0;else this['lbTime'][_0x483aa5(0x26f)]=this[_0x483aa5(0x40c)],this['time']--;},'playerShowBubbleChat':function(_0x2f2114){var _0xaade46=_0xc00e94;0x0==_0x2f2114[0x4]&&_0x3d60c0[_0xaade46(0x4b8)](_0x2f2114[0x3],lngui['UserManage'+'r'][_0xaade46(0x453)][_0xaade46(0x615)+'fo'][_0xaade46(0x540)])||(cc[_0xaade46(0x1c5)+_0xaade46(0x590)][_0xaade46(0x484)+'e']()[_0xaade46(0x495)+'tion'](_0x2f2114)?this[_0xaade46(0x20a)][_0xaade46(0x3ec)](function(_0x162b1e){var _0x2ed37e=_0xaade46,_0x2f41b1=_0x162b1e[_0x2ed37e(0x4d0)];_0x2f2114[0x0]===_0x2f41b1&&_0x162b1e['showEmotio'+'n'](cc[_0x2ed37e(0x1c5)+'ntroller'][_0x2ed37e(0x484)+'e']()['getIndexEm'+_0x2ed37e(0x3c2)](_0x2f2114),_0x2f2114);}):this[_0xaade46(0x20a)][_0xaade46(0x3ec)](function(_0x22a76d){var _0x2b1792=_0xaade46,_0x2711b8=_0x22a76d[_0x2b1792(0x4d0)];_0x2f2114[0x0]===_0x2711b8&&_0x22a76d[_0x2b1792(0x5d8)+_0x2b1792(0x114)](_0x2f2114);}));}});}[_0x4d320e(0x314)](void 0x0),cc[_0x4d320e(0x2a8)]['pop']();},{}],'BacaratMap':[function(_0x2f6ee6,_0x51d3b0){'use strict';var _0x2ee238=_0x4efc99,_0x560936={'MkJYN':_0x2ee238(0x5b4)};cc[_0x2ee238(0x2a8)][_0x2ee238(0x5ae)](_0x51d3b0,_0x2ee238(0x1e4)+'GmLPLlyDQF'+_0x2ee238(0x4c4),_0x560936['MkJYN']),cc['BacaratMap'+_0x2ee238(0x5b0)]={'1K':0x0,'5K':0x1,'10K':0x2,'100K':0x3,'500K':0x4,'5M':0x5},cc[_0x2ee238(0x5b4)+_0x2ee238(0x135)+_0x2ee238(0x337)]={0x3e8:0x0,0x1388:0x1,0x2710:0x2,0x186a0:0x3,0x7a120:0x4,0x4c4b40:0x5},cc[_0x2ee238(0x5b4)+_0x2ee238(0x31c)]={'CO':0x27,'RO':0x1a,'TEP':0xd,'BICH':0x0},cc[_0x2ee238(0x5b4)+'GameState']={'BETTING':0x0,'SHOW_RESULT':0x1,'PREPARE_NEW_ROUD':0x2,'END_BETTING':0x3},cc[_0x2ee238(0x339)+'Site']={'PLAYER_PAIR':0x1,'PLAYER':0x2,'TIE':0x3,'BANKER':0x4,'BANKER_PAIR':0x5},cc[_0x2ee238(0x451)+'or']={'WHITE':0x0,'YELLOW':0x1,'RED':0x2},cc['BacaratChi'+_0x2ee238(0x4b2)]={'PLAYER':0x1,'USERS':0x2},cc[_0x2ee238(0x2a8)]['pop']();},{}],'BacaratPlayer':[function(_0xc66f0b,_0x3ca999){'use strict';var _0x4f3e1d=_0x4efc99,_0xc8aeaa={'xcOuA':_0x4f3e1d(0x5d8)+_0x4f3e1d(0x114),'Gfprx':function(_0x30b7e7,_0x26dbd8){return _0x30b7e7+_0x26dbd8;},'OORBH':function(_0x4af6ff,_0x26ae02){return _0x4af6ff===_0x26ae02;},'oxCTd':_0x4f3e1d(0x4c5),'Vxwzl':_0x4f3e1d(0x175),'njqmX':'bubble','axWoo':_0x4f3e1d(0x297),'UZrvB':_0x4f3e1d(0x212),'AiLfc':_0x4f3e1d(0x1aa)+'3|4|6','JJqqU':function(_0x39cb90,_0x9034c2){return _0x39cb90<=_0x9034c2;},'IyLrS':function(_0x4298ba,_0x1a5e2c){return _0x4298ba>_0x1a5e2c;},'yJmAw':_0x4f3e1d(0x541)+_0x4f3e1d(0x2e9)+_0x4f3e1d(0x26b),'gUWbi':'BacaratPla'+_0x4f3e1d(0x482)};cc['_RF'][_0x4f3e1d(0x5ae)](_0x3ca999,_0xc8aeaa[_0x4f3e1d(0x63f)],_0xc8aeaa[_0x4f3e1d(0x557)]),function(){var _0x35b2c9=_0x4f3e1d,_0x2a8948={'ofDWv':_0xc8aeaa[_0x35b2c9(0x3d6)],'FBVgz':_0xc8aeaa[_0x35b2c9(0x1a0)],'nhjsO':_0xc8aeaa['njqmX'],'XzEbO':_0xc8aeaa[_0x35b2c9(0x653)],'qqBUv':_0xc8aeaa[_0x35b2c9(0x1f9)],'CrYjq':'showBubble'+_0x35b2c9(0x114),'koPKv':_0xc8aeaa[_0x35b2c9(0x119)],'GtAMK':function(_0x6d7b4c,_0x3228dd){var _0x217741=_0x35b2c9;return _0xc8aeaa[_0x217741(0x331)](_0x6d7b4c,_0x3228dd);},'PibuH':function(_0x3ae255,_0x132254){var _0x5b1a97=_0x35b2c9;return _0xc8aeaa[_0x5b1a97(0x18c)](_0x3ae255,_0x132254);}};cc[_0x35b2c9(0x521)+_0x35b2c9(0x482)]=cc[_0x35b2c9(0x3eb)]({'extends':cc[_0x35b2c9(0x2ee)],'properties':{'lbSID':cc[_0x35b2c9(0x458)],'lbName':cc[_0x35b2c9(0x458)],'nickName':''},'onLoad':function(){var _0x5e4582=_0x35b2c9;this['animation']=this[_0x5e4582(0x611)][_0x5e4582(0x3b7)+'nt'](cc['Animation']),this['nodeChat']=this[_0x5e4582(0x611)][_0x5e4582(0x588)+_0x5e4582(0x2bc)](_0x2a8948[_0x5e4582(0x4d7)]),this[_0x5e4582(0x2bb)+'n']=this['nodeChat'][_0x5e4582(0x588)+_0x5e4582(0x2bc)](_0x2a8948['FBVgz']),this['nodeBubble']=this[_0x5e4582(0x4bb)]['getChildBy'+_0x5e4582(0x2bc)](_0x2a8948[_0x5e4582(0x48d)]),this['skeEmotion']=this[_0x5e4582(0x2bb)+'n'][_0x5e4582(0x3b7)+'nt'](sp[_0x5e4582(0x346)]),this[_0x5e4582(0x382)+'at']=this[_0x5e4582(0x43b)][_0x5e4582(0x3b7)+_0x5e4582(0x138)+'en'](cc[_0x5e4582(0x458)]),this['nodeChat'][_0x5e4582(0x29d)]=!0x1,this['avatar']=this[_0x5e4582(0x611)][_0x5e4582(0x3b7)+_0x5e4582(0x138)+'en'](cc[_0x5e4582(0x5ad)]),this[_0x5e4582(0x5d0)]=this[_0x5e4582(0x611)]['getCompone'+'ntInChildr'+'en'](cc[_0x5e4582(0x458)]),this[_0x5e4582(0x335)]=this[_0x5e4582(0x611)][_0x5e4582(0x3b7)+_0x5e4582(0x138)+'en'](cc[_0x5e4582(0x4cc)]),this[_0x5e4582(0x5aa)]=this[_0x5e4582(0x611)][_0x5e4582(0x588)+'Name'](_0x2a8948[_0x5e4582(0x153)]),this[_0x5e4582(0x212)]=this[_0x5e4582(0x5aa)][_0x5e4582(0x588)+_0x5e4582(0x2bc)](_0x2a8948[_0x5e4582(0x567)])[_0x5e4582(0x3b7)+'nt'](cc[_0x5e4582(0x347)+'ment']),this[_0x5e4582(0x5aa)][_0x5e4582(0x29d)]=!0x1;},'showEmotion':function(_0x15742e,_0xcb0202){var _0x47910d=_0x35b2c9;this[_0x47910d(0x43b)][_0x47910d(0x29d)]=!0x1,this[_0x47910d(0x2bb)+'n'][_0x47910d(0x29d)]=!0x0,this['skeEmotion']['clearTrack'+'s'](),this['skeEmotion'][_0x47910d(0x547)+'Pose'](),0xf===_0x15742e?this[_0x47910d(0x146)][_0x47910d(0x155)+'on'](_0x15742e,_0x47910d(0x5a6)+_0x47910d(0x3e3),!0x0):this[_0x47910d(0x146)]['setAnimati'+'on'](_0x15742e,_0xcb0202[0x1],!0x0),this[_0x47910d(0x549)]['play'](_0x2a8948['CrYjq']);},'showBubbleChat':function(_0x2863f9){var _0x3b7acd=_0x35b2c9;this[_0x3b7acd(0x43b)]['active']=!0x0,this[_0x3b7acd(0x2bb)+'n'][_0x3b7acd(0x29d)]=!0x1,this['lbBubbleCh'+'at']['string']=_0x2863f9[0x1],this[_0x3b7acd(0x549)]['play'](_0xc8aeaa[_0x3b7acd(0x2a3)]);},'resetPlayerResultUI':function(){var _0x15dd27=_0x35b2c9;this[_0x15dd27(0x5d0)][_0x15dd27(0x611)]['active']=!0x1;},'playerResultUI':function(_0x3fc666,_0x5ddaf4){var _0x2d0d36=_0x35b2c9,_0xe3260e=_0x2d0d36(0x633)[_0x2d0d36(0x625)]('|'),_0x2c9fce=0x0;while(!![]){switch(_0xe3260e[_0x2c9fce++]){case'0':this['lbWin'][_0x2d0d36(0x611)][_0x2d0d36(0x11a)]=0x0;continue;case'1':this[_0x2d0d36(0x335)]['play'](_0x2d0d36(0x486));continue;case'2':this[_0x2d0d36(0x5d0)][_0x2d0d36(0x611)][_0x2d0d36(0x29d)]=!0x0;continue;case'3':_0x5ddaf4&&this['updateChip'](_0x5ddaf4);continue;case'4':this[_0x2d0d36(0x5d0)][_0x2d0d36(0x26f)]=_0xc8aeaa[_0x2d0d36(0x5ac)]('+',cc[_0x2d0d36(0x133)]['getInstanc'+'e']()[_0x2d0d36(0x3d4)+'er'](_0x3fc666));continue;}break;}},'updateChip':function(_0x213651){var _0x1dd8da=_0x35b2c9;this['lbChip'][_0x1dd8da(0x2d9)+'to'](_0x213651);},'updateChipNormal':function(_0xf4f7c9){var _0x38324d=_0x35b2c9;this[_0x38324d(0x212)][_0x38324d(0x1fa)][_0x38324d(0x26f)]=cc['Tool'][_0x38324d(0x484)+'e']()[_0x38324d(0x3d4)+'er'](_0xf4f7c9);},'onDestroy':function(){var _0x4d7537=_0x35b2c9;this[_0x4d7537(0x436)+'Player']();},'registerPlayer':function(_0x23fd0b){var _0x35b690=_0x35b2c9,_0x42dcb4=_0x2a8948[_0x35b690(0x5fd)][_0x35b690(0x625)]('|'),_0x5f1c36=0x0;while(!![]){switch(_0x42dcb4[_0x5f1c36++]){case'0':this[_0x35b690(0x61f)][_0x35b690(0x429)](cc[_0x35b690(0x285)+_0x35b690(0x590)]['getInstanc'+'e']()['getAvatars']()[_0x503ba1]);continue;case'1':(_0x2a8948['GtAMK'](_0x503ba1,0x0)||_0x2a8948[_0x35b690(0x317)](_0x503ba1,0x9))&&(_0x503ba1=Math[_0x35b690(0x272)](0x9*Math[_0x35b690(0x398)]()));continue;case'2':this[_0x35b690(0x4d0)]=_0x23fd0b[_0x35b690(0x5e0)];continue;case'3':_0x23fd0b[_0x35b690(0x3a1)]?(this[_0x35b690(0x45d)]['string']=cc['Config'][_0x35b690(0x484)+'e']()[_0x35b690(0x46e)+_0x35b690(0x5a4)+'at'](_0x23fd0b['ServiceID']),this[_0x35b690(0x4d8)][_0x35b690(0x26f)]=cc[_0x35b690(0x172)][_0x35b690(0x484)+'e']()[_0x35b690(0x2b9)](_0x23fd0b['NickName'],0x7)):(this[_0x35b690(0x45d)]['string']='',this['lbName']['string']=cc['Config'][_0x35b690(0x484)+'e']()[_0x35b690(0x2b9)](_0x23fd0b[_0x35b690(0x5e0)],0xa));continue;case'4':this['lbChip']['tweenValue'+'to'](_0x23fd0b['Balance']);continue;case'5':this['nodeInfo'][_0x35b690(0x29d)]=!0x0;continue;case'6':this[_0x35b690(0x5aa)][_0x35b690(0x29d)]=!0x0;continue;case'7':var _0x503ba1=_0x23fd0b['Avatar'];continue;}break;}},'unRegisterPlayer':function(){var _0x1d7a38=_0x35b2c9;this[_0x1d7a38(0x61f)]['setAvatar'](cc[_0x1d7a38(0x285)+_0x1d7a38(0x590)]['getInstanc'+'e']()['getAvatarD'+'ef']()),this['nodeInfo'][_0x1d7a38(0x29d)]=!0x1;try{this[_0x1d7a38(0x5d0)][_0x1d7a38(0x611)][_0x1d7a38(0x29d)]=!0x1,this[_0x1d7a38(0x43b)][_0x1d7a38(0x29d)]=!0x1,this[_0x1d7a38(0x2bb)+'n']['active']=!0x1;}catch(_0x4655fe){}},'updateConnectionStatus':function(_0x26f257){var _0x2abef9=_0x35b2c9;switch(_0x26f257){case cc['Connection'+'Status'][_0x2abef9(0x36b)+'ED']:case cc['Connection'+_0x2abef9(0x55e)][_0x2abef9(0x342)]:}},'updatePlayerStatus':function(_0x584848){var _0x59470c=_0x35b2c9;this[_0x59470c(0x3ac)+'us']=_0x584848['toString'](),_0xc8aeaa[_0x59470c(0x30d)](_0x584848['toString'](),cc[_0x59470c(0x447)+'us'][_0x59470c(0x12c)])?this[_0x59470c(0x611)]['opacity']=0xff:this[_0x59470c(0x611)][_0x59470c(0x17f)]=0x96;}});}[_0x4f3e1d(0x314)](void 0x0),cc['_RF']['pop']();},{}],'BacaratPopupController':[function(_0x20d27d,_0x152703){'use strict';var _0x18d687=_0x4efc99,_0x1a3d63={'VKiIn':'BacaratPop'+'upControll'+'er'};cc['_RF']['push'](_0x152703,_0x18d687(0x19f)+_0x18d687(0x461)+_0x18d687(0x2dd),_0x1a3d63[_0x18d687(0x2fa)]),function(){var _0x3f260b=_0x18d687,_0x3fc8bb;_0x3fc8bb=(function(){var _0x177868=_0x2ce9,_0x39feb9;function _0x3a568b(){}return _0x39feb9=void 0x0,_0x3a568b['getInstanc'+'e']=function(){var _0x5161e1=_0x2ce9;return void 0x0===_0x39feb9&&(_0x39feb9=this),_0x39feb9[_0x5161e1(0x3d5)];},_0x3a568b[_0x177868(0x3d5)][_0x177868(0x4c6)+'ew']=function(_0x273b42){var _0x34d667=_0x177868;return this[_0x34d667(0x62f)+_0x34d667(0x2e7)]=_0x273b42;},_0x3a568b[_0x177868(0x3d5)][_0x177868(0x2a0)+_0x177868(0x44f)]=function(){var _0x43af1e=_0x177868;return this[_0x43af1e(0x62f)+_0x43af1e(0x2e7)][_0x43af1e(0x2a0)+_0x43af1e(0x44f)]();},_0x3a568b['prototype'][_0x177868(0x189)+_0x177868(0x151)]=function(){var _0x21383e=_0x177868;return this[_0x21383e(0x62f)+_0x21383e(0x2e7)]['destroyTop'+_0x21383e(0x151)]();},_0x3a568b['prototype'][_0x177868(0x3f3)+_0x177868(0x151)]=function(){var _0x1597d3=_0x177868;return this[_0x1597d3(0x62f)+_0x1597d3(0x2e7)]['createHelp'+_0x1597d3(0x151)]();},_0x3a568b[_0x177868(0x3d5)][_0x177868(0x129)+_0x177868(0x467)]=function(){var _0x212766=_0x177868;return this[_0x212766(0x62f)+'upView']['destroyHel'+_0x212766(0x467)]();},_0x3a568b[_0x177868(0x3d5)][_0x177868(0x196)+_0x177868(0x313)]=function(){var _0x269a3f=_0x177868;return this[_0x269a3f(0x62f)+'upView'][_0x269a3f(0x196)+_0x269a3f(0x313)]();},_0x3a568b['prototype'][_0x177868(0x43d)+_0x177868(0x50d)]=function(){var _0x2e2619=_0x177868;return this['bacaratPop'+_0x2e2619(0x2e7)][_0x2e2619(0x43d)+_0x2e2619(0x50d)]();},_0x3a568b['prototype']['createGrou'+_0x177868(0x4af)]=function(){var _0x5d7048=_0x177868;return this['bacaratPop'+'upView'][_0x5d7048(0x3a5)+'pUserView']();},_0x3a568b[_0x177868(0x3d5)][_0x177868(0x152)+_0x177868(0x354)]=function(){var _0x5f0bf4=_0x177868;return this[_0x5f0bf4(0x62f)+_0x5f0bf4(0x2e7)][_0x5f0bf4(0x152)+_0x5f0bf4(0x354)]();},_0x3a568b;}()),cc[_0x3f260b(0x45c)+'upControll'+'er']=_0x3fc8bb;}[_0x18d687(0x314)](void 0x0),cc[_0x18d687(0x2a8)][_0x18d687(0x56f)]();},{}],'BacaratPopupView':[function(_0x344d56,_0x752a76){'use strict';var _0x5d1f15=_0x4efc99,_0x274586={'UkiwY':_0x5d1f15(0x161)+'NEoEiwMSWb'+'OnM','SDAGa':'BacaratPop'+_0x5d1f15(0x2e7)};cc[_0x5d1f15(0x2a8)][_0x5d1f15(0x5ae)](_0x752a76,_0x274586[_0x5d1f15(0x167)],_0x274586[_0x5d1f15(0x177)]),function(){var _0x3988c0=_0x5d1f15;cc[_0x3988c0(0x45c)+'upView']=cc[_0x3988c0(0x3eb)]({'extends':cc[_0x3988c0(0x2ee)],'properties':{'prefabGroupUser':cc[_0x3988c0(0x5f0)],'prefabBetLines':cc[_0x3988c0(0x5f0)],'prefabHelp':cc[_0x3988c0(0x5f0)],'prefabHistory':cc[_0x3988c0(0x5f0)],'prefabTop':cc[_0x3988c0(0x5f0)],'prefabSessionDetail':cc[_0x3988c0(0x5f0)],'prefabGraph':cc[_0x3988c0(0x5f0)]},'onLoad':function(){var _0x7f6ada=_0x3988c0;cc['BacaratPop'+_0x7f6ada(0x23a)+'er'][_0x7f6ada(0x484)+'e']()[_0x7f6ada(0x4c6)+'ew'](this);},'createGraphView':function(){var _0x1781c0=_0x3988c0;this[_0x1781c0(0x58d)]=this['createView'](this[_0x1781c0(0x27e)+'h']);},'destroyGraphView':function(){var _0x1cfa7c=_0x3988c0;this[_0x1cfa7c(0x58d)]&&this[_0x1cfa7c(0x58d)][_0x1cfa7c(0x345)]();},'createGroupUserView':function(){var _0x2f18ef=_0x3988c0;this['nodeGroupU'+_0x2f18ef(0x4a6)]=this['createView'](this[_0x2f18ef(0x46d)+_0x2f18ef(0x14d)]);},'destroyGroupUserView':function(){var _0x3da5d4=_0x3988c0;this['nodeGroupU'+_0x3da5d4(0x4a6)]&&this['nodeGroupU'+'ser'][_0x3da5d4(0x345)]();},'createSessionDetailView':function(){var _0x1c824e=_0x3988c0;this['nodeSessio'+'nDetailVie'+'w']=this['createView'](this['prefabSess'+_0x1c824e(0x1af)]);},'destroySessionDetailView':function(){var _0x544148=_0x3988c0;this[_0x544148(0x64e)+'nDetailVie'+'w']&&this['nodeSessio'+_0x544148(0x2ab)+'w'][_0x544148(0x345)]();},'createBetLinesView':function(){var _0x2429d9=_0x3988c0;this[_0x2429d9(0x238)+_0x2429d9(0x53d)]=this[_0x2429d9(0x4a4)](this[_0x2429d9(0x5e9)+'ines']);},'destroyBetLinesView':function(){var _0x1915af=_0x3988c0;this[_0x1915af(0x238)+_0x1915af(0x53d)]&&this['nodeBetLin'+_0x1915af(0x53d)][_0x1915af(0x345)]();},'createTopView':function(){var _0x3052c7=_0x3988c0;this[_0x3052c7(0x594)+'w']=this[_0x3052c7(0x4a4)](this[_0x3052c7(0x2a6)]);},'destroyTopView':function(){var _0x50fd6c=_0x3988c0;this[_0x50fd6c(0x594)+'w']&&this[_0x50fd6c(0x594)+'w'][_0x50fd6c(0x345)]();},'createHelpView':function(){var _0x3cd5e0=_0x3988c0;this['nodeHelpVi'+'ew']=this[_0x3cd5e0(0x4a4)](this['prefabHelp']);},'destroyHelpView':function(){var _0x48b78e=_0x3988c0;this[_0x48b78e(0x443)+'ew']&&this[_0x48b78e(0x443)+'ew'][_0x48b78e(0x345)]();},'createHistoryView':function(){var _0x1ba0ad=_0x3988c0;this[_0x1ba0ad(0x3aa)+_0x1ba0ad(0x1d5)]=this[_0x1ba0ad(0x4a4)](this[_0x1ba0ad(0x211)+_0x1ba0ad(0x209)]);},'destroyHistoryView':function(){var _0x5844c1=_0x3988c0;this[_0x5844c1(0x3aa)+'yView']&&this[_0x5844c1(0x3aa)+_0x5844c1(0x1d5)]['destroy']();},'createView':function(_0x122ca4){var _0x2c9fc5=_0x3988c0,_0x1a717b=cc[_0x2c9fc5(0x200)+'e'](_0x122ca4);return _0x1a717b[_0x2c9fc5(0x240)]=this['node'],_0x1a717b[_0x2c9fc5(0x3ed)+'n'](-this[_0x2c9fc5(0x611)]['x'],-this['node']['y']),_0x1a717b;}});}[_0x5d1f15(0x314)](void 0x0),cc[_0x5d1f15(0x2a8)][_0x5d1f15(0x56f)]();},{}],'BacaratSettingView':[function(_0x55b78c,_0x5e8d47){'use strict';var _0x1b0f73=_0x4efc99,_0x744409={'yBczH':_0x1b0f73(0x2be),'RWxRU':_0x1b0f73(0x32a)+'G351Ak4dSL'+_0x1b0f73(0x396),'MTEGj':'BacaratSet'+_0x1b0f73(0x465),'AArOc':function(_0xd9135c,_0x29ee75){return _0xd9135c==_0x29ee75;},'HxUDw':_0x1b0f73(0x1fb)+_0x1b0f73(0x166),'zCAGP':_0x1b0f73(0x3d0)},_0x21a717=_0x744409[_0x1b0f73(0x261)]['split']('|'),_0x9cb67d=0x0;while(!![]){switch(_0x21a717[_0x9cb67d++]){case'0':continue;case'1':cc[_0x1b0f73(0x3eb)]({'extends':cc[_0x1b0f73(0x2ee)],'properties':{'animation':cc[_0x1b0f73(0x4cc)],'nodeOffset':cc[_0x1b0f73(0x4d4)],'spriteSound':cc[_0x1b0f73(0x52b)],'sfSounds':[cc[_0x1b0f73(0x14e)+'e']]},'onLoad':function(){var _0x3fe021=_0x1b0f73;this[_0x3fe021(0x46a)]=!0x1;},'start':function(){var _0x308dce=_0x1b0f73;this[_0x308dce(0x2db)+'d'][_0x308dce(0x53f)+'e']=this[_0x308dce(0x650)]?this[_0x308dce(0x30e)][0x0]:this[_0x308dce(0x30e)][0x1],cc[_0x308dce(0x1c0)+_0x308dce(0x279)][_0x308dce(0x484)+'e']()[_0x308dce(0x5f3)+'d'](this[_0x308dce(0x650)]),cc[_0x308dce(0x1c0)+_0x308dce(0x279)]['getInstanc'+'e']()[_0x308dce(0x54b)+'c'](this['music']);},'openSettingClicked':function(){var _0xe1b791=_0x1b0f73;_0x4d627b[_0xe1b791(0x5e3)](0x0,this[_0xe1b791(0x46a)])?(this[_0xe1b791(0x46a)]=!0x0,this['animation'][_0xe1b791(0x154)](_0x4d627b[_0xe1b791(0x362)])):(this[_0xe1b791(0x46a)]=!0x1,this['animation']['play'](_0xe1b791(0x1fb)+_0xe1b791(0x166)));},'closeSettingClicked':function(){var _0x4f7293=_0x1b0f73;this[_0x4f7293(0x549)][_0x4f7293(0x154)](_0x4d627b[_0x4f7293(0x1e6)]);},'soundClicked':function(){var _0x42cf92=_0x1b0f73;this[_0x42cf92(0x650)]=!this[_0x42cf92(0x650)],cc[_0x42cf92(0x133)][_0x42cf92(0x484)+'e']()[_0x42cf92(0x442)](_0x4d627b[_0x42cf92(0x359)],this[_0x42cf92(0x650)]),this[_0x42cf92(0x2db)+'d'][_0x42cf92(0x53f)+'e']=this[_0x42cf92(0x650)]?this[_0x42cf92(0x30e)][0x0]:this[_0x42cf92(0x30e)][0x1],cc[_0x42cf92(0x1c0)+_0x42cf92(0x279)]['getInstanc'+'e']()[_0x42cf92(0x5f3)+'d'](this[_0x42cf92(0x650)]);},'musicClicked':function(){var _0x3d9745=_0x1b0f73;this['music']=!this[_0x3d9745(0x303)],cc['Tool'][_0x3d9745(0x484)+'e']()['setItem'](_0x4d627b[_0x3d9745(0x457)],this['music']),this['spriteMusi'+'c'][_0x3d9745(0x53f)+'e']=this[_0x3d9745(0x303)]?this[_0x3d9745(0x539)][0x0]:this[_0x3d9745(0x539)][0x1],cc[_0x3d9745(0x1c0)+'oller'][_0x3d9745(0x484)+'e']()[_0x3d9745(0x54b)+'c'](this[_0x3d9745(0x303)]);}});continue;case'2':cc[_0x1b0f73(0x2a8)][_0x1b0f73(0x5ae)](_0x5e8d47,_0x744409['RWxRU'],_0x744409[_0x1b0f73(0x581)]);continue;case'3':var _0x4d627b={'nbrWg':function(_0x42feec,_0x2a425b){var _0x9d0b5=_0x1b0f73;return _0x744409[_0x9d0b5(0x425)](_0x42feec,_0x2a425b);},'XDDwe':_0x1b0f73(0x33c)+_0x1b0f73(0x323),'TmRoh':_0x744409[_0x1b0f73(0x309)],'lPNEk':_0x1b0f73(0x350),'ixEby':_0x744409[_0x1b0f73(0x1eb)]};continue;case'4':cc[_0x1b0f73(0x2a8)][_0x1b0f73(0x56f)]();continue;}break;}},{}],'BacaratSoiCauView':[function(_0x199761,_0x271338){'use strict';var _0x1bf737=_0x4efc99,_0x352b10={'Mouaq':function(_0x1a57a3,_0x556e4d){return _0x1a57a3>_0x556e4d;},'kWdHM':function(_0x1d2d7f,_0x47ab83){return _0x1d2d7f!==_0x47ab83;},'JLuwY':_0x1bf737(0x201)+'KPpw+bc8pC'+_0x1bf737(0x12e)},_0x5b1179=_0x1bf737(0x4e3)[_0x1bf737(0x625)]('|'),_0x59539c=0x0;while(!![]){switch(_0x5b1179[_0x59539c++]){case'0':continue;case'1':var _0x1105fc={'tEGhP':function(_0x2798c4,_0x16c7e8){return _0x2798c4<_0x16c7e8;},'rRuBI':function(_0x266d77,_0x4e8f94){return _0x352b10['Mouaq'](_0x266d77,_0x4e8f94);},'TjYJL':function(_0x2ba511,_0x3a8e18){var _0xda7dd6=_0x1bf737;return _0x352b10[_0xda7dd6(0x620)](_0x2ba511,_0x3a8e18);}};continue;case'2':cc[_0x1bf737(0x3eb)]({'extends':cc['Component'],'properties':{'itemTemplate':cc[_0x1bf737(0x4d4)],'layoutParent':cc['Node']},'onLoad':function(){var _0x217928=_0x1bf737;cc[_0x217928(0x285)+_0x217928(0x590)]['getInstanc'+'e']()[_0x217928(0x2b4)+_0x217928(0x44f)](this),this[_0x217928(0x49d)]=!0x1,this[_0x217928(0x535)]=new cc[(_0x217928(0x3a3))]();for(var _0x392ed4=0x0;_0x1105fc[_0x217928(0x3fc)](_0x392ed4,0x64);_0x392ed4++)this[_0x217928(0x535)][_0x217928(0x2d8)](cc[_0x217928(0x200)+'e'](this[_0x217928(0x3c1)+'te']));this[_0x217928(0x4d9)+'nt'][_0x217928(0x296)]=0x17c;},'activeGraph':function(_0x55a5a0){var _0x5917ef=_0x1bf737;this['node']['active']=_0x55a5a0,this[_0x5917ef(0x49d)]=_0x55a5a0;},'initListSoiCau':function(_0x1787c1){var _0x1fab6a=_0x1bf737,_0x4522f9=this;if(_0x1787c1&&_0x1105fc[_0x1fab6a(0x1da)](0x0,_0x1787c1[_0x1fab6a(0x592)])){try{this['clearList']();}catch(_0x128841){}_0x1787c1[_0x1fab6a(0x2a9)](function(_0x197e11){var _0x19cad4=_0x1fab6a,_0x549f48=null;(_0x549f48=_0x1105fc[_0x19cad4(0x48a)](_0x4522f9[_0x19cad4(0x535)][_0x19cad4(0x624)](),0x0)?_0x4522f9[_0x19cad4(0x535)][_0x19cad4(0x60e)]():cc[_0x19cad4(0x200)+'e'](_0x4522f9[_0x19cad4(0x3c1)+'te']))[_0x19cad4(0x3b7)+'nt'](cc[_0x19cad4(0x438)])[_0x19cad4(0x51d)+_0x19cad4(0x621)](_0x197e11[_0x19cad4(0x452)+'in'],_0x197e11['IsPlayerPa'+'ir'],_0x197e11[_0x19cad4(0x4e8)+'ir']),_0x549f48[_0x19cad4(0x240)]=_0x4522f9[_0x19cad4(0x4d9)+'nt'];},this),this[_0x1fab6a(0x611)][_0x1fab6a(0x29d)]=this[_0x1fab6a(0x49d)];}},'clearList':function(){var _0x186f49=_0x1bf737,_0x404819=this,_0xe8a507=this[_0x186f49(0x4d9)+'nt'][_0x186f49(0x2a7)];_0x1105fc[_0x186f49(0x48a)](_0xe8a507[_0x186f49(0x592)],0x0)&&_0xe8a507[_0x186f49(0x2a9)](function(_0x4b7aa2){var _0x43fc64=_0x186f49;_0x404819[_0x43fc64(0x535)][_0x43fc64(0x2d8)](_0x4b7aa2);},this),this['layoutPare'+'nt'][_0x186f49(0x5f5)+'hildren'](!0x0);},'onDestroy':function(){var _0x3c5595=_0x1bf737;try{this[_0x3c5595(0x535)][_0x3c5595(0x4da)]();}catch(_0x4eac1a){}}});continue;case'3':cc['_RF']['push'](_0x271338,_0x352b10['JLuwY'],_0x1bf737(0x13b)+_0x1bf737(0x4b0));continue;case'4':cc['_RF']['pop']();continue;}break;}},{}],'BacaratTopItem':[function(_0x4eeeb5,_0x1e9fb8){'use strict';var _0x4898c7=_0x4efc99,_0x2558c5={'GioEn':'2|3|0|1|4|'+'5','JReeV':function(_0x264dc0,_0x25c1c6){return _0x264dc0<_0x25c1c6;},'mfrzN':function(_0x180d2c,_0x30e02e){return _0x180d2c+_0x30e02e;},'ubJOF':_0x4898c7(0x63b)+'FpJ/3BBqFU'+_0x4898c7(0x548),'powbF':'BacaratTop'+'Item'};cc[_0x4898c7(0x2a8)][_0x4898c7(0x5ae)](_0x1e9fb8,_0x2558c5['ubJOF'],_0x2558c5['powbF']),function(){var _0x1dd731=_0x4898c7;cc[_0x1dd731(0x4c0)+_0x1dd731(0x2b7)]=cc[_0x1dd731(0x3eb)]({'extends':cc['Component'],'properties':{'lbRank':cc[_0x1dd731(0x458)],'lbSID':cc['Label'],'lbNickName':cc[_0x1dd731(0x458)],'lbTotalWin':cc['Label'],'spriteTop':cc[_0x1dd731(0x52b)],'spTop':[cc[_0x1dd731(0x14e)+'e']]},'updateItem':function(_0x45769b,_0x86fd38){var _0x13a4a7=_0x1dd731,_0x4e05a5=_0x2558c5[_0x13a4a7(0x640)][_0x13a4a7(0x625)]('|'),_0x141f71=0x0;while(!![]){switch(_0x4e05a5[_0x141f71++]){case'0':this[_0x13a4a7(0x505)][_0x13a4a7(0x26f)]=_0x45769b[_0x13a4a7(0x3f1)+'e'];continue;case'1':this[_0x13a4a7(0x636)][_0x13a4a7(0x26f)]=cc['Tool']['getInstanc'+'e']()[_0x13a4a7(0x3d4)+'er'](_0x45769b[_0x13a4a7(0x417)]);continue;case'2':_0x2558c5[_0x13a4a7(0x3cc)](_0x86fd38,0x3)?(this[_0x13a4a7(0x3a7)][_0x13a4a7(0x611)][_0x13a4a7(0x29d)]=!0x1,this[_0x13a4a7(0x301)][_0x13a4a7(0x611)][_0x13a4a7(0x29d)]=!0x0,this['spriteTop'][_0x13a4a7(0x53f)+'e']=this[_0x13a4a7(0x64b)][_0x86fd38]):(this[_0x13a4a7(0x3a7)]['node'][_0x13a4a7(0x29d)]=!0x0,this['spriteTop'][_0x13a4a7(0x611)][_0x13a4a7(0x29d)]=!0x1,this[_0x13a4a7(0x3a7)][_0x13a4a7(0x26f)]=_0x2558c5[_0x13a4a7(0x275)](_0x86fd38,0x1));continue;case'3':this['lbSID'][_0x13a4a7(0x26f)]=cc[_0x13a4a7(0x172)][_0x13a4a7(0x484)+'e']()[_0x13a4a7(0x46e)+_0x13a4a7(0x5a4)+'at'](_0x45769b[_0x13a4a7(0x3a1)]);continue;case'4':this['item']=_0x45769b;continue;case'5':this[_0x13a4a7(0x5f7)]=_0x86fd38;continue;}break;}}});}['call'](void 0x0),cc[_0x4898c7(0x2a8)][_0x4898c7(0x56f)]();},{}],'BacaratTopListView':[function(_0x4fde10,_0x1c9a61){'use strict';var _0x3c780e=_0x4efc99,_0x5ecebf={'KTzKB':_0x3c780e(0x271),'mGMPP':_0x3c780e(0x28c),'gFcRN':_0x3c780e(0x23f)+'5','cSbMv':'1|0|3|2|4','RSLFC':_0x3c780e(0x179),'tStPO':function(_0x160867,_0x29954d){return _0x160867+_0x29954d;},'XyZNf':function(_0x12caaf,_0x3a4821){return _0x12caaf<_0x3a4821;},'ZGQuh':'236d6E11Ad'+_0x3c780e(0x269)+_0x3c780e(0x2b5),'eeOwS':_0x3c780e(0x4c0)+'ListView'},_0x2c627b=_0x5ecebf[_0x3c780e(0x2e1)]['split']('|'),_0x6f37c2=0x0;while(!![]){switch(_0x2c627b[_0x6f37c2++]){case'0':var _0x44aca4={'PokVN':function(_0x2de911,_0xf0fad4){return _0x2de911!==_0xf0fad4;},'QiHgV':_0x5ecebf[_0x3c780e(0x5c5)],'xYYLz':function(_0x180bbc,_0x2d8b24){return _0x180bbc>=_0x2d8b24;},'YXsBA':_0x5ecebf[_0x3c780e(0x5a9)],'NaPef':_0x5ecebf[_0x3c780e(0x59d)],'NWClR':_0x5ecebf[_0x3c780e(0x5dd)],'USrGK':function(_0x57fedc,_0x38457c){return _0x57fedc*_0x38457c;},'XFxyG':function(_0x9c51ed,_0x7a7da6){var _0x21c80e=_0x3c780e;return _0x5ecebf[_0x21c80e(0x299)](_0x9c51ed,_0x7a7da6);},'MjlEM':function(_0x58d543,_0x37ce75){return _0x5ecebf['XyZNf'](_0x58d543,_0x37ce75);},'YdpOO':function(_0x4023ff,_0x158e35){var _0x3eb5e4=_0x3c780e;return _0x5ecebf[_0x3eb5e4(0x299)](_0x4023ff,_0x158e35);}};continue;case'1':cc[_0x3c780e(0x2a8)]['pop']();continue;case'2':(function(){var _0x41e770=_0x3c780e,_0xc098c7={'ezosg':function(_0x1017be,_0x170f18){var _0x123139=_0x2ce9;return _0x44aca4[_0x123139(0x498)](_0x1017be,_0x170f18);},'pAHkI':_0x44aca4[_0x41e770(0x3af)],'BZGPY':_0x44aca4[_0x41e770(0x5b8)],'FPfPl':function(_0x3da7ed,_0xc6a1d3){return _0x3da7ed<_0xc6a1d3;},'XRELx':_0x44aca4['NWClR'],'zNOFK':function(_0x13bc0e,_0x1d3b53){var _0x154963=_0x41e770;return _0x44aca4[_0x154963(0x158)](_0x13bc0e,_0x1d3b53);},'zGhpf':function(_0x5a508b,_0x3dc0fb){var _0x3a9659=_0x41e770;return _0x44aca4[_0x3a9659(0x445)](_0x5a508b,_0x3dc0fb);},'ekqlD':function(_0x34225b,_0x388f36){var _0x189d5d=_0x41e770;return _0x44aca4[_0x189d5d(0x57c)](_0x34225b,_0x388f36);},'hjhiu':function(_0x220b51,_0xc23a17){var _0x2d6974=_0x41e770;return _0x44aca4[_0x2d6974(0x158)](_0x220b51,_0xc23a17);},'IdZRY':function(_0x5e0ca8,_0x3dd4bb){var _0x185dcf=_0x41e770;return _0x44aca4[_0x185dcf(0x508)](_0x5e0ca8,_0x3dd4bb);},'JmYpE':function(_0x390b4a,_0x1bc70f){return _0x390b4a-_0x1bc70f;}};cc['BacaratTop'+'ListView']=cc[_0x41e770(0x3eb)]({'extends':cc[_0x41e770(0x2ee)],'properties':{'itemTemplate':cc['Node'],'scrollView':cc[_0x41e770(0x1cf)],'spawnCount':0x0,'spacing':0x0,'bufferZone':0x0},'onLoad':function(){var _0x18e73e=_0x41e770;this['spawnCount']=0xf;if(_0xc098c7[_0x18e73e(0x432)](null,this[_0x18e73e(0x522)])){var _0xa24c28=_0xc098c7[_0x18e73e(0x55d)][_0x18e73e(0x625)]('|'),_0x222764=0x0;while(!![]){switch(_0xa24c28[_0x222764++]){case'0':this[_0x18e73e(0x210)]=this[_0x18e73e(0x522)][_0x18e73e(0x210)];continue;case'1':this[_0x18e73e(0x376)+_0x18e73e(0x60a)]=0x0;continue;case'2':this[_0x18e73e(0x3da)]=[];continue;case'3':this[_0x18e73e(0x379)+_0x18e73e(0x191)]=0.1;continue;case'4':this[_0x18e73e(0x284)+'r']=0x0;continue;case'5':this[_0x18e73e(0x3e2)+'tY']=this['content']['y'];continue;}break;}}},'resetList':function(){var _0x429117=_0x41e770;if(_0x44aca4[_0x429117(0x498)](null,this[_0x429117(0x522)])){var _0x25438e=_0x44aca4[_0x429117(0x1e7)][_0x429117(0x625)]('|'),_0x3f7db1=0x0;while(!![]){switch(_0x25438e[_0x3f7db1++]){case'0':this[_0x429117(0x210)]['y']=this[_0x429117(0x3e2)+'tY'];continue;case'1':for(var _0x333a97=this[_0x429117(0x210)][_0x429117(0x2a7)],_0x587153=_0x333a97['length']-0x1;_0x44aca4[_0x429117(0x607)](_0x587153,0x0);_0x587153--)this[_0x429117(0x210)][_0x429117(0x26a)+'d'](_0x333a97[_0x587153]);continue;case'2':this[_0x429117(0x522)][_0x429117(0x4db)+_0x429117(0x3e5)]();continue;case'3':this[_0x429117(0x3da)]=[];continue;case'4':this[_0x429117(0x210)]=this[_0x429117(0x522)][_0x429117(0x210)];continue;}break;}}},'getPositionInView':function(_0x4380a5){var _0x5ce7ae=_0x41e770,_0xed7ace=_0x4380a5[_0x5ce7ae(0x240)]['convertToW'+_0x5ce7ae(0x36a)+'R'](_0x4380a5['position']);return this['scrollView'][_0x5ce7ae(0x611)][_0x5ce7ae(0x27f)+_0x5ce7ae(0x131)](_0xed7ace);},'initialize':function(_0xc0ee8b){var _0x516420=_0x41e770,_0x100d35=_0xc098c7['BZGPY']['split']('|'),_0x2297fc=0x0;while(!![]){switch(_0x100d35[_0x2297fc++]){case'0':var _0x3e083f=this[_0x516420(0x4fa)]['length'];continue;case'1':this[_0x516420(0x4fa)]=_0xc0ee8b;continue;case'2':for(var _0x1f6601=Math[_0x516420(0x1d0)](this[_0x516420(0x184)],_0x3e083f),_0xdd01d5=0x0;_0xc098c7[_0x516420(0x1a7)](_0xdd01d5,_0x1f6601);++_0xdd01d5){var _0x159ad3=_0xc098c7[_0x516420(0x626)][_0x516420(0x625)]('|'),_0x1244bd=0x0;while(!![]){switch(_0x159ad3[_0x1244bd++]){case'0':var _0xd55c3=cc[_0x516420(0x200)+'e'](this[_0x516420(0x3c1)+'te']);continue;case'1':this[_0x516420(0x210)]['addChild'](_0xd55c3);continue;case'2':_0xd55c3[_0x516420(0x3b7)+'nt'](cc['BacaratTop'+_0x516420(0x2b7)])[_0x516420(0x2a4)](this[_0x516420(0x4fa)][_0xdd01d5],_0xdd01d5);continue;case'3':this[_0x516420(0x3da)]['push'](_0xd55c3);continue;case'4':_0xd55c3['setPositio'+'n'](0x0,_0xc098c7[_0x516420(0x47e)](-_0xd55c3[_0x516420(0x2f6)],0.5+_0xdd01d5)-_0xc098c7[_0x516420(0x47e)](this[_0x516420(0x11f)],_0xc098c7[_0x516420(0x4c3)](_0xdd01d5,0x1)));continue;}break;}}continue;case'3':this[_0x516420(0x210)][_0x516420(0x2f6)]=_0xc098c7['zGhpf'](_0x3e083f*(this[_0x516420(0x3c1)+'te'][_0x516420(0x2f6)]+this[_0x516420(0x11f)]),this[_0x516420(0x11f)]);continue;case'4':this[_0x516420(0x3e2)+'tY']=this[_0x516420(0x210)]['y'];continue;}break;}},'update':function(_0x3e5b3e){var _0x5951d5=_0x41e770;this[_0x5951d5(0x284)+'r']+=_0x3e5b3e;if(!_0xc098c7['ekqlD'](this['updateTime'+'r'],this[_0x5951d5(0x379)+_0x5951d5(0x191)])){this[_0x5951d5(0x284)+'r']=0x0;for(var _0x58205c=this['items'],_0x101663=this[_0x5951d5(0x399)],_0x2f582a=_0xc098c7[_0x5951d5(0x1a7)](this[_0x5951d5(0x522)][_0x5951d5(0x210)]['y'],this[_0x5951d5(0x376)+_0x5951d5(0x60a)]),_0x52c767=_0xc098c7[_0x5951d5(0x4e5)](this[_0x5951d5(0x3c1)+'te'][_0x5951d5(0x2f6)]+this[_0x5951d5(0x11f)],_0x58205c[_0x5951d5(0x592)]),_0x2f9a21=0x0;_0xc098c7[_0x5951d5(0x1a7)](_0x2f9a21,_0x58205c[_0x5951d5(0x592)]);++_0x2f9a21){var _0x3ec998=this[_0x5951d5(0x356)+_0x5951d5(0x372)](_0x58205c[_0x2f9a21]);if(_0x2f582a){if(_0xc098c7[_0x5951d5(0x579)](_0x3ec998['y'],-_0x101663)&&_0xc098c7['IdZRY'](_0x58205c[_0x2f9a21]['y'],_0x52c767)<0x0){_0x58205c[_0x2f9a21]['y']=_0xc098c7['IdZRY'](_0x58205c[_0x2f9a21]['y'],_0x52c767);var _0x9ba728=_0x58205c[_0x2f9a21][_0x5951d5(0x3b7)+'nt'](cc[_0x5951d5(0x4c0)+'Item']),_0xa9a164=_0x9ba728[_0x5951d5(0x5f7)]-_0x58205c['length'];_0x9ba728[_0x5951d5(0x2a4)](this['messages'][_0xa9a164],_0xa9a164);}}else _0x3ec998['y']>_0x101663&&_0x58205c[_0x2f9a21]['y']-_0x52c767>-this[_0x5951d5(0x210)][_0x5951d5(0x2f6)]&&(_0x58205c[_0x2f9a21]['y']=_0xc098c7[_0x5951d5(0x3ca)](_0x58205c[_0x2f9a21]['y'],_0x52c767),_0xa9a164=_0xc098c7['zGhpf']((_0x9ba728=_0x58205c[_0x2f9a21][_0x5951d5(0x3b7)+'nt'](cc['BacaratTop'+_0x5951d5(0x2b7)]))['itemID'],_0x58205c[_0x5951d5(0x592)]),_0x9ba728['updateItem'](this[_0x5951d5(0x4fa)][_0xa9a164],_0xa9a164));}this[_0x5951d5(0x376)+_0x5951d5(0x60a)]=this['scrollView'][_0x5951d5(0x210)]['y'];}}});}[_0x3c780e(0x314)](void 0x0));continue;case'3':cc[_0x3c780e(0x2a8)][_0x3c780e(0x5ae)](_0x1c9a61,_0x5ecebf[_0x3c780e(0x53c)],_0x5ecebf['eeOwS']);continue;case'4':continue;}break;}},{}],'BacaratTopView':[function(_0xab62c0,_0xe09e0e){'use strict';var _0x154e48=_0x4efc99,_0x51eeca={'uSdWX':_0x154e48(0x41e),'pyLCq':_0x154e48(0x46a),'gniJX':function(_0x5565a6,_0x1260bb){return _0x5565a6>_0x1260bb;},'wwfye':_0x154e48(0x4b5)+'I2LGvFsTPV'+_0x154e48(0x310)},_0xc0a3ff=_0x51eeca[_0x154e48(0x4e7)][_0x154e48(0x625)]('|'),_0x2543a1=0x0;while(!![]){switch(_0xc0a3ff[_0x2543a1++]){case'0':var _0x5a8289={'qdCZk':_0x51eeca[_0x154e48(0x409)],'TwFln':function(_0x48d686,_0x92f5a6){var _0x4e7c04=_0x154e48;return _0x51eeca[_0x4e7c04(0x3ff)](_0x48d686,_0x92f5a6);}};continue;case'1':cc['_RF']['pop']();continue;case'2':(function(){var _0x246747=_0x154e48,_0x9f4309={'iqxLc':_0x5a8289[_0x246747(0x36e)],'Tjfpo':function(_0x4117df,_0x5ee64f){return _0x4117df!==_0x5ee64f;},'MuNTR':function(_0x178d5d,_0x5b2a80){var _0x51909a=_0x246747;return _0x5a8289[_0x51909a(0x259)](_0x178d5d,_0x5b2a80);},'JxNte':_0x246747(0x552)};cc[_0x246747(0x4c0)+_0x246747(0x151)]=cc['Class']({'extends':cc['Component'],'properties':{'topListView':cc[_0x246747(0x4c0)+'ListView']},'onLoad':function(){var _0x44d0fb=_0x246747;this[_0x44d0fb(0x549)]=this[_0x44d0fb(0x611)][_0x44d0fb(0x3b7)+'nt'](cc[_0x44d0fb(0x4cc)]);},'onEnable':function(){var _0x11de11=_0x246747,_0x57dbb6=this;cc[_0x11de11(0x469)][_0x11de11(0x614)+'er']()[_0x11de11(0x35e)](function(){var _0x47a1cf=_0x11de11;_0x57dbb6[_0x47a1cf(0x5f8)+_0x47a1cf(0x503)]();},this,0x1,0x0,0.2,!0x1),this[_0x11de11(0x549)][_0x11de11(0x154)](_0x9f4309[_0x11de11(0x518)]);},'getTopSessionWinners':function(){var _0x4bcf70=_0x246747;new cc[(_0x4bcf70(0x2fc))+'nerCommand']()['execute'](this);},'onGetBigWinnerResponse':function(_0x6725fb){var _0x102127=_0x246747,_0x18c403=_0x6725fb;_0x9f4309[_0x102127(0x234)](null,_0x18c403)&&_0x9f4309[_0x102127(0x148)](_0x18c403[_0x102127(0x592)],0x0)&&(this[_0x102127(0x2cd)+'w'][_0x102127(0x49c)](),this['topListVie'+'w'][_0x102127(0x644)](_0x18c403));},'closeClicked':function(){var _0x1fda7f=_0x246747;this['topListVie'+'w'][_0x1fda7f(0x49c)](),this[_0x1fda7f(0x549)][_0x1fda7f(0x154)](_0x9f4309[_0x1fda7f(0x571)]);var _0x321251=this;cc[_0x1fda7f(0x469)][_0x1fda7f(0x614)+'er']()[_0x1fda7f(0x35e)](function(){var _0x57c3a6=_0x1fda7f;_0x321251['animation'][_0x57c3a6(0x23e)](),cc[_0x57c3a6(0x45c)+_0x57c3a6(0x23a)+'er'][_0x57c3a6(0x484)+'e']()[_0x57c3a6(0x189)+_0x57c3a6(0x151)]();},this,0x1,0x0,0.12,!0x1);}});}[_0x154e48(0x314)](void 0x0));continue;case'3':continue;case'4':cc[_0x154e48(0x2a8)]['push'](_0xe09e0e,_0x51eeca['wwfye'],_0x154e48(0x4c0)+_0x154e48(0x151));continue;}break;}},{}],'BacaratView':[function(_0x4709a2,_0x3b844f){'use strict';var _0x12a6ce=_0x4efc99,_0x784a3b={'xLmsv':'0|3|2|4|5|'+'1','IefNM':function(_0x457f93,_0x1f20ff){return _0x457f93+_0x1f20ff;},'zdkTW':'https://ba'+_0x12a6ce(0x214),'MJGAh':_0x12a6ce(0x157)+_0x12a6ce(0x46b),'igxce':'http://18.'+'138.207.16'+_0x12a6ce(0x44e)+_0x12a6ce(0x43a)+_0x12a6ce(0x228),'bSQuQ':_0x12a6ce(0x3e8)+_0x12a6ce(0x43c),'MIAQN':_0x12a6ce(0x5e6),'RIsmD':_0x12a6ce(0x1ae),'DFYmm':_0x12a6ce(0x187),'ieTwT':_0x12a6ce(0x31d),'geAOR':'RegisterLe'+_0x12a6ce(0x4b7),'tAGcV':_0x12a6ce(0x340)+'LeaveRoom','Cvsqj':_0x12a6ce(0x580),'gWfPa':_0x12a6ce(0x171)+'cess\x20====='+_0x12a6ce(0x3bc),'lJlIn':function(_0x19bc5a,_0x47a4ab){return _0x19bc5a-_0x47a4ab;},'NHBLT':_0x12a6ce(0x3cb),'XPsMq':_0x12a6ce(0x27d)+_0x12a6ce(0x57e),'lAAmj':function(_0x3d8f6a,_0x441087){return _0x3d8f6a>_0x441087;},'UmcaH':_0x12a6ce(0x1d7),'uHRJa':function(_0x593f6c,_0x3e3d49){return _0x593f6c==_0x3e3d49;},'Hbcia':_0x12a6ce(0x3f7),'qVQtH':_0x12a6ce(0x60c)+'w','YmNky':function(_0x262398,_0x3b7fba){return _0x262398(_0x3b7fba);},'cWQJZ':_0x12a6ce(0x3ba)};cc[_0x12a6ce(0x2a8)][_0x12a6ce(0x5ae)](_0x3b844f,_0x12a6ce(0x441)+_0x12a6ce(0x1e5)+_0x12a6ce(0x430),_0x784a3b['qVQtH']);var _0x50f40c=_0x784a3b[_0x12a6ce(0x4bf)](_0x4709a2,_0x784a3b['cWQJZ']);(function(){var _0x3227c9=_0x12a6ce,_0x111526={'knUsL':_0x784a3b[_0x3227c9(0x435)],'dfXkD':_0x784a3b[_0x3227c9(0x61b)],'QNOCl':_0x3227c9(0x19d)+_0x3227c9(0x504),'JwwJs':'error','nTTyB':function(_0x46799a,_0x1ede66){return _0x784a3b['lAAmj'](_0x46799a,_0x1ede66);},'esqDS':_0x784a3b['UmcaH'],'LttOy':function(_0x2e4365,_0x5b74ec){var _0x1d6377=_0x3227c9;return _0x784a3b[_0x1d6377(0x2ce)](_0x2e4365,_0x5b74ec);},'nFMLU':'reconnect','lvSKC':function(_0x404055,_0x2b13ed){return _0x404055!==_0x2b13ed;},'RUCqr':_0x784a3b[_0x3227c9(0x120)]};cc['BacaratVie'+'w']=cc[_0x3227c9(0x3eb)]({'extends':cc[_0x3227c9(0x2ee)],'properties':{'nodeSoiCau':cc[_0x3227c9(0x4d4)],'avatarDef':cc[_0x3227c9(0x14e)+'e'],'listAvtars':[cc[_0x3227c9(0x14e)+'e']]},'onLoad':function(){var _0x3e414a=_0x3227c9;cc['Bacarat2Co'+_0x3e414a(0x590)][_0x3e414a(0x484)+'e']()[_0x3e414a(0x3fb)+_0x3e414a(0x151)](this),cc['Bacarat2Co'+_0x3e414a(0x590)][_0x3e414a(0x484)+'e']()[_0x3e414a(0x433)](),cc[_0x3e414a(0x285)+'ntroller'][_0x3e414a(0x484)+'e']()['setBetLogS'+_0x3e414a(0x126)](0x1),cc[_0x3e414a(0x285)+'ntroller'][_0x3e414a(0x484)+'e']()[_0x3e414a(0x2fe)+'ef'](this[_0x3e414a(0x182)]),cc[_0x3e414a(0x285)+_0x3e414a(0x590)][_0x3e414a(0x484)+'e']()[_0x3e414a(0x2b6)](this[_0x3e414a(0x245)]),this[_0x3e414a(0x639)+_0x3e414a(0x649)]=cc[_0x3e414a(0x27b)+_0x3e414a(0x649)]['BACCARAT'],this['interval']=null,this[_0x3e414a(0x422)+'at']=!0x1,this[_0x3e414a(0x16a)+'connect']=new Date()[_0x3e414a(0x34e)](),this[_0x3e414a(0x43f)+'te']=-0x1,this[_0x3e414a(0x525)+_0x3e414a(0x375)]=-0x1,this['viewSoiCau']=!0x1,this[_0x3e414a(0x5ed)+_0x3e414a(0x4cc)]=this['nodeSoiCau'][_0x3e414a(0x3b7)+'nt'](cc[_0x3e414a(0x4cc)]),this[_0x3e414a(0x2d0)]=0x0,this['currAccId']=null,this[_0x3e414a(0x3c9)]();},'onEnable':function(){},'updateBalance':function(){},'onDestroy':function(){var _0x4d0016=_0x3227c9,_0x3ee7bb=_0x111526['knUsL'][_0x4d0016(0x625)]('|'),_0x318f68=0x0;while(!![]){switch(_0x3ee7bb[_0x318f68++]){case'0':this[_0x4d0016(0x59c)+'tOnHub'](cc[_0x4d0016(0x35c)+_0x4d0016(0x649)][_0x4d0016(0x1f7)]);continue;case'1':cc[_0x4d0016(0x285)+_0x4d0016(0x590)]['getInstanc'+'e']()['setBacarat'+_0x4d0016(0x151)](null);continue;case'2':lngui['UIWaitingL'+_0x4d0016(0x5cd)]['hideWaitin'+'g']();continue;case'3':cc['sys'][_0x4d0016(0x348)]&&(cc['loader'][_0x4d0016(0x3e6)+_0x4d0016(0x47a)](_0x111526['dfXkD']),cc[_0x4d0016(0x237)][_0x4d0016(0x3e6)+_0x4d0016(0x47a)](_0x111526[_0x4d0016(0x4ea)]));continue;case'4':this[_0x4d0016(0x178)+_0x4d0016(0x143)+'ks']();continue;}break;}},'disconnectAndLogout':function(){var _0x2f7616=_0x3227c9;this['BacaratHub']&&this[_0x2f7616(0x563)]['disconnect'](),this[_0x2f7616(0x16a)+_0x2f7616(0x1b6)]=new Date()['getTime']();},'connectHub':function(){var _0x3b1119=_0x3227c9,_0x433ac0=_0x784a3b[_0x3b1119(0x610)][_0x3b1119(0x625)]('|'),_0x4f32ff=0x0;while(!![]){switch(_0x433ac0[_0x4f32ff++]){case'0':var _0x54c114={'url':_0x784a3b[_0x3b1119(0x39e)](_0x784a3b[_0x3b1119(0x324)],lngui[_0x3b1119(0x39d)+_0x3b1119(0x251)][_0x3b1119(0x453)]['ConfigInfo'][_0x3b1119(0x268)])+_0x784a3b[_0x3b1119(0x5fa)],'hub':'baccaratHu'+'b','gate':lngui[_0x3b1119(0x39d)+'ger'][_0x3b1119(0x453)][_0x3b1119(0x468)][_0x3b1119(0x478)],'ip':_0x784a3b['igxce']};continue;case'1':lngui[_0x3b1119(0x4f9)+_0x3b1119(0x459)]['pushSignal'+'R'](this['mSignalr']);continue;case'2':cc[_0x3b1119(0x273)+'t']['on'](_0x784a3b['bSQuQ'],this['onResponeD'+_0x3b1119(0x134)],this);continue;case'3':cc[_0x3b1119(0x273)+'t'][_0x3b1119(0x4ff)](_0x3b1119(0x3e8)+'WebSocKet',this['onResponeD'+_0x3b1119(0x134)],this);continue;case'4':this[_0x3b1119(0x1b4)+'b']=new lngui[(_0x3b1119(0x249))+'R']();continue;case'5':this['BaccaratHu'+'b']['connect'](_0x784a3b[_0x3b1119(0x374)],_0x54c114[_0x3b1119(0x16e)],_0x54c114['hub'],_0x54c114[_0x3b1119(0x2c9)],lngui[_0x3b1119(0x5fb)+'r'][_0x3b1119(0x453)][_0x3b1119(0x615)+'fo']['cookie'],!0x1);continue;}break;}},'sendRequestOnHub':function(_0x1afdc2,_0x25c89a,_0x444f21){var _0x282655=_0x3227c9;switch(_0x1afdc2){case cc[_0x282655(0x35c)+_0x282655(0x649)][_0x282655(0x2f7)+'Y']:this[_0x282655(0x440)+'R']('EnterLobby',[0x4,0x1]),this['sendSignal'+'R'](_0x784a3b[_0x282655(0x3c6)],[]);break;case cc[_0x282655(0x35c)+_0x282655(0x649)][_0x282655(0x1f7)]:this['sendSignal'+'R'](_0x784a3b[_0x282655(0x355)],[]);break;case cc[_0x282655(0x35c)+_0x282655(0x649)][_0x282655(0x3b3)]:this[_0x282655(0x440)+'R'](_0x784a3b[_0x282655(0x3c6)],[]);break;case cc[_0x282655(0x35c)+_0x282655(0x649)][_0x282655(0x15b)]:console['log'](_0x784a3b[_0x282655(0x421)]),this[_0x282655(0x440)+'R'](_0x784a3b[_0x282655(0x64d)],[_0x25c89a,_0x444f21]);break;case cc[_0x282655(0x35c)+_0x282655(0x649)][_0x282655(0x5e1)+_0x282655(0x20c)]:this[_0x282655(0x440)+'R'](_0x784a3b['geAOR'],[]);break;case cc[_0x282655(0x35c)+_0x282655(0x649)][_0x282655(0x3d8)+_0x282655(0x4a5)+'M']:this['sendSignal'+'R'](_0x784a3b[_0x282655(0x5df)],[]);break;case cc[_0x282655(0x35c)+_0x282655(0x649)][_0x282655(0x39b)+'GE']:this[_0x282655(0x464)][_0x282655(0x5b5)+_0x282655(0x558)](_0x25c89a);}},'sendSignalR':function(_0x4f5b0d,_0x10f560){var _0x5f48b0=_0x3227c9;lngui[_0x5f48b0(0x13f)][_0x5f48b0(0x4e1)](_0x784a3b[_0x5f48b0(0x39e)](_0x784a3b[_0x5f48b0(0x39e)](_0x5f48b0(0x5ce)+'=========='+'=========='+_0x5f48b0(0x1d1),_0x4f5b0d),_0x784a3b['Cvsqj'])+JSON[_0x5f48b0(0x4ae)](_0x10f560)),_0x10f560=_0x10f560||[],this['BaccaratHu'+'b']&&this[_0x5f48b0(0x1b4)+'b'][_0x5f48b0(0x556)](_0x4f5b0d,_0x10f560);},'onResponeData':function(_0x2993e3){var _0x25ff8a=_0x3227c9;_0x2993e3['s']&&_0x111526['JwwJs']==_0x2993e3['s']||this[_0x25ff8a(0x2cc)+'ge'](_0x2993e3);},'connectSuccess':function(){var _0x2b7b4b=_0x3227c9;console[_0x2b7b4b(0x4e1)](_0x784a3b['gWfPa']),this[_0x2b7b4b(0x59c)+_0x2b7b4b(0x25f)](cc[_0x2b7b4b(0x35c)+_0x2b7b4b(0x649)][_0x2b7b4b(0x2f7)+'Y']),lngui[_0x2b7b4b(0x542)+_0x2b7b4b(0x5cd)][_0x2b7b4b(0x24a)+'g']();},'onHubMessage':function(_0x4865f7){var _0x14e906=_0x3227c9,_0x148f04={'ZPUBw':function(_0x26bc28,_0x2d1526){return _0x111526['nTTyB'](_0x26bc28,_0x2d1526);},'IaIuy':function(_0x7de69e,_0x4a6e32){return _0x7de69e!=_0x4a6e32;}},_0xee9216=this;(_0x111526[_0x14e906(0x3d9)]==_0x4865f7['s']||_0x111526['LttOy'](_0x111526[_0x14e906(0x12d)],_0x4865f7['s'])||_0x111526[_0x14e906(0x15a)]('1',_0x4865f7['s']))&&!this[_0x14e906(0x360)]&&(this[_0x14e906(0x360)]=!0x0,this['connectSuc'+_0x14e906(0x298)]());if(_0x111526['lvSKC'](void 0x0,_0x4865f7['M'])&&_0x111526['nTTyB'](_0x4865f7['M'][_0x14e906(0x592)],0x0))_0x4865f7['M'][_0x14e906(0x2a9)](function(_0xe3058d){var _0x1520b4=_0x14e906;switch(_0xe3058d['M']){case cc[_0x1520b4(0x244)+_0x1520b4(0x4ef)]['PLAYER_LEA'+'VE']:_0xee9216[_0x1520b4(0x380)+'e'](_0xe3058d['A']);break;case cc[_0x1520b4(0x244)+_0x1520b4(0x4ef)][_0x1520b4(0x612)+'FO']:cc[_0x1520b4(0x285)+_0x1520b4(0x590)][_0x1520b4(0x484)+'e']()[_0x1520b4(0x351)+_0x1520b4(0x21e)](_0xe3058d['A'][0x0]),cc[_0x1520b4(0x285)+'ntroller'][_0x1520b4(0x484)+'e']()['updateTota'+_0x1520b4(0x22f)](_0xe3058d['A'][0x0]);break;case cc['MethodHubO'+_0x1520b4(0x4ef)][_0x1520b4(0x46f)+_0x1520b4(0x5b7)]:cc[_0x1520b4(0x285)+_0x1520b4(0x590)]['getInstanc'+'e']()[_0x1520b4(0x2e2)+'ersInGame'](_0xe3058d['A'][0x0]);break;case cc[_0x1520b4(0x244)+_0x1520b4(0x4ef)][_0x1520b4(0x564)]:cc[_0x1520b4(0x285)+'ntroller']['getInstanc'+'e']()['updatePlay'+_0x1520b4(0x61a)](_0xe3058d['A'][0x0]);break;case cc[_0x1520b4(0x244)+_0x1520b4(0x4ef)]['VIP_PLAYER'+'S']:var _0x12ac4c=_0xe3058d['A'][0x0];_0x148f04[_0x1520b4(0x3f0)](_0x12ac4c[_0x1520b4(0x592)],0x0)&&cc[_0x1520b4(0x285)+_0x1520b4(0x590)][_0x1520b4(0x484)+'e']()[_0x1520b4(0x2e2)+_0x1520b4(0x32c)](_0x12ac4c);break;case cc[_0x1520b4(0x244)+_0x1520b4(0x4ef)]['GAME_HISTO'+'RY']:cc[_0x1520b4(0x285)+_0x1520b4(0x590)]['getInstanc'+'e']()[_0x1520b4(0x23c)+_0x1520b4(0x5fe)](_0xe3058d['A'][0x0]),cc['Bacarat2Co'+_0x1520b4(0x590)][_0x1520b4(0x484)+'e']()[_0x1520b4(0x3e1)+'tCau'](_0xe3058d['A'][0x0]);break;case cc[_0x1520b4(0x244)+_0x1520b4(0x4ef)][_0x1520b4(0x5c7)+_0x1520b4(0x631)]:cc[_0x1520b4(0x285)+_0x1520b4(0x590)][_0x1520b4(0x484)+'e']()[_0x1520b4(0x63d)+_0x1520b4(0x5ec)](_0xe3058d['A'][0x0]);break;case cc[_0x1520b4(0x244)+'nName'][_0x1520b4(0x477)+'S']:var _0x3e546a=cc[_0x1520b4(0x285)+_0x1520b4(0x590)][_0x1520b4(0x484)+'e']()[_0x1520b4(0x30a)+_0x1520b4(0x126)]();cc[_0x1520b4(0x285)+_0x1520b4(0x590)]['getInstanc'+'e']()[_0x1520b4(0x3ef)]({'sessionID':_0x3e546a,'value':_0xe3058d['A'][0x0][_0x1520b4(0x1dc)],'betSide':_0xe3058d['A'][0x0][_0x1520b4(0x2fd)]}),cc[_0x1520b4(0x285)+_0x1520b4(0x590)][_0x1520b4(0x484)+'e']()[_0x1520b4(0x5b1)+_0x1520b4(0x185)+_0x1520b4(0x482)](_0xe3058d['A'][0x1]),cc[_0x1520b4(0x285)+'ntroller'][_0x1520b4(0x484)+'e']()[_0x1520b4(0x4fe)+'lUserBetSi'+'de'](_0xe3058d['A'][0x0]['BetSide'],_0xe3058d['A'][0x0][_0x1520b4(0x224)]),cc[_0x1520b4(0x285)+_0x1520b4(0x590)][_0x1520b4(0x484)+'e']()[_0x1520b4(0x315)+'t'](_0xe3058d['A'][0x0][_0x1520b4(0x1dc)],_0xe3058d['A'][0x0][_0x1520b4(0x2fd)],cc[_0x1520b4(0x24c)+_0x1520b4(0x4b2)][_0x1520b4(0x3c7)],_0xe3058d['A'][0x0]['AccountID']);break;case cc[_0x1520b4(0x244)+_0x1520b4(0x4ef)][_0x1520b4(0x533)+'N']:cc['Bacarat2Co'+'ntroller']['getInstanc'+'e']()[_0x1520b4(0x3f2)+'ForBetSess'+_0x1520b4(0x1e8)](_0xe3058d['A'][0x0]);break;case cc['MethodHubO'+_0x1520b4(0x4ef)]['BET_USER']:_0x148f04['IaIuy'](_0xe3058d['A'][0x0],lngui['UserManage'+'r'][_0x1520b4(0x453)][_0x1520b4(0x615)+'fo'][_0x1520b4(0x540)])&&(cc[_0x1520b4(0x285)+_0x1520b4(0x590)][_0x1520b4(0x484)+'e']()['updateBala'+_0x1520b4(0x173)](_0xe3058d['A']),cc['Bacarat2Co'+_0x1520b4(0x590)]['getInstanc'+'e']()[_0x1520b4(0x315)+'t'](_0xe3058d['A'][0x1],_0xe3058d['A'][0x2],cc[_0x1520b4(0x24c)+_0x1520b4(0x4b2)][_0x1520b4(0x5e2)],_0xe3058d['A'][0x0]));break;case cc[_0x1520b4(0x244)+_0x1520b4(0x4ef)][_0x1520b4(0x437)]:cc['Bacarat2Co'+_0x1520b4(0x590)]['getInstanc'+'e']()[_0x1520b4(0x165)+'lt'](_0xe3058d['A'][0x0]),cc[_0x1520b4(0x285)+'ntroller'][_0x1520b4(0x484)+'e']()[_0x1520b4(0x4bc)+_0x1520b4(0x28f)](_0xe3058d['A'][0x0][_0x1520b4(0x28f)]);break;case cc[_0x1520b4(0x244)+_0x1520b4(0x4ef)][_0x1520b4(0x437)+_0x1520b4(0x322)]:_0xe3058d['A']['length']>0x0&&cc[_0x1520b4(0x285)+_0x1520b4(0x590)][_0x1520b4(0x484)+'e']()[_0x1520b4(0x545)+_0x1520b4(0x329)](_0xe3058d['A'][0x0]);break;case cc[_0x1520b4(0x244)+_0x1520b4(0x4ef)][_0x1520b4(0x22a)+_0x1520b4(0x2f9)]:cc['PopupContr'+_0x1520b4(0x279)][_0x1520b4(0x484)+'e']()[_0x1520b4(0x5c4)+'e'](_0xe3058d['A'][0x0]);break;case cc['MethodHubO'+'nName'][_0x1520b4(0x4ba)]:cc[_0x1520b4(0x361)]['isPaused']()||cc[_0x1520b4(0x369)+_0x1520b4(0x279)][_0x1520b4(0x484)+'e']()['showMessag'+'e'](_0xe3058d['A'][0x0]);break;case cc[_0x1520b4(0x244)+'nName']['RECEIVE_ME'+'SSAGE']:cc[_0x1520b4(0x1c5)+_0x1520b4(0x590)][_0x1520b4(0x484)+'e']()['addChatCon'+'tent'](_0xe3058d['A']),cc[_0x1520b4(0x285)+_0x1520b4(0x590)]['getInstanc'+'e']()[_0x1520b4(0x204)+'BubbleChat'](_0xe3058d['A']);}});else{if(_0x4865f7['R']&&_0x4865f7['R']['AccountID'])this[_0x14e906(0x42d)]=_0x4865f7['R'][_0x14e906(0x540)],this[_0x14e906(0x59c)+'tOnHub'](cc[_0x14e906(0x35c)+'ame'][_0x14e906(0x3b3)]),cc[_0x14e906(0x369)+_0x14e906(0x279)][_0x14e906(0x484)+'e']()[_0x14e906(0x2df)]();else _0x4865f7['I'];}},'onHubOpen':function(){var _0x4f119e=_0x3227c9;cc[_0x4f119e(0x369)+_0x4f119e(0x279)][_0x4f119e(0x484)+'e']()[_0x4f119e(0x2df)](),this['sendReques'+'tOnHub'](cc['MethodHubN'+_0x4f119e(0x649)][_0x4f119e(0x2f7)+'Y']),cc[_0x4f119e(0x369)+_0x4f119e(0x279)][_0x4f119e(0x484)+'e']()[_0x4f119e(0x3ad)]();},'onHubClose':function(){var _0x22d91c=_0x3227c9;_0x784a3b[_0x22d91c(0x159)](new Date()[_0x22d91c(0x34e)](),this[_0x22d91c(0x16a)+'connect'])>=0x3e8*_0x50f40c['RECONNECT_'+_0x22d91c(0x3b1)]?this[_0x22d91c(0x5a2)]():cc[_0x22d91c(0x469)][_0x22d91c(0x614)+'er']()[_0x22d91c(0x35e)](this[_0x22d91c(0x5a2)],this,_0x50f40c[_0x22d91c(0x4f2)+_0x22d91c(0x3b1)],0x0,0x0,!0x1);},'onHubError':function(){},'backClicked':function(){var _0x765546=_0x3227c9;lngui[_0x765546(0x164)+_0x765546(0x2d2)]['instance'][_0x765546(0x219)+_0x765546(0x5f4)]();},'helpClicked':function(){var _0x5cc866=_0x3227c9;cc[_0x5cc866(0x20b)+_0x5cc866(0x448)][_0x5cc866(0x484)+'e']()[_0x5cc866(0x3f3)+_0x5cc866(0x151)]();},'playerLeave':function(_0x5d0225){var _0xb31a5e=_0x3227c9;if(_0x5d0225[0x0]===lngui[_0xb31a5e(0x5fb)+'r'][_0xb31a5e(0x453)]['mainUserIn'+'fo']['AccountID']){var _0x37c367=_0x5d0225[0x1];this['backClicke'+'d'](),cc[_0xb31a5e(0x369)+'oller'][_0xb31a5e(0x484)+'e']()['showMessag'+'e'](_0x37c367);}},'onViewSoiCauClick':function(){var _0x41bc02=_0x3227c9;this[_0x41bc02(0x5fc)]=!this[_0x41bc02(0x5fc)],this[_0x41bc02(0x5fc)]?this[_0x41bc02(0x5ed)+'Animation']['play'](_0x111526[_0x41bc02(0x15e)]):this[_0x41bc02(0x5ed)+'Animation']['play']('up');},'chatClicked':function(){var _0x1101cc=_0x3227c9;cc[_0x1101cc(0x1c5)+_0x1101cc(0x590)]['getInstanc'+'e']()[_0x1101cc(0x555)]();}});}[_0x12a6ce(0x314)](void 0x0),cc['_RF'][_0x12a6ce(0x56f)]());},{'NetConfig':void 0x0}],'Bacarat_Card':[function(_0x25d24e,_0x5a05b6){'use strict';var _0x41f49d=_0x4efc99,_0x2d32b7={'cYZyU':_0x41f49d(0x4ee)+_0x41f49d(0x21b)+_0x41f49d(0x609)};cc[_0x41f49d(0x2a8)][_0x41f49d(0x5ae)](_0x5a05b6,_0x2d32b7[_0x41f49d(0x246)],_0x41f49d(0x34a)+'rd'),function(){var _0x134622=_0x41f49d;cc[_0x134622(0x34a)+'rd']={'BICH':0x0,'TEP':0xd,'RO':0x1a,'CO':0x27};}[_0x41f49d(0x314)](void 0x0),cc[_0x41f49d(0x2a8)]['pop']();},{}],'Bacarat_GroupUserCommand':[function(_0x5b13d2,_0xd16cd0){'use strict';var _0x20c1b7=_0x4efc99,_0x58c624={'DdPoq':'3349dt9x05'+_0x20c1b7(0x45b)+'ws6','QpXXj':_0x20c1b7(0x4d2)+_0x20c1b7(0x569)+_0x20c1b7(0x575)};cc[_0x20c1b7(0x2a8)][_0x20c1b7(0x5ae)](_0xd16cd0,_0x58c624['DdPoq'],_0x58c624[_0x20c1b7(0x481)]),function(){var _0x38bd86=_0x20c1b7,_0x399912;_0x399912=(function(){function _0x2b6c4c(){}return _0x2b6c4c['prototype']['execute']=function(_0x4a2ae2){var _0x5b8234=_0x2ce9,_0x159dca=cc[_0x5b8234(0x27b)+'ame'][_0x5b8234(0x28a)];return cc[_0x5b8234(0x3ee)+'ector'][_0x5b8234(0x484)+'e']()[_0x5b8234(0x59c)+'t'](_0x159dca,_0x5b8234(0x3d7)+_0x5b8234(0x38c)+'ersNotInGa'+'me',function(_0x2239f5){var _0x5bb746=_0x5b8234,_0x204d06=JSON[_0x5bb746(0x2bd)](_0x2239f5);return _0x4a2ae2['onGetGroup'+'UserRespon'+'se'](_0x204d06);});},_0x2b6c4c;}()),cc[_0x38bd86(0x20e)+_0x38bd86(0x5be)+'and']=_0x399912;}[_0x20c1b7(0x314)](void 0x0),cc[_0x20c1b7(0x2a8)]['pop']();},{}],'Bacarat_HistoryCommand':[function(_0x2ff154,_0x478ba3){'use strict';var _0x470eaf=_0x4efc99,_0x10138d={'JqSLK':_0x470eaf(0x41c)+'Ed62mdVTCr'+_0x470eaf(0x532),'WVfVk':'Bacarat_Hi'+_0x470eaf(0x3df)+'nd'};cc['_RF'][_0x470eaf(0x5ae)](_0x478ba3,_0x10138d[_0x470eaf(0x3b4)],_0x10138d['WVfVk']),function(){var _0xcdd483=_0x470eaf,_0x4abc81;_0x4abc81=(function(){var _0x366f34=_0x2ce9;function _0x36a2d0(){}return _0x36a2d0['prototype'][_0x366f34(0x236)]=function(_0x194d7c){var _0x545bbd=_0x366f34,_0x373c2d=cc[_0x545bbd(0x27b)+_0x545bbd(0x649)][_0x545bbd(0x28a)];return cc['ServerConn'+_0x545bbd(0x597)][_0x545bbd(0x484)+'e']()[_0x545bbd(0x59c)+'t'](_0x373c2d,_0x545bbd(0x3d7)+_0x545bbd(0x431)+'ory?top=50',function(_0x57ec5f){var _0x30d9ba=_0x545bbd,_0x17b21b=JSON[_0x30d9ba(0x2bd)](_0x57ec5f);return _0x194d7c[_0x30d9ba(0x34b)+_0x30d9ba(0x4aa)](_0x17b21b);});},_0x36a2d0;}()),cc[_0xcdd483(0x144)+_0xcdd483(0x24b)+'d']=_0x4abc81;}[_0x470eaf(0x314)](void 0x0),cc[_0x470eaf(0x2a8)][_0x470eaf(0x56f)]();},{}],'Bacarat_SoiCauCommand':[function(_0x446888,_0x562b29){'use strict';var _0x5c369d=_0x4efc99,_0x2710d6={'IqUtb':_0x5c369d(0x3d7)+_0x5c369d(0x4eb)+'au','npHYn':'83a56r72JR'+'NM5fVKOWSG'+_0x5c369d(0x562),'wqDoA':_0x5c369d(0x59a)+_0x5c369d(0x628)+'d'};cc[_0x5c369d(0x2a8)][_0x5c369d(0x5ae)](_0x562b29,_0x2710d6[_0x5c369d(0x509)],_0x2710d6[_0x5c369d(0x188)]),function(){var _0x246d5c=_0x5c369d,_0x32553f={'gmfpB':_0x2710d6[_0x246d5c(0x402)]},_0x171334;_0x171334=(function(){var _0x3f6980=_0x246d5c,_0x5963e7={'wgYrF':_0x32553f[_0x3f6980(0x491)]};function _0x5d0e48(){}return _0x5d0e48[_0x3f6980(0x3d5)][_0x3f6980(0x236)]=function(_0x51de94){var _0x1d4207=_0x3f6980,_0x5736e1=cc[_0x1d4207(0x27b)+_0x1d4207(0x649)][_0x1d4207(0x40d)];return cc[_0x1d4207(0x3ee)+_0x1d4207(0x597)][_0x1d4207(0x484)+'e']()['sendReques'+'t'](_0x5736e1,_0x5963e7['wgYrF'],function(_0x437614){var _0x550f60=_0x1d4207,_0x596c7d=JSON[_0x550f60(0x2bd)](_0x437614);return _0x51de94[_0x550f60(0x18a)+_0x550f60(0x1ed)+_0x550f60(0x52e)](_0x596c7d);});},_0x5d0e48;}()),cc[_0x246d5c(0x13b)+_0x246d5c(0x62d)]=_0x171334;}[_0x5c369d(0x314)](void 0x0),cc[_0x5c369d(0x2a8)]['pop']();},{}],'Bacarat_WinnerCommand':[function(_0x4f7653,_0x16ab15){'use strict';var _0x74b5ac=_0x4efc99,_0x3402f6={'Gpapy':_0x74b5ac(0x3d7)+'at/GetBigW'+'inner','IHQDS':'19967PEjiJ'+_0x74b5ac(0x2ff)+_0x74b5ac(0x62a),'iKpmL':_0x74b5ac(0x4fd)+_0x74b5ac(0x17e)+'d'};cc[_0x74b5ac(0x2a8)][_0x74b5ac(0x5ae)](_0x16ab15,_0x3402f6[_0x74b5ac(0x332)],_0x3402f6[_0x74b5ac(0x1ff)]),function(){var _0x59c646=_0x74b5ac,_0x3ec40a={'MVvlm':_0x3402f6['Gpapy']},_0x37610b;_0x37610b=(function(){var _0x59e742=_0x2ce9;function _0x434353(){}return _0x434353[_0x59e742(0x3d5)]['execute']=function(_0x56c732){var _0x595dd8=_0x59e742,_0x21a261=cc[_0x595dd8(0x27b)+_0x595dd8(0x649)][_0x595dd8(0x28a)];return cc['ServerConn'+_0x595dd8(0x597)][_0x595dd8(0x484)+'e']()[_0x595dd8(0x59c)+'t'](_0x21a261,_0x3ec40a['MVvlm'],function(_0x3b1dc7){var _0x8c34c3=_0x595dd8,_0x76fe08=JSON['parse'](_0x3b1dc7);return _0x56c732[_0x8c34c3(0x1a9)+'nnerRespon'+'se'](_0x76fe08);});},_0x434353;}()),cc[_0x59c646(0x2fc)+_0x59c646(0x570)]=_0x37610b;}[_0x74b5ac(0x314)](void 0x0),cc[_0x74b5ac(0x2a8)]['pop']();},{}],'BaccaratNodeDepth':[function(_0x11f641,_0x4b5dd7){'use strict';var _0x234b78=_0x4efc99,_0x1f5f1e={'rCUzD':_0x234b78(0x3e0)+_0x234b78(0x221)+'6QU','DtyRl':_0x234b78(0x2f2)+_0x234b78(0x304)};cc[_0x234b78(0x2a8)]['push'](_0x4b5dd7,_0x1f5f1e['rCUzD'],_0x1f5f1e['DtyRl']),function(){var _0x2c9e7e=_0x234b78;cc[_0x2c9e7e(0x41a)]=cc[_0x2c9e7e(0x239)]({'POPUP_SYSTEM':0x270f,'LOGIN_VIEW':0x2706,'SUMMON_DRAGON':0x2701,'POPUP_GIFTCODE':0x26ff,'POPUP_PORTAL':0x26fc,'MINI_EVENT_VIEW':0x26f4,'MINI_VIEW':0x26f2,'POPUP_EVENT':0x26de,'POPUP_TREASURE':0x26d9,'POPUP_TAIXIU':0x26d4,'PORTAL_JACKPOT_EFFECT':0x26ca,'SETTING':0x26f6,'MINI_VIEW_BUTTON':0x26f5,'CARD_GAME_ROOM_HELP':0x4,'TOP_BAR_CARD_GAME':0x3,'CARD_GAME':0x2,'ICON_DYNAMIC':0x1,'TOP_BAR':0x0});}[_0x234b78(0x314)](void 0x0),cc['_RF'][_0x234b78(0x56f)]();},{}],'ItemSoiCau':[function(_0x20bc66,_0x8ba98){'use strict';var _0x244fa3=_0x4efc99,_0x5297c3={'jGKAE':function(_0x3b8a2c,_0x468749){return _0x3b8a2c+_0x468749;},'DjhOP':function(_0x42fa29,_0x5a3697){return _0x42fa29===_0x5a3697;},'vqflD':_0x244fa3(0x267)+'CBoBnKnZkE'+_0x244fa3(0x4d5),'xDLrD':_0x244fa3(0x438)};cc[_0x244fa3(0x2a8)]['push'](_0x8ba98,_0x5297c3[_0x244fa3(0x14a)],_0x5297c3[_0x244fa3(0x617)]),function(){var _0x3a95c1=_0x244fa3,_0x8e0a60={'nPYrU':function(_0x5f50b4,_0x2bbbf0){return _0x5297c3['DjhOP'](_0x5f50b4,_0x2bbbf0);}};cc['ItemSoiCau']=cc[_0x3a95c1(0x3eb)]({'extends':cc[_0x3a95c1(0x2ee)],'properties':{'nodePPair':cc[_0x3a95c1(0x4d4)],'nodeBPair':cc['Node'],'sprite':cc[_0x3a95c1(0x52b)]},'setSpiteFrameItem':function(_0x4543d9,_0x4356fe,_0x4d6893){var _0x3f6a16=_0x3a95c1;_0x8e0a60[_0x3f6a16(0x194)](void 0x0,this['gameAssets'])&&(this['gameAssets']=cc[_0x3f6a16(0x285)+'ntroller'][_0x3f6a16(0x484)+'e']()[_0x3f6a16(0x591)+'ew']()),this[_0x3f6a16(0x21d)]=_0x4543d9,this[_0x3f6a16(0x42a)][_0x3f6a16(0x29d)]=_0x4356fe,this['nodeBPair'][_0x3f6a16(0x29d)]=_0x4d6893;switch(this[_0x3f6a16(0x21d)]){case cc[_0x3f6a16(0x339)+_0x3f6a16(0x20d)][_0x3f6a16(0x3c7)]:this[_0x3f6a16(0x1c6)][_0x3f6a16(0x53f)+'e']=this[_0x3f6a16(0x5db)][_0x3f6a16(0x5dc)][0x0];break;case cc[_0x3f6a16(0x339)+_0x3f6a16(0x20d)][_0x3f6a16(0x1a1)]:this[_0x3f6a16(0x1c6)]['spriteFram'+'e']=this[_0x3f6a16(0x5db)][_0x3f6a16(0x29f)][0x0];break;case cc[_0x3f6a16(0x339)+'Site'][_0x3f6a16(0x2da)]:this[_0x3f6a16(0x1c6)][_0x3f6a16(0x53f)+'e']=this[_0x3f6a16(0x5db)][_0x3f6a16(0x42e)][0x0];}},'setScore':function(_0x3a70bf){var _0x178b45=_0x3a95c1;switch(this[_0x178b45(0x21d)]){case cc['BacaratBet'+_0x178b45(0x20d)]['PLAYER']:this[_0x178b45(0x1c6)][_0x178b45(0x53f)+'e']=this[_0x178b45(0x5db)][_0x178b45(0x5dc)][_0x3a70bf+0x1];break;case cc[_0x178b45(0x339)+_0x178b45(0x20d)][_0x178b45(0x1a1)]:this[_0x178b45(0x1c6)][_0x178b45(0x53f)+'e']=this['gameAssets'][_0x178b45(0x29f)][_0x5297c3[_0x178b45(0x265)](_0x3a70bf,0x1)];break;case cc['BacaratBet'+_0x178b45(0x20d)]['BANKER']:this[_0x178b45(0x1c6)][_0x178b45(0x53f)+'e']=this['gameAssets'][_0x178b45(0x42e)][_0x5297c3[_0x178b45(0x265)](_0x3a70bf,0x1)];}}});}[_0x244fa3(0x314)](void 0x0),cc[_0x244fa3(0x2a8)][_0x244fa3(0x56f)]();},{}],'PopupBacaViewBase':[function(_0x25ebc0,_0x11fb4e){'use strict';var _0x1dff4c=_0x4efc99,_0x1684b5={'YUfLV':_0x1dff4c(0x554)+_0x1dff4c(0x593)};cc['_RF'][_0x1dff4c(0x5ae)](_0x11fb4e,_0x1dff4c(0x12b)+_0x1dff4c(0x50f)+'sd3',_0x1684b5[_0x1dff4c(0x4f4)]),function(){var _0x35f25a=_0x1dff4c;cc[_0x35f25a(0x554)+'iewBase']=cc[_0x35f25a(0x3eb)]({'extends':cc[_0x35f25a(0x2ee)],'properties':{'prefabBetLines':cc[_0x35f25a(0x5f0)],'prefabHelp':cc['Prefab'],'prefabHistory':cc[_0x35f25a(0x5f0)],'prefabTop':cc['Prefab'],'prefabSessionDetail':cc['Prefab']},'createSessionDetailView':function(){var _0x475b17=_0x35f25a;this[_0x475b17(0x64e)+_0x475b17(0x2ab)+'w']=this[_0x475b17(0x4a4)](this[_0x475b17(0x2f4)+_0x475b17(0x1af)]);},'destroySessionDetailView':function(){var _0x2db835=_0x35f25a;this[_0x2db835(0x64e)+_0x2db835(0x2ab)+'w']&&this['nodeSessio'+_0x2db835(0x2ab)+'w']['destroy']();},'createBetLinesView':function(){var _0x459fb9=_0x35f25a;this[_0x459fb9(0x238)+'esView']=this[_0x459fb9(0x4a4)](this[_0x459fb9(0x5e9)+_0x459fb9(0x602)]);},'destroyBetLinesView':function(){var _0x1b0745=_0x35f25a;this[_0x1b0745(0x238)+_0x1b0745(0x53d)]&&this[_0x1b0745(0x238)+'esView'][_0x1b0745(0x345)]();},'createTopView':function(){var _0x7dfa1b=_0x35f25a;this[_0x7dfa1b(0x594)+'w']=this[_0x7dfa1b(0x4a4)](this[_0x7dfa1b(0x2a6)]);},'destroyTopView':function(){var _0x5232ff=_0x35f25a;this[_0x5232ff(0x594)+'w']&&this[_0x5232ff(0x594)+'w'][_0x5232ff(0x345)]();},'createHelpView':function(){var _0x56420f=_0x35f25a;this[_0x56420f(0x443)+'ew']=this[_0x56420f(0x4a4)](this[_0x56420f(0x613)]);},'destroyHelpView':function(){var _0x21cc4f=_0x35f25a;this[_0x21cc4f(0x443)+'ew']&&this['nodeHelpVi'+'ew'][_0x21cc4f(0x345)]();},'createHistoryView':function(){var _0x50ebd1=_0x35f25a;this[_0x50ebd1(0x3aa)+_0x50ebd1(0x1d5)]=this[_0x50ebd1(0x4a4)](this[_0x50ebd1(0x211)+'ory']);},'destroyHistoryView':function(){var _0x42fd0e=_0x35f25a;this['nodeHistor'+_0x42fd0e(0x1d5)]&&this['nodeHistor'+_0x42fd0e(0x1d5)][_0x42fd0e(0x345)]();},'createView':function(_0x34a6da){var _0x2a5b2b=_0x35f25a,_0x5af22d=cc[_0x2a5b2b(0x200)+'e'](_0x34a6da);return _0x5af22d[_0x2a5b2b(0x240)]=this[_0x2a5b2b(0x611)],_0x5af22d[_0x2a5b2b(0x3ed)+'n'](-this[_0x2a5b2b(0x611)]['x'],-this['node']['y']),_0x5af22d;}});}['call'](void 0x0),cc[_0x1dff4c(0x2a8)]['pop']();},{}]},{},[_0x4efc99(0x393)+'acarat',_0x4efc99(0x3d2)+_0x4efc99(0x465),_0x4efc99(0x4d2)+_0x4efc99(0x569)+_0x4efc99(0x575),_0x4efc99(0x274)+_0x4efc99(0x3df)+'nd',_0x4efc99(0x59a)+_0x4efc99(0x628)+'d',_0x4efc99(0x4fd)+_0x4efc99(0x17e)+'d',_0x4efc99(0x5b4),_0x4efc99(0x34a)+'rd','BaccaratNo'+_0x4efc99(0x304),'Bacarat2Co'+_0x4efc99(0x590),_0x4efc99(0x192)+_0x4efc99(0x448),_0x4efc99(0x45c)+_0x4efc99(0x23a)+'er',_0x4efc99(0x35b)+_0x4efc99(0x490),_0x4efc99(0x26d)+'CauView',_0x4efc99(0x13b)+_0x4efc99(0x4b0),'ItemSoiCau',_0x4efc99(0x20e)+_0x4efc99(0x38a),_0x4efc99(0x20e)+'upUserList'+_0x4efc99(0x151),_0x4efc99(0x20e)+'upUserView',_0x4efc99(0x282)+'pView','BacaratHis'+_0x4efc99(0x121),_0x4efc99(0x144)+_0x4efc99(0x2f3)+'ew',_0x4efc99(0x144)+'toryView',_0x4efc99(0x27a)+_0x4efc99(0x254),_0x4efc99(0x521)+_0x4efc99(0x482),_0x4efc99(0x4c0)+_0x4efc99(0x2b7),_0x4efc99(0x4c0)+_0x4efc99(0x262),_0x4efc99(0x4c0)+_0x4efc99(0x151),'BacaratAss'+'etView',_0x4efc99(0x339)+'View',_0x4efc99(0x55f)+_0x4efc99(0x225),'BacaratCar'+_0x4efc99(0x280),'BacaratChi'+_0x4efc99(0x543),'BacaratInf'+_0x4efc99(0x538),_0x4efc99(0x45c)+_0x4efc99(0x2e7),_0x4efc99(0x60c)+'w',_0x4efc99(0x554)+_0x4efc99(0x593)]));
+window.__require = function t(e, a, i) {
+function n(c, o) {
+if (!a[c]) {
+if (!e[c]) {
+var s = c.split("/");
+s = s[s.length - 1];
+if (!e[s]) {
+var h = "function" == typeof __require && __require;
+if (!o && h) return h(s, !0);
+if (r) return r(s, !0);
+throw new Error("Cannot find module '" + c + "'");
+}
+c = s;
+}
+var u = a[c] = {
+exports: {}
+};
+e[c][0].call(u.exports, function(t) {
+return n(e[c][1][t] || t);
+}, u, u.exports, t, e, a, i);
+}
+return a[c].exports;
+}
+for (var r = "function" == typeof __require && __require, c = 0; c < i.length; c++) n(i[c]);
+return n;
+}({
+AudioPoolBacarat: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "44fc0rixLRF94S7u7ZCGs5w", "AudioPoolBacarat");
+(function() {
+cc.AudioPoolBacarat = cc.Class({
+extends: cc.Component,
+properties: {
+musicBackground: cc.AudioSource,
+moveCard: cc.AudioSource,
+chipBet: cc.AudioSource,
+chipSelect: cc.AudioSource
+},
+onLoad: function() {
+cc.AudioController.getInstance().setAudioPool(this);
+},
+enableMusic: function(t) {
+this.musicBackground && (t ? this.musicBackground.isPlaying || this.musicBackground.play() : this.musicBackground.stop());
+},
+enableSound: function(t) {
+this.chipBet.mute = !t;
+this.moveCard.mute = !t;
+this.musicBackground.mute = !t;
+},
+getAudioClip: function(t) {
+var e = null;
+switch (t) {
+case cc.AudioTypes.CHIP_SELECT:
+e = this.chipSelect;
+break;
+
+case cc.AudioTypes.CHIP_BET:
+e = this.chipBet;
+break;
+
+case cc.AudioTypes.OPEN_CARD:
+e = this.moveCard;
+}
+return e;
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+Bacarat2Controller: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "fe2711mK0RBE5P3OAk2qhND", "Bacarat2Controller");
+(function() {
+var t;
+t = function() {
+var t;
+function e() {}
+t = void 0;
+e.getInstance = function() {
+void 0 === t && (t = this);
+return t.prototype;
+};
+e.prototype.setBacaratView = function(t) {
+return this.BacaratView = t;
+};
+e.prototype.sendRequestOnHub = function(t, e, a) {
+if (this.BacaratView) return this.BacaratView.sendRequestOnHub(t, e, a);
+};
+e.prototype.setAvatarDef = function(t) {
+return this.avatarDef = t;
+};
+e.prototype.getAvatarDef = function() {
+return this.avatarDef;
+};
+e.prototype.setAvatars = function(t) {
+return this.avatars = t;
+};
+e.prototype.getAvatars = function() {
+return this.avatars;
+};
+e.prototype.updateBalance = function(t) {
+this.BacaratView.updateBalance(t);
+};
+e.prototype.setInfoView = function(t) {
+return this.Bacarat_InfoView = t;
+};
+e.prototype.playerLeave = function(t) {
+this.BacaratView.playerLeave(t);
+this.Bacarat_InfoView.playerLeave(t);
+};
+e.prototype.updateSessionInfo = function(t) {
+return this.Bacarat_InfoView.updateSessionInfo(t);
+};
+e.prototype.updatePlayersInGame = function(t) {
+return this.Bacarat_InfoView.updatePlayersInGame(t);
+};
+e.prototype.winResult = function(t) {
+return this.Bacarat_InfoView.winResult(t);
+};
+e.prototype.setWinResult = function(t) {
+return this.winResultResponse = t;
+};
+e.prototype.getWinResult = function() {
+return this.winResultResponse;
+};
+e.prototype.setWinVipResult = function(t) {
+return this.winVipResultResponse = t;
+};
+e.prototype.getWinVipResult = function() {
+return this.winVipResultResponse;
+};
+e.prototype.winResultVip = function(t) {
+return this.Bacarat_InfoView.winResultVip(t);
+};
+e.prototype.playerShowBubbleChat = function(t) {
+return this.Bacarat_InfoView.playerShowBubbleChat(t);
+};
+e.prototype.moveCards = function(t) {
+return this.Bacarat_InfoView.moveCards(t);
+};
+e.prototype.updatePlayersUI = function(t) {
+return this.Bacarat_InfoView.updatePlayersUI(t);
+};
+e.prototype.updatePlayerInfor = function(t) {
+return this.Bacarat_InfoView.updatePlayerInfor(t);
+};
+e.prototype.updateBalanceCurrPlayer = function(t) {
+return this.Bacarat_InfoView.updateBalanceCurrPlayer(t);
+};
+e.prototype.playerShowBubbleChat = function(t) {
+return this.Bacarat_InfoView.playerShowBubbleChat(t);
+};
+e.prototype.updateBalancePlayer = function(t) {
+return this.Bacarat_InfoView.updateBalancePlayer(t);
+};
+e.prototype.updatePositionPlayerUI = function(t) {
+return this.positionsUI = t;
+};
+e.prototype.positionPlayerUI = function() {
+return this.positionsUI;
+};
+e.prototype.setAssetView = function(t) {
+return this.Bacarat_AssetsView = t;
+};
+e.prototype.getAssetView = function() {
+return this.Bacarat_AssetsView;
+};
+e.prototype.getSfBack = function(t) {
+return this.Bacarat_AssetsView.getSfBack(t);
+};
+e.prototype.getSfBorderCard = function() {
+return this.Bacarat_AssetsView.getSfBorderCard();
+};
+e.prototype.createChip = function(t) {
+return this.Bacarat_AssetsView.createChip(t);
+};
+e.prototype.getSfCardBack = function() {
+return this.Bacarat_AssetsView.getSfCardBack();
+};
+e.prototype.getSpriteCard = function(t, e) {
+return this.Bacarat_AssetsView.getSpriteCard(t, e);
+};
+e.prototype.getCardValueByNumber = function(t) {
+return this.Bacarat_AssetsView.getCardValueByNumber(t);
+};
+e.prototype.getColorType = function(t) {
+return this.Bacarat_AssetsView.getColorType(t);
+};
+e.prototype.putChipToPool = function(t, e) {
+return this.Bacarat_AssetsView.putChipToPool(t, e);
+};
+e.prototype.clearPools = function() {
+return this.Bacarat_AssetsView.clearPools();
+};
+e.prototype.setBetView = function(t) {
+return this.Bacarat_BetView = t;
+};
+e.prototype.onBet = function(t) {
+return this.Bacarat_BetView.onBet(t);
+};
+e.prototype.enableClickBet = function(t) {
+return this.Bacarat_BetView.enableClickBet(t);
+};
+e.prototype.disableBetAgain = function(t) {
+return this.Bacarat_BetView.disableBetAgain(t);
+};
+e.prototype.playAnimationWin = function(t) {
+return this.Bacarat_BetView.playAnimationWin(t);
+};
+e.prototype.stopAnimationWin = function() {
+return this.Bacarat_BetView.stopAnimationWin();
+};
+e.prototype.updateTotalUserBetSide = function(t, e) {
+return this.Bacarat_BetView.updateTotalUserBetSide(t, e);
+};
+e.prototype.updateTotalBet = function(t) {
+return this.Bacarat_BetView.updateTotalBet(t);
+};
+e.prototype.updateBetOfAccount = function(t) {
+return this.Bacarat_BetView.updateBetOfAccount(t);
+};
+e.prototype.setCardView = function(t) {
+return this.Bacarat_CardView = t;
+};
+e.prototype.activeNodeScore = function(t) {
+return this.Bacarat_CardView.activeNodeScore(t);
+};
+e.prototype.activeNodeCards = function(t) {
+return this.Bacarat_CardView.activeNodeCards(t);
+};
+e.prototype.showScoreSide = function(t) {
+return this.Bacarat_CardView.showScoreSide(t);
+};
+e.prototype.resetLayoutCard = function() {
+return this.Bacarat_CardView.resetLayoutCard();
+};
+e.prototype.onSlideCard = function(t) {
+return this.Bacarat_CardView.onSlideCard(t);
+};
+e.prototype.slideCardOnBet = function() {
+return this.Bacarat_CardView.slideCardOnBet();
+};
+e.prototype.initCardOnTable = function() {
+return this.Bacarat_CardView.initCardOnTable();
+};
+e.prototype.forceShowResult = function(t, e) {
+return this.Bacarat_CardView.forceShowResult(t, e);
+};
+e.prototype.setChipsView = function(t) {
+return this.Bacarat_ChipsView = t;
+};
+e.prototype.moveChipBet = function(t, e, a, i) {
+return this.Bacarat_ChipsView.moveChipBet(t, e, a, i);
+};
+e.prototype.getChipsLose = function(t, e) {
+return this.Bacarat_ChipsView.getChipsLose(t, e);
+};
+e.prototype.refundChips = function(t) {
+return this.Bacarat_ChipsView.refundChips(t);
+};
+e.prototype.refundChipsTie = function() {
+return this.Bacarat_ChipsView.refundChipsTie();
+};
+e.prototype.clearAllChips = function() {
+return this.Bacarat_ChipsView.clearAllChips();
+};
+e.prototype.initParamChips = function() {
+return this.Bacarat_ChipsView.initParamChips();
+};
+e.prototype.updateChipForBetSession = function(t) {
+return this.Bacarat_ChipsView.updateChipForBetSession(t);
+};
+e.prototype.clearBetLog = function(t) {
+this.betLog = this.betLog.filter(function(e) {
+return e.sessionID > t - 1;
+});
+};
+e.prototype.getBetLogBySessionID = function(t) {
+return this.betLog.filter(function(e) {
+return e.sessionID == t - 1;
+});
+};
+e.prototype.setBetLog = function(t) {
+return this.betLog.push(t);
+};
+e.prototype.getBetLog = function() {
+return this.betLog;
+};
+e.prototype.initBetLog = function() {
+return this.betLog = [];
+};
+e.prototype.setSoiCauView = function(t) {
+return this.Bacarat_SoiCau = t;
+};
+e.prototype.initListSoiCau = function(t) {
+return this.Bacarat_SoiCau.initListSoiCau(t);
+};
+e.prototype.activeGraph = function(t) {
+this.Bacarat_SoiCau.activeGraph(t);
+this.Bacarat_CatCau.activeGraph(t);
+};
+e.prototype.setCatCauView = function(t) {
+return this.Bacarat_CatCau = t;
+};
+e.prototype.initListCatCau = function(t) {
+return this.Bacarat_CatCau.initListCatCau(t);
+};
+e.prototype.setChipWin = function(t, e, a) {
+return this.chipsWin.push([ t, e, a ]);
+};
+e.prototype.getChipsWin = function() {
+return this.chipsWin;
+};
+e.prototype.initChipsWin = function() {
+return this.chipsWin = [];
+};
+e.prototype.setBetLogSession = function(t) {
+return this.betLogSession = t;
+};
+e.prototype.getBetLogSession = function() {
+return this.betLogSession;
+};
+e.prototype.setCurrentState = function(t) {
+return this.currentState = t;
+};
+e.prototype.getCurrentState = function() {
+return this.currentState;
+};
+e.prototype.updateRealBalance = function(t) {
+lngui.UserManager.instance.mainUserInfo.Money = t;
+lngui.EventDispatch.instance.emit(lngui.EVENT_GAMECORE.UPDATE_TOTAL_GOLD, lngui.UserManager.instance.mainUserInfo.Money);
+};
+return e;
+}();
+cc.Bacarat2Controller = t;
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratActiveGraph: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "2dcccAD6xZJ4qycKQbsjrgu", "BacaratActiveGraph");
+cc.Class({
+extends: cc.Component,
+onActiveGraph: function() {
+cc.Bacarat2Controller.getInstance().activeGraph(!0);
+},
+onDeactiveGraph: function() {
+cc.Bacarat2Controller.getInstance().activeGraph(!1);
+}
+});
+cc._RF.pop();
+}, {} ],
+BacaratAssetView: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "5c2aekkhBxBoqFN5BthgQ/V", "BacaratAssetView");
+(function() {
+cc.BacaratAssetView = cc.Class({
+extends: cc.Component,
+properties: {
+sfBorderCard: cc.SpriteFrame,
+sfPrefabChip: [ cc.Prefab ],
+sfSuitCo: [ cc.SpriteFrame ],
+sfSuitRo: [ cc.SpriteFrame ],
+sfSuitTep: [ cc.SpriteFrame ],
+sfSuitBich: [ cc.SpriteFrame ],
+sfCardBack: cc.SpriteFrame,
+sfPlayers: [ cc.SpriteFrame ],
+sfBankers: [ cc.SpriteFrame ],
+sfTies: [ cc.SpriteFrame ],
+colorWhite: cc.Color,
+colorYellow: cc.Color,
+colorRed: cc.Color
+},
+onLoad: function() {
+cc.Bacarat2Controller.getInstance().setAssetView(this);
+this.chip1kPool = new cc.NodePool();
+this.chip5kPool = new cc.NodePool();
+this.chip10kPool = new cc.NodePool();
+this.chip100kPool = new cc.NodePool();
+this.chip500kPool = new cc.NodePool();
+},
+clearPools: function() {
+try {
+this.chip1kPool.clear();
+this.chip5kPool.clear();
+this.chip10kPool.clear();
+this.chip100kPool.clear();
+this.chip500kPool.clear();
+} catch (t) {}
+},
+getSfBorderCard: function() {
+return this.sfBorderCard;
+},
+getSfCardBack: function() {
+return this.sfCardBack;
+},
+getSpriteCard: function(t, e) {
+var a = null;
+t = parseInt(t);
+switch (e) {
+case cc.Bacarat_Card.CO:
+a = this.sfSuitCo;
+break;
+
+case cc.Bacarat_Card.RO:
+a = this.sfSuitRo;
+break;
+
+case cc.Bacarat_Card.TEP:
+a = this.sfSuitTep;
+break;
+
+case cc.Bacarat_Card.BICH:
+a = this.sfSuitBich;
+}
+return -1 === t ? null : a[t];
+},
+getCardValue: function(t, e) {
+return 4 * (t - 3) + e / 13;
+},
+getCardValueByNumber: function(t) {
+var e = (t - 1) % 13 + 1, a = t - e;
+return this.getSpriteCard(e - 1, a);
+},
+getSpriteByName: function(t) {
+return this.spriteAtlasNotify.getSpriteFrame(t);
+},
+createChip: function(t) {
+var e = null;
+switch (t) {
+case cc.BacaratMapChip["1K"]:
+e = this.chip1kPool.size() > 0 ? this.chip1kPool.get() : cc.instantiate(this.sfPrefabChip[0]);
+break;
+
+case cc.BacaratMapChip["5K"]:
+e = this.chip5kPool.size() > 0 ? this.chip5kPool.get() : cc.instantiate(this.sfPrefabChip[1]);
+break;
+
+case cc.BacaratMapChip["10K"]:
+e = this.chip10kPool.size() > 0 ? this.chip10kPool.get() : cc.instantiate(this.sfPrefabChip[2]);
+break;
+
+case cc.BacaratMapChip["100K"]:
+e = this.chip100kPool.size() > 0 ? this.chip100kPool.get() : cc.instantiate(this.sfPrefabChip[3]);
+break;
+
+case cc.BacaratMapChip["500K"]:
+e = this.chip500kPool.size() > 0 ? this.chip500kPool.get() : cc.instantiate(this.sfPrefabChip[4]);
+}
+e && e.setScale(.5, .5);
+return e;
+},
+putChipToPool: function(t, e) {
+switch (e) {
+case 1e3:
+this.chip1kPool.put(t);
+break;
+
+case 5e3:
+this.chip5kPool.put(t);
+break;
+
+case 1e4:
+this.chip10kPool.put(t);
+break;
+
+case 1e5:
+this.chip100kPool.put(t);
+break;
+
+case 5e5:
+this.chip500kPool.put(t);
+}
+},
+getColorType: function(t) {
+switch (t) {
+case cc.BacaratColor.WHITE:
+return this.colorWhite;
+
+case cc.BacaratColor.YELLOW:
+return this.colorYellow;
+
+case cc.BacaratColor.RED:
+return this.colorRed;
+}
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratBetView: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "bd01a76mXBFFJ1Gr+80rkk4", "BacaratBetView");
+(function() {
+cc.BacaratBetView = cc.Class({
+extends: cc.Component,
+properties: {
+nodeLayoutBet: cc.Node,
+nodeAreaPPair: cc.Node,
+sfPPair: [ cc.SpriteFrame ],
+nodeAreaPlayer: cc.Node,
+sfPlayer: [ cc.SpriteFrame ],
+nodeAreaTie: cc.Node,
+sfTie: [ cc.SpriteFrame ],
+nodeAreaBanker: cc.Node,
+sfBanker: [ cc.SpriteFrame ],
+nodeAreaPBanker: cc.Node,
+sfPBanker: [ cc.SpriteFrame ],
+totalPPlayerBet: cc.Label,
+totalUserPPlayerBet: cc.Label,
+totalPlayerBet: cc.Label,
+totalUserPlayerBet: cc.Label,
+totalTieBet: cc.Label,
+totalUserTieBet: cc.Label,
+totalBankerBet: cc.Label,
+totalUserBankerBet: cc.Label,
+totalPBankerBet: cc.Label,
+totalUserPBankerBet: cc.Label,
+btnBet: [ cc.Node ],
+nodeBetX2: cc.Node,
+nodeBetAgain: cc.Node
+},
+onLoad: function() {
+cc.Bacarat2Controller.getInstance().setBetView(this);
+this.betValue = 5e3;
+this.areaPPair = this.nodeAreaPPair.getComponent(cc.PolygonCollider);
+this.areaPlayer = this.nodeAreaPlayer.getComponent(cc.PolygonCollider);
+this.areaTie = this.nodeAreaTie.getComponent(cc.PolygonCollider);
+this.areaBanker = this.nodeAreaBanker.getComponent(cc.PolygonCollider);
+this.areaPBanker = this.nodeAreaPBanker.getComponent(cc.PolygonCollider);
+this.pPairSprite = this.nodeAreaPPair.getComponent(cc.Sprite);
+this.playerSprite = this.nodeAreaPlayer.getComponent(cc.Sprite);
+this.tieSprite = this.nodeAreaTie.getComponent(cc.Sprite);
+this.bankerSprite = this.nodeAreaBanker.getComponent(cc.Sprite);
+this.pBankerSprite = this.nodeAreaPBanker.getComponent(cc.Sprite);
+this.pPairWin = this.nodeAreaPPair.getChildByName("win").getComponent(sp.Skeleton);
+console.log(this.pPairWin);
+this.playerWin = this.nodeAreaPlayer.getChildByName("win").getComponent(sp.Skeleton);
+this.tieWin = this.nodeAreaTie.getChildByName("win").getComponent(sp.Skeleton);
+this.bankerWin = this.nodeAreaBanker.getChildByName("win").getComponent(sp.Skeleton);
+this.pBankerWin = this.nodeAreaPBanker.getChildByName("win").getComponent(sp.Skeleton);
+this.resetLbTotalBet();
+this.btnBetX2 = this.nodeBetX2.getComponent(cc.Button);
+this.btnBetAgain = this.nodeBetAgain.getComponent(cc.Button);
+},
+resetLbTotalBet: function() {
+[ this.totalPPlayerBet, this.totalUserPPlayerBet, this.totalPlayerBet, this.totalUserPlayerBet, this.totalTieBet, this.totalUserTieBet, this.totalBankerBet, this.totalUserBankerBet, this.totalPBankerBet, this.totalUserPBankerBet ].map(function(t) {
+return t.string = "";
+});
+},
+onEnable: function() {
+cc.director.getCollisionManager().enabled = !0;
+},
+onDisable: function() {},
+setBetValue: function(t, e) {
+if ((e = parseInt(e)) != this.betValue) {
+this.betValue = e;
+cc.AudioController.getInstance().playSound(cc.AudioTypes.CHIP_SELECT);
+this.resetSpriteButton();
+this.setActiveButton(t.target);
+}
+},
+setActiveButton: function(t) {
+t.getChildByName("active").active = !0;
+var e = cc.moveTo(.3, cc.v2(t.x, 15));
+t.runAction(e);
+},
+resetSpriteButton: function() {
+var t = this.btnBet, e = this;
+t.forEach(function(t, a) {
+e.setDefaultSfButton(t, a);
+});
+},
+setDefaultSfButton: function(t) {
+t.getChildByName("active").active = !1;
+var e = cc.moveTo(.3, cc.v2(t.x, 0));
+t.runAction(e);
+},
+onBetAgain: function(t, e) {
+var a = this;
+e = parseInt(e);
+var i = cc.Bacarat2Controller.getInstance().getBetLogBySessionID(cc.Bacarat2Controller.getInstance().getBetLogSession());
+if (0 !== i.length) {
+for (var n = function(t) {
+i.map(function(e, i) {
+var n = setTimeout(function() {
+if (cc.Bacarat2Controller.getInstance().getCurrentState() === cc.BacaratMapGameState.BETTING && e.sessionID === cc.Bacarat2Controller.getInstance().getBetLogSession() - 1) this.sendRequestBet(e.value, e.betSide); else try {
+clearTimeout(n);
+} catch (t) {}
+}.bind(a), 120 * i * t);
+}, a);
+}, r = 1; r <= e; r++) n(r);
+this.disableBetAgain(!0);
+} else cc.PopupController.getInstance().showSlotsMessage("Chưa có dữ liệu của phiên trước.");
+},
+disableBetAgain: function(t) {
+this.btnBetAgain.interactable = !t;
+this.btnBetX2.interactable = !t;
+var e = cc.Color.WHITE;
+t && (e = cc.Color.GRAY);
+this.nodeBetX2.color = e;
+this.nodeBetAgain.color = e;
+},
+initBetEvent: function() {
+this.nodeLayoutBet.on("touchstart", function(t) {
+this.onBetSideClick(t.getLocation(), "touchstart");
+}, this);
+this.nodeLayoutBet.on("touchend", function(t) {
+this.onBetSideClick(t.getLocation(), "touchend");
+}, this);
+},
+enableClickBet: function(t) {
+if (t) this.initBetEvent(); else {
+this.nodeLayoutBet.off(cc.Node.EventType.TOUCH_START);
+this.nodeLayoutBet.off(cc.Node.EventType.TOUCH_END);
+this.changeSpriteFrame(this.pPairSprite, this.sfPPair, "touchend", cc.BacaratBetSite.PLAYER_PAIR);
+this.changeSpriteFrame(this.playerSprite, this.sfPlayer, "touchend", cc.BacaratBetSite.PLAYER);
+this.changeSpriteFrame(this.tieSprite, this.sfTie, "touchend", cc.BacaratBetSite.TIE);
+this.changeSpriteFrame(this.bankerSprite, this.sfBanker, "touchend", cc.BacaratBetSite.BANKER);
+this.changeSpriteFrame(this.pBankerSprite, this.sfPBanker, "touchend", cc.BacaratBetSite.BANKER_PAIR);
+}
+},
+onBetSideClick: function(t, e) {
+cc.Intersection.pointInPolygon(t, this.areaPPair.world.points) && this.changeSpriteFrame(this.pPairSprite, this.sfPPair, e, cc.BacaratBetSite.PLAYER_PAIR);
+cc.Intersection.pointInPolygon(t, this.areaPlayer.world.points) && this.changeSpriteFrame(this.playerSprite, this.sfPlayer, e, cc.BacaratBetSite.PLAYER);
+cc.Intersection.pointInPolygon(t, this.areaTie.world.points) && this.changeSpriteFrame(this.tieSprite, this.sfTie, e, cc.BacaratBetSite.TIE);
+cc.Intersection.pointInPolygon(t, this.areaBanker.world.points) && this.changeSpriteFrame(this.bankerSprite, this.sfBanker, e, cc.BacaratBetSite.BANKER);
+cc.Intersection.pointInPolygon(t, this.areaPBanker.world.points) && this.changeSpriteFrame(this.pBankerSprite, this.sfPBanker, e, cc.BacaratBetSite.BANKER_PAIR);
+},
+changeSpriteFrame: function(t, e, a, i) {
+if ("touchstart" == a) {
+t.spriteFrame = e[1];
+this.onBet(i);
+} else t.spriteFrame = e[0];
+},
+playAnimationWin: function(t) {
+var e = null;
+switch (t = parseInt(t)) {
+case cc.BacaratBetSite.PLAYER_PAIR:
+e = this.pPairWin;
+break;
+
+case cc.BacaratBetSite.PLAYER:
+e = this.playerWin;
+break;
+
+case cc.BacaratBetSite.TIE:
+e = this.tieWin;
+break;
+
+case cc.BacaratBetSite.BANKER:
+e = this.bankerWin;
+break;
+
+case cc.BacaratBetSite.BANKER_PAIR:
+e = this.pBankerWin;
+}
+if (null != e) {
+e.node.active = !0;
+e.setAnimation(1, "animtion0", !0);
+}
+},
+stopAnimationWin: function() {
+this.pPairWin.node.active = !1;
+this.playerWin.node.active = !1;
+this.tieWin.node.active = !1;
+this.bankerWin.node.active = !1;
+this.pBankerWin.node.active = !1;
+this.resetLbTotalBet();
+},
+onBet: function(t) {
+this.disableBetAgain(!0);
+cc.AudioController.getInstance().playSound(cc.AudioTypes.CHIP_BET);
+this.sendRequestBet(this.betValue, t);
+},
+updateTotalUserBetSide: function(t, e) {
+var a = null;
+switch (t = parseInt(t)) {
+case cc.BacaratBetSite.PLAYER_PAIR:
+a = this.totalUserPPlayerBet;
+break;
+
+case cc.BacaratBetSite.PLAYER:
+a = this.totalUserPlayerBet;
+break;
+
+case cc.BacaratBetSite.TIE:
+a = this.totalUserTieBet;
+break;
+
+case cc.BacaratBetSite.BANKER:
+a = this.totalUserBankerBet;
+break;
+
+case cc.BacaratBetSite.BANKER_PAIR:
+a = this.totalUserPBankerBet;
+}
+a.string = cc.Tool.getInstance().formatNumber(e);
+},
+updateBetOfAccount: function(t) {
+var e = this;
+t.map(function(t) {
+var a = null;
+switch (parseInt(t.BetSide)) {
+case cc.BacaratBetSite.PLAYER_PAIR:
+a = e.totalUserPPlayerBet;
+break;
+
+case cc.BacaratBetSite.PLAYER:
+a = e.totalUserPlayerBet;
+break;
+
+case cc.BacaratBetSite.TIE:
+a = e.totalUserTieBet;
+break;
+
+case cc.BacaratBetSite.BANKER:
+a = e.totalUserBankerBet;
+break;
+
+case cc.BacaratBetSite.BANKER_PAIR:
+a = e.totalUserPBankerBet;
+}
+a.string = cc.Tool.getInstance().formatNumber(t.BetValue);
+});
+},
+updateTotalBet: function(t) {
+this.totalPPlayerBet.string = 0 === t.TotalBetPlayerPair ? "" : cc.Tool.getInstance().formatNumber(t.TotalBetPlayerPair);
+this.totalPlayerBet.string = 0 === t.TotalBetPlayer ? "" : cc.Tool.getInstance().formatNumber(t.TotalBetPlayer);
+this.totalTieBet.string = 0 === t.TotalBetTie ? "" : cc.Tool.getInstance().formatNumber(t.TotalBetTie);
+this.totalBankerBet.string = 0 === t.TotalBetBanker ? "" : cc.Tool.getInstance().formatNumber(t.TotalBetBanker);
+this.totalPBankerBet.string = 0 === t.TotalBetBankerPair ? "" : cc.Tool.getInstance().formatNumber(t.TotalBetBankerPair);
+},
+sendRequestBet: function(t, e) {
+return cc.Bacarat2Controller.getInstance().sendRequestOnHub(cc.MethodHubName.BET, t, e);
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratButtonBet: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "10647PQfzNLhod/7s7oL5Uq", "BacaratButtonBet");
+(function() {
+cc.BacaratButtonBet = cc.Class({
+extends: cc.Component,
+properties: {
+spriteButtons: [ cc.SpriteFrame ]
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratCardItem: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "a712cUwlVZOwZY2c+8gxPsA", "BacaratCardItem");
+(function() {
+cc.BacaratCardItem = cc.Class({
+extends: cc.Component,
+properties: {
+ordinalValue: -1,
+cardNumber: -1,
+cardSuite: -1,
+animation: cc.Animation
+},
+onLoad: function() {
+this.duration = .5;
+this.spriteNode = this.node.getComponent(cc.Sprite);
+this.nodeBorder = new cc.Node("borderCard");
+this.nodeBorder.setScale(1.5, 1.5);
+this.spriteBorder = this.nodeBorder.addComponent(cc.Sprite);
+this.spriteBorder.spriteFrame = cc.Bacarat2Controller.getInstance().getSfBorderCard();
+},
+onDestroy: function() {
+try {
+this.node.stopAllActions();
+} catch (t) {}
+},
+prepareSlideCard: function() {
+this.node.position = cc.v2(0, 145);
+this.node.setScale(.3, .3);
+this.node.angle = 0;
+this.node.stopAllActions();
+},
+initCard: function() {
+this.spriteNode || (this.spriteNode = this.node.getComponent(cc.Sprite));
+this.spriteNode.spriteFrame = cc.Bacarat2Controller.getInstance().getSfCardBack();
+},
+onShowCard: function() {
+this.spriteNode.spriteFrame = cc.Bacarat2Controller.getInstance().getCardValueByNumber(this.ordinalValue);
+},
+animationShowCard: function(t) {
+t && this.addBorderCard();
+this.animation.play("open-card");
+},
+addBorderCard: function() {
+this.nodeBorder.parent = this.node;
+this.nodeBorder.setAnchorPoint(cc.v2(.7, .3));
+},
+removeBorderCard: function() {
+this.node.removeAllChildren();
+},
+forceShowCard: function(t, e) {
+if (-1 != this.ordinalValue) {
+this.node.active = !0;
+this.spriteNode.spriteFrame = cc.Bacarat2Controller.getInstance().getCardValueByNumber(this.ordinalValue);
+this.node.position = t;
+this.node.setScale(.55, .55);
+e && (this.node.angle = e);
+}
+},
+updateOrdinal: function(t) {
+this.ordinalValue = 0 != t ? t : -1;
+},
+initValue: function(t) {
+this.ordinalValue = 0 != t ? t : -1;
+this.initCard();
+this.reset();
+},
+reset: function() {
+this.node.active = !1;
+this.prepareSlideCard();
+},
+moveTo: function(t) {
+this.node.active = !0;
+var e = cc.scaleTo(this.duration, .55, .55), a = cc.moveTo(this.duration, t);
+this.node.runAction(cc.spawn(a, e));
+},
+setPosition: function(t) {
+this.node.active = !0;
+this.node.setScale(cc.v2(.55, .55));
+this.node.position = t;
+},
+moveToEnd: function(t) {
+if (this.node) {
+this.node.opacity = 100;
+var e = cc.moveTo(.5, t);
+e.easing(cc.easeOut(1));
+var a = cc.callFunc(this.moveToEndFinished, null, this.node);
+this.node.runAction(cc.sequence(e, a));
+}
+},
+rotateCard: function(t) {
+this.removeBorderCard();
+var e = cc.rotateTo(this.duration, t);
+this.node.runAction(e);
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratCardView: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "e9f543lVEpJC76p2KuG+Wra", "BacaratCardView");
+(function() {
+cc.BacaratCardView = cc.Class({
+extends: cc.Component,
+properties: {
+lstPlayerCard: [ cc.Node ],
+lbScorePlayer: cc.Label,
+lstBankerCard: [ cc.Node ],
+lbScoreBanker: cc.Label
+},
+onLoad: function() {
+cc.Bacarat2Controller.getInstance().setCardView(this);
+this.playerCard1Item = this.lstPlayerCard[0].getComponent("BacaratCardItem");
+this.playerCard2Item = this.lstPlayerCard[1].getComponent("BacaratCardItem");
+this.playerCard3Item = this.lstPlayerCard[2].getComponent("BacaratCardItem");
+this.bankerCard1Item = this.lstBankerCard[0].getComponent("BacaratCardItem");
+this.bankerCard2Item = this.lstBankerCard[1].getComponent("BacaratCardItem");
+this.bankerCard3Item = this.lstBankerCard[2].getComponent("BacaratCardItem");
+this.nodeParentLbScorePlayer = this.lbScorePlayer.node.parent;
+this.nodeParentLbScoreBanker = this.lbScoreBanker.node.parent;
+this.resetLayoutCard();
+this.playerRotate = -90;
+this.bankerRotate = 90;
+this.rootCardsPos = this.initRootPositionCards();
+},
+activeNodeScore: function(t) {
+this.nodeParentLbScorePlayer.active = t;
+this.nodeParentLbScoreBanker.active = t;
+},
+activeNodeCards: function(t) {
+this.playerCard1Item.node.active = t;
+this.playerCard2Item.node.active = t;
+this.playerCard3Item.node.active = t;
+this.bankerCard1Item.node.active = t;
+this.bankerCard2Item.node.active = t;
+this.bankerCard3Item.node.active = t;
+},
+resetLayoutCard: function() {
+this.activeNodeCards(!1);
+this.activeNodeScore(!1);
+},
+initRootPositionCards: function() {
+var t = [], e = [];
+this.lstPlayerCard.map(function(e) {
+t.push(e.position);
+});
+this.lstBankerCard.map(function(t) {
+e.push(t.position);
+});
+return {
+playerCardPos: t,
+bankerCardPos: e
+};
+},
+showScoreSide: function(t) {
+t.Result;
+this.activeNodeCards(!0);
+this.lbScorePlayer.string = t.Result.HandValuePlayer;
+this.lbScoreBanker.string = t.Result.HandValueBanker;
+},
+showScoreArr: function(t) {
+var e = t.player, a = t.banker;
+this.activeNodeScore(!0);
+this.lbScorePlayer.string = this.calculateScore(e);
+this.lbScoreBanker.string = this.calculateScore(a);
+},
+calculateScore: function(t) {
+var e = 0;
+t.map(function(t) {
+var a = (t - 1) % 13 + 1;
+e += a = a >= 10 ? 0 : a;
+});
+return e >= 10 ? e.toString().split("")[1] : e;
+},
+initCardOnTable: function() {
+var t = this.rootCardsPos.playerCardPos, e = this.rootCardsPos.bankerCardPos;
+this.resetCard();
+this.playerCard1Item.setPosition(t[0]);
+this.playerCard2Item.setPosition(t[1]);
+this.bankerCard1Item.setPosition(e[0]);
+this.bankerCard2Item.setPosition(e[1]);
+},
+resetCard: function() {
+this.playerCard1Item.initValue(-1);
+this.playerCard2Item.initValue(-1);
+this.playerCard3Item.initValue(-1);
+this.bankerCard1Item.initValue(-1);
+this.bankerCard2Item.initValue(-1);
+this.bankerCard3Item.initValue(-1);
+},
+slideCardOnBet: function() {
+var t = this.rootCardsPos.playerCardPos, e = this.rootCardsPos.bankerCardPos;
+this.resetCard();
+if (cc.game.isPaused()) {
+this.playerCard1Item.setPosition(t[0]);
+this.playerCard2Item.setPosition(t[1]);
+this.bankerCard1Item.setPosition(e[0]);
+this.bankerCard2Item.setPosition(e[1]);
+} else {
+cc.director.getScheduler().schedule(function() {
+cc.AudioController.getInstance().playSound(cc.AudioTypes.OPEN_CARD);
+this.playerCard1Item.moveTo(t[0]);
+}, this, 0, 0, 0, !1);
+cc.director.getScheduler().schedule(function() {
+cc.AudioController.getInstance().playSound(cc.AudioTypes.OPEN_CARD);
+this.bankerCard1Item.moveTo(e[0]);
+}, this, 0, 0, .3, !1);
+cc.director.getScheduler().schedule(function() {
+cc.AudioController.getInstance().playSound(cc.AudioTypes.OPEN_CARD);
+this.playerCard2Item.moveTo(t[1]);
+}, this, 0, 0, .6, !1);
+cc.director.getScheduler().schedule(function() {
+cc.AudioController.getInstance().playSound(cc.AudioTypes.OPEN_CARD);
+this.bankerCard2Item.moveTo(e[1]);
+}, this, 0, 0, .9, !1);
+}
+},
+onSlideCard: function(t) {
+var e = t.Result, a = e.GateData, i = e.PlayerCard1, n = e.PlayerCard2, r = e.PlayerCard3, c = e.BankerCard1, o = e.BankerCard2, s = e.BankerCard3, h = 1.5;
+0 != r && 0 != s && (h = 7);
+0 != r && 0 == s && (h = 5);
+0 == r && 0 != s && (h = 5.5);
+cc.director.getScheduler().schedule(function() {
+var t = cc.Bacarat2Controller.getInstance().getWinResult();
+t && cc.Bacarat2Controller.getInstance().winResult(t);
+var e = cc.Bacarat2Controller.getInstance().getWinVipResult();
+e && cc.Bacarat2Controller.getInstance().winResultVip(e);
+}, this, 0, 0, h + 4.8, !1);
+var u = this.rootCardsPos.playerCardPos, l = this.rootCardsPos.bankerCardPos;
+this.playerCard1Item.node.active || this.initCardOnTable();
+this.playerCard1Item.updateOrdinal(i);
+this.playerCard2Item.updateOrdinal(n);
+this.playerCard3Item.updateOrdinal(r);
+this.bankerCard1Item.updateOrdinal(c);
+this.bankerCard2Item.updateOrdinal(o);
+this.bankerCard3Item.updateOrdinal(s);
+if (cc.game.isPaused()) {
+this.playerCard1Item.forceShowCard(u[0]);
+this.playerCard2Item.forceShowCard(u[1]);
+this.playerCard3Item.forceShowCard(u[2], this.playerRotate);
+this.bankerCard1Item.forceShowCard(l[0]);
+this.bankerCard2Item.forceShowCard(l[1]);
+this.bankerCard3Item.forceShowCard(l[2], this.bankerRotate);
+this.showScoreArr({
+player: [ i, n, r ],
+banker: [ c, o, s ]
+});
+this.showGateWin(a);
+cc.Bacarat2Controller.getInstance().clearPools();
+} else {
+if (cc.game.isPaused()) {
+this.playerCard1Item.forceShowCard(u[0]);
+this.playerCard2Item.forceShowCard(u[1]);
+this.bankerCard1Item.forceShowCard(l[0]);
+this.bankerCard2Item.forceShowCard(l[1]);
+this.showScoreArr({
+player: [ i, n ],
+banker: [ c, o ]
+});
+} else {
+cc.director.getScheduler().schedule(function() {
+this.playerCard1Item.animationShowCard();
+this.bankerCard1Item.animationShowCard();
+cc.director.getScheduler().schedule(function() {
+this.showScoreArr({
+player: [ i ],
+banker: [ c ]
+});
+}, this, 0, 0, .5, !1);
+}, this, 0, 0, 0, !1);
+cc.director.getScheduler().schedule(function() {
+this.playerCard2Item.animationShowCard();
+this.bankerCard2Item.animationShowCard();
+cc.director.getScheduler().schedule(function() {
+this.showScoreArr({
+player: [ i, n ],
+banker: [ c, o ]
+});
+}, this, 0, 0, .5, !1);
+}, this, 0, 0, 1, !1);
+}
+if (0 != r) if (cc.game.isPaused()) {
+this.playerCard3Item.forceShowCard(u[2], this.playerRotate);
+this.showScoreArr({
+player: [ i, n, r ],
+banker: [ c, o ]
+});
+} else {
+cc.director.getScheduler().schedule(function() {
+cc.AudioController.getInstance().playSound(cc.AudioTypes.OPEN_CARD);
+this.playerCard3Item.moveTo(u[2]);
+}, this, 0, 0, 2.5, !1);
+cc.director.getScheduler().schedule(function() {
+this.playerCard3Item.animationShowCard(!0);
+cc.director.getScheduler().schedule(function() {
+this.playerCard3Item.rotateCard(this.playerRotate);
+this.showScoreArr({
+player: [ i, n, r ],
+banker: [ c, o ]
+});
+}, this, 0, 0, 1, !1);
+}, this, 0, 0, 3.5, !1);
+} else this.playerCard3Item.reset();
+if (0 != s) if (cc.game.isPaused()) {
+this.bankerCard3Item.forceShowCard(l[2], this.bankerRotate);
+this.showScoreArr({
+player: [ i, n, r ],
+banker: [ c, o, s ]
+});
+} else {
+var p = 0 != r ? 4.5 : 2.5;
+cc.director.getScheduler().schedule(function() {
+cc.AudioController.getInstance().playSound(cc.AudioTypes.OPEN_CARD);
+this.bankerCard3Item.moveTo(l[2]);
+}, this, 0, 0, p, !1);
+cc.director.getScheduler().schedule(function() {
+this.bankerCard3Item.animationShowCard(!0);
+cc.director.getScheduler().schedule(function() {
+this.bankerCard3Item.rotateCard(this.bankerRotate);
+this.showScoreArr({
+player: [ i, n, r ],
+banker: [ c, o, s ]
+});
+}, this, 0, 0, 1, !1);
+}, this, 0, 0, p + 1, !1);
+} else this.bankerCard3Item.reset();
+cc.game.isPaused() ? cc.Bacarat2Controller.getInstance().clearAllChips() : cc.director.getScheduler().schedule(function() {
+var t = a.split(","), e = [ "1", "2", "3", "4", "5" ].filter(function(e) {
+return !t.includes(e);
+}), i = t.includes("" + cc.BacaratBetSite.TIE);
+this.showGateWin(a);
+e.map(function(t) {
+t = parseInt(t);
+cc.Bacarat2Controller.getInstance().getChipsLose(t, i);
+}, this);
+cc.director.getScheduler().schedule(function() {
+t.map(function(t) {
+t = parseInt(t);
+cc.Bacarat2Controller.getInstance().refundChips(t);
+}, this);
+i && cc.Bacarat2Controller.getInstance().refundChipsTie();
+}, this, 0, 0, 2, !1);
+}, this, 0, 0, h, !1);
+}
+},
+showGateWin: function(t) {
+t.split(",").map(function(t) {
+cc.Bacarat2Controller.getInstance().playAnimationWin(t);
+}, this);
+},
+forceShowResult: function(t, e) {
+var a = t.Result, i = a.GateData, n = a.PlayerCard1, r = a.PlayerCard2, c = a.PlayerCard3, o = a.BankerCard1, s = a.BankerCard2, h = a.BankerCard3, u = this.rootCardsPos.playerCardPos, l = this.rootCardsPos.bankerCardPos;
+this.playerCard1Item.initValue(n);
+this.playerCard2Item.initValue(r);
+this.playerCard3Item.initValue(c);
+this.bankerCard1Item.initValue(o);
+this.bankerCard2Item.initValue(s);
+this.bankerCard3Item.initValue(h);
+this.playerCard1Item.forceShowCard(u[0]);
+this.playerCard2Item.forceShowCard(u[1]);
+this.playerCard3Item.forceShowCard(u[2], this.playerRotate);
+this.bankerCard1Item.forceShowCard(l[0]);
+this.bankerCard2Item.forceShowCard(l[1]);
+this.bankerCard3Item.forceShowCard(l[2], this.bankerRotate);
+this.showScoreArr({
+player: [ n, r, c ],
+banker: [ o, s, h ]
+});
+this.showGateWin(i);
+var p = i.split(","), d = [ "1", "2", "3", "4", "5" ].filter(function(t) {
+return !p.includes(t);
+}), B = p.includes("" + cc.BacaratBetSite.TIE);
+if (parseInt(e) > 5 && !cc.game.isPaused()) {
+cc.director.getScheduler().schedule(function() {
+d.map(function(t) {
+t = parseInt(t);
+cc.Bacarat2Controller.getInstance().getChipsLose(t, B);
+}, this);
+}, this, 0, 0, 1, !1);
+cc.director.getScheduler().schedule(function() {
+p.map(function(t) {
+t = parseInt(t);
+cc.Bacarat2Controller.getInstance().refundChips(t);
+}, this);
+B && cc.Bacarat2Controller.getInstance().refundChipsTie();
+}, this, 0, 0, 1.5, !1);
+} else cc.Bacarat2Controller.getInstance().clearAllChips();
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratCatCauView: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "5237cjlaHFFy4UzGpNv9xVN", "BacaratCatCauView");
+cc.Class({
+extends: cc.Component,
+properties: {
+itemTemplate: cc.Node,
+layoutParent: cc.Node
+},
+onLoad: function() {
+cc.Bacarat2Controller.getInstance().setCatCauView(this);
+this.nodeRootx = -10;
+this.nodeRooty = -38;
+this.stepX = -19;
+this.stepY = 19;
+this.lengthNode = 5;
+this.isActive = !1;
+this.itemPool = new cc.NodePool();
+for (var t = 0; t < 100; t++) this.itemPool.put(cc.instantiate(this.itemTemplate));
+},
+activeGraph: function(t) {
+this.node.active = t;
+this.isActive = t;
+},
+initListCatCau: function(t) {
+if (t && 0 !== t.length) {
+try {
+this.clearList();
+} catch (t) {}
+var e = 0, a = [];
+a[e] = [];
+a[e].push(t[0]);
+for (var i = 1; i < t.length; i++) {
+a[e][0].BigGateIDWin == t[i].BigGateIDWin && a[e].length !== this.lengthNode || (a[++e] = []);
+a[e].push(t[i]);
+}
+this.draw(a);
+this.node.active = this.isActive;
+}
+},
+draw: function(t) {
+var e = this, a = 19 * t.length;
+a = a < 420 ? 420 : a;
+this.layoutParent.width = a;
+this.layoutParent.height = 100;
+t.map(function(t, a) {
+var i = e.nodeRooty + (5 - t.length) * e.stepY;
+t.map(function(t, n) {
+var r = e.stepX * a + e.nodeRootx, c = i + n * e.stepY, o = null, s = (o = e.itemPool.size() > 0 ? e.itemPool.get() : cc.instantiate(e.itemTemplate)).getComponent(cc.ItemSoiCau);
+s.setSpiteFrameItem(t.BigGateIDWin, t.IsPlayerPair, t.IsBankerPair);
+s.setScore(t.HandValue);
+o.parent = e.layoutParent;
+o.position = cc.v2(r, c);
+}, e);
+}, this);
+},
+clearList: function() {
+var t = this, e = this.layoutParent.children;
+e.length > 0 && e.map(function(e) {
+t.itemPool.put(e);
+}, this);
+this.layoutParent.removeAllChildren(!0);
+},
+onDestroy: function() {
+try {
+this.itemPool.clear();
+} catch (t) {}
+}
+});
+cc._RF.pop();
+}, {} ],
+BacaratChipsView: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "a0769OwAqtOn5Q/RFzcpC8e", "BacaratChipsView");
+(function() {
+cc.BacaratChipsView = cc.Class({
+extends: cc.Component,
+properties: {
+layoutChip: cc.Node,
+posChips: [ cc.Node ],
+posPPlayer: cc.Node,
+posPlayer: cc.Node,
+posTie: cc.Node,
+posBanker: cc.Node,
+posPBanker: cc.Node,
+posGroupUsers: cc.Node,
+posDealer: cc.Node,
+lstPosPlayer: [ cc.Node ]
+},
+onLoad: function() {
+cc.Bacarat2Controller.getInstance().setChipsView(this);
+this.initParamChips();
+},
+initParamChips: function() {
+this.chipsBetPPair = [];
+this.chipsBetPlayer = [];
+this.chipsBetTie = [];
+this.chipsBetBanker = [];
+this.chipsBetPBanker = [];
+},
+randomPosChip: function(t, e) {
+var a = null;
+switch (e = parseInt(e)) {
+case cc.BacaratBetSite.PLAYER_PAIR:
+a = this.posPPlayer;
+break;
+
+case cc.BacaratBetSite.PLAYER:
+a = this.posPlayer;
+break;
+
+case cc.BacaratBetSite.TIE:
+a = this.posTie;
+break;
+
+case cc.BacaratBetSite.BANKER:
+a = this.posBanker;
+break;
+
+case cc.BacaratBetSite.BANKER_PAIR:
+a = this.posPBanker;
+}
+var i = a.position, n = a.width / 2, r = -n, c = a.height / 2, o = -c, s = Math.floor(Math.random() * (n - r + 1) + r), h = Math.floor(Math.random() * (c - o + 1) + o);
+i.x = i.x + s;
+i.y = i.y + h;
+return i;
+},
+moveChipBet: function(t, e, a, i) {
+this.layoutChip.position = cc.v2(0, 0);
+try {
+t = parseInt(t);
+var n = this.posChips[cc.BacaratMapChipSpriteFrame[t]].position;
+if (a === cc.BacaratChipOf.USERS) {
+n = this.posGroupUsers.position;
+var r = cc.Bacarat2Controller.getInstance().positionPlayerUI().indexOf(i);
+-1 !== r && (n = this.lstPosPlayer[r].position);
+}
+var c = this.randomPosChip(t, e), o = cc.Bacarat2Controller.getInstance().createChip(cc.BacaratMapChipSpriteFrame[t]);
+o.parent = this.layoutChip;
+o.position = n;
+var s = cc.moveTo(.3, c);
+cc.game.isPaused() ? o.position = c : o.runAction(s);
+var h = n;
+a === cc.BacaratChipOf.PLAYER && (h = this.lstPosPlayer[0].position);
+switch (e) {
+case cc.BacaratBetSite.PLAYER_PAIR:
+this.chipsBetPPair.push([ o, t, h ]);
+break;
+
+case cc.BacaratBetSite.PLAYER:
+this.chipsBetPlayer.push([ o, t, h ]);
+break;
+
+case cc.BacaratBetSite.TIE:
+this.chipsBetTie.push([ o, t, h ]);
+break;
+
+case cc.BacaratBetSite.BANKER:
+this.chipsBetBanker.push([ o, t, h ]);
+break;
+
+case cc.BacaratBetSite.BANKER_PAIR:
+this.chipsBetPBanker.push([ o, t, h ]);
+}
+} catch (t) {}
+},
+updateChipForBetSession: function(t) {
+var e = this;
+0 !== t.length && t.map(function(t) {
+0 !== t.length && t.map(function(t) {
+var a = parseInt(t.BetSide), i = parseInt(t.BetValue), n = cc.Bacarat2Controller.getInstance().createChip(cc.BacaratMapChipSpriteFrame[i]);
+if (n) {
+var r = e.randomPosChip(i, a);
+n.parent = e.layoutChip;
+n.position = r;
+var c = e.posGroupUsers.position, o = cc.Bacarat2Controller.getInstance().positionPlayerUI().indexOf(t.AccountID);
+-1 !== o && (c = e.lstPosPlayer[o].position);
+switch (a) {
+case cc.BacaratBetSite.PLAYER_PAIR:
+e.chipsBetPPair.push([ n, i, c ]);
+break;
+
+case cc.BacaratBetSite.PLAYER:
+e.chipsBetPlayer.push([ n, i, c ]);
+break;
+
+case cc.BacaratBetSite.TIE:
+e.chipsBetTie.push([ n, i, c ]);
+break;
+
+case cc.BacaratBetSite.BANKER:
+e.chipsBetBanker.push([ n, i, c ]);
+break;
+
+case cc.BacaratBetSite.BANKER_PAIR:
+e.chipsBetPBanker.push([ n, i, c ]);
+}
+}
+}, e);
+}, this);
+},
+refundChips: function(t) {
+var e = this, a = null;
+switch (t = parseInt(t)) {
+case cc.BacaratBetSite.PLAYER_PAIR:
+a = this.chipsBetPPair;
+break;
+
+case cc.BacaratBetSite.PLAYER:
+a = this.chipsBetPlayer;
+break;
+
+case cc.BacaratBetSite.TIE:
+a = this.chipsBetTie;
+break;
+
+case cc.BacaratBetSite.BANKER:
+a = this.chipsBetBanker;
+break;
+
+case cc.BacaratBetSite.BANKER_PAIR:
+a = this.chipsBetPBanker;
+break;
+
+default:
+return;
+}
+var i = 0;
+if (a && 0 !== a.length) {
+a.map(function(a, n) {
+try {
+i = .1 * (n = n > 5 ? 5 : n);
+var r = cc.Bacarat2Controller.getInstance().createChip(cc.BacaratMapChipSpriteFrame[a[1]]);
+r.parent = e.layoutChip;
+r.position = e.posDealer.position;
+var c = e.randomPosChip(a[1], t);
+if (cc.game.isPaused()) r.position = c; else {
+var o = cc.moveTo(.3, c);
+cc.director.getScheduler().schedule(function() {
+r.runAction(o);
+}, e, 0, 0, .1 * n, !1);
+}
+cc.Bacarat2Controller.getInstance().setChipWin(a[0], a[1], a[2]);
+cc.Bacarat2Controller.getInstance().setChipWin(r, a[1], a[2]);
+} catch (t) {}
+}, this);
+cc.director.getScheduler().schedule(function() {
+this.runRefundChipForUser();
+}, this, 0, 0, i + 1.5, !1);
+}
+},
+runRefundChipForUser: function() {
+var t = this;
+try {
+cc.Bacarat2Controller.getInstance().getChipsWin().map(function(e, a) {
+a > 5 && (a = 5);
+var i = e[2];
+if (cc.game.isPaused()) {
+cc.Bacarat2Controller.getInstance().putChipToPool(e[0], e[1]);
+e[0].removeFromParent(!0);
+} else cc.director.getScheduler().schedule(function() {
+var t = cc.moveTo(.3, i), a = cc.callFunc(function() {
+e[0].runAction(cc.fadeOut());
+setTimeout(function() {
+cc.Bacarat2Controller.getInstance().putChipToPool(e[0], e[1]);
+}.bind(this), 1e3);
+e[0].removeFromParent(!0);
+}, this);
+e[0].runAction(cc.sequence(t, a));
+}, t, 0, 0, .1 * a, !1);
+}, this);
+} catch (t) {}
+},
+refundChipsTie: function() {
+var t = this;
+try {
+[].concat(this.chipsBetPlayer, this.chipsBetBanker).map(function(e, a) {
+a > 5 && (a = 5);
+var i = e[2];
+if (cc.game.isPaused()) {
+cc.Bacarat2Controller.getInstance().putChipToPool(e[0], e[1]);
+e[0].removeFromParent(!0);
+} else cc.director.getScheduler().schedule(function() {
+var t = cc.moveTo(.3, i), a = cc.callFunc(function() {
+cc.Bacarat2Controller.getInstance().putChipToPool(e[0], e[1]);
+e[0].removeFromParent(!0);
+}, this);
+e[0].runAction(cc.sequence(t, a));
+}, t, 0, 0, .1 * a, !1);
+}, this);
+} catch (t) {}
+},
+getChipsLose: function(t, e) {
+var a = this, i = null;
+switch (t = parseInt(t)) {
+case cc.BacaratBetSite.PLAYER_PAIR:
+i = this.chipsBetPPair;
+break;
+
+case cc.BacaratBetSite.PLAYER:
+i = this.chipsBetPlayer;
+break;
+
+case cc.BacaratBetSite.TIE:
+i = this.chipsBetTie;
+break;
+
+case cc.BacaratBetSite.BANKER:
+i = this.chipsBetBanker;
+break;
+
+case cc.BacaratBetSite.BANKER_PAIR:
+i = this.chipsBetPBanker;
+}
+if (0 !== i.length && (!e || t != cc.BacaratBetSite.PLAYER && t != cc.BacaratBetSite.BANKER)) {
+i.map(function(t, e) {
+try {
+e > 5 && (e = 5);
+var i = a.posDealer.position;
+if (cc.game.isPaused()) {
+cc.Bacarat2Controller.getInstance().putChipToPool(t[0], t[1]);
+t[0].removeFromParent(!0);
+} else cc.director.getScheduler().schedule(function() {
+var e = cc.moveTo(.3, i), a = cc.callFunc(function() {
+cc.Bacarat2Controller.getInstance().putChipToPool(t[0], t[1]);
+t[0].removeFromParent(!0);
+}, this);
+t[0].runAction(cc.sequence(e, a));
+}, a, 0, 0, .1 * e, !1);
+} catch (t) {}
+}, this);
+i = [];
+}
+},
+clearAllChips: function() {
+cc.Bacarat2Controller.getInstance().clearPools();
+this.layoutChip.removeAllChildren();
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratController: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "9231ecXkxlFO6shxyYNUcQ3", "BacaratController");
+(function() {
+var t;
+t = function() {
+var t;
+function e() {}
+t = void 0;
+e.getInstance = function() {
+void 0 === t && (t = this);
+return t.prototype;
+};
+e.prototype.setBacaratView = function(t) {
+return this.BacaratView = t;
+};
+e.prototype.sendRequestOnHub = function(t, e, a) {
+if (this.BacaratView) return this.BacaratView.sendRequestOnHub(t, e, a);
+};
+e.prototype.updateBalance = function(t) {
+this.BacaratView.updateBalance(t);
+};
+e.prototype.setInfoView = function(t) {
+return this.Bacarat_InfoView = t;
+};
+e.prototype.playerLeave = function(t) {
+this.BacaratView.playerLeave(t);
+this.Bacarat_InfoView.playerLeave(t);
+};
+e.prototype.updateSessionInfo = function(t) {
+return this.Bacarat_InfoView.updateSessionInfo(t);
+};
+e.prototype.updatePlayersInGame = function(t) {
+return this.Bacarat_InfoView.updatePlayersInGame(t);
+};
+e.prototype.winResult = function(t) {
+return this.Bacarat_InfoView.winResult(t);
+};
+e.prototype.setWinResult = function(t) {
+return this.winResultResponse = t;
+};
+e.prototype.getWinResult = function() {
+return this.winResultResponse;
+};
+e.prototype.setWinVipResult = function(t) {
+return this.winVipResultResponse = t;
+};
+e.prototype.getWinVipResult = function() {
+return this.winVipResultResponse;
+};
+e.prototype.winResultVip = function(t) {
+return this.Bacarat_InfoView.winResultVip(t);
+};
+e.prototype.playerShowBubbleChat = function(t) {
+return this.Bacarat_InfoView.playerShowBubbleChat(t);
+};
+e.prototype.moveCards = function(t) {
+return this.Bacarat_InfoView.moveCards(t);
+};
+e.prototype.updatePlayersUI = function(t) {
+return this.Bacarat_InfoView.updatePlayersUI(t);
+};
+e.prototype.updatePlayerInfor = function(t) {
+return this.Bacarat_InfoView.updatePlayerInfor(t);
+};
+e.prototype.updateBalanceCurrPlayer = function(t) {
+return this.Bacarat_InfoView.updateBalanceCurrPlayer(t);
+};
+e.prototype.playerShowBubbleChat = function(t) {
+return this.Bacarat_InfoView.playerShowBubbleChat(t);
+};
+e.prototype.updateBalancePlayer = function(t) {
+return this.Bacarat_InfoView.updateBalancePlayer(t);
+};
+e.prototype.updatePositionPlayerUI = function(t) {
+return this.positionsUI = t;
+};
+e.prototype.positionPlayerUI = function() {
+return this.positionsUI;
+};
+e.prototype.setAssetView = function(t) {
+return this.Bacarat_AssetsView = t;
+};
+e.prototype.getAssetView = function() {
+return this.Bacarat_AssetsView;
+};
+e.prototype.getSfBack = function(t) {
+return this.Bacarat_AssetsView.getSfBack(t);
+};
+e.prototype.getSfBorderCard = function() {
+return this.Bacarat_AssetsView.getSfBorderCard();
+};
+e.prototype.createChip = function(t) {
+return this.Bacarat_AssetsView.createChip(t);
+};
+e.prototype.getSfCardBack = function() {
+return this.Bacarat_AssetsView.getSfCardBack();
+};
+e.prototype.getSpriteCard = function(t, e) {
+return this.Bacarat_AssetsView.getSpriteCard(t, e);
+};
+e.prototype.getCardValueByNumber = function(t) {
+return this.Bacarat_AssetsView.getCardValueByNumber(t);
+};
+e.prototype.getColorType = function(t) {
+return this.Bacarat_AssetsView.getColorType(t);
+};
+e.prototype.putChipToPool = function(t, e) {
+return this.Bacarat_AssetsView.putChipToPool(t, e);
+};
+e.prototype.clearPools = function() {
+return this.Bacarat_AssetsView.clearPools();
+};
+e.prototype.setBetView = function(t) {
+return this.Bacarat_BetView = t;
+};
+e.prototype.onBet = function(t) {
+return this.Bacarat_BetView.onBet(t);
+};
+e.prototype.enableClickBet = function(t) {
+return this.Bacarat_BetView.enableClickBet(t);
+};
+e.prototype.disableBetAgain = function(t) {
+return this.Bacarat_BetView.disableBetAgain(t);
+};
+e.prototype.playAnimationWin = function(t) {
+return this.Bacarat_BetView.playAnimationWin(t);
+};
+e.prototype.stopAnimationWin = function() {
+return this.Bacarat_BetView.stopAnimationWin();
+};
+e.prototype.updateTotalUserBetSide = function(t, e) {
+return this.Bacarat_BetView.updateTotalUserBetSide(t, e);
+};
+e.prototype.updateTotalBet = function(t) {
+return this.Bacarat_BetView.updateTotalBet(t);
+};
+e.prototype.updateBetOfAccount = function(t) {
+return this.Bacarat_BetView.updateBetOfAccount(t);
+};
+e.prototype.setCardView = function(t) {
+return this.Bacarat_CardView = t;
+};
+e.prototype.activeNodeScore = function(t) {
+return this.Bacarat_CardView.activeNodeScore(t);
+};
+e.prototype.activeNodeCards = function(t) {
+return this.Bacarat_CardView.activeNodeCards(t);
+};
+e.prototype.showScoreSide = function(t) {
+return this.Bacarat_CardView.showScoreSide(t);
+};
+e.prototype.resetLayoutCard = function() {
+return this.Bacarat_CardView.resetLayoutCard();
+};
+e.prototype.onSlideCard = function(t) {
+return this.Bacarat_CardView.onSlideCard(t);
+};
+e.prototype.slideCardOnBet = function() {
+return this.Bacarat_CardView.slideCardOnBet();
+};
+e.prototype.initCardOnTable = function() {
+return this.Bacarat_CardView.initCardOnTable();
+};
+e.prototype.forceShowResult = function(t, e) {
+return this.Bacarat_CardView.forceShowResult(t, e);
+};
+e.prototype.setChipsView = function(t) {
+return this.Bacarat_ChipsView = t;
+};
+e.prototype.moveChipBet = function(t, e, a, i) {
+return this.Bacarat_ChipsView.moveChipBet(t, e, a, i);
+};
+e.prototype.getChipsLose = function(t, e) {
+return this.Bacarat_ChipsView.getChipsLose(t, e);
+};
+e.prototype.refundChips = function(t) {
+return this.Bacarat_ChipsView.refundChips(t);
+};
+e.prototype.refundChipsTie = function() {
+return this.Bacarat_ChipsView.refundChipsTie();
+};
+e.prototype.clearAllChips = function() {
+return this.Bacarat_ChipsView.clearAllChips();
+};
+e.prototype.initParamChips = function() {
+return this.Bacarat_ChipsView.initParamChips();
+};
+e.prototype.updateChipForBetSession = function(t) {
+return this.Bacarat_ChipsView.updateChipForBetSession(t);
+};
+e.prototype.clearBetLog = function(t) {
+this.betLog = this.betLog.filter(function(e) {
+return e.sessionID > t - 1;
+});
+};
+e.prototype.getBetLogBySessionID = function(t) {
+return this.betLog.filter(function(e) {
+return e.sessionID == t - 1;
+});
+};
+e.prototype.setBetLog = function(t) {
+return this.betLog.push(t);
+};
+e.prototype.getBetLog = function() {
+return this.betLog;
+};
+e.prototype.initBetLog = function() {
+return this.betLog = [];
+};
+e.prototype.setSoiCauView = function(t) {
+return this.Bacarat_SoiCau = t;
+};
+e.prototype.initListSoiCau = function(t) {
+return this.Bacarat_SoiCau.initListSoiCau(t);
+};
+e.prototype.activeGraph = function(t) {
+this.Bacarat_SoiCau.activeGraph(t);
+this.Bacarat_CatCau.activeGraph(t);
+};
+e.prototype.setCatCauView = function(t) {
+return this.Bacarat_CatCau = t;
+};
+e.prototype.initListCatCau = function(t) {
+return this.Bacarat_CatCau.initListCatCau(t);
+};
+e.prototype.setChipWin = function(t, e, a) {
+return this.chipsWin.push([ t, e, a ]);
+};
+e.prototype.getChipsWin = function() {
+return this.chipsWin;
+};
+e.prototype.initChipsWin = function() {
+return this.chipsWin = [];
+};
+e.prototype.setBetLogSession = function(t) {
+return this.betLogSession = t;
+};
+e.prototype.getBetLogSession = function() {
+return this.betLogSession;
+};
+e.prototype.setCurrentState = function(t) {
+return this.currentState = t;
+};
+e.prototype.getCurrentState = function() {
+return this.currentState;
+};
+return e;
+}();
+cc.BacaratController = t;
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratGroupItem: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "f9dcdm7m3JOIpbNPPBVMofg", "BacaratGroupItem");
+(function() {
+cc.BacaratGroupItem = cc.Class({
+extends: cc.Component,
+properties: {
+avatar: cc.Avatar,
+lbSId: cc.Label,
+lbNickName: cc.Label,
+lbBalance: cc.Label,
+lbSTT: cc.Label
+},
+updateItem: function(t, e) {
+if (t) {
+var a = t.Account, i = a.Avatar;
+i <= 0 && (i = 1);
+this.lbSTT.string = e + 1;
+this.lbSId.string = cc.Config.getInstance().getServiceNameNoFormat(a.ServiceID);
+this.avatar.setAvatar(cc.AccountController.getInstance().getAvatarImage(i));
+this.lbNickName.string = a.NickName;
+this.lbBalance.string = cc.Tool.getInstance().formatNumber(a.Balance);
+this.item = t;
+this.itemID = e;
+}
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratGroupUserListView: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "e234dp5HkFCtoYRJlmU00AW", "BacaratGroupUserListView");
+(function() {
+cc.BacaratGroupUserListView = cc.Class({
+extends: cc.Component,
+properties: {
+itemTemplate: cc.Node,
+scrollView: cc.ScrollView,
+spawnCount: 0,
+spacing: 0,
+bufferZone: 0
+},
+onLoad: function() {
+this.spawnCount = 15;
+if (null !== this.scrollView) {
+this.content = this.scrollView.content;
+this.items = [];
+this.updateTimer = 0;
+this.updateInterval = .1;
+this.lastContentPosY = 0;
+this.rootContentY = this.content.y;
+}
+},
+resetList: function() {
+if (null !== this.scrollView) {
+this.items = [];
+this.scrollView.stopAutoScroll();
+this.content = this.scrollView.content;
+this.content.y = this.rootContentY;
+for (var t = this.content.children, e = t.length - 1; e >= 0; e--) this.content.removeChild(t[e]);
+}
+},
+getPositionInView: function(t) {
+var e = t.parent.convertToWorldSpaceAR(t.position);
+return this.scrollView.node.convertToNodeSpaceAR(e);
+},
+initialize: function(t) {
+this.messages = t;
+var e = this.messages.length;
+this.content.height = e * (this.itemTemplate.height + this.spacing) + this.spacing;
+for (var a = Math.min(this.spawnCount, e), i = 0; i < a; ++i) {
+var n = cc.instantiate(this.itemTemplate);
+this.content.addChild(n);
+n.setPosition(0, -n.height * (.5 + i) - this.spacing * (i + 1));
+n.getComponent(cc.BacaratGroupItem).updateItem(this.messages[i], i);
+this.items.push(n);
+}
+this.rootContentY = this.content.y;
+},
+update: function(t) {
+this.updateTimer += t;
+if (!(this.updateTimer < this.updateInterval)) {
+this.updateTimer = 0;
+for (var e = this.items, a = this.bufferZone, i = this.scrollView.content.y < this.lastContentPosY, n = (this.itemTemplate.height + this.spacing) * e.length, r = 0; r < e.length; ++r) {
+var c = this.getPositionInView(e[r]);
+if (i) {
+if (c.y < -a && e[r].y + n < 0) {
+e[r].y = e[r].y + n;
+var o = e[r].getComponent(cc.BacaratGroupItem), s = o.itemID - e.length;
+o.updateItem(this.messages[s], s);
+}
+} else if (c.y > a && e[r].y - n > -this.content.height) {
+e[r].y = e[r].y - n;
+s = (o = e[r].getComponent(cc.BacaratGroupItem)).itemID + e.length;
+o.updateItem(this.messages[s], s);
+}
+}
+this.lastContentPosY = this.scrollView.content.y;
+}
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratGroupUserView: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "200e4GvazdNvpuWkER+Upwo", "BacaratGroupUserView");
+(function() {
+cc.BacaratGroupUserView = cc.Class({
+extends: cc.Component,
+properties: {
+groupUserListView: cc.BacaratGroupUserListView
+},
+onLoad: function() {
+this.animation = this.node.getComponent(cc.Animation);
+this.node.zIndex = 99;
+},
+onEnable: function() {
+var t = this;
+cc.director.getScheduler().schedule(function() {
+t.getGroupUser();
+}, this, 1, 0, .2, !1);
+this.animation.play("openPopup");
+},
+getGroupUser: function() {
+new cc.BacaratGroupUserCommand().execute(this);
+},
+onGetGroupUserResponse: function(t) {
+var e = t;
+if (null !== e && e.length > 0) {
+this.groupUserListView.resetList();
+this.groupUserListView.initialize(e);
+}
+},
+closeClicked: function() {
+this.groupUserListView.resetList();
+this.animation.play("closePopup");
+var t = this;
+cc.director.getScheduler().schedule(function() {
+t.animation.stop();
+cc.BacaratPopupController.getInstance().destroyGroupUserView();
+}, this, 1, 0, .12, !1);
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratHelpView: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "047601jfqdM77E6SSj77g44", "BacaratHelpView");
+(function() {
+cc.BacaratHelpView = cc.Class({
+extends: cc.Component,
+properties: {},
+onLoad: function() {
+this.animation = this.node.getComponent(cc.Animation);
+},
+closeFinished: function() {
+cc.BacaratPopupController.getInstance().destroyHelpView();
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratHistoryItem: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "3b98ex1jiVGqJi16JO3Fvjc", "BacaratHistoryItem");
+(function() {
+cc.BacaratHistoryItem = cc.Class({
+extends: cc.Component,
+properties: {
+lbSession: cc.Label,
+lbTime: cc.Label,
+lbSide: cc.Label,
+lbResult: cc.Label,
+lbBet: cc.Label,
+lbRefund: cc.Label,
+lbWin: cc.Label
+},
+updateItem: function(t, e) {
+this.lbSession.string = "#" + t.SessionID;
+this.lbTime.string = cc.Tool.getInstance().convertUTCTime(t.CreateTime);
+var a = "";
+switch (parseInt(t.BetGateID)) {
+case cc.BacaratBetSite.PLAYER_PAIR:
+a = "P.Pair";
+break;
+
+case cc.BacaratBetSite.PLAYER:
+a = "Player";
+break;
+
+case cc.BacaratBetSite.TIE:
+a = "Tie";
+break;
+
+case cc.BacaratBetSite.BANKER:
+a = "Banker";
+break;
+
+case cc.BacaratBetSite.BANKER_PAIR:
+a = "B.Pair";
+}
+this.lbSide.string = a;
+var i = [];
+if ("" === t.GateData) this.lbResult.string = ""; else {
+t.GateData.split(",").map(function(t) {
+switch (parseInt(t)) {
+case cc.BacaratBetSite.PLAYER_PAIR:
+i.push("P.Pair");
+break;
+
+case cc.BacaratBetSite.PLAYER:
+i.push("Player");
+break;
+
+case cc.BacaratBetSite.TIE:
+i.push("Tie");
+break;
+
+case cc.BacaratBetSite.BANKER:
+i.push("Banker");
+break;
+
+case cc.BacaratBetSite.BANKER_PAIR:
+i.push("B.Pair");
+}
+});
+var n;
+n = i.length > 1 ? i.join(", ") : i[0];
+this.lbResult.string = n;
+}
+this.lbBet.string = cc.Tool.getInstance().formatNumber(t.Bet);
+this.lbRefund.string = cc.Tool.getInstance().formatNumber(t.Refund);
+this.lbWin.string = cc.Tool.getInstance().formatNumber(t.Award);
+this.item = t;
+this.itemID = e;
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratHistoryListView: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "0a9402v8J1KU4ad3pVsj7Ot", "BacaratHistoryListView");
+(function() {
+cc.BacaratHistoryListView = cc.Class({
+extends: cc.Component,
+properties: {
+itemTemplate: cc.Node,
+scrollView: cc.ScrollView,
+spawnCount: 0,
+spacing: 0,
+bufferZone: 0
+},
+onLoad: function() {
+this.spawnCount = 15;
+if (null !== this.scrollView) {
+this.content = this.scrollView.content;
+this.items = [];
+this.updateTimer = 0;
+this.updateInterval = .1;
+this.lastContentPosY = 0;
+this.rootContentY = this.content.y;
+}
+},
+resetList: function() {
+if (null !== this.scrollView) {
+this.items = [];
+this.scrollView.stopAutoScroll();
+this.content = this.scrollView.content;
+this.content.y = this.rootContentY;
+for (var t = this.content.children, e = t.length - 1; e >= 0; e--) this.content.removeChild(t[e]);
+}
+},
+getPositionInView: function(t) {
+var e = t.parent.convertToWorldSpaceAR(t.position);
+return this.scrollView.node.convertToNodeSpaceAR(e);
+},
+initialize: function(t) {
+this.messages = t;
+var e = this.messages.length;
+this.content.height = e * (this.itemTemplate.height + this.spacing) + this.spacing;
+for (var a = Math.min(this.spawnCount, e), i = 0; i < a; ++i) {
+var n = cc.instantiate(this.itemTemplate);
+this.content.addChild(n);
+n.setPosition(0, -n.height * (.5 + i) - this.spacing * (i + 1));
+n.getComponent(cc.BacaratHistoryItem).updateItem(this.messages[i], i);
+this.items.push(n);
+}
+this.rootContentY = this.content.y;
+},
+update: function(t) {
+this.updateTimer += t;
+if (!(this.updateTimer < this.updateInterval)) {
+this.updateTimer = 0;
+for (var e = this.items, a = this.bufferZone, i = this.scrollView.content.y < this.lastContentPosY, n = (this.itemTemplate.height + this.spacing) * e.length, r = 0; r < e.length; ++r) {
+var c = this.getPositionInView(e[r]);
+if (i) {
+if (c.y < -a && e[r].y + n < 0) {
+e[r].y = e[r].y + n;
+var o = e[r].getComponent(cc.BacaratHistoryItem), s = o.itemID - e.length;
+o.updateItem(this.messages[s], s);
+}
+} else if (c.y > a && e[r].y - n > -this.content.height) {
+e[r].y = e[r].y - n;
+s = (o = e[r].getComponent(cc.BacaratHistoryItem)).itemID + e.length;
+o.updateItem(this.messages[s], s);
+}
+}
+this.lastContentPosY = this.scrollView.content.y;
+}
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratHistoryView: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "f6c9fCgiwZD4LZvSi9f1r+Z", "BacaratHistoryView");
+(function() {
+cc.BacaratHistoryView = cc.Class({
+extends: cc.Component,
+properties: {
+historyListView: cc.BacaratHistoryListView
+},
+onLoad: function() {
+this.animation = this.node.getComponent(cc.Animation);
+this.node.zIndex = 99;
+},
+onEnable: function() {
+var t = this;
+cc.director.getScheduler().schedule(function() {
+t.getHistory();
+}, this, 1, 0, .2, !1);
+this.animation.play("openPopup");
+},
+getHistory: function() {
+new cc.BacaratHistoryCommand().execute(this);
+},
+onGetHistoryResponse: function(t) {
+var e = t;
+if (null !== e && e.length > 0) {
+this.historyListView.resetList();
+this.historyListView.initialize(e);
+}
+},
+closeClicked: function() {
+this.historyListView.resetList();
+this.animation.play("closePopup");
+var t = this;
+cc.director.getScheduler().schedule(function() {
+t.animation.stop();
+cc.BacaratPopupController.getInstance().destroyHistoryView();
+}, this, 1, 0, .12, !1);
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratInfoView: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "1f6a39hW/BA6Yemu9V6DgO8", "BacaratInfoView");
+(function() {
+cc.BacaratInfoView = cc.Class({
+extends: cc.Component,
+properties: {
+lbTime: cc.Label,
+lbSessionID: cc.Label,
+layoutCard: cc.Node,
+lbStatus: cc.Label,
+lbTotalPlayer: cc.Label,
+lstPlayers: [ cc.BacaratPlayer ]
+},
+onLoad: function() {
+cc.Bacarat2Controller.getInstance().setInfoView(this);
+this.activeTimer(!1);
+this.showStatus(null);
+this.isShowCard = !1;
+this.currentState = null;
+this.interval = null;
+this.time = 0;
+this.currPlayer = this.lstPlayers[0];
+},
+onDestroy: function() {
+try {
+this.interval && clearInterval(this.interval);
+} catch (t) {}
+},
+updateSessionInfo: function(t) {
+var e = t.CurrentState;
+switch (e) {
+case cc.BacaratMapGameState.BETTING:
+if (this.currentState != e) {
+cc.Bacarat2Controller.getInstance().setWinResult(null);
+cc.Bacarat2Controller.getInstance().setWinVipResult(null);
+this.showStatus("ĐẶT CƯỢC");
+this.activeLayoutCard(!0);
+this.isShowCard || cc.Bacarat2Controller.getInstance().initCardOnTable();
+cc.Bacarat2Controller.getInstance().disableBetAgain(!1);
+this.lbTime.node.color = cc.Color.GREEN;
+this.updateTime(t.Ellapsed);
+this.activeTimer(!0);
+cc.Bacarat2Controller.getInstance().enableClickBet(!0);
+}
+break;
+
+case cc.BacaratMapGameState.SHOW_RESULT:
+if (this.currentState != e) {
+this.showStatus(null);
+this.activeLayoutCard(!0);
+this.showStatus("KẾT QUẢ");
+this.lbTime.node.color = cc.Color.WHITE;
+this.updateTime(t.Ellapsed);
+this.activeTimer(!0);
+cc.Bacarat2Controller.getInstance().enableClickBet(!1);
+cc.Bacarat2Controller.getInstance().initChipsWin();
+try {
+parseInt(t.Ellapsed) >= 15 && !cc.game.isPaused() ? cc.Bacarat2Controller.getInstance().onSlideCard(t) : cc.Bacarat2Controller.getInstance().forceShowResult(t, t.Ellapsed);
+} catch (t) {}
+}
+break;
+
+case cc.BacaratMapGameState.PREPARE_NEW_ROUD:
+if (this.currentState != e) {
+this.isShowCard = !0;
+this.showStatus(null);
+this.activeLayoutCard(!1);
+this.activeTimer(!1);
+cc.Bacarat2Controller.getInstance().enableClickBet(!1);
+cc.Bacarat2Controller.getInstance().resetLayoutCard();
+cc.Bacarat2Controller.getInstance().stopAnimationWin();
+cc.Bacarat2Controller.getInstance().clearAllChips();
+cc.Bacarat2Controller.getInstance().initParamChips();
+cc.Bacarat2Controller.getInstance().clearBetLog(cc.Bacarat2Controller.getInstance().getBetLogSession());
+cc.Bacarat2Controller.getInstance().setBetLogSession(cc.Bacarat2Controller.getInstance().getBetLogSession() + 1);
+this.resetPlayerUI();
+if (cc.game.isPaused()) {
+this.activeLayoutCard(!0);
+cc.Bacarat2Controller.getInstance().initCardOnTable();
+} else cc.director.getScheduler().schedule(function() {
+this.activeLayoutCard(!0);
+cc.Bacarat2Controller.getInstance().slideCardOnBet();
+}, this, 0, 0, .5, !1);
+}
+break;
+
+case cc.BacaratMapGameState.END_BETTING:
+if (this.currentState != e) {
+this.showStatus("HẾT THỜI GIAN CƯỢC");
+this.lbTime.node.color = cc.Color.RED;
+this.updateTime(t.Ellapsed);
+this.activeTimer(!0);
+this.activeLayoutCard(!0);
+this.isShowCard || cc.Bacarat2Controller.getInstance().initCardOnTable();
+cc.Bacarat2Controller.getInstance().enableClickBet(!1);
+cc.Bacarat2Controller.getInstance().disableBetAgain(!0);
+}
+}
+this.updateSessionId(t.SessionID);
+this.currentState = e;
+cc.Bacarat2Controller.getInstance().setCurrentState(e);
+},
+updatePlayersInGame: function(t) {
+this.lbTotalPlayer.string = t;
+},
+resetPlayerUI: function() {
+this.lstPlayers.map(function(t) {
+t.resetPlayerResultUI();
+}, this);
+},
+updatePlayerInfor: function(t) {
+this.currPlayer.registerPlayer(t.Account);
+},
+updatePlayersUI: function(t) {
+var e = this;
+this.positionsUI = [ 0, 0, 0, 0, 0, 0, 0 ];
+var a = 0;
+this.positionsUI[a] = lngui.UserManager.instance.mainUserInfo.AccountID;
+a++;
+t.map(function(t) {
+if (t.AccountID != lngui.UserManager.instance.mainUserInfo.AccountID && a <= 6) {
+e.positionsUI[a] = t.AccountID;
+a++;
+}
+}, this);
+this.positionsUI.forEach(function(e, a) {
+if (0 != e) try {
+var i = t.filter(function(t) {
+return t.AccountID == e;
+});
+i.length > 0 && 0 != a && this.lstPlayers[a].registerPlayer(i[0].Account);
+} catch (t) {} else this.lstPlayers[a].unRegisterPlayer();
+}, this);
+cc.Bacarat2Controller.getInstance().updatePositionPlayerUI(this.positionsUI);
+},
+updateBalanceCurrPlayer: function(t) {
+this.currPlayer.updateChipNormal(t);
+},
+updateBalancePlayer: function(t) {
+if (t) {
+var e = t[0], a = t[3];
+if (Array.isArray(this.positionsUI)) {
+var i = this.positionsUI.indexOf(e);
+-1 !== i && this.lstPlayers && this.lstPlayers[i] && this.lstPlayers[i].updateChip(a);
+}
+}
+},
+winResult: function(t) {
+this.currPlayer.playerResultUI(t.Award, t.Balance);
+},
+winResultVip: function(t) {
+var e = this;
+t.map(function(t) {
+if (e.positionsUI.includes(t.AccountID) && t.AccountID != lngui.UserManager.instance.mainUserInfo.AccountID) {
+var a = e.positionsUI.indexOf(t.AccountID);
+e.lstPlayers[a].playerResultUI(t.Award, t.Balance);
+}
+}, this);
+},
+showStatus: function(t) {
+if (null != t) {
+this.lbStatus.string = t;
+this.lbStatus.node.parent.active = !0;
+this.lbStatus.node.getComponent(cc.Animation).play("notify-checkchi");
+} else this.lbStatus.node.parent.active = !1;
+},
+activeLayoutCard: function(t) {
+this.layoutCard.active = t;
+},
+activeTimer: function(t) {
+this.lbTime.node.parent.active = t;
+this.interval && !t && clearInterval(this.interval);
+},
+updateSessionId: function(t) {
+this.lbSessionID.string = ": #" + t;
+},
+updateTime: function(t) {
+this.interval && clearInterval(this.interval);
+this.time = parseInt(t);
+this.startTimer();
+this.interval = setInterval(function() {
+this.startTimer();
+}.bind(this), 1e3);
+},
+startTimer: function() {
+if (this.time < 0) this.time = 0; else {
+this.lbTime.string = this.time;
+this.time--;
+}
+},
+playerShowBubbleChat: function(t) {
+0 == t[4] && t[3] != lngui.UserManager.instance.mainUserInfo.AccountID || (cc.ChatRoomController.getInstance().checkIsEmotion(t) ? this.lstPlayers.forEach(function(e) {
+var a = e.nickName;
+t[0] === a && e.showEmotion(cc.ChatRoomController.getInstance().getIndexEmotion(t), t);
+}) : this.lstPlayers.forEach(function(e) {
+var a = e.nickName;
+t[0] === a && e.showBubbleChat(t);
+}));
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratMap: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "1551bpINPpGmLPLlyDQFWS/", "BacaratMap");
+cc.BacaratMapChip = {
+"1K": 0,
+"5K": 1,
+"10K": 2,
+"100K": 3,
+"500K": 4,
+"5M": 5
+};
+cc.BacaratMapChipSpriteFrame = {
+1e3: 0,
+5e3: 1,
+1e4: 2,
+1e5: 3,
+5e5: 4,
+5e6: 5
+};
+cc.BacaratMapSuite = {
+CO: 39,
+RO: 26,
+TEP: 13,
+BICH: 0
+};
+cc.BacaratMapGameState = {
+BETTING: 0,
+SHOW_RESULT: 1,
+PREPARE_NEW_ROUD: 2,
+END_BETTING: 3
+};
+cc.BacaratBetSite = {
+PLAYER_PAIR: 1,
+PLAYER: 2,
+TIE: 3,
+BANKER: 4,
+BANKER_PAIR: 5
+};
+cc.BacaratColor = {
+WHITE: 0,
+YELLOW: 1,
+RED: 2
+};
+cc.BacaratChipOf = {
+PLAYER: 1,
+USERS: 2
+};
+cc._RF.pop();
+}, {} ],
+BacaratPlayer: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "cb9eaicw+1O3rrlJhy/QmGM", "BacaratPlayer");
+(function() {
+cc.BacaratPlayer = cc.Class({
+extends: cc.Component,
+properties: {
+lbSID: cc.Label,
+lbName: cc.Label,
+nickName: ""
+},
+onLoad: function() {
+this.animation = this.node.getComponent(cc.Animation);
+this.nodeChat = this.node.getChildByName("chat");
+this.nodeEmotion = this.nodeChat.getChildByName("emotion");
+this.nodeBubble = this.nodeChat.getChildByName("bubble");
+this.skeEmotion = this.nodeEmotion.getComponent(sp.Skeleton);
+this.lbBubbleChat = this.nodeBubble.getComponentInChildren(cc.Label);
+this.nodeChat.active = !1;
+this.avatar = this.node.getComponentInChildren(cc.Avatar);
+this.lbWin = this.node.getComponentInChildren(cc.Label);
+this.animLbWin = this.node.getComponentInChildren(cc.Animation);
+this.nodeInfo = this.node.getChildByName("ava_money");
+this.lbChip = this.nodeInfo.getChildByName("lbChip").getComponent(cc.LabelIncrement);
+this.nodeInfo.active = !1;
+},
+showEmotion: function(t, e) {
+this.nodeBubble.active = !1;
+this.nodeEmotion.active = !0;
+this.skeEmotion.clearTracks();
+this.skeEmotion.setToSetupPose();
+15 === t ? this.skeEmotion.setAnimation(t, "16-extreme-sexy-girl", !0) : this.skeEmotion.setAnimation(t, e[1], !0);
+this.animation.play("showBubbleChat");
+},
+showBubbleChat: function(t) {
+this.nodeBubble.active = !0;
+this.nodeEmotion.active = !1;
+this.lbBubbleChat.string = t[1];
+this.animation.play("showBubbleChat");
+},
+resetPlayerResultUI: function() {
+this.lbWin.node.active = !1;
+},
+playerResultUI: function(t, e) {
+this.lbWin.string = "+" + cc.Tool.getInstance().formatNumber(t);
+this.lbWin.node.active = !0;
+this.lbWin.node.scaleY = 0;
+this.animLbWin.play("xxWin");
+e && this.updateChip(e);
+},
+updateChip: function(t) {
+this.lbChip.tweenValueto(t);
+},
+updateChipNormal: function(t) {
+this.lbChip.label.string = cc.Tool.getInstance().formatNumber(t);
+},
+onDestroy: function() {
+this.unRegisterPlayer();
+},
+registerPlayer: function(t) {
+var e = t.Avatar;
+(e <= 0 || e > 9) && (e = Math.floor(9 * Math.random()));
+this.avatar.setAvatar(cc.Bacarat2Controller.getInstance().getAvatars()[e]);
+this.nodeInfo.active = !0;
+this.nickName = t.NickName;
+if (t.ServiceID) {
+this.lbSID.string = cc.Config.getInstance().getServiceNameNoFormat(t.ServiceID);
+this.lbName.string = cc.Config.getInstance().formatName(t.NickName, 7);
+} else {
+this.lbSID.string = "";
+this.lbName.string = cc.Config.getInstance().formatName(t.NickName, 10);
+}
+this.lbChip.tweenValueto(t.Balance);
+this.nodeInfo.active = !0;
+},
+unRegisterPlayer: function() {
+this.avatar.setAvatar(cc.Bacarat2Controller.getInstance().getAvatarDef());
+this.nodeInfo.active = !1;
+try {
+this.lbWin.node.active = !1;
+this.nodeBubble.active = !1;
+this.nodeEmotion.active = !1;
+} catch (t) {}
+},
+updateConnectionStatus: function(t) {
+switch (t) {
+case cc.ConnectionStatus.DISCONNECTED:
+case cc.ConnectionStatus.CONNECTED:
+}
+},
+updatePlayerStatus: function(t) {
+this.playerStatus = t.toString();
+t.toString() === cc.PlayerStatus.INGAME ? this.node.opacity = 255 : this.node.opacity = 150;
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratPopupController: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "bd807vGB69PWYEIpYnK4rsE", "BacaratPopupController");
+(function() {
+var t;
+t = function() {
+var t;
+function e() {}
+t = void 0;
+e.getInstance = function() {
+void 0 === t && (t = this);
+return t.prototype;
+};
+e.prototype.setPopupView = function(t) {
+return this.bacaratPopupView = t;
+};
+e.prototype.createTopView = function() {
+return this.bacaratPopupView.createTopView();
+};
+e.prototype.destroyTopView = function() {
+return this.bacaratPopupView.destroyTopView();
+};
+e.prototype.createHelpView = function() {
+return this.bacaratPopupView.createHelpView();
+};
+e.prototype.destroyHelpView = function() {
+return this.bacaratPopupView.destroyHelpView();
+};
+e.prototype.createHistoryView = function() {
+return this.bacaratPopupView.createHistoryView();
+};
+e.prototype.destroyHistoryView = function() {
+return this.bacaratPopupView.destroyHistoryView();
+};
+e.prototype.createGroupUserView = function() {
+return this.bacaratPopupView.createGroupUserView();
+};
+e.prototype.destroyGroupUserView = function() {
+return this.bacaratPopupView.destroyGroupUserView();
+};
+return e;
+}();
+cc.BacaratPopupController = t;
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratPopupView: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "550dbpUucFNEoEiwMSWbOnM", "BacaratPopupView");
+(function() {
+cc.BacaratPopupView = cc.Class({
+extends: cc.Component,
+properties: {
+prefabGroupUser: cc.Prefab,
+prefabBetLines: cc.Prefab,
+prefabHelp: cc.Prefab,
+prefabHistory: cc.Prefab,
+prefabTop: cc.Prefab,
+prefabSessionDetail: cc.Prefab,
+prefabGraph: cc.Prefab
+},
+onLoad: function() {
+cc.BacaratPopupController.getInstance().setPopupView(this);
+},
+createGraphView: function() {
+this.nodeGraph = this.createView(this.prefabGraph);
+},
+destroyGraphView: function() {
+this.nodeGraph && this.nodeGraph.destroy();
+},
+createGroupUserView: function() {
+this.nodeGroupUser = this.createView(this.prefabGroupUser);
+},
+destroyGroupUserView: function() {
+this.nodeGroupUser && this.nodeGroupUser.destroy();
+},
+createSessionDetailView: function() {
+this.nodeSessionDetailView = this.createView(this.prefabSessionDetail);
+},
+destroySessionDetailView: function() {
+this.nodeSessionDetailView && this.nodeSessionDetailView.destroy();
+},
+createBetLinesView: function() {
+this.nodeBetLinesView = this.createView(this.prefabBetLines);
+},
+destroyBetLinesView: function() {
+this.nodeBetLinesView && this.nodeBetLinesView.destroy();
+},
+createTopView: function() {
+this.nodeTopView = this.createView(this.prefabTop);
+},
+destroyTopView: function() {
+this.nodeTopView && this.nodeTopView.destroy();
+},
+createHelpView: function() {
+this.nodeHelpView = this.createView(this.prefabHelp);
+},
+destroyHelpView: function() {
+this.nodeHelpView && this.nodeHelpView.destroy();
+},
+createHistoryView: function() {
+this.nodeHistoryView = this.createView(this.prefabHistory);
+},
+destroyHistoryView: function() {
+this.nodeHistoryView && this.nodeHistoryView.destroy();
+},
+createView: function(t) {
+var e = cc.instantiate(t);
+e.parent = this.node;
+e.setPosition(-this.node.x, -this.node.y);
+return e;
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratSettingView: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "f075eNlEkFG351Ak4dSLocv", "BacaratSettingView");
+cc.Class({
+extends: cc.Component,
+properties: {
+animation: cc.Animation,
+nodeOffset: cc.Node,
+spriteSound: cc.Sprite,
+sfSounds: [ cc.SpriteFrame ]
+},
+onLoad: function() {
+this.openPopup = !1;
+},
+start: function() {
+this.spriteSound.spriteFrame = this.sound ? this.sfSounds[0] : this.sfSounds[1];
+cc.AudioController.getInstance().enableSound(this.sound);
+cc.AudioController.getInstance().enableMusic(this.music);
+},
+openSettingClicked: function() {
+if (0 == this.openPopup) {
+this.openPopup = !0;
+this.animation.play("openSettingMenu");
+} else {
+this.openPopup = !1;
+this.animation.play("closeSettingMenu");
+}
+},
+closeSettingClicked: function() {
+this.animation.play("closeSettingMenu");
+},
+soundClicked: function() {
+this.sound = !this.sound;
+cc.Tool.getInstance().setItem("@Sound", this.sound);
+this.spriteSound.spriteFrame = this.sound ? this.sfSounds[0] : this.sfSounds[1];
+cc.AudioController.getInstance().enableSound(this.sound);
+},
+musicClicked: function() {
+this.music = !this.music;
+cc.Tool.getInstance().setItem("@Music", this.music);
+this.spriteMusic.spriteFrame = this.music ? this.sfMusics[0] : this.sfMusics[1];
+cc.AudioController.getInstance().enableMusic(this.music);
+}
+});
+cc._RF.pop();
+}, {} ],
+BacaratSoiCauView: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "599f7PeRZZKPpw+bc8pCmUs", "BacaratSoiCauView");
+cc.Class({
+extends: cc.Component,
+properties: {
+itemTemplate: cc.Node,
+layoutParent: cc.Node
+},
+onLoad: function() {
+cc.Bacarat2Controller.getInstance().setSoiCauView(this);
+this.isActive = !1;
+this.itemPool = new cc.NodePool();
+for (var t = 0; t < 100; t++) this.itemPool.put(cc.instantiate(this.itemTemplate));
+this.layoutParent.width = 380;
+},
+activeGraph: function(t) {
+this.node.active = t;
+this.isActive = t;
+},
+initListSoiCau: function(t) {
+var e = this;
+if (t && 0 !== t.length) {
+try {
+this.clearList();
+} catch (t) {}
+t.map(function(t) {
+var a = null;
+(a = e.itemPool.size() > 0 ? e.itemPool.get() : cc.instantiate(e.itemTemplate)).getComponent(cc.ItemSoiCau).setSpiteFrameItem(t.BigGateIDWin, t.IsPlayerPair, t.IsBankerPair);
+a.parent = e.layoutParent;
+}, this);
+this.node.active = this.isActive;
+}
+},
+clearList: function() {
+var t = this, e = this.layoutParent.children;
+e.length > 0 && e.map(function(e) {
+t.itemPool.put(e);
+}, this);
+this.layoutParent.removeAllChildren(!0);
+},
+onDestroy: function() {
+try {
+this.itemPool.clear();
+} catch (t) {}
+}
+});
+cc._RF.pop();
+}, {} ],
+BacaratTopItem: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "ddfa3kmvaBFpJ/3BBqFUFbs", "BacaratTopItem");
+(function() {
+cc.BacaratTopItem = cc.Class({
+extends: cc.Component,
+properties: {
+lbRank: cc.Label,
+lbSID: cc.Label,
+lbNickName: cc.Label,
+lbTotalWin: cc.Label,
+spriteTop: cc.Sprite,
+spTop: [ cc.SpriteFrame ]
+},
+updateItem: function(t, e) {
+if (e < 3) {
+this.lbRank.node.active = !1;
+this.spriteTop.node.active = !0;
+this.spriteTop.spriteFrame = this.spTop[e];
+} else {
+this.lbRank.node.active = !0;
+this.spriteTop.node.active = !1;
+this.lbRank.string = e + 1;
+}
+this.lbSID.string = cc.Config.getInstance().getServiceNameNoFormat(t.ServiceID);
+this.lbNickName.string = t.DisplayName;
+this.lbTotalWin.string = cc.Tool.getInstance().formatNumber(t.Award);
+this.item = t;
+this.itemID = e;
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratTopListView: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "236d6E11AdCC7qwHzVYZojt", "BacaratTopListView");
+(function() {
+cc.BacaratTopListView = cc.Class({
+extends: cc.Component,
+properties: {
+itemTemplate: cc.Node,
+scrollView: cc.ScrollView,
+spawnCount: 0,
+spacing: 0,
+bufferZone: 0
+},
+onLoad: function() {
+this.spawnCount = 15;
+if (null !== this.scrollView) {
+this.content = this.scrollView.content;
+this.items = [];
+this.updateTimer = 0;
+this.updateInterval = .1;
+this.lastContentPosY = 0;
+this.rootContentY = this.content.y;
+}
+},
+resetList: function() {
+if (null !== this.scrollView) {
+this.items = [];
+this.scrollView.stopAutoScroll();
+this.content = this.scrollView.content;
+this.content.y = this.rootContentY;
+for (var t = this.content.children, e = t.length - 1; e >= 0; e--) this.content.removeChild(t[e]);
+}
+},
+getPositionInView: function(t) {
+var e = t.parent.convertToWorldSpaceAR(t.position);
+return this.scrollView.node.convertToNodeSpaceAR(e);
+},
+initialize: function(t) {
+this.messages = t;
+var e = this.messages.length;
+this.content.height = e * (this.itemTemplate.height + this.spacing) + this.spacing;
+for (var a = Math.min(this.spawnCount, e), i = 0; i < a; ++i) {
+var n = cc.instantiate(this.itemTemplate);
+this.content.addChild(n);
+n.setPosition(0, -n.height * (.5 + i) - this.spacing * (i + 1));
+n.getComponent(cc.BacaratTopItem).updateItem(this.messages[i], i);
+this.items.push(n);
+}
+this.rootContentY = this.content.y;
+},
+update: function(t) {
+this.updateTimer += t;
+if (!(this.updateTimer < this.updateInterval)) {
+this.updateTimer = 0;
+for (var e = this.items, a = this.bufferZone, i = this.scrollView.content.y < this.lastContentPosY, n = (this.itemTemplate.height + this.spacing) * e.length, r = 0; r < e.length; ++r) {
+var c = this.getPositionInView(e[r]);
+if (i) {
+if (c.y < -a && e[r].y + n < 0) {
+e[r].y = e[r].y + n;
+var o = e[r].getComponent(cc.BacaratTopItem), s = o.itemID - e.length;
+o.updateItem(this.messages[s], s);
+}
+} else if (c.y > a && e[r].y - n > -this.content.height) {
+e[r].y = e[r].y - n;
+s = (o = e[r].getComponent(cc.BacaratTopItem)).itemID + e.length;
+o.updateItem(this.messages[s], s);
+}
+}
+this.lastContentPosY = this.scrollView.content.y;
+}
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratTopView: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "95ea4ir9rFI2LGvFsTPVF8V", "BacaratTopView");
+(function() {
+cc.BacaratTopView = cc.Class({
+extends: cc.Component,
+properties: {
+topListView: cc.BacaratTopListView
+},
+onLoad: function() {
+this.animation = this.node.getComponent(cc.Animation);
+},
+onEnable: function() {
+var t = this;
+cc.director.getScheduler().schedule(function() {
+t.getTopSessionWinners();
+}, this, 1, 0, .2, !1);
+this.animation.play("openPopup");
+},
+getTopSessionWinners: function() {
+new cc.BacaratWinnerCommand().execute(this);
+},
+onGetBigWinnerResponse: function(t) {
+var e = t;
+if (null !== e && e.length > 0) {
+this.topListView.resetList();
+this.topListView.initialize(e);
+}
+},
+closeClicked: function() {
+this.topListView.resetList();
+this.animation.play("closePopup");
+var t = this;
+cc.director.getScheduler().schedule(function() {
+t.animation.stop();
+cc.BacaratPopupController.getInstance().destroyTopView();
+}, this, 1, 0, .12, !1);
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BacaratView: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "b87fd464AJCkr1U+1A/zlQj", "BacaratView");
+var a = t("NetConfig");
+(function() {
+cc.BacaratView = cc.Class({
+extends: cc.Component,
+properties: {
+nodeSoiCau: cc.Node,
+avatarDef: cc.SpriteFrame,
+listAvtars: [ cc.SpriteFrame ]
+},
+onLoad: function() {
+cc.Bacarat2Controller.getInstance().setBacaratView(this);
+cc.Bacarat2Controller.getInstance().initBetLog();
+cc.Bacarat2Controller.getInstance().setBetLogSession(1);
+cc.Bacarat2Controller.getInstance().setAvatarDef(this.avatarDef);
+cc.Bacarat2Controller.getInstance().setAvatars(this.listAvtars);
+this.subDomainName = cc.SubdomainName.BACCARAT;
+this.interval = null;
+this.isActiveChat = !1;
+this.lastTimeReconnect = new Date().getTime();
+this.currentState = -1;
+this.currentSessionId = -1;
+this.viewSoiCau = !1;
+this.nodeSoiCauAnimation = this.nodeSoiCau.getComponent(cc.Animation);
+this.idPlayNow = 0;
+this.currAccId = null;
+this.connectHub();
+},
+onEnable: function() {},
+updateBalance: function() {},
+onDestroy: function() {
+this.sendRequestOnHub(cc.MethodHubName.EXIT_LOBBY);
+this.unscheduleAllCallbacks();
+cc.Bacarat2Controller.getInstance().setBacaratView(null);
+if (cc.sys.isNative) {
+cc.loader.releaseResDir("bacarat/prefabs");
+cc.loader.releaseResDir("bacarat/images");
+}
+lngui.UIWaitingLayout.hideWaiting();
+},
+disconnectAndLogout: function() {
+this.BacaratHub && this.BacaratHub.disconnect();
+this.lastTimeReconnect = new Date().getTime();
+},
+connectHub: function() {
+var t = {
+url: "https://baccarat." + lngui.ConfigManager.instance.ConfigInfo.Api + "/signalr/negotiate",
+hub: "baccaratHub",
+gate: lngui.ConfigManager.instance.ConfigInfo.Gate,
+ip: "http://18.138.207.162:9001/signalr/negotiate"
+};
+cc.systemEvent.off("OnBaccaratWebSocKet", this.onResponeData, this);
+cc.systemEvent.on("OnBaccaratWebSocKet", this.onResponeData, this);
+this.BaccaratHub = new lngui.GateSignalR();
+this.BaccaratHub.connect("OnBaccaratWebSocKet", t.url, t.hub, t.gate, lngui.UserManager.instance.mainUserInfo.cookie, !1);
+lngui.GateWebSocketManager.pushSignalR(this.mSignalr);
+},
+sendRequestOnHub: function(t, e, a) {
+switch (t) {
+case cc.MethodHubName.ENTER_LOBBY:
+this.sendSignalR("EnterLobby", [ 4, 1 ]);
+this.sendSignalR("PlayNow", []);
+break;
+
+case cc.MethodHubName.EXIT_LOBBY:
+this.sendSignalR("ExitLobby", []);
+break;
+
+case cc.MethodHubName.PLAY_NOW:
+this.sendSignalR("PlayNow", []);
+break;
+
+case cc.MethodHubName.BET:
+console.log("Đã bet");
+this.sendSignalR("Bet", [ e, a ]);
+break;
+
+case cc.MethodHubName.REGISTER_LEAVE_ROOM:
+this.sendSignalR("RegisterLeaveRoom", []);
+break;
+
+case cc.MethodHubName.UNREGISTER_LEAVE_ROOM:
+this.sendSignalR("UnregisterLeaveRoom", []);
+break;
+
+case cc.MethodHubName.SEND_MESSAGE:
+this.xxHub.sendRoomMessage(e);
+}
+},
+sendSignalR: function(t, e) {
+lngui.ZLog.log("SendSocket==========================>" + t + "==data==" + JSON.stringify(e));
+e = e || [];
+this.BaccaratHub && this.BaccaratHub.send(t, e);
+},
+onResponeData: function(t) {
+t.s && "error" == t.s || this.onHubMessage(t);
+},
+connectSuccess: function() {
+console.log("connectSuccess =========>");
+this.sendRequestOnHub(cc.MethodHubName.ENTER_LOBBY);
+lngui.UIWaitingLayout.hideWaiting();
+},
+onHubMessage: function(t) {
+var e = this;
+if (("open" == t.s || "reconnect" == t.s || "1" == t.s) && !this.isConnect) {
+this.isConnect = !0;
+this.connectSuccess();
+}
+if (void 0 !== t.M && t.M.length > 0) t.M.map(function(t) {
+switch (t.M) {
+case cc.MethodHubOnName.PLAYER_LEAVE:
+e.playerLeave(t.A);
+break;
+
+case cc.MethodHubOnName.SESSION_INFO:
+cc.Bacarat2Controller.getInstance().updateSessionInfo(t.A[0]);
+cc.Bacarat2Controller.getInstance().updateTotalBet(t.A[0]);
+break;
+
+case cc.MethodHubOnName.SUMMARY_PLAYER:
+cc.Bacarat2Controller.getInstance().updatePlayersInGame(t.A[0]);
+break;
+
+case cc.MethodHubOnName.JOIN_GAME:
+cc.Bacarat2Controller.getInstance().updatePlayerInfor(t.A[0]);
+break;
+
+case cc.MethodHubOnName.VIP_PLAYERS:
+var a = t.A[0];
+a.length > 0 && cc.Bacarat2Controller.getInstance().updatePlayersUI(a);
+break;
+
+case cc.MethodHubOnName.GAME_HISTORY:
+cc.Bacarat2Controller.getInstance().initListSoiCau(t.A[0]);
+cc.Bacarat2Controller.getInstance().initListCatCau(t.A[0]);
+break;
+
+case cc.MethodHubOnName.BET_OF_ACCOUNT:
+cc.Bacarat2Controller.getInstance().updateBetOfAccount(t.A[0]);
+break;
+
+case cc.MethodHubOnName.BET_SUCCESS:
+var i = cc.Bacarat2Controller.getInstance().getBetLogSession();
+cc.Bacarat2Controller.getInstance().setBetLog({
+sessionID: i,
+value: t.A[0].BetValue,
+betSide: t.A[0].BetSide
+});
+cc.Bacarat2Controller.getInstance().updateBalanceCurrPlayer(t.A[1]);
+cc.Bacarat2Controller.getInstance().updateTotalUserBetSide(t.A[0].BetSide, t.A[0].SumaryBet);
+cc.Bacarat2Controller.getInstance().moveChipBet(t.A[0].BetValue, t.A[0].BetSide, cc.BacaratChipOf.PLAYER, t.A[0].AccountID);
+break;
+
+case cc.MethodHubOnName.BET_SESSION:
+cc.Bacarat2Controller.getInstance().updateChipForBetSession(t.A[0]);
+break;
+
+case cc.MethodHubOnName.BET_USER:
+if (t.A[0] != lngui.UserManager.instance.mainUserInfo.AccountID) {
+cc.Bacarat2Controller.getInstance().updateBalancePlayer(t.A);
+cc.Bacarat2Controller.getInstance().moveChipBet(t.A[1], t.A[2], cc.BacaratChipOf.USERS, t.A[0]);
+}
+break;
+
+case cc.MethodHubOnName.WIN_RESULT:
+cc.Bacarat2Controller.getInstance().setWinResult(t.A[0]);
+cc.Bacarat2Controller.getInstance().updateRealBalance(t.A[0].Balance);
+break;
+
+case cc.MethodHubOnName.WIN_RESULT_VIP:
+t.A.length > 0 && cc.Bacarat2Controller.getInstance().setWinVipResult(t.A[0]);
+break;
+
+case cc.MethodHubOnName.PLAYER_MESSAGE:
+cc.PopupController.getInstance().showMessage(t.A[0]);
+break;
+
+case cc.MethodHubOnName.MESSAGE:
+cc.game.isPaused() || cc.PopupController.getInstance().showMessage(t.A[0]);
+break;
+
+case cc.MethodHubOnName.RECEIVE_MESSAGE:
+cc.ChatRoomController.getInstance().addChatContent(t.A);
+cc.Bacarat2Controller.getInstance().playerShowBubbleChat(t.A);
+}
+}); else if (t.R && t.R.AccountID) {
+this.currAccId = t.R.AccountID;
+this.sendRequestOnHub(cc.MethodHubName.PLAY_NOW);
+cc.PopupController.getInstance().hideBusy();
+} else t.I;
+},
+onHubOpen: function() {
+cc.PopupController.getInstance().hideBusy();
+this.sendRequestOnHub(cc.MethodHubName.ENTER_LOBBY);
+cc.PopupController.getInstance().showBusy();
+},
+onHubClose: function() {
+new Date().getTime() - this.lastTimeReconnect >= 1e3 * a.RECONNECT_TIME ? this.reconnect() : cc.director.getScheduler().schedule(this.reconnect, this, a.RECONNECT_TIME, 0, 0, !1);
+},
+onHubError: function() {},
+backClicked: function() {
+lngui.UIScreenManager.instance.popToRootScreen();
+},
+helpClicked: function() {
+cc.BCPopupController.getInstance().createHelpView();
+},
+playerLeave: function(t) {
+if (t[0] === lngui.UserManager.instance.mainUserInfo.AccountID) {
+var e = t[1];
+this.backClicked();
+cc.PopupController.getInstance().showMessage(e);
+}
+},
+onViewSoiCauClick: function() {
+this.viewSoiCau = !this.viewSoiCau;
+this.viewSoiCau ? this.nodeSoiCauAnimation.play("down") : this.nodeSoiCauAnimation.play("up");
+},
+chatClicked: function() {
+cc.ChatRoomController.getInstance().showChat();
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {
+NetConfig: void 0
+} ],
+Bacarat_Card: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "59d96druutN5K7PmKr4h0mt", "Bacarat_Card");
+(function() {
+cc.Bacarat_Card = {
+BICH: 0,
+TEP: 13,
+RO: 26,
+CO: 39
+};
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+Bacarat_GroupUserCommand: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "3349dt9x05AcYnGoAOmpws6", "Bacarat_GroupUserCommand");
+(function() {
+var t;
+t = function() {
+function t() {}
+t.prototype.execute = function(t) {
+var e = cc.SubdomainName.BACCARAT;
+return cc.ServerConnector.getInstance().sendRequest(e, "api/Baccarat/GetPlayersNotInGame", function(e) {
+var a = JSON.parse(e);
+return t.onGetGroupUserResponse(a);
+});
+};
+return t;
+}();
+cc.BacaratGroupUserCommand = t;
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+Bacarat_HistoryCommand: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "ce383GOFHBEd62mdVTCrpmj", "Bacarat_HistoryCommand");
+(function() {
+var t;
+t = function() {
+function t() {}
+t.prototype.execute = function(t) {
+var e = cc.SubdomainName.BACCARAT;
+return cc.ServerConnector.getInstance().sendRequest(e, "api/Baccarat/GetHistory?top=50", function(e) {
+var a = JSON.parse(e);
+return t.onGetHistoryResponse(a);
+});
+};
+return t;
+}();
+cc.BacaratHistoryCommand = t;
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+Bacarat_SoiCauCommand: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "83a56r72JRNM5fVKOWSG33A", "Bacarat_SoiCauCommand");
+(function() {
+var t;
+t = function() {
+function t() {}
+t.prototype.execute = function(t) {
+var e = cc.SubdomainName.BACARAT;
+return cc.ServerConnector.getInstance().sendRequest(e, "api/Baccarat/GetSoiCau", function(e) {
+var a = JSON.parse(e);
+return t.onBacarat_GetSoiCauResponse(a);
+});
+};
+return t;
+}();
+cc.BacaratSoiCauCommand = t;
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+Bacarat_WinnerCommand: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "19967PEjiJLrqEDKSAdf/EU", "Bacarat_WinnerCommand");
+(function() {
+var t;
+t = function() {
+function t() {}
+t.prototype.execute = function(t) {
+var e = cc.SubdomainName.BACCARAT;
+return cc.ServerConnector.getInstance().sendRequest(e, "api/Baccarat/GetBigWinner", function(e) {
+var a = JSON.parse(e);
+return t.onGetBigWinnerResponse(a);
+});
+};
+return t;
+}();
+cc.BacaratWinnerCommand = t;
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+BaccaratNodeDepth: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "86e35ceRstKi5cT2Hcsz6QU", "BaccaratNodeDepth");
+(function() {
+cc.NoteDepth = cc.Enum({
+POPUP_SYSTEM: 9999,
+LOGIN_VIEW: 9990,
+SUMMON_DRAGON: 9985,
+POPUP_GIFTCODE: 9983,
+POPUP_PORTAL: 9980,
+MINI_EVENT_VIEW: 9972,
+MINI_VIEW: 9970,
+POPUP_EVENT: 9950,
+POPUP_TREASURE: 9945,
+POPUP_TAIXIU: 9940,
+PORTAL_JACKPOT_EFFECT: 9930,
+SETTING: 9974,
+MINI_VIEW_BUTTON: 9973,
+CARD_GAME_ROOM_HELP: 4,
+TOP_BAR_CARD_GAME: 3,
+CARD_GAME: 2,
+ICON_DYNAMIC: 1,
+TOP_BAR: 0
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+ItemSoiCau: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "3b748TwRH1CBoBnKnZkEd1v", "ItemSoiCau");
+(function() {
+cc.ItemSoiCau = cc.Class({
+extends: cc.Component,
+properties: {
+nodePPair: cc.Node,
+nodeBPair: cc.Node,
+sprite: cc.Sprite
+},
+setSpiteFrameItem: function(t, e, a) {
+void 0 === this.gameAssets && (this.gameAssets = cc.Bacarat2Controller.getInstance().getAssetView());
+this.gateWin = t;
+this.nodePPair.active = e;
+this.nodeBPair.active = a;
+switch (this.gateWin) {
+case cc.BacaratBetSite.PLAYER:
+this.sprite.spriteFrame = this.gameAssets.sfPlayers[0];
+break;
+
+case cc.BacaratBetSite.TIE:
+this.sprite.spriteFrame = this.gameAssets.sfTies[0];
+break;
+
+case cc.BacaratBetSite.BANKER:
+this.sprite.spriteFrame = this.gameAssets.sfBankers[0];
+}
+},
+setScore: function(t) {
+switch (this.gateWin) {
+case cc.BacaratBetSite.PLAYER:
+this.sprite.spriteFrame = this.gameAssets.sfPlayers[t + 1];
+break;
+
+case cc.BacaratBetSite.TIE:
+this.sprite.spriteFrame = this.gameAssets.sfTies[t + 1];
+break;
+
+case cc.BacaratBetSite.BANKER:
+this.sprite.spriteFrame = this.gameAssets.sfBankers[t + 1];
+}
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ],
+PopupBacaViewBase: [ function(t, e) {
+"use strict";
+cc._RF.push(e, "6871cIxGh5P+4nkvrmacsd3", "PopupBacaViewBase");
+(function() {
+cc.PopupBacaViewBase = cc.Class({
+extends: cc.Component,
+properties: {
+prefabBetLines: cc.Prefab,
+prefabHelp: cc.Prefab,
+prefabHistory: cc.Prefab,
+prefabTop: cc.Prefab,
+prefabSessionDetail: cc.Prefab
+},
+createSessionDetailView: function() {
+this.nodeSessionDetailView = this.createView(this.prefabSessionDetail);
+},
+destroySessionDetailView: function() {
+this.nodeSessionDetailView && this.nodeSessionDetailView.destroy();
+},
+createBetLinesView: function() {
+this.nodeBetLinesView = this.createView(this.prefabBetLines);
+},
+destroyBetLinesView: function() {
+this.nodeBetLinesView && this.nodeBetLinesView.destroy();
+},
+createTopView: function() {
+this.nodeTopView = this.createView(this.prefabTop);
+},
+destroyTopView: function() {
+this.nodeTopView && this.nodeTopView.destroy();
+},
+createHelpView: function() {
+this.nodeHelpView = this.createView(this.prefabHelp);
+},
+destroyHelpView: function() {
+this.nodeHelpView && this.nodeHelpView.destroy();
+},
+createHistoryView: function() {
+this.nodeHistoryView = this.createView(this.prefabHistory);
+},
+destroyHistoryView: function() {
+this.nodeHistoryView && this.nodeHistoryView.destroy();
+},
+createView: function(t) {
+var e = cc.instantiate(t);
+e.parent = this.node;
+e.setPosition(-this.node.x, -this.node.y);
+return e;
+}
+});
+}).call(void 0);
+cc._RF.pop();
+}, {} ]
+}, {}, [ "AudioPoolBacarat", "BacaratSettingView", "Bacarat_GroupUserCommand", "Bacarat_HistoryCommand", "Bacarat_SoiCauCommand", "Bacarat_WinnerCommand", "BacaratMap", "Bacarat_Card", "BaccaratNodeDepth", "Bacarat2Controller", "BacaratController", "BacaratPopupController", "BacaratActiveGraph", "BacaratCatCauView", "BacaratSoiCauView", "ItemSoiCau", "BacaratGroupItem", "BacaratGroupUserListView", "BacaratGroupUserView", "BacaratHelpView", "BacaratHistoryItem", "BacaratHistoryListView", "BacaratHistoryView", "BacaratButtonBet", "BacaratPlayer", "BacaratTopItem", "BacaratTopListView", "BacaratTopView", "BacaratAssetView", "BacaratBetView", "BacaratCardItem", "BacaratCardView", "BacaratChipsView", "BacaratInfoView", "BacaratPopupView", "BacaratView", "PopupBacaViewBase" ]);
