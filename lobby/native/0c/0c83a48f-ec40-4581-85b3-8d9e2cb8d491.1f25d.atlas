@@ -1,0 +1,48 @@
+
+tag.png
+size: 297,167
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ MOMO
+  rotate: true
+  xy: 254, 87
+  size: 78, 41
+  orig: 78, 41
+  offset: 0, 0
+  index: -1
+120%
+  rotate: true
+  xy: 151, 5
+  size: 27, 106
+  orig: 27, 106
+  offset: 0, 0
+  index: -1
+Knit
+  rotate: true
+  xy: 254, 59
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+Knit Back
+  rotate: true
+  xy: 254, 41
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+Layer 3 copy
+  rotate: true
+  xy: 151, 34
+  size: 131, 101
+  orig: 131, 102
+  offset: 0, 0
+  index: -1
+momotagv
+  rotate: true
+  xy: 2, 2
+  size: 163, 147
+  orig: 167, 167
+  offset: 2, 2
+  index: -1
