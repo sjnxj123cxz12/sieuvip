@@ -1,0 +1,111 @@
+
+hack_hong_png.png
+size: 867,955
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+becc
+  rotate: false
+  xy: 436, 799
+  size: 113, 127
+  orig: 113, 127
+  offset: 0, 0
+  index: -1
+bech
+  rotate: false
+  xy: 2, 135
+  size: 171, 175
+  orig: 171, 175
+  offset: 0, 0
+  index: -1
+bong_do
+  rotate: false
+  xy: 224, 553
+  size: 151, 36
+  orig: 151, 36
+  offset: 0, 0
+  index: -1
+br_hackhong
+  rotate: false
+  xy: 2, 535
+  size: 220, 391
+  orig: 220, 391
+  offset: 0, 0
+  index: -1
+co
+  rotate: false
+  xy: 106, 13
+  size: 77, 120
+  orig: 77, 120
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 224, 591
+  size: 152, 136
+  orig: 152, 136
+  offset: 0, 0
+  index: -1
+dd_s
+  rotate: false
+  xy: 224, 591
+  size: 152, 136
+  orig: 152, 136
+  offset: 0, 0
+  index: -1
+hack
+  rotate: false
+  xy: 436, 727
+  size: 98, 70
+  orig: 98, 70
+  offset: 0, 0
+  index: -1
+hack_s
+  rotate: false
+  xy: 436, 727
+  size: 98, 70
+  orig: 98, 70
+  offset: 0, 0
+  index: -1
+hong
+  rotate: false
+  xy: 551, 828
+  size: 132, 67
+  orig: 132, 67
+  offset: 0, 0
+  index: -1
+hong_s
+  rotate: false
+  xy: 551, 828
+  size: 132, 67
+  orig: 132, 67
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 224, 729
+  size: 210, 197
+  orig: 210, 197
+  offset: 0, 0
+  index: -1
+soicau
+  rotate: false
+  xy: 551, 897
+  size: 202, 29
+  orig: 202, 29
+  offset: 0, 0
+  index: -1
+tep
+  rotate: false
+  xy: 2, 2
+  size: 102, 131
+  orig: 102, 131
+  offset: 0, 0
+  index: -1
+xoay
+  rotate: false
+  xy: 2, 312
+  size: 203, 221
+  orig: 203, 221
+  offset: 0, 0
+  index: -1
