@@ -1,0 +1,48 @@
+
+SKUD.png
+size: 867,955
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BR
+  rotate: false
+  xy: 2, 153
+  size: 304, 146
+  orig: 304, 146
+  offset: 0, 0
+  index: -1
+KC
+  rotate: false
+  xy: 308, 194
+  size: 104, 105
+  orig: 104, 105
+  offset: 0, 0
+  index: -1
+KC1
+  rotate: false
+  xy: 308, 194
+  size: 104, 105
+  orig: 104, 105
+  offset: 0, 0
+  index: -1
+SK
+  rotate: false
+  xy: 2, 2
+  size: 130, 56
+  orig: 130, 56
+  offset: 0, 0
+  index: -1
+UD
+  rotate: false
+  xy: 2, 60
+  size: 201, 91
+  orig: 201, 91
+  offset: 0, 0
+  index: -1
+UD1
+  rotate: false
+  xy: 2, 60
+  size: 201, 91
+  orig: 201, 91
+  offset: 0, 0
+  index: -1
