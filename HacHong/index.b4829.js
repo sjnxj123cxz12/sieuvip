@@ -2344,7 +2344,7 @@ return a > 3 && r && Object.defineProperty(t, o, r), r;
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var r = cc._decorator, s = r.ccclass, c = r.property, l = e("../HacHongController"), p = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("../HacHongController"), p = e("../HacHongConst"), u = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -2360,7 +2360,7 @@ var o, n, i = e.Account, a = i.Avatar;
 (a <= 0 || a > 15) && (a = Math.floor(15 * Math.random()) + 1);
 var r = l.default.getInstance().getAvatars();
 this.avatar && r && r[a - 1] && this.avatar.setAvatar(r[a - 1]);
-this.lbNickName && (this.lbNickName.string = i.NickName || "");
+this.lbNickName && (this.lbNickName.string = p.HacHongConst.truncateString(i.NickName) || "");
 if (this.lbBalance) {
 var s = null === (o = cc.Tool) || void 0 === o ? void 0 : o.getInstance();
 s && s.formatNumber ? this.lbBalance.string = s.formatNumber(i.Balance) : this.lbBalance.string = (null === (n = i.Balance) || void 0 === n ? void 0 : n.toString()) || "0";
@@ -2373,9 +2373,10 @@ a([ c(cc.Label) ], t.prototype, "lbNickName", void 0);
 a([ c(cc.Label) ], t.prototype, "lbBalance", void 0);
 return a([ s ], t);
 }(cc.Component);
-o.default = p;
+o.default = u;
 cc._RF.pop();
 }, {
+"../HacHongConst": "HacHongConst",
 "../HacHongController": "HacHongController"
 } ],
 HacHongGroupUserCommand: [ function(e, t) {
