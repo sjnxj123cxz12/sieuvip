@@ -1,27 +1,27 @@
 window.__require = function e(t, o, n) {
-function i(a, s) {
-if (!o[a]) {
-if (!t[a]) {
-var c = a.split("/");
+function i(r, s) {
+if (!o[r]) {
+if (!t[r]) {
+var c = r.split("/");
 c = c[c.length - 1];
 if (!t[c]) {
 var l = "function" == typeof __require && __require;
 if (!s && l) return l(c, !0);
-if (r) return r(c, !0);
-throw new Error("Cannot find module '" + a + "'");
+if (a) return a(c, !0);
+throw new Error("Cannot find module '" + r + "'");
 }
-a = c;
+r = c;
 }
-var u = o[a] = {
+var p = o[r] = {
 exports: {}
 };
-t[a][0].call(u.exports, function(e) {
-return i(t[a][1][e] || e);
-}, u, u.exports, e, t, o, n);
+t[r][0].call(p.exports, function(e) {
+return i(t[r][1][e] || e);
+}, p, p.exports, e, t, o, n);
 }
-return o[a].exports;
+return o[r].exports;
 }
-for (var r = "function" == typeof __require && __require, a = 0; a < n.length; a++) i(n[a]);
+for (var a = "function" == typeof __require && __require, r = 0; r < n.length; r++) i(n[r]);
 return i;
 }({
 "HacHong.Chat.NetworkClient": [ function(e, t, o) {
@@ -41,15 +41,15 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = e("./HacHongChat"), s = cc._decorator, c = s.ccclass, l = (s.property, function(e) {
+var r = e("./HacHongChat"), s = cc._decorator, c = s.ccclass, l = (s.property, function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -110,17 +110,17 @@ if (n.A && null != n.A[0] && null != n.A[0]) {
 var i = n.A[0];
 switch (n.M) {
 case "receiveMessage":
-a.default.instance.receiveMessage(i);
+r.default.instance.receiveMessage(i);
 break;
 
 case "listLastMessages":
-a.default.instance.listLastMessages(i);
+r.default.instance.listLastMessages(i);
 }
 }
 }
 };
 t.prototype.registerChat = function() {
-this.sendSignalR("RegisterChat", [ a.default.instance.chatChanel ]);
+this.sendSignalR("RegisterChat", [ r.default.instance.chatChanel ]);
 };
 t.prototype.pingPong = function() {
 this.sendSignalR("PingPong", []);
@@ -142,7 +142,7 @@ this.mSignalr && this.mSignalr.send(e, t);
 };
 var o;
 t._instance = null;
-return o = r([ c ], t);
+return o = a([ c ], t);
 }(cc.Component));
 o.default = l;
 cc._RF.pop();
@@ -187,15 +187,15 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("./HacHongConst"), u = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("./HacHongConst"), p = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -266,19 +266,19 @@ default:
 return null;
 }
 };
-r([ c(cc.AudioSource) ], t.prototype, "backgroundSound", void 0);
-r([ c(cc.AudioSource) ], t.prototype, "betSound", void 0);
-r([ c(cc.AudioSource) ], t.prototype, "cardsSlide", void 0);
-r([ c(cc.AudioSource) ], t.prototype, "cardsSlideBurn", void 0);
-r([ c(cc.AudioSource) ], t.prototype, "cardsSlideRong", void 0);
-r([ c(cc.AudioSource) ], t.prototype, "cardsSlideHo", void 0);
-r([ c(cc.AudioSource) ], t.prototype, "cardBurnMoveToBox", void 0);
-r([ c(cc.AudioSource) ], t.prototype, "cardOpen", void 0);
-r([ c(cc.AudioSource) ], t.prototype, "selectChip", void 0);
-r([ c(cc.AudioSource) ], t.prototype, "getCoin", void 0);
-return r([ s ], t);
+a([ c(cc.AudioSource) ], t.prototype, "backgroundSound", void 0);
+a([ c(cc.AudioSource) ], t.prototype, "betSound", void 0);
+a([ c(cc.AudioSource) ], t.prototype, "cardsSlide", void 0);
+a([ c(cc.AudioSource) ], t.prototype, "cardsSlideBurn", void 0);
+a([ c(cc.AudioSource) ], t.prototype, "cardsSlideRong", void 0);
+a([ c(cc.AudioSource) ], t.prototype, "cardsSlideHo", void 0);
+a([ c(cc.AudioSource) ], t.prototype, "cardBurnMoveToBox", void 0);
+a([ c(cc.AudioSource) ], t.prototype, "cardOpen", void 0);
+a([ c(cc.AudioSource) ], t.prototype, "selectChip", void 0);
+a([ c(cc.AudioSource) ], t.prototype, "getCoin", void 0);
+return a([ s ], t);
 }(cc.Component);
-o.default = u;
+o.default = p;
 cc._RF.pop();
 }, {
 "./HacHongConst": "HacHongConst"
@@ -300,15 +300,15 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("./HacHongController"), u = e("./HacHongConst"), p = e("./HacHongButtonBet"), d = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("./HacHongController"), p = e("./HacHongConst"), u = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -344,7 +344,7 @@ e.node.parent && (e.node.parent.active = "" !== t);
 };
 t.prototype.onLoad = function() {
 o._instance = this;
-l.default.getInstance().setDragonTigerBetView(this);
+l.default.getInstance().setHacHongBetView(this);
 this.reset();
 this.balanceBet = 5e3;
 this.totalBet = 0;
@@ -354,7 +354,7 @@ this.nodeBetAgain && (this.btnBetAgain = this.nodeBetAgain.getComponent(cc.Butto
 };
 t.prototype.onDestroy = function() {
 o._instance === this && (o._instance = null);
-l.default.getInstance().setDragonTigerBetView(null);
+l.default.getInstance().setHacHongBetView(null);
 };
 t.prototype.reset = function() {
 this.setBetLabel(this.lbBlackBet, "");
@@ -374,80 +374,62 @@ var i = null === (o = cc.AudioController) || void 0 === o ? void 0 : o.getInstan
 i && i.playSound(null === (n = cc.HacHongAudioTypes_789) || void 0 === n ? void 0 : n.SELECT_CHIP);
 this.resetStateBtnBet();
 if (e && e.target && this.layoutButtonBets) {
-var r = e.target._name || e.target.name, a = this.layoutButtonBets.getChildByName(r);
-if (a) {
-var s = a.getComponent(p.default);
-if (s && s.spriteButtons && !(s.spriteButtons.length < 1)) {
-var c = a.children[0];
-if (c) {
-var l = c.getComponent(cc.Sprite);
-l && s.spriteButtons[0] && (l.spriteFrame = s.spriteButtons[0]);
-var u = cc.scaleTo(.1, .85, .85);
-u.easing(cc.easeInOut(1));
-c.runAction(u);
+var a = e.target._name || e.target.name;
+if (this.layoutButtonBets.getChildByName(a)) {
+e.target.children[0].active = !0;
+cc.scaleTo(.1, .85, .85).easing(cc.easeInOut(1));
 this.balanceBet = parseInt(t.toString());
-}
-}
 }
 }
 }
 };
 t.prototype.resetStateBtnBet = function() {
 this.layoutButtonBets && this.layoutButtonBets.children.forEach(function(e) {
-var t = e.getComponent(p.default);
-if (t && t.spriteButtons && !(t.spriteButtons.length < 2)) {
-var o = e.children[0];
-if (o) {
-var n = o.getComponent(cc.Sprite);
-n && t.spriteButtons[1] && (n.spriteFrame = t.spriteButtons[1]);
-var i = cc.scaleTo(.1, .7, .7);
-i.easing(cc.easeInOut(1));
-o.runAction(i);
-}
-}
+e.children[0].active = !1;
+cc.scaleTo(.1, .7, .7).easing(cc.easeInOut(1));
 });
 };
 t.prototype.updateTotalBetValue = function(e, t) {
 var o = this.formatNumber(t);
 switch (parseInt(e.toString())) {
-case u.HacHongConst.HacHongBetSide.Black:
+case p.HacHongConst.HacHongBetSide.Black:
 this.setBetLabel(this.lbBlackBet, o);
 break;
 
-case u.HacHongConst.HacHongBetSide.Red:
+case p.HacHongConst.HacHongBetSide.Red:
 this.setBetLabel(this.lbRedBet, o);
 break;
 
-case u.HacHongConst.HacHongBetSide.Spade:
+case p.HacHongConst.HacHongBetSide.Spade:
 this.setBetLabel(this.lbSpadeBet, o);
 break;
 
-case u.HacHongConst.HacHongBetSide.Clobe:
+case p.HacHongConst.HacHongBetSide.Clobe:
 this.setBetLabel(this.lbClobeBet, o);
 break;
 
-case u.HacHongConst.HacHongBetSide.Diamond:
+case p.HacHongConst.HacHongBetSide.Diamond:
 this.setBetLabel(this.lbDiamondBet, o);
 break;
 
-case u.HacHongConst.HacHongBetSide.Heart:
+case p.HacHongConst.HacHongBetSide.Heart:
 this.setBetLabel(this.lbHeartBet, o);
 break;
 
-case u.HacHongConst.HacHongBetSide.Straight:
+case p.HacHongConst.HacHongBetSide.Straight:
 this.setBetLabel(this.lbStraighttBet, o);
 break;
 
-case u.HacHongConst.HacHongBetSide.Pair:
+case p.HacHongConst.HacHongBetSide.Pair:
 this.setBetLabel(this.lbPairBet, o);
 break;
 
-case u.HacHongConst.HacHongBetSide.Flush:
+case p.HacHongConst.HacHongBetSide.Flush:
 this.setBetLabel(this.lbFlushtBet, o);
 }
 };
 t.prototype.formatNumber = function(e) {
-return 0 == parseInt(e) ? "" : u.HacHongConst.formatNumberToKMB(e);
+return 0 == parseInt(e) ? "" : p.HacHongConst.formatNumberToKMB(e);
 };
 t.prototype.updateBetInfoFromServer = function(e) {
 if (e) {
@@ -462,39 +444,39 @@ t.prototype.updateBetInfo = function(e) {
 if (e) {
 var t = this.formatNumber(e.BetValue);
 switch (e.BetSide) {
-case u.HacHongConst.HacHongBetSide.Black:
+case p.HacHongConst.HacHongBetSide.Black:
 this.setBetLabel(this.lbBlackBet, t);
 break;
 
-case u.HacHongConst.HacHongBetSide.Red:
+case p.HacHongConst.HacHongBetSide.Red:
 this.setBetLabel(this.lbRedBet, t);
 break;
 
-case u.HacHongConst.HacHongBetSide.Spade:
+case p.HacHongConst.HacHongBetSide.Spade:
 this.setBetLabel(this.lbSpadeBet, t);
 break;
 
-case u.HacHongConst.HacHongBetSide.Clobe:
+case p.HacHongConst.HacHongBetSide.Clobe:
 this.setBetLabel(this.lbClobeBet, t);
 break;
 
-case u.HacHongConst.HacHongBetSide.Diamond:
+case p.HacHongConst.HacHongBetSide.Diamond:
 this.setBetLabel(this.lbDiamondBet, t);
 break;
 
-case u.HacHongConst.HacHongBetSide.Heart:
+case p.HacHongConst.HacHongBetSide.Heart:
 this.setBetLabel(this.lbHeartBet, t);
 break;
 
-case u.HacHongConst.HacHongBetSide.Straight:
+case p.HacHongConst.HacHongBetSide.Straight:
 this.setBetLabel(this.lbStraighttBet, t);
 break;
 
-case u.HacHongConst.HacHongBetSide.Pair:
+case p.HacHongConst.HacHongBetSide.Pair:
 this.setBetLabel(this.lbPairBet, t);
 break;
 
-case u.HacHongConst.HacHongBetSide.Flush:
+case p.HacHongConst.HacHongBetSide.Flush:
 this.setBetLabel(this.lbFlushtBet, t);
 }
 }
@@ -502,18 +484,18 @@ this.setBetLabel(this.lbFlushtBet, t);
 t.prototype.setBetSide = function(e, t) {
 var o, n, i;
 this.betSide = parseInt(t.toString());
-var r = null === (o = cc.AudioController) || void 0 === o ? void 0 : o.getInstance();
-r && r.playSound(null === (n = cc.HacHongAudioTypes_789) || void 0 === n ? void 0 : n.BET);
+var a = null === (o = cc.AudioController) || void 0 === o ? void 0 : o.getInstance();
+a && a.playSound(null === (n = cc.HacHongAudioTypes_789) || void 0 === n ? void 0 : n.BET);
 if (lngui.UserManager.instance.mainUserInfo.Money < this.balanceBet) {
-var a = null === (i = cc.PopupController) || void 0 === i ? void 0 : i.getInstance();
-a && a.showMessage("Số dư không đủ");
+var r = null === (i = cc.PopupController) || void 0 === i ? void 0 : i.getInstance();
+r && r.showMessage("Số dư không đủ");
 } else {
-l.default.getInstance().sendRequestOnHub(u.HacHongConst.MethodHubName.BET, this.balanceBet, this.betSide);
+l.default.getInstance().sendRequestOnHub(p.HacHongConst.MethodHubName.BET, this.balanceBet, this.betSide);
 this.disableBetAgain(!0);
 }
 };
 t.prototype.sendRequestBet = function(e, t) {
-return l.default.getInstance().sendRequestOnHub(u.HacHongConst.MethodHubName.BET, e, t);
+return l.default.getInstance().sendRequestOnHub(p.HacHongConst.MethodHubName.BET, e, t);
 };
 t.prototype.onBetAgain = function(e, t) {
 var o = this;
@@ -523,14 +505,14 @@ if (0 !== n.length) {
 for (var i = function(e) {
 n.forEach(function(t, n) {
 var i = setTimeout(function() {
-if (l.default.getInstance().getCurrentState() === u.HacHongConst.HacHongState.BETTING && t.sessionID === l.default.getInstance().getBetLogSession() - 1) this.sendRequestBet(t.value, t.betSide); else try {
+if (l.default.getInstance().getCurrentState() === p.HacHongConst.HacHongState.BETTING && t.sessionID === l.default.getInstance().getBetLogSession() - 1) this.sendRequestBet(t.value, t.betSide); else try {
 clearTimeout(i);
 } catch (e) {
 console.log(e);
 }
 }.bind(o), 120 * n * e);
 });
-}, r = 1; r <= t; r++) i(r);
+}, a = 1; a <= t; a++) i(a);
 this.disableBetAgain(!0);
 } else lngui.UITextManager.showCenterNotification("Chưa có dữ liệu của phiên trước.");
 };
@@ -547,24 +529,23 @@ return this.betSide;
 };
 var o;
 t._instance = null;
-r([ c(cc.Node) ], t.prototype, "layoutButtonBets", void 0);
-r([ c(cc.Label) ], t.prototype, "lbBlackBet", void 0);
-r([ c(cc.Label) ], t.prototype, "lbRedBet", void 0);
-r([ c(cc.Label) ], t.prototype, "lbSpadeBet", void 0);
-r([ c(cc.Label) ], t.prototype, "lbClobeBet", void 0);
-r([ c(cc.Label) ], t.prototype, "lbDiamondBet", void 0);
-r([ c(cc.Label) ], t.prototype, "lbHeartBet", void 0);
-r([ c(cc.Label) ], t.prototype, "lbStraighttBet", void 0);
-r([ c(cc.Label) ], t.prototype, "lbPairBet", void 0);
-r([ c(cc.Label) ], t.prototype, "lbFlushtBet", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeBetX2", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeBetAgain", void 0);
-return o = r([ s ], t);
+a([ c(cc.Node) ], t.prototype, "layoutButtonBets", void 0);
+a([ c(cc.Label) ], t.prototype, "lbBlackBet", void 0);
+a([ c(cc.Label) ], t.prototype, "lbRedBet", void 0);
+a([ c(cc.Label) ], t.prototype, "lbSpadeBet", void 0);
+a([ c(cc.Label) ], t.prototype, "lbClobeBet", void 0);
+a([ c(cc.Label) ], t.prototype, "lbDiamondBet", void 0);
+a([ c(cc.Label) ], t.prototype, "lbHeartBet", void 0);
+a([ c(cc.Label) ], t.prototype, "lbStraighttBet", void 0);
+a([ c(cc.Label) ], t.prototype, "lbPairBet", void 0);
+a([ c(cc.Label) ], t.prototype, "lbFlushtBet", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeBetX2", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeBetAgain", void 0);
+return o = a([ s ], t);
 }(cc.Component);
-o.default = d;
+o.default = u;
 cc._RF.pop();
 }, {
-"./HacHongButtonBet": "HacHongButtonBet",
 "./HacHongConst": "HacHongConst",
 "./HacHongController": "HacHongController"
 } ],
@@ -585,23 +566,23 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
 t.spriteButtons = [];
 return t;
 }
-r([ c([ cc.SpriteFrame ]) ], t.prototype, "spriteButtons", void 0);
-return r([ s ], t);
+a([ c([ cc.SpriteFrame ]) ], t.prototype, "spriteButtons", void 0);
+return a([ s ], t);
 }(cc.Component);
 o.default = l;
 cc._RF.pop();
@@ -623,15 +604,15 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -677,16 +658,16 @@ o && (o.interactable = t);
 };
 var o;
 t._instance = null;
-r([ c(cc.Node) ], t.prototype, "btnNodeBlack", void 0);
-r([ c(cc.Node) ], t.prototype, "btnNodeRed", void 0);
-r([ c(cc.Node) ], t.prototype, "btnNodeSpade", void 0);
-r([ c(cc.Node) ], t.prototype, "btnNodeClobe", void 0);
-r([ c(cc.Node) ], t.prototype, "btnNodeDiamond", void 0);
-r([ c(cc.Node) ], t.prototype, "btnNodeHeart", void 0);
-r([ c(cc.Node) ], t.prototype, "btnNodeStraight", void 0);
-r([ c(cc.Node) ], t.prototype, "btnNodePair", void 0);
-r([ c(cc.Node) ], t.prototype, "btnNodeFlush", void 0);
-return o = r([ s ], t);
+a([ c(cc.Node) ], t.prototype, "btnNodeBlack", void 0);
+a([ c(cc.Node) ], t.prototype, "btnNodeRed", void 0);
+a([ c(cc.Node) ], t.prototype, "btnNodeSpade", void 0);
+a([ c(cc.Node) ], t.prototype, "btnNodeClobe", void 0);
+a([ c(cc.Node) ], t.prototype, "btnNodeDiamond", void 0);
+a([ c(cc.Node) ], t.prototype, "btnNodeHeart", void 0);
+a([ c(cc.Node) ], t.prototype, "btnNodeStraight", void 0);
+a([ c(cc.Node) ], t.prototype, "btnNodePair", void 0);
+a([ c(cc.Node) ], t.prototype, "btnNodeFlush", void 0);
+return o = a([ s ], t);
 }(cc.Component);
 o.default = l;
 cc._RF.pop();
@@ -708,21 +689,21 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("../HacHongController"), u = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("../HacHongController"), p = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
 t.skeletonBox = null;
 t.skeletonBurn = null;
-t.dragonTigerCardSlide = null;
+t.HacHongCardSlide = null;
 return t;
 }
 o = t;
@@ -731,8 +712,8 @@ return this._instance;
 };
 t.prototype.onLoad = function() {
 o._instance = this;
-this.dragonTigerCardSlide = this;
-l.default.getInstance().dragonTigerCardSlide = this;
+this.HacHongCardSlide = this;
+l.default.getInstance().HacHongCardSlide = this;
 };
 t.prototype.onDestroy = function() {
 o._instance === this && (o._instance = null);
@@ -800,11 +781,11 @@ this.skeletonBurn && this.skeletonBurn.clearTracks();
 };
 var o;
 t._instance = null;
-r([ c(sp.Skeleton) ], t.prototype, "skeletonBox", void 0);
-r([ c(sp.Skeleton) ], t.prototype, "skeletonBurn", void 0);
-return o = r([ s ], t);
+a([ c(sp.Skeleton) ], t.prototype, "skeletonBox", void 0);
+a([ c(sp.Skeleton) ], t.prototype, "skeletonBurn", void 0);
+return o = a([ s ], t);
 }(cc.Component);
-o.default = u;
+o.default = p;
 cc._RF.pop();
 }, {
 "../HacHongController": "HacHongController"
@@ -826,15 +807,15 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -864,12 +845,12 @@ t.prototype.formatChatUser = function(e) {
 var t = cc.Config.getInstance().getServiceName(e.s.toString());
 return e.ad ? "<color=#ff6186>" + e.n + ": </color>" + e.c : t + "<color=#fadb32>" + e.n + ": </color>" + e.c;
 };
-r([ c(cc.Node) ], t.prototype, "nodeUser", void 0);
-r([ c(cc.Label) ], t.prototype, "lbSID", void 0);
-r([ c(cc.Label) ], t.prototype, "lbName", void 0);
-r([ c(cc.Label) ], t.prototype, "lbMessage", void 0);
-r([ c(cc.RichText) ], t.prototype, "rtAdmin", void 0);
-return r([ s ], t);
+a([ c(cc.Node) ], t.prototype, "nodeUser", void 0);
+a([ c(cc.Label) ], t.prototype, "lbSID", void 0);
+a([ c(cc.Label) ], t.prototype, "lbName", void 0);
+a([ c(cc.Label) ], t.prototype, "lbMessage", void 0);
+a([ c(cc.RichText) ], t.prototype, "rtAdmin", void 0);
+return a([ s ], t);
 }(cc.Component);
 o.default = l;
 cc._RF.pop();
@@ -891,15 +872,15 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = e("./HacHong.Chat.NetworkClient"), s = cc._decorator, c = s.ccclass, l = s.property, u = function(e) {
+var r = e("./HacHong.Chat.NetworkClient"), s = cc._decorator, c = s.ccclass, l = s.property, p = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -945,7 +926,7 @@ this.chatChanel = "HacHong";
 };
 t.prototype.touchSendChat = function() {
 if (this.txtInputChat.string.length) {
-a.default.instance.sendSignalR("SendMessage", [ this.txtInputChat.string, this.chatChanel ]);
+r.default.instance.sendSignalR("SendMessage", [ this.txtInputChat.string, this.chatChanel ]);
 this.txtInputChat.string = "";
 }
 };
@@ -965,7 +946,7 @@ t.prototype.touchSendTip = function(e, t) {
 var o = this.itemData.find(function(e) {
 return e.iId === parseInt(t);
 });
-o && a.default.instance.sendSignalR("SendTip", [ this.chatChanel, o.iId, o.iN, this.nameDealer ]);
+o && r.default.instance.sendSignalR("SendTip", [ this.chatChanel, o.iId, o.iN, this.nameDealer ]);
 };
 t.prototype.listLastMessages = function(e) {
 if (0 != e.length) {
@@ -974,28 +955,28 @@ if (e) for (var t = 0; t < e.length; t++) {
 var o = e[t], n = o.n, i = o.c;
 if (void 0 !== n && void 0 !== i && "SYSTEM" != n && "SYSTEM" != i) {
 if ("SYSTEM" != n && "SYSTEM" != i && n.length > 0 && i.length > 0) {
-var r = i, a = cc.instantiate(this.templateMessage), s = o.n, c = n;
-a.active = !0;
+var a = i, r = cc.instantiate(this.templateMessage), s = o.n, c = n;
+r.active = !0;
 s = (s.localeCompare(lngui.UserManager.instance.mainUserInfo.NickName), c);
-a.getComponent(cc.Label).string = s + ": " + r;
+r.getComponent(cc.Label).string = s + ": " + a;
 if (1 == e.IsVipTx) {
-a.getChildByName("lb_name").getComponent(cc.Label).node.active = !1;
-a.getChildByName("lb_nameVip").getComponent(cc.Label).string = s + ": ";
-a.off(cc.Node.EventType.SIZE_CHANGED);
-a.on(cc.Node.EventType.SIZE_CHANGED, function() {
-var e = (a.getContentSize().height - a.getChildByName("lb_nameVip").getContentSize().height) / 2;
-a.getChildByName("lb_nameVip").setPosition(cc.v2(0, e));
+r.getChildByName("lb_name").getComponent(cc.Label).node.active = !1;
+r.getChildByName("lb_nameVip").getComponent(cc.Label).string = s + ": ";
+r.off(cc.Node.EventType.SIZE_CHANGED);
+r.on(cc.Node.EventType.SIZE_CHANGED, function() {
+var e = (r.getContentSize().height - r.getChildByName("lb_nameVip").getContentSize().height) / 2;
+r.getChildByName("lb_nameVip").setPosition(cc.v2(0, e));
 });
 } else {
-a.getChildByName("lb_nameVip").getComponent(cc.Label).node.active = !1;
-a.getChildByName("lb_name").getComponent(cc.Label).string = s + ": ";
-a.off(cc.Node.EventType.SIZE_CHANGED);
-a.on(cc.Node.EventType.SIZE_CHANGED, function() {
-var e = (a.getContentSize().height - a.getChildByName("lb_name").getContentSize().height) / 2;
-a.getChildByName("lb_name").setPosition(cc.v2(0, e));
+r.getChildByName("lb_nameVip").getComponent(cc.Label).node.active = !1;
+r.getChildByName("lb_name").getComponent(cc.Label).string = s + ": ";
+r.off(cc.Node.EventType.SIZE_CHANGED);
+r.on(cc.Node.EventType.SIZE_CHANGED, function() {
+var e = (r.getContentSize().height - r.getChildByName("lb_name").getContentSize().height) / 2;
+r.getChildByName("lb_name").setPosition(cc.v2(0, e));
 });
 }
-this.listChat.addChild(a);
+this.listChat.addChild(r);
 }
 this.scrollListChat.scrollToTop();
 }
@@ -1006,13 +987,13 @@ t.prototype.receiveMessage = function(e) {
 var t = e.n, o = e.c;
 if (void 0 !== t && void 0 !== o) if ("SYSTEM" != t && "SYSTEM" != o) {
 if (t.length > 0 && o.length > 0) {
-var n = o, i = cc.instantiate(this.templateMessage), r = e.n, a = t;
+var n = o, i = cc.instantiate(this.templateMessage), a = e.n, r = t;
 i.active = !0;
-r = (r.localeCompare(lngui.UserManager.instance.mainUserInfo.NickName), a);
-i.getComponent(cc.Label).string = r + ": " + n;
+a = (a.localeCompare(lngui.UserManager.instance.mainUserInfo.NickName), r);
+i.getComponent(cc.Label).string = a + ": " + n;
 if (1 == e.IsVipTx) {
 i.getChildByName("lb_name").getComponent(cc.Label).node.active = !1;
-i.getChildByName("lb_nameVip").getComponent(cc.Label).string = r + ": ";
+i.getChildByName("lb_nameVip").getComponent(cc.Label).string = a + ": ";
 i.off(cc.Node.EventType.SIZE_CHANGED);
 i.on(cc.Node.EventType.SIZE_CHANGED, function() {
 var e = (i.getContentSize().height - i.getChildByName("lb_nameVip").getContentSize().height) / 2;
@@ -1020,7 +1001,7 @@ i.getChildByName("lb_nameVip").setPosition(cc.v2(0, e));
 });
 } else {
 i.getChildByName("lb_nameVip").getComponent(cc.Label).node.active = !1;
-i.getChildByName("lb_name").getComponent(cc.Label).string = r + ": ";
+i.getChildByName("lb_name").getComponent(cc.Label).string = a + ": ";
 i.off(cc.Node.EventType.SIZE_CHANGED);
 i.on(cc.Node.EventType.SIZE_CHANGED, function() {
 var e = (i.getContentSize().height - i.getChildByName("lb_name").getContentSize().height) / 2;
@@ -1069,17 +1050,17 @@ this.txtInputChat.focus();
 };
 var o;
 t._instance = null;
-r([ l(cc.Node) ], t.prototype, "templateMessage", void 0);
-r([ l(cc.Node) ], t.prototype, "templateMessageTip", void 0);
-r([ l([ cc.SpriteFrame ]) ], t.prototype, "spriteFramesTip", void 0);
-r([ l(cc.Node) ], t.prototype, "listChat", void 0);
-r([ l(cc.Node) ], t.prototype, "NodeTip", void 0);
-r([ l(cc.ScrollView) ], t.prototype, "scrollListChat", void 0);
-r([ l(cc.EditBox) ], t.prototype, "txtInputChat", void 0);
-r([ l(cc.Label) ], t.prototype, "DealerName", void 0);
-return o = r([ c ], t);
+a([ l(cc.Node) ], t.prototype, "templateMessage", void 0);
+a([ l(cc.Node) ], t.prototype, "templateMessageTip", void 0);
+a([ l([ cc.SpriteFrame ]) ], t.prototype, "spriteFramesTip", void 0);
+a([ l(cc.Node) ], t.prototype, "listChat", void 0);
+a([ l(cc.Node) ], t.prototype, "NodeTip", void 0);
+a([ l(cc.ScrollView) ], t.prototype, "scrollListChat", void 0);
+a([ l(cc.EditBox) ], t.prototype, "txtInputChat", void 0);
+a([ l(cc.Label) ], t.prototype, "DealerName", void 0);
+return o = a([ c ], t);
 }(cc.Component);
-o.default = u;
+o.default = p;
 cc._RF.pop();
 }, {
 "./HacHong.Chat.NetworkClient": "HacHong.Chat.NetworkClient"
@@ -1101,12 +1082,16 @@ var t = (e = e.split("T"))[0].split("-");
 return t[2] + "/" + t[1] + " - " + e[1].substr(0, 5);
 };
 e.formatDateTime2 = function(e) {
-var t = (e = e.split("T"))[0], o = e[1].split(":"), n = o[0], i = o[1], r = parseInt(n, 10), a = r >= 12 ? "PM" : "AM";
-return t + "\n" + (r = r % 12 || 12) + ":" + i + " " + a;
+var t = (e = e.split("T"))[0], o = e[1].split(":"), n = o[0], i = o[1], a = parseInt(n, 10), r = a >= 12 ? "PM" : "AM";
+return "" + t + (a = a % 12 || 12) + ":" + i + " " + r;
+};
+e.formatDateTime4 = function(e) {
+var t = (e = e.split("T"))[0], o = e[1].split(":"), n = o[0], i = o[1], a = o[2];
+return t + " (" + n + ":" + i + ":" + Math.round(a) + ")";
 };
 e.formatDateTime3 = function(e) {
-var t = (e = e.split("T"))[1].split(":"), o = t[0], n = t[1], i = parseInt(o, 10), r = i >= 12 ? "PM" : "AM";
-return (i = i % 12 || 12) + ":" + n + " " + r;
+var t = (e = e.split("T"))[1].split(":"), o = t[0], n = t[1], i = parseInt(o, 10), a = i >= 12 ? "PM" : "AM";
+return (i = i % 12 || 12) + ":" + n + " " + a;
 };
 e.formatUserName = function(e) {
 return e.length > 10 ? e.slice(0, 9) + "..." : e;
@@ -1205,9 +1190,9 @@ n.open("GET", e, !0);
 n.responseType = "arraybuffer";
 n.onload = function() {
 if (200 === this.status) {
-for (var e = this.response, n = new Uint8Array(e), i = "", r = 0; r < n.byteLength; r++) i += String.fromCharCode(n[r]);
-var a = "data:image/png;base64," + window.btoa(i);
-t(a);
+for (var e = this.response, n = new Uint8Array(e), i = "", a = 0; a < n.byteLength; a++) i += String.fromCharCode(n[a]);
+var r = "data:image/png;base64," + window.btoa(i);
+t(r);
 } else o(new Error("Failed to load image. Status: " + this.status));
 };
 n.onerror = function() {
@@ -1226,6 +1211,16 @@ e.handleLoadedTexture();
 var n = new cc.SpriteFrame(e);
 t.spriteFrame = n;
 };
+};
+e.truncateString = function(e, t) {
+void 0 === t && (t = 9);
+if (null == e) return "";
+var o = String(e);
+return o.length > t ? o.slice(0, t) + "..." : o;
+};
+e.chunkArray = function(e, t) {
+for (var o = [], n = 0; n < e.length; n += t) o.push(e.slice(n, n + t));
+return o;
 };
 e.HacHongState = {
 BETTING: 0,
@@ -1262,12 +1257,13 @@ return "" + t + e;
 })("/signalr/negotiate"),
 hub: "gamehub",
 gate: lngui.ConfigManager.instance.ConfigInfo.Gate,
-GetBigWinner: o("/api/Game/GetBigWinner"),
-AccountHistory: o("/api/Game/GetHistory"),
-SoiCau: o("/api/Game/GetSoiCau"),
-GroupUser: o("/api/Game/GetPlayersNotInGame"),
+GetBigWinner: o("/api/HacHong/GetBigWinner"),
+AccountHistory: o("/api/HacHong/GetHistory"),
+jackpotHistory: o("/api/HacHong/GetJackpotHistory"),
+SoiCau: o("/api/HacHong/GetSoiCau"),
+GroupUser: o("/api/HacHong/GetPlayersNotInGame"),
 getSessionDetail: function(e) {
-return o("/api/Game/GetSessionInfo?sessionId=" + e);
+return o("/api/HacHong/GetSessionInfo?sessionId=" + e);
 }
 });
 var t, o;
@@ -1349,23 +1345,23 @@ HacHongController: [ function(e, t, o) {
 "use strict";
 cc._RF.push(t, "be279/lanpNhbPMtFIlnvcH", "HacHongController");
 var n = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var i = cc._decorator, r = i.ccclass, a = (i.property, function() {
+var i = cc._decorator, a = i.ccclass, r = (i.property, function() {
 function e() {
 this.avatarDef = null;
 this.avatars = null;
-this.dragonTigerView = null;
-this.dragonTigerResultView = null;
-this.dragonTigerResultEffectView = null;
-this.dragonTigerBetView = null;
-this.dragonTigerSessionHistoryView = null;
-this.dragonTigerEventView = null;
+this.HacHongView = null;
+this.HacHongResultView = null;
+this.HacHongResultEffectView = null;
+this.HacHongBetView = null;
+this.HacHongSessionHistoryView = null;
+this.HacHongEventView = null;
 this.infoView = null;
 this.positionUI = null;
 this.betLog = [];
@@ -1394,83 +1390,83 @@ this.avatars = e;
 e.prototype.getAvatars = function() {
 return this.avatars;
 };
-e.prototype.setDragonTigerView = function(e) {
-this.dragonTigerView = e;
+e.prototype.setHacHongView = function(e) {
+this.HacHongView = e;
 };
-e.prototype.setDragonTigerResultView = function(e) {
-this.dragonTigerResultView = e;
+e.prototype.setHacHongResultView = function(e) {
+this.HacHongResultView = e;
 };
-e.prototype.setDragonTigerResultEffectView = function(e) {
-this.dragonTigerResultEffectView = e;
+e.prototype.setHacHongResultEffectView = function(e) {
+this.HacHongResultEffectView = e;
 };
-e.prototype.setDragonTigerBetView = function(e) {
-this.dragonTigerBetView = e;
+e.prototype.setHacHongBetView = function(e) {
+this.HacHongBetView = e;
 };
-e.prototype.setDragonTigerSessionHistoryView = function(e) {
-this.dragonTigerSessionHistoryView = e;
+e.prototype.setHacHongSessionHistoryView = function(e) {
+this.HacHongSessionHistoryView = e;
 };
-e.prototype.setDragonTigerEventView = function(e) {
-this.dragonTigerEventView = e;
+e.prototype.setHacHongEventView = function(e) {
+this.HacHongEventView = e;
 };
 e.prototype.updateGameHistoryUI = function(e) {
 var t;
-null === (t = this.dragonTigerSessionHistoryView) || void 0 === t || t.updateGameHistoryUI(e);
+null === (t = this.HacHongSessionHistoryView) || void 0 === t || t.updateGameHistoryUI(e);
 };
 e.prototype.reset = function() {
 var e, t, o;
 try {
-null === (e = this.dragonTigerView) || void 0 === e || e.reset();
-null === (t = this.dragonTigerBetView) || void 0 === t || t.reset();
-null === (o = this.dragonTigerResultEffectView) || void 0 === o || o.reset();
+null === (e = this.HacHongView) || void 0 === e || e.reset();
+null === (t = this.HacHongBetView) || void 0 === t || t.reset();
+null === (o = this.HacHongResultEffectView) || void 0 === o || o.reset();
 } catch (e) {
 cc.error(e);
 }
 };
 e.prototype.stopResultEffect = function() {
 var e;
-null === (e = this.dragonTigerResultEffectView) || void 0 === e || e.stopEffect();
+null === (e = this.HacHongResultEffectView) || void 0 === e || e.stopEffect();
 };
 e.prototype.resetBetAndResultInfo = function() {
 var e, t, o;
-null === (e = this.dragonTigerResultEffectView) || void 0 === e || e.reset();
-null === (t = this.dragonTigerResultView) || void 0 === t || t.reset();
-null === (o = this.dragonTigerBetView) || void 0 === o || o.reset();
+null === (e = this.HacHongResultEffectView) || void 0 === e || e.reset();
+null === (t = this.HacHongResultView) || void 0 === t || t.reset();
+null === (o = this.HacHongBetView) || void 0 === o || o.reset();
 };
 e.prototype.resetBetInfo = function() {
 var e;
-null === (e = this.dragonTigerBetView) || void 0 === e || e.reset();
+null === (e = this.HacHongBetView) || void 0 === e || e.reset();
 };
 e.prototype.disableBetAgain = function(e) {
 var t;
-null === (t = this.dragonTigerBetView) || void 0 === t || t.disableBetAgain(e);
+null === (t = this.HacHongBetView) || void 0 === t || t.disableBetAgain(e);
 };
 e.prototype.sendRequestOnHub = function(e, t, o) {
 var n;
-return null === (n = this.dragonTigerView) || void 0 === n ? void 0 : n.sendRequestOnHub(e, t, o);
+return null === (n = this.HacHongView) || void 0 === n ? void 0 : n.sendRequestOnHub(e, t, o);
 };
 e.prototype.updateBetInfoFromServer = function(e) {
 var t;
-return null === (t = this.dragonTigerBetView) || void 0 === t ? void 0 : t.updateBetInfoFromServer(e);
+return null === (t = this.HacHongBetView) || void 0 === t ? void 0 : t.updateBetInfoFromServer(e);
 };
 e.prototype.updateTotalBetValue = function(e, t) {
 var o;
-return null === (o = this.dragonTigerBetView) || void 0 === o ? void 0 : o.updateTotalBetValue(e, t);
+return null === (o = this.HacHongBetView) || void 0 === o ? void 0 : o.updateTotalBetValue(e, t);
 };
 e.prototype.updateSessionHistory = function(e) {
 var t;
-null === (t = this.dragonTigerSessionHistoryView) || void 0 === t || t.updateSessionHistory(e);
+null === (t = this.HacHongSessionHistoryView) || void 0 === t || t.updateSessionHistory(e);
 };
 e.prototype.playEffectWin = function(e) {
 var t;
-null === (t = this.dragonTigerResultEffectView) || void 0 === t || t.playEffectWin(e);
+null === (t = this.HacHongResultEffectView) || void 0 === t || t.playEffectWin(e);
 };
 e.prototype.updateBetInfoView = function(e) {
 var t;
-null === (t = this.dragonTigerBetView) || void 0 === t || t.updateBetInfo(e);
+null === (t = this.HacHongBetView) || void 0 === t || t.updateBetInfo(e);
 };
 e.prototype.getBetSide = function() {
 var e;
-return null === (e = this.dragonTigerBetView) || void 0 === e ? void 0 : e.getBetSide();
+return null === (e = this.HacHongBetView) || void 0 === e ? void 0 : e.getBetSide();
 };
 e.prototype.setInfoView = function(e) {
 this.infoView = e;
@@ -1525,7 +1521,7 @@ return this.positionUI;
 };
 e.prototype.updateResultView = function(e) {
 var t;
-return null === (t = this.dragonTigerResultView) || void 0 === t ? void 0 : t.updateResult(e);
+return null === (t = this.HacHongResultView) || void 0 === t ? void 0 : t.updateResult(e);
 };
 e.prototype.clearBetLog = function(e) {
 this.betLog = this.betLog.filter(function(t) {
@@ -1587,9 +1583,9 @@ return this.sID;
 };
 var t;
 e._instance = null;
-return t = n([ r ], e);
+return t = n([ a ], e);
 }());
-o.default = a;
+o.default = r;
 cc._RF.pop();
 }, {} ],
 HacHongGetBigWinnerCommand: [ function(e, t) {
@@ -1601,7 +1597,7 @@ function e() {}
 e.prototype.execute = function(e) {
 return cc.ServerConnector.getInstance().sendRequest(cc.SubdomainName.DRAGON_TIGER, "api/Game/GetBigWinner", function(t) {
 var o = JSON.parse(t);
-return e.onDragonTigerGetBigWinnerResponse(o);
+return e.onHacHongGetBigWinnerResponse(o);
 });
 };
 return e;
@@ -1618,7 +1614,7 @@ function e() {}
 e.prototype.execute = function(e) {
 return cc.ServerConnector.getInstance().sendRequest(cc.SubdomainName.DRAGON_TIGER, "api/Game/GetHistory", function(t) {
 var o = JSON.parse(t);
-return e.onDragonTigerGetHistoryResponse(o);
+return e.onHacHongGetHistoryResponse(o);
 });
 };
 return e;
@@ -1636,12 +1632,12 @@ e.prototype.execute = function(e, t) {
 var o = "api/Game/GetSessionInfo?sessionId=" + t;
 return cc.ServerConnector.getInstance().sendRequest(cc.SubdomainName.DRAGON_TIGER, o, function(t) {
 var o = JSON.parse(t);
-return e.onDragonTigerGetSessionInfoResponse(o);
+return e.onHacHongGetSessionInfoResponse(o);
 });
 };
 return e;
 }();
-cc.DragonTigerGetSessionInfoCommand_789 = o;
+cc.HacHongGetSessionInfoCommand_789 = o;
 cc._RF.pop();
 }, {} ],
 HacHongGetSoiCauCommand: [ function(e, t) {
@@ -1653,7 +1649,7 @@ function e() {}
 e.prototype.execute = function(e) {
 return cc.ServerConnector.getInstance().sendRequest(cc.SubdomainName.DRAGON_TIGER, "api/Game/GetSoiCau", function(t) {
 var o = JSON.parse(t);
-return e.onDragonTigerGetSoiCauResponse(o);
+return e.onHacHongGetSoiCauResponse(o);
 });
 };
 return e;
@@ -1678,15 +1674,15 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("../../HacHongConst"), u = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("../../HacHongConst"), p = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -1744,17 +1740,17 @@ var o = this.nodeParent2.children;
 for (t = o.length - 1; t >= 0; t--) this.nodeParent2.removeChild(o[t]);
 }
 };
-r([ c(cc.Node) ], t.prototype, "nodeParent", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeRongTemp", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeHoaTemp", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeHoTemp", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeParent2", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeRongTemp2", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeHoaTemp2", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeHoTemp2", void 0);
-return r([ s ], t);
+a([ c(cc.Node) ], t.prototype, "nodeParent", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeRongTemp", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeHoaTemp", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeHoTemp", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeParent2", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeRongTemp2", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeHoaTemp2", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeHoTemp2", void 0);
+return a([ s ], t);
 }(cc.Component);
-o.default = u;
+o.default = p;
 cc._RF.pop();
 }, {
 "../../HacHongConst": "HacHongConst"
@@ -1776,15 +1772,15 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("../../HacHongConst"), u = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("../../HacHongConst"), p = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -1896,16 +1892,16 @@ t.strokeLine(t.drawing3);
 };
 t.prototype.createNode = function(e, t, o, n) {
 if (e && t) {
-var i = this.rootPosX - o * this.spaceX, r = this.colorRong, a = t.DragonCard;
+var i = this.rootPosX - o * this.spaceX, a = this.colorRong, r = t.DragonCard;
 if (n == l.HacHongConst.HacHongBetSide.HO) {
-a = t.TigerCard;
-r = this.colorHo;
+r = t.TigerCard;
+a = this.colorHo;
 }
-t.Result == l.HacHongConst.HacHongBetSide.HOA && (r = this.colorHoa);
-var s = parseInt(a) % 13;
+t.Result == l.HacHongConst.HacHongBetSide.HOA && (a = this.colorHoa);
+var s = parseInt(r) % 13;
 s = 0 == s ? 13 : s;
 var c = this.listPosY[s - 1];
-this.drawPoints.push([ cc.v2(i, c), r ]);
+this.drawPoints.push([ cc.v2(i, c), a ]);
 }
 };
 t.prototype.strokeLine = function(e) {
@@ -1934,19 +1930,19 @@ this.toggleRong && this.drawing1 && (this.toggleRong.isChecked ? this.cacheList 
 t.prototype.toggleDrawHoClicked = function() {
 this.toggleHo && this.drawing3 && (this.toggleHo.isChecked ? this.cacheList && this.cacheList.length > 0 && this.drawHo(this.cacheList) : this.drawing3.clear());
 };
-r([ c(cc.Node) ], t.prototype, "nodeGraphics1", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeGraphics2", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeGraphics3", void 0);
-r([ c(cc.Toggle) ], t.prototype, "toggleRong", void 0);
-r([ c(cc.Toggle) ], t.prototype, "toggleHo", void 0);
-r([ c(cc.Color) ], t.prototype, "colorRong", void 0);
-r([ c(cc.Color) ], t.prototype, "colorHo", void 0);
-r([ c(cc.Color) ], t.prototype, "colorHoa", void 0);
-r([ c(cc.Label) ], t.prototype, "lbSessionID", void 0);
-r([ c(cc.Label) ], t.prototype, "lbResult", void 0);
-return r([ s ], t);
+a([ c(cc.Node) ], t.prototype, "nodeGraphics1", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeGraphics2", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeGraphics3", void 0);
+a([ c(cc.Toggle) ], t.prototype, "toggleRong", void 0);
+a([ c(cc.Toggle) ], t.prototype, "toggleHo", void 0);
+a([ c(cc.Color) ], t.prototype, "colorRong", void 0);
+a([ c(cc.Color) ], t.prototype, "colorHo", void 0);
+a([ c(cc.Color) ], t.prototype, "colorHoa", void 0);
+a([ c(cc.Label) ], t.prototype, "lbSessionID", void 0);
+a([ c(cc.Label) ], t.prototype, "lbResult", void 0);
+return a([ s ], t);
 }(cc.Component);
-o.default = u;
+o.default = p;
 cc._RF.pop();
 }, {
 "../../HacHongConst": "HacHongConst"
@@ -1968,22 +1964,27 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("../../HacHongConst"), p = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
 t.nodeParent = null;
-t.nodeRongTemp = null;
-t.nodeHoaTemp = null;
-t.nodeHoTemp = null;
+t.nodeBlackTemp = null;
+t.nodeRedTemp = null;
+t.nodeColumnParentTemp = null;
+t.rootPosX = -21;
+t.rootPosY = -100;
+t.spaceX = 40;
+t.spaceY = 40;
+t.maxItemPerCol = 6;
 return t;
 }
 t.prototype.onLoad = function() {
@@ -1994,59 +1995,72 @@ this.spaceY = 40;
 this.maxItemPerCol = 6;
 };
 t.prototype.convertToMatrix = function(e) {
-var t = this, o = e[0].Result, n = [], i = [];
+var t = this;
+if (!e || 0 === e.length) return [];
+var o = [], n = [], i = e[0].Result;
 e.forEach(function(e) {
-if (i.length === t.maxItemPerCol) {
-n.push(i);
-(i = []).push(e);
-o = e.Result;
-} else if (e.Result === o) i.push(e); else {
-n.push(i);
-i = [];
-o = e.Result;
-i.push(e);
+if (n.length === t.maxItemPerCol) {
+o.push(n);
+(n = []).push(e);
+i = e.Result;
+} else if (e.Result === i) n.push(e); else {
+o.push(n);
+n = [];
+i = e.Result;
+n.push(e);
 }
 });
-n.push(i);
-return n;
+n.length > 0 && o.push(n);
+return o;
 };
 t.prototype.draw = function(e) {
+if (e && 0 !== e.length) {
 for (var t = this.convertToMatrix(e), o = 0; o < t.length; o++) this.drawCol(t[o], o);
-this.nodeParent.width = Math.max(40 * t.length, 242);
+this.nodeParent.width = Math.max(t.length * this.spaceX, 242);
+}
 };
 t.prototype.drawCol = function(e, t) {
-for (var o = this.rootPosX - t * this.spaceX, n = (this.maxItemPerCol - e.length) * this.spaceY + this.rootPosY, i = 0; i < e.length; i++) this.createNode(e[i], cc.v2(o, n + this.spaceY * i));
-};
-t.prototype.createNode = function(e, t) {
-switch (e.Result) {
-case cc.HacHongBetSide_789.RONG:
-var o = cc.instantiate(this.nodeRongTemp);
-break;
-
-case cc.HacHongBetSide_789.HOA:
-o = cc.instantiate(this.nodeHoaTemp);
-break;
-
-case cc.HacHongBetSide_789.HO:
-o = cc.instantiate(this.nodeHoTemp);
+if (e && 0 !== e.length) {
+var o = this.rootPosX - t * this.spaceX, n = (this.maxItemPerCol - e.length) * this.spaceY + this.rootPosY, i = null;
+if (this.nodeColumnParentTemp) {
+(i = cc.instantiate(this.nodeColumnParentTemp)).parent = this.nodeParent;
+var a = n + (e.length - 1) * this.spaceY / 2;
+i.position = cc.v3(o, a, 0);
 }
-if (o) {
-o.parent = this.nodeParent;
-o.position = t;
+for (var r = 0; r < e.length; r++) {
+var s = cc.v2(o, n + this.spaceY * r);
+this.createNode(e[r], s, i);
+}
+}
+};
+t.prototype.createNode = function(e, t, o) {
+var n;
+if (e) {
+var i = parseInt((null === (n = e.Result) || void 0 === n ? void 0 : n.toString()) || "0"), a = null;
+i === l.HacHongConst.HacHongBetSide.Black ? a = this.nodeBlackTemp : i === l.HacHongConst.HacHongBetSide.Red && (a = this.nodeRedTemp);
+if (a) {
+var r = cc.instantiate(a);
+if (r) {
+r.parent = o || this.nodeParent;
+r.position = cc.v3(t.x, t.y, 0);
+}
+}
 }
 };
 t.prototype.resetDraw = function() {
-for (var e = this.nodeParent.children, t = e.length - 1; t >= 0; t--) this.nodeParent.removeChild(e[t]);
+if (this.nodeParent) for (var e = this.nodeParent.children, t = e.length - 1; t >= 0; t--) this.nodeParent.removeChild(e[t]);
 };
-r([ c(cc.Node) ], t.prototype, "nodeParent", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeRongTemp", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeHoaTemp", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeHoTemp", void 0);
-return r([ s ], t);
+a([ c(cc.Node) ], t.prototype, "nodeParent", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeBlackTemp", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeRedTemp", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeColumnParentTemp", void 0);
+return a([ s ], t);
 }(cc.Component);
-o.default = l;
+o.default = p;
 cc._RF.pop();
-}, {} ],
+}, {
+"../../HacHongConst": "HacHongConst"
+} ],
 HacHongGraphSumView: [ function(e, t, o) {
 "use strict";
 cc._RF.push(t, "48671xdLTtOVoDWBIdehuOw", "HacHongGraphSumView");
@@ -2064,15 +2078,15 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("../../HacHongConst"), u = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("../../HacHongConst"), p = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -2137,13 +2151,13 @@ this.strokeLine();
 t.prototype.createNode = function(e, t) {
 var o;
 if (e && this.nodeParent && this.drawing) {
-var n, i = this.rootPosX - t * this.spaceX, r = this.rootPosY + (e.DiceSum - this.minSum) * this.spacePoint;
-0 === t && this.drawing.moveTo(i, r);
-var a = (null === (o = cc.HacHongBetSide_789) || void 0 === o ? void 0 : o.TAI) || 1;
-if (n = e.BetSide === a ? cc.instantiate(this.nodeTaiTemp) : cc.instantiate(this.nodeXiuTemp)) {
+var n, i = this.rootPosX - t * this.spaceX, a = this.rootPosY + (e.DiceSum - this.minSum) * this.spacePoint;
+0 === t && this.drawing.moveTo(i, a);
+var r = (null === (o = cc.HacHongBetSide_789) || void 0 === o ? void 0 : o.TAI) || 1;
+if (n = e.BetSide === r ? cc.instantiate(this.nodeTaiTemp) : cc.instantiate(this.nodeXiuTemp)) {
 n.parent = this.nodeParent;
-n.position = cc.v3(i, r, 0);
-this.drawPoints.push(cc.v2(i, r));
+n.position = cc.v3(i, a, 0);
+this.drawPoints.push(cc.v2(i, a));
 }
 }
 };
@@ -2164,16 +2178,16 @@ this.drawing && this.drawing.clear();
 t.prototype.toggleDrawDiceSumClicked = function() {
 this.toggleDiceSum && (this.toggleDiceSum.isChecked ? this.cacheList && this.cacheList.length > 0 && this.draw(this.cacheList) : this.resetDraw());
 };
-r([ c(cc.Node) ], t.prototype, "nodeGraphics", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeParent", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeTaiTemp", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeXiuTemp", void 0);
-r([ c(cc.Toggle) ], t.prototype, "toggleDiceSum", void 0);
-r([ c(cc.Label) ], t.prototype, "lbSessionID", void 0);
-r([ c(cc.Label) ], t.prototype, "lbResult", void 0);
-return r([ s ], t);
+a([ c(cc.Node) ], t.prototype, "nodeGraphics", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeParent", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeTaiTemp", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeXiuTemp", void 0);
+a([ c(cc.Toggle) ], t.prototype, "toggleDiceSum", void 0);
+a([ c(cc.Label) ], t.prototype, "lbSessionID", void 0);
+a([ c(cc.Label) ], t.prototype, "lbResult", void 0);
+return a([ s ], t);
 }(cc.Component);
-o.default = u;
+o.default = p;
 cc._RF.pop();
 }, {
 "../../HacHongConst": "HacHongConst"
@@ -2195,22 +2209,22 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("./HacHongGraph100View"), u = e("./HacHongGraphCatCauView"), p = e("./HacHongGraphSumView"), d = e("./HacHongGraphCard3View"), h = e("../../HacHongConst"), f = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("./HacHongGraph100View"), p = e("./HacHongGraphCatCauView"), u = e("./HacHongGraphSumView"), d = e("./HacHongGraphCard3View"), h = e("../../HacHongConst"), f = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
-t.dragonTigerGraph100View = null;
-t.dragonTigerGraphCatCauView = null;
-t.dragonTigerGraphCardSumView = null;
-t.dragonTigerGraphCard3View = null;
+t.HacHongGraph100View = null;
+t.HacHongGraphCatCauView = null;
+t.HacHongGraphCardSumView = null;
+t.HacHongGraphCard3View = null;
 t.pageView = null;
 t.btnNext = null;
 t.btnBack = null;
@@ -2236,12 +2250,12 @@ this.getSoiCau();
 t.prototype.getSoiCau = function() {
 var e = this, t = h.HacHongConst.api.SoiCau;
 lngui.Https.get(t, function(t) {
-t && e.onDragonTigerGetSoiCauResponse(t);
+t && e.onHacHongGetSoiCauResponse(t);
 });
 };
-t.prototype.onDragonTigerGetSoiCauResponse = function(e) {
-if (this.dragonTigerGraph100View && e) {
-var t = this.dragonTigerGraph100View.draw(e), o = t.rong + t.hoa + t.ho;
+t.prototype.onHacHongGetSoiCauResponse = function(e) {
+if (this.HacHongGraph100View && e) {
+var t = this.HacHongGraph100View.draw(e), o = t.rong + t.hoa + t.ho;
 this.lbTotalRong && (this.lbTotalRong.string = t.rong.toString());
 this.lbTotalHoa && (this.lbTotalHoa.string = t.hoa.toString());
 this.lbTotalHo && (this.lbTotalHo.string = t.ho.toString());
@@ -2249,17 +2263,17 @@ if (o > 0) {
 this.lbPercentHo && (this.lbPercentHo.string = Math.round(t.ho / o * 100) + "%");
 this.lbPercentRong && (this.lbPercentRong.string = Math.round(t.rong / o * 100) + "%");
 }
-this.dragonTigerGraphCatCauView && this.dragonTigerGraphCatCauView.draw(e);
+this.HacHongGraphCatCauView && this.HacHongGraphCatCauView.draw(e);
 }
 };
 t.prototype.pageEvent = function() {
 this.checkStatusButton();
 };
 t.prototype.onDestroy = function() {
-this.dragonTigerGraph100View && this.dragonTigerGraph100View.resetDraw();
-this.dragonTigerGraphCatCauView && this.dragonTigerGraphCatCauView.resetDraw();
-this.dragonTigerGraphCardSumView && this.dragonTigerGraphCardSumView.resetDraw();
-this.dragonTigerGraphCard3View && this.dragonTigerGraphCard3View.resetDraw();
+this.HacHongGraph100View && this.HacHongGraph100View.resetDraw();
+this.HacHongGraphCatCauView && this.HacHongGraphCatCauView.resetDraw();
+this.HacHongGraphCardSumView && this.HacHongGraphCardSumView.resetDraw();
+this.HacHongGraphCard3View && this.HacHongGraphCard3View.resetDraw();
 };
 t.prototype.nextPageClicked = function() {
 if (this.pageView) {
@@ -2282,19 +2296,19 @@ this.btnNext && (this.btnNext.interactable = this.currentPageIndex < this.totalP
 this.btnBack && (this.btnBack.interactable = this.currentPageIndex > 0);
 }
 };
-r([ c(l.default) ], t.prototype, "dragonTigerGraph100View", void 0);
-r([ c(u.default) ], t.prototype, "dragonTigerGraphCatCauView", void 0);
-r([ c(p.default) ], t.prototype, "dragonTigerGraphCardSumView", void 0);
-r([ c(d.default) ], t.prototype, "dragonTigerGraphCard3View", void 0);
-r([ c(cc.PageView) ], t.prototype, "pageView", void 0);
-r([ c(cc.Button) ], t.prototype, "btnNext", void 0);
-r([ c(cc.Button) ], t.prototype, "btnBack", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTotalRong", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTotalHoa", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTotalHo", void 0);
-r([ c(cc.Label) ], t.prototype, "lbPercentRong", void 0);
-r([ c(cc.Label) ], t.prototype, "lbPercentHo", void 0);
-return r([ s ], t);
+a([ c(l.default) ], t.prototype, "HacHongGraph100View", void 0);
+a([ c(p.default) ], t.prototype, "HacHongGraphCatCauView", void 0);
+a([ c(u.default) ], t.prototype, "HacHongGraphCardSumView", void 0);
+a([ c(d.default) ], t.prototype, "HacHongGraphCard3View", void 0);
+a([ c(cc.PageView) ], t.prototype, "pageView", void 0);
+a([ c(cc.Button) ], t.prototype, "btnNext", void 0);
+a([ c(cc.Button) ], t.prototype, "btnBack", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTotalRong", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTotalHoa", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTotalHo", void 0);
+a([ c(cc.Label) ], t.prototype, "lbPercentRong", void 0);
+a([ c(cc.Label) ], t.prototype, "lbPercentHo", void 0);
+return a([ s ], t);
 }(lngui.UIPopup);
 o.default = f;
 cc._RF.pop();
@@ -2322,15 +2336,15 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("../HacHongController"), u = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("../HacHongController"), p = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -2342,10 +2356,10 @@ t.itemID = 0;
 return t;
 }
 t.prototype.updateItem = function(e, t) {
-var o, n, i = e.Account, r = i.Avatar;
-(r <= 0 || r > 15) && (r = Math.floor(15 * Math.random()) + 1);
-var a = l.default.getInstance().getAvatars();
-this.avatar && a && a[r - 1] && this.avatar.setAvatar(a[r - 1]);
+var o, n, i = e.Account, a = i.Avatar;
+(a <= 0 || a > 15) && (a = Math.floor(15 * Math.random()) + 1);
+var r = l.default.getInstance().getAvatars();
+this.avatar && r && r[a - 1] && this.avatar.setAvatar(r[a - 1]);
 this.lbNickName && (this.lbNickName.string = i.NickName || "");
 if (this.lbBalance) {
 var s = null === (o = cc.Tool) || void 0 === o ? void 0 : o.getInstance();
@@ -2354,12 +2368,12 @@ s && s.formatNumber ? this.lbBalance.string = s.formatNumber(i.Balance) : this.l
 this.item = e;
 this.itemID = t;
 };
-r([ c(cc.Avatar) ], t.prototype, "avatar", void 0);
-r([ c(cc.Label) ], t.prototype, "lbNickName", void 0);
-r([ c(cc.Label) ], t.prototype, "lbBalance", void 0);
-return r([ s ], t);
+a([ c(cc.Avatar) ], t.prototype, "avatar", void 0);
+a([ c(cc.Label) ], t.prototype, "lbNickName", void 0);
+a([ c(cc.Label) ], t.prototype, "lbBalance", void 0);
+return a([ s ], t);
 }(cc.Component);
-o.default = u;
+o.default = p;
 cc._RF.pop();
 }, {
 "../HacHongController": "HacHongController"
@@ -2399,15 +2413,15 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("./HacHongGroupItem"), u = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("./HacHongGroupItem"), p = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -2455,13 +2469,13 @@ this.messages = e;
 var t = this.messages.length, o = this.itemTemplate.height || 100;
 this.content.height = t * (o + this.spacing) + this.spacing;
 for (var n = Math.min(this.spawnCount, t), i = 0; i < n; ++i) {
-var r = cc.instantiate(this.itemTemplate);
-if (r) {
-this.content.addChild(r);
-r.setPosition(0, -o * (.5 + i) - this.spacing * (i + 1));
-var a = r.getComponent(l.default);
-a && this.messages[i] && a.updateItem(this.messages[i], i);
-this.items.push(r);
+var a = cc.instantiate(this.itemTemplate);
+if (a) {
+this.content.addChild(a);
+a.setPosition(0, -o * (.5 + i) - this.spacing * (i + 1));
+var r = a.getComponent(l.default);
+r && this.messages[i] && r.updateItem(this.messages[i], i);
+this.items.push(a);
 }
 }
 this.rootContentY = this.content.y;
@@ -2473,20 +2487,20 @@ if (this.scrollView && this.content && 0 !== this.items.length) {
 this.updateTimer += e;
 if (!(this.updateTimer < this.updateInterval)) {
 this.updateTimer = 0;
-for (var t = this.items, o = this.bufferZone, n = this.scrollView.content.y < this.lastContentPosY, i = ((this.itemTemplate.height || 100) + this.spacing) * t.length, r = 0; r < t.length; ++r) if (t[r]) {
-var a = this.getPositionInView(t[r]);
+for (var t = this.items, o = this.bufferZone, n = this.scrollView.content.y < this.lastContentPosY, i = ((this.itemTemplate.height || 100) + this.spacing) * t.length, a = 0; a < t.length; ++a) if (t[a]) {
+var r = this.getPositionInView(t[a]);
 if (n) {
-if (a.y < -o && t[r].y + i < 0) {
-t[r].y = t[r].y + i;
-if (c = t[r].getComponent(l.default)) {
+if (r.y < -o && t[a].y + i < 0) {
+t[a].y = t[a].y + i;
+if (c = t[a].getComponent(l.default)) {
 var s = c.itemID - t.length;
 void 0 !== this.messages[s] && s >= 0 && c.updateItem(this.messages[s], s);
 }
 }
-} else if (a.y > o && t[r].y - i > -this.content.height) {
-t[r].y = t[r].y - i;
+} else if (r.y > o && t[a].y - i > -this.content.height) {
+t[a].y = t[a].y - i;
 var c;
-if (c = t[r].getComponent(l.default)) {
+if (c = t[a].getComponent(l.default)) {
 s = c.itemID + t.length;
 void 0 !== this.messages[s] && s < this.messages.length && c.updateItem(this.messages[s], s);
 }
@@ -2496,15 +2510,15 @@ this.lastContentPosY = this.scrollView.content.y;
 }
 }
 };
-r([ c(cc.Node) ], t.prototype, "itemTemplate", void 0);
-r([ c(cc.ScrollView) ], t.prototype, "scrollView", void 0);
-r([ c ], t.prototype, "spawnCount", void 0);
-r([ c ], t.prototype, "spacing", void 0);
-r([ c ], t.prototype, "updateInterval", void 0);
-r([ c ], t.prototype, "bufferZone", void 0);
-return r([ s ], t);
+a([ c(cc.Node) ], t.prototype, "itemTemplate", void 0);
+a([ c(cc.ScrollView) ], t.prototype, "scrollView", void 0);
+a([ c ], t.prototype, "spawnCount", void 0);
+a([ c ], t.prototype, "spacing", void 0);
+a([ c ], t.prototype, "updateInterval", void 0);
+a([ c ], t.prototype, "bufferZone", void 0);
+return a([ s ], t);
 }(cc.Component);
-o.default = u;
+o.default = p;
 cc._RF.pop();
 }, {
 "./HacHongGroupItem": "HacHongGroupItem"
@@ -2526,15 +2540,15 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("./HacHongGroupUserListView"), u = e("../HacHongConst"), p = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("./HacHongGroupUserListView"), p = e("../HacHongConst"), u = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -2551,7 +2565,7 @@ e.getGroupUser();
 cc.director.getScheduler().schedule(this.schedulerCallback, this, 1, 0, .2, !1);
 };
 t.prototype.getGroupUser = function() {
-var e = this, t = u.HacHongConst.api.GroupUser;
+var e = this, t = p.HacHongConst.api.GroupUser;
 lngui.Https.get(t, function(t) {
 t && e.onGetGroupUserResponse(t);
 });
@@ -2566,18 +2580,18 @@ t.prototype.onDestroy = function() {
 this.groupUserListView && this.groupUserListView.resetList();
 this.schedulerCallback && cc.director.getScheduler().unschedule(this.schedulerCallback, this);
 };
-r([ c(l.default) ], t.prototype, "groupUserListView", void 0);
-return r([ s ], t);
+a([ c(l.default) ], t.prototype, "groupUserListView", void 0);
+return a([ s ], t);
 }(lngui.UIPopup);
-o.default = p;
+o.default = u;
 cc._RF.pop();
 }, {
 "../HacHongConst": "HacHongConst",
 "./HacHongGroupUserListView": "HacHongGroupUserListView"
 } ],
-HacHongHistoryItem: [ function(e, t, o) {
+HacHongHelpView: [ function(e, t, o) {
 "use strict";
-cc._RF.push(t, "c646atC/uBCTKlaYfzkFvnd", "HacHongHistoryItem");
+cc._RF.push(t, "7eca96771pNzo8m/n9Ls9Mm", "HacHongHelpView");
 var n, i = this && this.__extends || (n = function(e, t) {
 return (n = Object.setPrototypeOf || {
 __proto__: []
@@ -2592,203 +2606,62 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("../../HacHongConst"), u = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
-t.lbSession = null;
-t.lbTime = null;
-t.lbSide = null;
-t.lbResult = null;
-t.lbBet = null;
-t.lbRefund = null;
-t.lbWin = null;
-t.item = null;
-t.itemID = 0;
+t.pageHelp = null;
+t.btnNext = null;
+t.btnPrevious = null;
 return t;
 }
-t.prototype.getBetSideText = function(e) {
-switch (e) {
-case l.HacHongConst.HacHongBetSide.RONG:
-return "RỒNG";
-
-case l.HacHongConst.HacHongBetSide.HOA:
-return "HÒA";
-
-case l.HacHongConst.HacHongBetSide.HO:
-return "HỔ";
-
-default:
-return "";
+t.prototype.onLoad = function() {};
+t.prototype.start = function() {
+this.checkButtonState();
+};
+t.prototype.checkButtonState = function() {
+if (this.pageHelp) {
+var e = this.pageHelp.getCurrentPageIndex(), t = this.pageHelp.getPages().length;
+this.btnPrevious && (this.btnPrevious.interactable = e > 0);
+this.btnNext && (this.btnNext.interactable = e < t - 1);
 }
 };
-t.prototype.updateItem = function(e, t) {
-var o, n;
-if (e) {
-this.lbSession && (this.lbSession.string = "#" + (e.SessionID || ""));
-if (this.lbTime && e.CreateTime) {
-var i = null === (o = cc.Tool) || void 0 === o ? void 0 : o.getInstance();
-i && i.convertUTCTime ? this.lbTime.string = i.convertUTCTime(e.CreateTime) : this.lbTime.string = e.CreateTime || "";
+t.prototype.onClickNext = function() {
+if (this.pageHelp) {
+var e = this.pageHelp.getCurrentPageIndex();
+if (e < this.pageHelp.getPages().length - 1) {
+var t = e + 1;
+this.pageHelp.scrollToPage(t, .3);
+this.checkButtonState();
 }
-this.lbSide && (this.lbSide.string = this.getBetSideText(e.BetSide));
-this.lbResult && (this.lbResult.string = this.getBetSideText(e.Result));
-var r = null === (n = cc.Tool) || void 0 === n ? void 0 : n.getInstance();
-this.lbBet && (r && r.formatNumber ? this.lbBet.string = r.formatNumber(e.Bet || 0) : this.lbBet.string = (e.Bet || 0).toString());
-this.lbRefund && (r && r.formatNumber ? this.lbRefund.string = r.formatNumber(e.Refund || 0) : this.lbRefund.string = (e.Refund || 0).toString());
-this.lbWin && (r && r.formatNumber ? this.lbWin.string = r.formatNumber(e.Award || 0) : this.lbWin.string = (e.Award || 0).toString());
-this.item = e;
-this.itemID = t;
 }
 };
-r([ c(cc.Label) ], t.prototype, "lbSession", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTime", void 0);
-r([ c(cc.Label) ], t.prototype, "lbSide", void 0);
-r([ c(cc.Label) ], t.prototype, "lbResult", void 0);
-r([ c(cc.Label) ], t.prototype, "lbBet", void 0);
-r([ c(cc.Label) ], t.prototype, "lbRefund", void 0);
-r([ c(cc.Label) ], t.prototype, "lbWin", void 0);
-return r([ s ], t);
-}(cc.Component);
-o.default = u;
+t.prototype.onClickPrevious = function() {
+if (this.pageHelp) {
+var e = this.pageHelp.getCurrentPageIndex();
+if (e > 0) {
+var t = e - 1;
+this.pageHelp.scrollToPage(t, .3);
+this.checkButtonState();
+}
+}
+};
+a([ c(cc.PageView) ], t.prototype, "pageHelp", void 0);
+a([ c(cc.Button) ], t.prototype, "btnNext", void 0);
+a([ c(cc.Button) ], t.prototype, "btnPrevious", void 0);
+return a([ s ], t);
+}(lngui.UIPopup);
+o.default = l;
 cc._RF.pop();
-}, {
-"../../HacHongConst": "HacHongConst"
-} ],
-HacHongHistoryListView: [ function(e, t, o) {
-"use strict";
-cc._RF.push(t, "d1bb00erVBL07Fg6BZfgd8T", "HacHongHistoryListView");
-var n, i = this && this.__extends || (n = function(e, t) {
-return (n = Object.setPrototypeOf || {
-__proto__: []
-} instanceof Array && function(e, t) {
-e.__proto__ = t;
-} || function(e, t) {
-for (var o in t) Object.prototype.hasOwnProperty.call(t, o) && (e[o] = t[o]);
-})(e, t);
-}, function(e, t) {
-n(e, t);
-function o() {
-this.constructor = e;
-}
-e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
-};
-Object.defineProperty(o, "__esModule", {
-value: !0
-});
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("./HacHongHistoryItem"), u = function(e) {
-i(t, e);
-function t() {
-var t = null !== e && e.apply(this, arguments) || this;
-t.itemTemplate = null;
-t.scrollView = null;
-t.spawnCount = 0;
-t.spacing = 0;
-t.items = [];
-t.content = null;
-t.rootContentY = 0;
-t.messages = [];
-t.updateTimer = 0;
-t.updateInterval = .1;
-t.bufferZone = 200;
-t.lastContentPosY = 0;
-return t;
-}
-t.prototype.onLoad = function() {
-this.items = [];
-this.updateTimer = 0;
-this.lastContentPosY = 0;
-if (this.scrollView) {
-this.content = this.scrollView.content;
-this.rootContentY = this.content ? this.content.y : 0;
-}
-};
-t.prototype.resetList = function() {
-if (this.scrollView) {
-this.items = [];
-this.scrollView.stopAutoScroll();
-if (this.content) {
-this.content.y = this.rootContentY;
-for (var e = this.content.children.slice(), t = e.length - 1; t >= 0; t--) e[t] && this.content.removeChild(e[t]);
-}
-}
-};
-t.prototype.getPositionInView = function(e) {
-if (!e || !this.scrollView) return cc.v3(0, 0, 0);
-var t = e.parent.convertToWorldSpaceAR(e.position);
-return this.scrollView.node.convertToNodeSpaceAR(t);
-};
-t.prototype.initialize = function(e) {
-if (e && Array.isArray(e) && 0 !== e.length && this.scrollView && this.itemTemplate && this.content) {
-this.messages = e;
-var t = this.messages.length, o = this.itemTemplate.height || 100;
-this.content.height = t * (o + this.spacing) + this.spacing;
-for (var n = Math.min(this.spawnCount, t), i = 0; i < n; ++i) {
-var r = cc.instantiate(this.itemTemplate);
-if (r) {
-this.content.addChild(r);
-r.setPosition(0, -o * (.5 + i) - this.spacing * (i + 1));
-var a = r.getComponent(l.default);
-a && this.messages[i] && a.updateItem(this.messages[i], i);
-this.items.push(r);
-}
-}
-this.rootContentY = this.content.y;
-this.lastContentPosY = this.content.y;
-}
-};
-t.prototype.update = function(e) {
-if (this.scrollView && this.content && 0 !== this.items.length) {
-this.updateTimer += e;
-if (!(this.updateTimer < this.updateInterval)) {
-this.updateTimer = 0;
-for (var t = this.items, o = this.bufferZone, n = this.scrollView.content.y < this.lastContentPosY, i = ((this.itemTemplate.height || 100) + this.spacing) * t.length, r = 0; r < t.length; ++r) if (t[r]) {
-var a = this.getPositionInView(t[r]);
-if (n) {
-if (a.y < -o && t[r].y + i < 0) {
-t[r].y = t[r].y + i;
-if (c = t[r].getComponent(l.default)) {
-var s = c.itemID - t.length;
-void 0 !== this.messages[s] && s >= 0 && c.updateItem(this.messages[s], s);
-}
-}
-} else if (a.y > o && t[r].y - i > -this.content.height) {
-t[r].y = t[r].y - i;
-var c;
-if (c = t[r].getComponent(l.default)) {
-s = c.itemID + t.length;
-void 0 !== this.messages[s] && s < this.messages.length && c.updateItem(this.messages[s], s);
-}
-}
-}
-this.lastContentPosY = this.scrollView.content.y;
-}
-}
-};
-r([ c(cc.Node) ], t.prototype, "itemTemplate", void 0);
-r([ c(cc.ScrollView) ], t.prototype, "scrollView", void 0);
-r([ c ], t.prototype, "spawnCount", void 0);
-r([ c ], t.prototype, "spacing", void 0);
-r([ c ], t.prototype, "updateInterval", void 0);
-r([ c ], t.prototype, "bufferZone", void 0);
-return r([ s ], t);
-}(cc.Component);
-o.default = u;
-cc._RF.pop();
-}, {
-"./HacHongHistoryItem": "HacHongHistoryItem"
-} ],
+}, {} ],
 HacHongHistoryView: [ function(e, t, o) {
 "use strict";
 cc._RF.push(t, "44fe3ErCqdLUIgvksTNcjDy", "HacHongHistoryView");
@@ -2806,54 +2679,246 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("../../HacHongConst"), u = e("./HacHongHistoryListView"), p = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("../../HacHongConst"), p = function() {
+function e() {
+this.md5String = null;
+this.resultString = null;
+this.totalBet = null;
+this.totalWin = null;
+this.sprCard = [];
+this.nodeBetAllGate = null;
+this.nodeWinAllGate = null;
+}
+a([ c(cc.Label) ], e.prototype, "md5String", void 0);
+a([ c(cc.Label) ], e.prototype, "resultString", void 0);
+a([ c(cc.Label) ], e.prototype, "totalBet", void 0);
+a([ c(cc.Label) ], e.prototype, "totalWin", void 0);
+a([ c(cc.Sprite) ], e.prototype, "sprCard", void 0);
+a([ c(cc.Node) ], e.prototype, "nodeBetAllGate", void 0);
+a([ c(cc.Node) ], e.prototype, "nodeWinAllGate", void 0);
+return a([ s("DetailHistory") ], e);
+}(), u = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
-t.dragonTigerHistoryListView = null;
+t.totalPage = null;
+t.nodeHint = null;
+t.nodeContent = null;
+t.nodeItemTemplate = null;
+t.nodeDetailHistory = null;
+t.btnNextorPrevious = [];
+t.altasCard = null;
+t.spfWinLose = [];
+t.detailHistory = new p();
 t.schedulerCallback = null;
+t.index = 0;
+t.maxindex = null;
+t.activeTemplate = null;
+t.colorWin = cc.color(137, 178, 58);
+t.colorLose = cc.color(178, 60, 33);
+t.md5String = "";
+t.resultString = "";
+t.jackpotWin = 0;
 return t;
 }
-t.prototype.onLoad = function() {};
+t.prototype.onLoad = function() {
+this.nodeDetailHistory.active = !1;
+};
 t.prototype.onEnable = function() {
 var e = this;
 this.schedulerCallback = function() {
-e.getTopSessionHistory();
+e.getHistory();
 };
 cc.director.getScheduler().schedule(this.schedulerCallback, this, 1, 0, .2, !1);
 };
-t.prototype.getTopSessionHistory = function() {
+t.prototype.getHistory = function() {
 var e = this, t = l.HacHongConst.api.AccountHistory;
 lngui.Https.get(t, function(t) {
-t && e.onDragonTigerGetHistoryResponse(t);
+t && e.onHacHongGetHistoryResponse(t);
 });
 };
-t.prototype.onDragonTigerGetHistoryResponse = function(e) {
-if (e && Array.isArray(e) && 0 !== e.length && this.dragonTigerHistoryListView) {
-this.dragonTigerHistoryListView.resetList();
-this.dragonTigerHistoryListView.initialize(e);
+t.prototype.onHacHongGetHistoryResponse = function(e) {
+if (e && Array.isArray(e) && 0 !== e.length) {
+this.listData = l.HacHongConst.chunkArray(e, 6);
+this.maxindex = this.listData.length;
+this.index = 0;
+this.showHistory(this.listData[this.index]);
+this.checkButton();
 }
 };
+t.prototype.onClickNext = function() {
+if (null !== this.maxindex && void 0 !== this.maxindex && this.index < this.maxindex - 1) {
+this.index++;
+this.showHistory(this.listData[this.index]);
+this.checkButton();
+}
+};
+t.prototype.onClickPrevious = function() {
+if (this.index > 0) {
+this.index--;
+this.showHistory(this.listData[this.index]);
+this.checkButton();
+}
+};
+t.prototype.checkButton = function() {
+if (this.btnNextorPrevious && !(this.btnNextorPrevious.length < 2)) {
+this.totalPage.string = this.index + 1 + "/" + this.maxindex;
+this.nodeHint.active = !0;
+this.nodeDetailHistory.active = !1;
+if (null !== this.maxindex && void 0 !== this.maxindex && 0 !== this.maxindex) {
+this.btnNextorPrevious[0] && (this.btnNextorPrevious[0].active = !0);
+this.btnNextorPrevious[1] && (this.btnNextorPrevious[1].active = !0);
+0 === this.index && this.btnNextorPrevious[0] && (this.btnNextorPrevious[0].active = !1);
+this.index === this.maxindex - 1 && this.btnNextorPrevious[1] && (this.btnNextorPrevious[1].active = !1);
+} else {
+this.btnNextorPrevious[0] && (this.btnNextorPrevious[0].active = !1);
+this.btnNextorPrevious[1] && (this.btnNextorPrevious[1].active = !1);
+}
+}
+};
+t.prototype.showHistory = function(e) {
+var t = this;
+if (e) {
+e && lngui.UIWaitingLayout.hideWaiting();
+this.nodeContent.removeAllChildren();
+this.activeTemplate = null;
+for (var o = function() {
+var o = cc.instantiate(n.nodeItemTemplate), a = e[i], r = a.TotalAward, s = a.TotalBet, c = r - s;
+o.active = !0;
+o.setPosition(0, 0);
+o.getChildByName("session").getComponent(cc.Label).string = a.SessionID;
+o.getChildByName("time").getComponent(cc.Label).string = l.HacHongConst.formatDateTime4(a.CreateTime);
+var p = o.getChildByName("nodeResult"), u = o.getChildByName("totalBet");
+if (a.IsFinish) {
+o.getChildByName("result").getComponent(cc.Sprite).spriteFrame = c > 0 ? n.spfWinLose[1] : n.spfWinLose[0];
+if (p) {
+var d = p.getChildByName("moneyResult");
+if (d) {
+d.getComponent(cc.Label).string = l.HacHongConst.formatNumberToKMB(c);
+d.color = c > 0 ? n.colorWin : n.colorLose;
+}
+}
+} else {
+o.getChildByName("result").getComponent(cc.Sprite).spriteFrame = n.spfWinLose[2];
+o.getChildByName("btnDetail").active = !1;
+p && (p.active = !1);
+}
+if (u) {
+var h = u.getChildByName("moneyBet");
+h && (h.getComponent(cc.Label).string = l.HacHongConst.formatNumberMin(s));
+}
+o.getChildByName("arrow").active = !1;
+var f = o.getChildByName("btnDetail");
+if (f) {
+var g = f.getComponent(cc.Button);
+if (g) {
+f.itemData = a;
+f.itemIndex = i;
+g.node.off(cc.Node.EventType.TOUCH_END);
+g.node.on(cc.Node.EventType.TOUCH_END, function() {
+if (t.activeTemplate && t.activeTemplate.isValid) {
+var e = t.activeTemplate.getChildByName("arrow");
+e && (e.active = !1);
+}
+var n = o.getChildByName("arrow");
+n && (n.active = !0);
+t.activeTemplate = o;
+t.onClickDetail(a, i);
+}, n);
+}
+}
+n.nodeContent.addChild(o);
+}, n = this, i = 0; i < e.length; i++) o();
+}
+};
+t.prototype.onClickDetail = function(e) {
+var t;
+if (e) {
+this.nodeHint.active = !1;
+this.nodeDetailHistory.active = !0;
+this.md5String = e.Md5String;
+this.resultString = e.ResultString;
+this.detailHistory.md5String.string = l.HacHongConst.truncateString(e.Md5String, 15);
+this.detailHistory.resultString.string = l.HacHongConst.truncateString(e.ResultString, 16);
+this.detailHistory.sprCard[0].spriteFrame = this.altasCard.getSpriteFrame("icCard" + e.Card1);
+this.detailHistory.sprCard[1].spriteFrame = this.altasCard.getSpriteFrame("icCard" + e.Card2);
+this.detailHistory.sprCard[2].spriteFrame = this.altasCard.getSpriteFrame("icCard" + e.Card3);
+this.jackpotWin = null !== (t = null == e ? void 0 : e.JackpotValue) && void 0 !== t ? t : 0;
+e.Data && Array.isArray(e.Data) && this.showBetAndWinData(e.Data);
+this.nodeDetailHistory;
+}
+};
+t.prototype.showBetAndWinData = function(e) {
+var t = this;
+if (e && Array.isArray(e) && 0 !== e.length) {
+this.detailHistory.nodeBetAllGate && this.detailHistory.nodeBetAllGate.children && this.detailHistory.nodeBetAllGate.children.forEach(function(e) {
+e.getComponent(cc.Label).string = "0";
+});
+this.detailHistory.nodeWinAllGate && this.detailHistory.nodeWinAllGate.children && this.detailHistory.nodeWinAllGate.children.forEach(function(e) {
+e.getComponent(cc.Label).string = "0";
+e.color = t.colorLose;
+});
+var o = 0, n = 0;
+e.forEach(function(e) {
+var i = e.BetGateID, a = e.Bet || 0, r = e.Award || 0, s = i - 1;
+if (t.detailHistory.nodeBetAllGate && t.detailHistory.nodeBetAllGate.children && t.detailHistory.nodeBetAllGate.children[s]) {
+var c = t.detailHistory.nodeBetAllGate.children[s].getComponent(cc.Label);
+c && (c.string = l.HacHongConst.formatNumberToKMB(a));
+o += a;
+}
+if (t.detailHistory.nodeWinAllGate && t.detailHistory.nodeWinAllGate.children && t.detailHistory.nodeWinAllGate.children[s]) {
+var p = t.detailHistory.nodeWinAllGate.children[s], u = p.getComponent(cc.Label);
+if (u) {
+u.string = l.HacHongConst.formatNumberToKMB(r);
+p.color = r > 0 ? t.colorWin : t.colorLose;
+}
+n += r;
+}
+});
+if (this.jackpotWin > 0) {
+n += this.jackpotWin;
+if (this.detailHistory.nodeWinAllGate && this.detailHistory.nodeWinAllGate.children && this.detailHistory.nodeWinAllGate.children[9]) {
+var i = this.detailHistory.nodeWinAllGate.children[9], a = i.getComponent(cc.Label);
+if (a) {
+a.string = l.HacHongConst.formatNumberToKMB(this.jackpotWin);
+i.color = this.colorWin;
+}
+}
+}
+this.detailHistory.totalBet && (this.detailHistory.totalBet.string = l.HacHongConst.formatNumberToKMB(o));
+this.detailHistory.totalWin && (this.detailHistory.totalWin.string = l.HacHongConst.formatNumberToKMB(n));
+}
+};
+t.prototype.copy = function(e, t) {
+var o = "md5" == t ? this.md5String : this.resultString;
+lngui.PlatformInterface.copy(o);
+};
 t.prototype.onDestroy = function() {
-this.dragonTigerHistoryListView && this.dragonTigerHistoryListView.resetList();
 this.schedulerCallback && cc.director.getScheduler().unschedule(this.schedulerCallback, this);
 };
-r([ c(u.default) ], t.prototype, "dragonTigerHistoryListView", void 0);
-return r([ s ], t);
+a([ c(cc.Label) ], t.prototype, "totalPage", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeHint", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeContent", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeItemTemplate", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeDetailHistory", void 0);
+a([ c(cc.Node) ], t.prototype, "btnNextorPrevious", void 0);
+a([ c(cc.SpriteAtlas) ], t.prototype, "altasCard", void 0);
+a([ c(cc.SpriteFrame) ], t.prototype, "spfWinLose", void 0);
+a([ c(p) ], t.prototype, "detailHistory", void 0);
+return a([ s ], t);
 }(lngui.UIPopup);
-o.default = p;
+o.default = u;
 cc._RF.pop();
 }, {
-"../../HacHongConst": "HacHongConst",
-"./HacHongHistoryListView": "HacHongHistoryListView"
+"../../HacHongConst": "HacHongConst"
 } ],
 HacHongInfoView: [ function(e, t, o) {
 "use strict";
@@ -2872,15 +2937,15 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("./HacHongController"), u = e("./player/HacHongPlayer"), p = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("./HacHongController"), p = e("./player/HacHongPlayer"), u = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -2988,10 +3053,10 @@ t && t.nickName === e[0] && t.showBubbleChat(e);
 };
 var o;
 t._instance = null;
-r([ c(u.default) ], t.prototype, "lstPlayers", void 0);
-return o = r([ s ], t);
+a([ c(p.default) ], t.prototype, "lstPlayers", void 0);
+return o = a([ s ], t);
 }(cc.Component);
-o.default = p;
+o.default = u;
 cc._RF.pop();
 }, {
 "./HacHongController": "HacHongController",
@@ -3014,21 +3079,21 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
-}, a = this && this.__spreadArrays || function() {
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
+}, r = this && this.__spreadArrays || function() {
 for (var e = 0, t = 0, o = arguments.length; t < o; t++) e += arguments[t].length;
 var n = Array(e), i = 0;
-for (t = 0; t < o; t++) for (var r = arguments[t], a = 0, s = r.length; a < s; a++, 
-i++) n[i] = r[a];
+for (t = 0; t < o; t++) for (var a = arguments[t], r = 0, s = a.length; r < s; r++, 
+i++) n[i] = a[r];
 return n;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var s = cc._decorator, c = s.ccclass, l = s.property, u = e("../HacHongController"), p = e("../HacHongConst"), d = function(e) {
+var s = cc._decorator, c = s.ccclass, l = s.property, p = e("../HacHongController"), u = e("../HacHongConst"), d = function(e) {
 i(t, e);
 function t() {
 var t, o = null !== e && e.apply(this, arguments) || this;
@@ -3049,11 +3114,11 @@ o.posNodeDealer = null;
 o.nodePosGroupUser = null;
 o.lstPosPlayerUI = [];
 o.listChips = [];
-o.listChipsByBetSide = ((t = {})[p.HacHongConst.HacHongBetSide.Black] = [], t[p.HacHongConst.HacHongBetSide.Red] = [], 
-t[p.HacHongConst.HacHongBetSide.Spade] = [], t[p.HacHongConst.HacHongBetSide.Clobe] = [], 
-t[p.HacHongConst.HacHongBetSide.Diamond] = [], t[p.HacHongConst.HacHongBetSide.Heart] = [], 
-t[p.HacHongConst.HacHongBetSide.Straight] = [], t[p.HacHongConst.HacHongBetSide.Pair] = [], 
-t[p.HacHongConst.HacHongBetSide.Flush] = [], t);
+o.listChipsByBetSide = ((t = {})[u.HacHongConst.HacHongBetSide.Black] = [], t[u.HacHongConst.HacHongBetSide.Red] = [], 
+t[u.HacHongConst.HacHongBetSide.Spade] = [], t[u.HacHongConst.HacHongBetSide.Clobe] = [], 
+t[u.HacHongConst.HacHongBetSide.Diamond] = [], t[u.HacHongConst.HacHongBetSide.Heart] = [], 
+t[u.HacHongConst.HacHongBetSide.Straight] = [], t[u.HacHongConst.HacHongBetSide.Pair] = [], 
+t[u.HacHongConst.HacHongBetSide.Flush] = [], t);
 o.listChipReward = [];
 o.listChipOfUser = [];
 o.listMap = {};
@@ -3075,15 +3140,15 @@ this.lstPosPlayer.map(function(t) {
 e.lstPosPlayerUI.push(cc.v2(t.position.x, t.position.y));
 }, this);
 this.listChips = [];
-this.listChipsByBetSide[p.HacHongConst.HacHongBetSide.Black] = [];
-this.listChipsByBetSide[p.HacHongConst.HacHongBetSide.Red] = [];
-this.listChipsByBetSide[p.HacHongConst.HacHongBetSide.Spade] = [];
-this.listChipsByBetSide[p.HacHongConst.HacHongBetSide.Clobe] = [];
-this.listChipsByBetSide[p.HacHongConst.HacHongBetSide.Diamond] = [];
-this.listChipsByBetSide[p.HacHongConst.HacHongBetSide.Heart] = [];
-this.listChipsByBetSide[p.HacHongConst.HacHongBetSide.Straight] = [];
-this.listChipsByBetSide[p.HacHongConst.HacHongBetSide.Pair] = [];
-this.listChipsByBetSide[p.HacHongConst.HacHongBetSide.Flush] = [];
+this.listChipsByBetSide[u.HacHongConst.HacHongBetSide.Black] = [];
+this.listChipsByBetSide[u.HacHongConst.HacHongBetSide.Red] = [];
+this.listChipsByBetSide[u.HacHongConst.HacHongBetSide.Spade] = [];
+this.listChipsByBetSide[u.HacHongConst.HacHongBetSide.Clobe] = [];
+this.listChipsByBetSide[u.HacHongConst.HacHongBetSide.Diamond] = [];
+this.listChipsByBetSide[u.HacHongConst.HacHongBetSide.Heart] = [];
+this.listChipsByBetSide[u.HacHongConst.HacHongBetSide.Straight] = [];
+this.listChipsByBetSide[u.HacHongConst.HacHongBetSide.Pair] = [];
+this.listChipsByBetSide[u.HacHongConst.HacHongBetSide.Flush] = [];
 this.listChipReward = [];
 this.listChipOfUser = [];
 this.listMap = {
@@ -3096,20 +3161,25 @@ this.listMap = {
 5e5: 6,
 1e6: 7,
 5e6: 8,
-1e7: 9
+1e7: 9,
+5e7: 10,
+1e8: 11
 };
 this.listPos = {};
 Object.keys(this.listMap).forEach(function(t) {
 e.lstPosChip[e.listMap[t]] && e.lstPosChip[e.listMap[t]].position && (e.listPos[t] = e.lstPosChip[e.listMap[t]].position.x);
 });
 this.listPools = [];
-Object.keys(this.listPos).map(function(t) {
+Object.keys(this.listMap).forEach(function(t) {
+var o = e.listMap[t];
+if (void 0 !== o && e.prefabsChip[o]) {
 e.listPools[t] = new cc.NodePool();
-for (var o = 0; o <= 5; o++) {
-var n = e.listMap[t], i = cc.instantiate(e.prefabsChip[n]);
+for (var n = 0; n <= 11; n++) {
+var i = cc.instantiate(e.prefabsChip[o]);
 e.listPools[t].put(i);
 }
-}, this);
+}
+});
 this.posDealer = cc.v2(this.posNodeDealer.position.x, this.posNodeDealer.position.y);
 this.posTotalUser = cc.v2(this.nodePosGroupUser.position.x, this.nodePosGroupUser.position.y);
 };
@@ -3129,18 +3199,18 @@ var o = this.createChip(t);
 this.listChipOfUser.push([ o, e ]);
 };
 t.prototype.moveChipWithStartPos = function(e, t) {
-var o = u.default.getInstance().getPositionUI(), n = -1;
+var o = p.default.getInstance().getPositionUI(), n = -1;
 try {
 n = o.indexOf(e[0]);
 } catch (e) {
 n = -1;
 }
-var i = -1 != (n = t ? 0 : n) ? this.lstPosPlayerUI[n] : this.nodePosGroupUser.position, r = e[2], a = e[1], s = this.randomPosMove(r), c = this.createChip(a);
-this.listChipsByBetSide[r] && this.listChipsByBetSide[r].push([ c, a, i ]);
-this.listChips.push([ c, a ]);
+var i = -1 != (n = t ? 0 : n) ? this.lstPosPlayerUI[n] : this.nodePosGroupUser.position, a = e[2], r = e[1], s = this.randomPosMove(a), c = this.createChip(r);
+this.listChipsByBetSide[a] && this.listChipsByBetSide[a].push([ c, r, i ]);
+this.listChips.push([ c, r ]);
 c.parent = this.nodeChipsStartMove.parent;
 if (t) {
-c.x = this.listPos[a];
+c.x = this.listPos[r];
 c.y = -315;
 } else c.position = cc.v3(i.x, i.y, 0);
 this.chipMoveTo(c, s, .3);
@@ -3148,52 +3218,52 @@ this.chipMoveTo(c, s, .3);
 t.prototype.initChipsBet = function(e) {
 var t = -1;
 try {
-t = u.default.getInstance().getPositionUI().indexOf(e[2]);
+t = p.default.getInstance().getPositionUI().indexOf(e[2]);
 } catch (e) {
 t = -1;
 }
-var o = -1 != t ? this.lstPosPlayerUI[t] : this.nodePosGroupUser.position, n = e[1], i = e[0], r = this.randomPosMove(n), a = this.createChip(i);
-this.listChipsByBetSide[n] && this.listChipsByBetSide[n].push([ a, i, o ]);
-this.listChips.push([ a, i ]);
-a.parent = this.nodeChipsStartMove.parent;
-a.position = cc.v3(r.x, r.y, 0);
+var o = -1 != t ? this.lstPosPlayerUI[t] : this.nodePosGroupUser.position, n = e[1], i = e[0], a = this.randomPosMove(n), r = this.createChip(i);
+this.listChipsByBetSide[n] && this.listChipsByBetSide[n].push([ r, i, o ]);
+this.listChips.push([ r, i ]);
+r.parent = this.nodeChipsStartMove.parent;
+r.position = cc.v3(a.x, a.y, 0);
 };
 t.prototype.randomPosMove = function(e) {
 var t, o = 0, n = 0, i = null;
 switch (e) {
-case p.HacHongConst.HacHongBetSide.Black:
+case u.HacHongConst.HacHongBetSide.Black:
 i = this.nodeChipsBlack;
 break;
 
-case p.HacHongConst.HacHongBetSide.Red:
+case u.HacHongConst.HacHongBetSide.Red:
 i = this.nodeChipsRed;
 break;
 
-case p.HacHongConst.HacHongBetSide.Spade:
+case u.HacHongConst.HacHongBetSide.Spade:
 i = this.nodeChipsSpade;
 break;
 
-case p.HacHongConst.HacHongBetSide.Clobe:
+case u.HacHongConst.HacHongBetSide.Clobe:
 i = this.nodeChipsClobe;
 break;
 
-case p.HacHongConst.HacHongBetSide.Diamond:
+case u.HacHongConst.HacHongBetSide.Diamond:
 i = this.nodeChipsDiamond;
 break;
 
-case p.HacHongConst.HacHongBetSide.Heart:
+case u.HacHongConst.HacHongBetSide.Heart:
 i = this.nodeChipsHeart;
 break;
 
-case p.HacHongConst.HacHongBetSide.Straight:
+case u.HacHongConst.HacHongBetSide.Straight:
 i = this.nodeChipsStraight;
 break;
 
-case p.HacHongConst.HacHongBetSide.Pair:
+case u.HacHongConst.HacHongBetSide.Pair:
 i = this.nodeChipsPair;
 break;
 
-case p.HacHongConst.HacHongBetSide.Flush:
+case u.HacHongConst.HacHongBetSide.Flush:
 i = this.nodeChipsFlush;
 }
 if (i) {
@@ -3201,7 +3271,7 @@ o = i.width / 2;
 n = i.height / 2;
 t = cc.v2(i.position.x, i.position.y);
 } else t = cc.v2(0, 0);
-var r = -o, a = -n, s = Math.floor(Math.random() * (o - r + 1) + r), c = Math.floor(Math.random() * (n - a + 1) + a);
+var a = -o, r = -n, s = Math.floor(Math.random() * (o - a + 1) + a), c = Math.floor(Math.random() * (n - r + 1) + r);
 t.x = t.x + s;
 t.y = t.y + c;
 return t;
@@ -3226,15 +3296,15 @@ e.runAction(n);
 t.prototype.chipMoveToSideWin = function(e) {
 var t = this, o = this.listChipsByBetSide[e] || [], n = this;
 o.map(function(o, i) {
-var r = n.randomPosMove(e), a = n.createChip(o[1]);
-a.parent = t.nodeChipsStartMove.parent;
-a.position = cc.v3(-9, 153, 0);
-n.listChipReward.push([ a, o[1], o[2] ]);
-n.listChips.push(a);
+var a = n.randomPosMove(e), r = n.createChip(o[1]);
+r.parent = t.nodeChipsStartMove.parent;
+r.position = cc.v3(-9, 153, 0);
+n.listChipReward.push([ r, o[1], o[2] ]);
+n.listChips.push(r);
 i = i >= 5 ? 5 : i;
 setTimeout(function() {
 try {
-n.chipRewardWinAnimation(a, r, .5);
+n.chipRewardWinAnimation(r, a, .5);
 } catch (e) {}
 }, 100 * i);
 });
@@ -3262,7 +3332,7 @@ return e[0].destroy();
 };
 t.prototype.commonMoveChipResult = function(e, t) {
 var o = this;
-(e = a(e, this.listChipReward)).map(function(e, n) {
+(e = r(e, this.listChipReward)).map(function(e, n) {
 n = n >= 5 ? 5 : n;
 setTimeout(function() {
 try {
@@ -3284,7 +3354,7 @@ t.chipWinAnimation(e[0], e[2], .5);
 };
 t.prototype.commonMoveChipResultNoPositionEnd = function(e) {
 var t = this;
-(e = a(e, this.listChipReward)).map(function(e, o) {
+(e = r(e, this.listChipReward)).map(function(e, o) {
 o = o >= 5 ? 5 : o;
 setTimeout(function() {
 try {
@@ -3326,22 +3396,22 @@ this.listPools && (this.listPools = []);
 };
 var o;
 t._instance = null;
-r([ l([ cc.Prefab ]) ], t.prototype, "prefabsChip", void 0);
-r([ l(cc.Node), l(cc.Node) ], t.prototype, "nodeChipsBlack", void 0);
-r([ l(cc.Node) ], t.prototype, "nodeChipsRed", void 0);
-r([ l(cc.Node) ], t.prototype, "nodeChipsSpade", void 0);
-r([ l(cc.Node) ], t.prototype, "nodeChipsClobe", void 0);
-r([ l(cc.Node) ], t.prototype, "nodeChipsDiamond", void 0);
-r([ l(cc.Node) ], t.prototype, "nodeChipsHeart", void 0);
-r([ l(cc.Node) ], t.prototype, "nodeChipsStraight", void 0);
-r([ l(cc.Node) ], t.prototype, "nodeChipsPair", void 0);
-r([ l(cc.Node) ], t.prototype, "nodeChipsFlush", void 0);
-r([ l(cc.Node) ], t.prototype, "nodeChipsStartMove", void 0);
-r([ l([ cc.Node ]) ], t.prototype, "lstPosChip", void 0);
-r([ l([ cc.Node ]) ], t.prototype, "lstPosPlayer", void 0);
-r([ l(cc.Node) ], t.prototype, "posNodeDealer", void 0);
-r([ l(cc.Node) ], t.prototype, "nodePosGroupUser", void 0);
-return o = r([ c ], t);
+a([ l([ cc.Prefab ]) ], t.prototype, "prefabsChip", void 0);
+a([ l(cc.Node), l(cc.Node) ], t.prototype, "nodeChipsBlack", void 0);
+a([ l(cc.Node) ], t.prototype, "nodeChipsRed", void 0);
+a([ l(cc.Node) ], t.prototype, "nodeChipsSpade", void 0);
+a([ l(cc.Node) ], t.prototype, "nodeChipsClobe", void 0);
+a([ l(cc.Node) ], t.prototype, "nodeChipsDiamond", void 0);
+a([ l(cc.Node) ], t.prototype, "nodeChipsHeart", void 0);
+a([ l(cc.Node) ], t.prototype, "nodeChipsStraight", void 0);
+a([ l(cc.Node) ], t.prototype, "nodeChipsPair", void 0);
+a([ l(cc.Node) ], t.prototype, "nodeChipsFlush", void 0);
+a([ l(cc.Node) ], t.prototype, "nodeChipsStartMove", void 0);
+a([ l([ cc.Node ]) ], t.prototype, "lstPosChip", void 0);
+a([ l([ cc.Node ]) ], t.prototype, "lstPosPlayer", void 0);
+a([ l(cc.Node) ], t.prototype, "posNodeDealer", void 0);
+a([ l(cc.Node) ], t.prototype, "nodePosGroupUser", void 0);
+return o = a([ c ], t);
 }(cc.Component);
 o.default = d;
 cc._RF.pop();
@@ -3366,15 +3436,15 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("../HacHongController"), u = e("../HacHongConst"), p = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("../HacHongController"), p = e("../HacHongConst"), u = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -3447,7 +3517,7 @@ t.prototype.resetPlayerResultUI = function() {
 this.lbWin && this.lbWin.node && (this.lbWin.node.active = !1);
 };
 t.prototype.playerResultUI = function(e, t) {
-this.lbWin.string = "+" + u.HacHongConst.formatNumber(e);
+this.lbWin.string = "+" + p.HacHongConst.formatNumber(e);
 this.lbWin.node.active = !0;
 this.lbWin.node.scaleY = 0;
 this.animLbWin.play("xxWin");
@@ -3471,7 +3541,7 @@ t.prototype.updateChip = function(e) {
 this.lbChip && this.lbChip.tweenValueto(e);
 };
 t.prototype.updateChipNormal = function(e) {
-this.lbChip && this.lbChip.label && (this.lbChip.label.string = u.HacHongConst.formatNumber(e));
+this.lbChip && this.lbChip.label && (this.lbChip.label.string = p.HacHongConst.formatNumber(e));
 };
 t.prototype.updateConnectionStatus = function(e) {
 switch (e) {
@@ -3483,12 +3553,12 @@ t.prototype.updatePlayerStatus = function(e) {
 this.playerStatus = e.toString();
 this.node.opacity = e.toString() === cc.PlayerStatus.INGAME ? 255 : 150;
 };
-r([ c(cc.Label) ], t.prototype, "lbSID", void 0);
-r([ c(cc.Label) ], t.prototype, "lbName", void 0);
-r([ c ], t.prototype, "nickName", void 0);
-return r([ s ], t);
+a([ c(cc.Label) ], t.prototype, "lbSID", void 0);
+a([ c(cc.Label) ], t.prototype, "lbName", void 0);
+a([ c ], t.prototype, "nickName", void 0);
+return a([ s ], t);
 }(cc.Component);
-o.default = p;
+o.default = u;
 cc._RF.pop();
 }, {
 "../HacHongConst": "HacHongConst",
@@ -3511,15 +3581,15 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("./HacHongController"), u = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("./HacHongController"), p = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -3532,12 +3602,12 @@ return this._instance;
 };
 t.prototype.onLoad = function() {
 o._instance = this;
-l.default.getInstance().setDragonTigerResultEffectView(this);
+l.default.getInstance().setHacHongResultEffectView(this);
 this.reset();
 };
 t.prototype.onDestroy = function() {
 o._instance === this && (o._instance = null);
-l.default.getInstance().setDragonTigerResultEffectView(null);
+l.default.getInstance().setHacHongResultEffectView(null);
 };
 t.prototype.stopEffect = function() {
 this.reset();
@@ -3555,10 +3625,10 @@ t.bgWin && (t.bgWin.children[e - 1].active = !0);
 };
 var o;
 t._instance = null;
-r([ c(cc.Node) ], t.prototype, "bgWin", void 0);
-return o = r([ s ], t);
+a([ c(cc.Node) ], t.prototype, "bgWin", void 0);
+return o = a([ s ], t);
 }(cc.Component);
-o.default = u;
+o.default = p;
 cc._RF.pop();
 }, {
 "./HacHongController": "HacHongController"
@@ -4798,15 +4868,15 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -4820,30 +4890,30 @@ t.itemID = 0;
 return t;
 }
 t.prototype.updateItem = function(e, t) {
-var o, n, i, r;
+var o, n, i, a;
 if (e) {
 if (this.lbTime && e.CreateTime) {
-var a = null === (o = cc.Tool) || void 0 === o ? void 0 : o.getInstance();
-a && a.convertUTCTime2 ? this.lbTime.string = a.convertUTCTime2(e.CreateTime) : this.lbTime.string = e.CreateTime || "";
+var r = null === (o = cc.Tool) || void 0 === o ? void 0 : o.getInstance();
+r && r.convertUTCTime2 ? this.lbTime.string = r.convertUTCTime2(e.CreateTime) : this.lbTime.string = e.CreateTime || "";
 }
 if (this.lbSID) {
 var s = null === (n = cc.Config) || void 0 === n ? void 0 : n.getInstance();
 s && s.getServiceNameNoFormat && e.ServiceID ? this.lbSID.string = s.getServiceNameNoFormat(e.ServiceID) : this.lbSID.string = (null === (i = e.ServiceID) || void 0 === i ? void 0 : i.toString()) || "";
 }
 this.lbNickName && (this.lbNickName.string = e.UserName || e.NickName || "");
-var c = null === (r = cc.Tool) || void 0 === r ? void 0 : r.getInstance();
+var c = null === (a = cc.Tool) || void 0 === a ? void 0 : a.getInstance();
 this.lbBet && (c && c.formatNumberKTX ? this.lbBet.string = c.formatNumberKTX(e.Bet || 0) : this.lbBet.string = (e.Bet || 0).toString());
 this.lbRefund && (c && c.formatNumberKTX ? this.lbRefund.string = c.formatNumberKTX(e.Refund || 0) : this.lbRefund.string = (e.Refund || 0).toString());
 this.item = e;
 this.itemID = t;
 }
 };
-r([ c(cc.Label) ], t.prototype, "lbTime", void 0);
-r([ c(cc.Label) ], t.prototype, "lbSID", void 0);
-r([ c(cc.Label) ], t.prototype, "lbNickName", void 0);
-r([ c(cc.Label) ], t.prototype, "lbBet", void 0);
-r([ c(cc.Label) ], t.prototype, "lbRefund", void 0);
-return r([ s ], t);
+a([ c(cc.Label) ], t.prototype, "lbTime", void 0);
+a([ c(cc.Label) ], t.prototype, "lbSID", void 0);
+a([ c(cc.Label) ], t.prototype, "lbNickName", void 0);
+a([ c(cc.Label) ], t.prototype, "lbBet", void 0);
+a([ c(cc.Label) ], t.prototype, "lbRefund", void 0);
+return a([ s ], t);
 }(cc.Component);
 o.default = l;
 cc._RF.pop();
@@ -4865,15 +4935,15 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("./HacHongSessionDetailItem"), u = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("./HacHongSessionDetailItem"), p = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -4921,13 +4991,13 @@ this.messages = e;
 var t = this.messages.length, o = this.itemTemplate.height || 100;
 this.content.height = t * (o + this.spacing) + this.spacing;
 for (var n = Math.min(this.spawnCount, t), i = 0; i < n; ++i) {
-var r = cc.instantiate(this.itemTemplate);
-if (r) {
-this.content.addChild(r);
-r.setPosition(0, -o * (.5 + i) - this.spacing * (i + 1));
-var a = r.getComponent(l.default);
-a && this.messages[i] && a.updateItem(this.messages[i], i);
-this.items.push(r);
+var a = cc.instantiate(this.itemTemplate);
+if (a) {
+this.content.addChild(a);
+a.setPosition(0, -o * (.5 + i) - this.spacing * (i + 1));
+var r = a.getComponent(l.default);
+r && this.messages[i] && r.updateItem(this.messages[i], i);
+this.items.push(a);
 }
 }
 this.rootContentY = this.content.y;
@@ -4939,20 +5009,20 @@ if (this.scrollView && this.content && 0 !== this.items.length) {
 this.updateTimer += e;
 if (!(this.updateTimer < this.updateInterval)) {
 this.updateTimer = 0;
-for (var t = this.items, o = this.bufferZone, n = this.scrollView.content.y < this.lastContentPosY, i = ((this.itemTemplate.height || 100) + this.spacing) * t.length, r = 0; r < t.length; ++r) if (t[r]) {
-var a = this.getPositionInView(t[r]);
+for (var t = this.items, o = this.bufferZone, n = this.scrollView.content.y < this.lastContentPosY, i = ((this.itemTemplate.height || 100) + this.spacing) * t.length, a = 0; a < t.length; ++a) if (t[a]) {
+var r = this.getPositionInView(t[a]);
 if (n) {
-if (a.y < -o && t[r].y + i < 0) {
-t[r].y = t[r].y + i;
-if (c = t[r].getComponent(l.default)) {
+if (r.y < -o && t[a].y + i < 0) {
+t[a].y = t[a].y + i;
+if (c = t[a].getComponent(l.default)) {
 var s = c.itemID - t.length;
 void 0 !== this.messages[s] && s >= 0 && c.updateItem(this.messages[s], s);
 }
 }
-} else if (a.y > o && t[r].y - i > -this.content.height) {
-t[r].y = t[r].y - i;
+} else if (r.y > o && t[a].y - i > -this.content.height) {
+t[a].y = t[a].y - i;
 var c;
-if (c = t[r].getComponent(l.default)) {
+if (c = t[a].getComponent(l.default)) {
 s = c.itemID + t.length;
 void 0 !== this.messages[s] && s < this.messages.length && c.updateItem(this.messages[s], s);
 }
@@ -4962,15 +5032,15 @@ this.lastContentPosY = this.scrollView.content.y;
 }
 }
 };
-r([ c(cc.Node) ], t.prototype, "itemTemplate", void 0);
-r([ c(cc.ScrollView) ], t.prototype, "scrollView", void 0);
-r([ c ], t.prototype, "spawnCount", void 0);
-r([ c ], t.prototype, "spacing", void 0);
-r([ c ], t.prototype, "updateInterval", void 0);
-r([ c ], t.prototype, "bufferZone", void 0);
-return r([ s ], t);
+a([ c(cc.Node) ], t.prototype, "itemTemplate", void 0);
+a([ c(cc.ScrollView) ], t.prototype, "scrollView", void 0);
+a([ c ], t.prototype, "spawnCount", void 0);
+a([ c ], t.prototype, "spacing", void 0);
+a([ c ], t.prototype, "updateInterval", void 0);
+a([ c ], t.prototype, "bufferZone", void 0);
+return a([ s ], t);
 }(cc.Component);
-o.default = u;
+o.default = p;
 cc._RF.pop();
 }, {
 "./HacHongSessionDetailItem": "HacHongSessionDetailItem"
@@ -4992,15 +5062,15 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("../../HacHongConst"), u = e("../../HacHongController"), p = e("./HacHongSessionDetailListView"), d = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("../../HacHongConst"), p = e("../../HacHongController"), u = e("./HacHongSessionDetailListView"), d = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -5049,8 +5119,8 @@ this.btnNext && (this.btnNext.interactable = 0 !== this.index);
 this.btnBack && (this.btnBack.interactable = this.index !== this.totalHistory - 1);
 };
 t.prototype.getSessionDetail = function() {
-this.index = u.default.getInstance().getDetailIndex();
-this.gameHistory = u.default.getInstance().getGameHistory() || [];
+this.index = p.default.getInstance().getDetailIndex();
+this.gameHistory = p.default.getInstance().getGameHistory() || [];
 this.totalHistory = this.gameHistory.length;
 this.checkStatusButton();
 this.getSessionDetailById(this.index);
@@ -5064,12 +5134,12 @@ if (this.lbSessionID && n.SessionId) {
 var i = null === (t = cc.Tool) || void 0 === t ? void 0 : t.getInstance();
 i && i.convertUTCTime3 && n.CreatedDate ? this.lbSessionID.string = "Phiên: #" + n.SessionId + " - Ngày: " + i.convertUTCTime3(n.CreatedDate) : this.lbSessionID.string = "Phiên: #" + n.SessionId;
 }
-var r = n.Result || n.ResultValue, a = r === l.HacHongConst.HacHongBetSide.RONG, s = r === l.HacHongConst.HacHongBetSide.HO, c = r === l.HacHongConst.HacHongBetSide.HOA;
-this.nodeRong && (this.nodeRong.active = !a);
+var a = n.Result || n.ResultValue, r = a === l.HacHongConst.HacHongBetSide.RONG, s = a === l.HacHongConst.HacHongBetSide.HO, c = a === l.HacHongConst.HacHongBetSide.HOA;
+this.nodeRong && (this.nodeRong.active = !r);
 this.nodeHo && (this.nodeHo.active = !s);
 this.nodeHoa && (this.nodeHoa.active = !c);
 this.nodeEffectRong.forEach(function(e) {
-e && (e.active = a);
+e && (e.active = r);
 });
 this.nodeEffectHo.forEach(function(e) {
 e && (e.active = s);
@@ -5077,26 +5147,26 @@ e && (e.active = s);
 this.nodeEffectHoa.forEach(function(e) {
 e && (e.active = c);
 });
-var u = l.HacHongConst.api.getSessionDetail(n.SessionId);
-lngui.Https.get(u, function(e) {
-e && o.onDragonTigerGetSessionInfoResponse(e);
+var p = l.HacHongConst.api.getSessionDetail(n.SessionId);
+lngui.Https.get(p, function(e) {
+e && o.onHacHongGetSessionInfoResponse(e);
 });
 }
 }
 };
-t.prototype.onDragonTigerGetSessionInfoResponse = function(e) {
+t.prototype.onHacHongGetSessionInfoResponse = function(e) {
 var t;
 if (e && Array.isArray(e)) {
-var o = 0, n = 0, i = 0, r = 0, a = 0, s = [], c = [];
+var o = 0, n = 0, i = 0, a = 0, r = 0, s = [], c = [];
 e.forEach(function(e) {
 if (e.BetSide === l.HacHongConst.HacHongBetSide.RONG) {
 s.push(e);
 o += e.Bet || 0;
-r += e.Refund || 0;
+a += e.Refund || 0;
 } else if (e.BetSide === l.HacHongConst.HacHongBetSide.HO) {
 c.push(e);
 n += e.Bet || 0;
-a += e.Refund || 0;
+r += e.Refund || 0;
 } else e.BetSide === l.HacHongConst.HacHongBetSide.HOA && (i += e.Bet || 0);
 });
 if (s.length > 0 && this.rongSessionDetailListView) {
@@ -5107,14 +5177,14 @@ if (c.length > 0 && this.hoSessionDetailListView) {
 this.hoSessionDetailListView.resetList();
 this.hoSessionDetailListView.initialize(c);
 }
-var u = null === (t = cc.Tool) || void 0 === t ? void 0 : t.getInstance(), p = function(e) {
-return u && u.formatNumberKTX ? u.formatNumberKTX(e) : e.toString();
+var p = null === (t = cc.Tool) || void 0 === t ? void 0 : t.getInstance(), u = function(e) {
+return p && p.formatNumberKTX ? p.formatNumberKTX(e) : e.toString();
 };
-this.lbTotalBetRong && (this.lbTotalBetRong.string = p(o));
-this.lbTotalBetHo && (this.lbTotalBetHo.string = p(n));
-this.lbTotalBetHoa && (this.lbTotalBetHoa.string = p(i));
-this.lbTotalRefundRong && (this.lbTotalRefundRong.string = p(r));
-this.lbTotalRefundHo && (this.lbTotalRefundHo.string = p(a));
+this.lbTotalBetRong && (this.lbTotalBetRong.string = u(o));
+this.lbTotalBetHo && (this.lbTotalBetHo.string = u(n));
+this.lbTotalBetHoa && (this.lbTotalBetHoa.string = u(i));
+this.lbTotalRefundRong && (this.lbTotalRefundRong.string = u(a));
+this.lbTotalRefundHo && (this.lbTotalRefundHo.string = u(r));
 }
 };
 t.prototype.nextSessionClicked = function() {
@@ -5152,28 +5222,28 @@ this.rongSessionDetailListView && this.rongSessionDetailListView.resetList();
 this.hoSessionDetailListView && this.hoSessionDetailListView.resetList();
 this.schedulerCallback && cc.director.getScheduler().unschedule(this.schedulerCallback, this);
 };
-r([ c(p.default) ], t.prototype, "rongSessionDetailListView", void 0);
-r([ c(p.default) ], t.prototype, "hoSessionDetailListView", void 0);
-r([ c(cc.Label) ], t.prototype, "lbSessionID", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeRong", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeHoa", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeHo", void 0);
-r([ c([ cc.Node ]) ], t.prototype, "nodeEffectRong", void 0);
-r([ c([ cc.Node ]) ], t.prototype, "nodeEffectHoa", void 0);
-r([ c([ cc.Node ]) ], t.prototype, "nodeEffectHo", void 0);
-r([ c(cc.Label) ], t.prototype, "lbRong", void 0);
-r([ c(cc.Label) ], t.prototype, "lbHoa", void 0);
-r([ c(cc.Label) ], t.prototype, "lbHo", void 0);
-r([ c(cc.Sprite) ], t.prototype, "spriteRong", void 0);
-r([ c(cc.Sprite) ], t.prototype, "spriteHo", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTotalBetRong", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTotalBetHoa", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTotalBetHo", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTotalRefundRong", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTotalRefundHo", void 0);
-r([ c(cc.Button) ], t.prototype, "btnNext", void 0);
-r([ c(cc.Button) ], t.prototype, "btnBack", void 0);
-return r([ s ], t);
+a([ c(u.default) ], t.prototype, "rongSessionDetailListView", void 0);
+a([ c(u.default) ], t.prototype, "hoSessionDetailListView", void 0);
+a([ c(cc.Label) ], t.prototype, "lbSessionID", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeRong", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeHoa", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeHo", void 0);
+a([ c([ cc.Node ]) ], t.prototype, "nodeEffectRong", void 0);
+a([ c([ cc.Node ]) ], t.prototype, "nodeEffectHoa", void 0);
+a([ c([ cc.Node ]) ], t.prototype, "nodeEffectHo", void 0);
+a([ c(cc.Label) ], t.prototype, "lbRong", void 0);
+a([ c(cc.Label) ], t.prototype, "lbHoa", void 0);
+a([ c(cc.Label) ], t.prototype, "lbHo", void 0);
+a([ c(cc.Sprite) ], t.prototype, "spriteRong", void 0);
+a([ c(cc.Sprite) ], t.prototype, "spriteHo", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTotalBetRong", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTotalBetHoa", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTotalBetHo", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTotalRefundRong", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTotalRefundHo", void 0);
+a([ c(cc.Button) ], t.prototype, "btnNext", void 0);
+a([ c(cc.Button) ], t.prototype, "btnBack", void 0);
+return a([ s ], t);
 }(lngui.UIPopup);
 o.default = d;
 cc._RF.pop();
@@ -5199,30 +5269,35 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("./HacHongController"), u = e("./HacHongConst"), p = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("./HacHongConst"), p = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
 t.SessionNode = null;
 t.spSessions = [];
-t.lbBlack = null;
-t.lbRed = null;
-t.lbSpade = null;
-t.lbClobe = null;
-t.lbDiamond = null;
-t.lbHeart = null;
-t.lbStraightt = null;
-t.lbPair = null;
-t.lbFlusht = null;
+t.lbRateSpade = null;
+t.lbRateClobe = null;
+t.lbRateDiamond = null;
+t.lbRateHeart = null;
+t.nodeParent = null;
+t.nodeDenTemp = null;
+t.nodeDoTemp = null;
+t.nodeParent2 = null;
+t.pageView = null;
 t.gameHistory = [];
+t.rootPosX = 146;
+t.rootPosY = -53;
+t.spaceX = 20.9;
+t.spaceY = 21.5;
+t.maxItemPerCol = 6;
 return t;
 }
 o = t;
@@ -5231,100 +5306,127 @@ return this._instance;
 };
 t.prototype.onLoad = function() {
 o._instance = this;
+this.resetDraw();
 };
 t.prototype.onDestroy = function() {
 o._instance === this && (o._instance = null);
 };
 t.prototype.updateGameHistoryUI = function(e) {
-var t = this;
 if (e) {
-var o = 0, n = 0, i = 0, r = 0, a = 0, s = 0, c = 0, l = 0, p = 0, d = e.slice().reverse();
-this.gameHistory = d;
-d.forEach(function(e, d) {
-var h;
-if (e && !(d >= t.SessionNode.children.length)) {
-var f = parseInt(null === (h = e.Result) || void 0 === h ? void 0 : h.toString()), g = f - 1;
-switch (f) {
-case u.HacHongConst.HacHongBetSide.Black:
-o++;
-break;
-
-case u.HacHongConst.HacHongBetSide.Red:
-n++;
-break;
-
-case u.HacHongConst.HacHongBetSide.Spade:
-i++;
-break;
-
-case u.HacHongConst.HacHongBetSide.Clobe:
-r++;
-break;
-
-case u.HacHongConst.HacHongBetSide.Diamond:
-a++;
-break;
-
-case u.HacHongConst.HacHongBetSide.Heart:
-s++;
-break;
-
-case u.HacHongConst.HacHongBetSide.Straight:
-c++;
-break;
-
-case u.HacHongConst.HacHongBetSide.Pair:
-l++;
-break;
-
-case u.HacHongConst.HacHongBetSide.Flush:
-p++;
-}
-if (t.SessionNode.children[d] && t.spSessions[g]) {
-var m = t.SessionNode.children[d].getComponent(cc.Sprite);
-m && (m.spriteFrame = t.spSessions[g]);
-}
-}
-});
-this.lbBlack && (this.lbBlack.string = o.toString());
-this.lbRed && (this.lbRed.string = n.toString());
-this.lbSpade && (this.lbSpade.string = i.toString());
-this.lbClobe && (this.lbClobe.string = r.toString());
-this.lbDiamond && (this.lbDiamond.string = a.toString());
-this.lbHeart && (this.lbHeart.string = s.toString());
-this.lbStraightt && (this.lbStraightt.string = c.toString());
-this.lbPair && (this.lbPair.string = l.toString());
-this.lbFlusht && (this.lbFlusht.string = p.toString());
+var t = e.Data, o = t.slice().reverse();
+this.gameHistory = o;
+this.lbRateClobe.string = e.RateClobe + "%";
+this.lbRateSpade.string = e.RateSpade + "%";
+this.lbRateDiamond.string = e.RateDiamond + "%";
+this.lbRateHeart.string = e.RateHeart + "%";
+this.resetDraw();
+this.resetDraw2();
+this.draw(t);
+this.draw2(t);
 }
 };
-t.prototype.sessionDetailClicked = function(e, t) {
-var o, n = parseInt(t.toString());
-if (this.gameHistory && this.gameHistory.length > n) {
-l.default.getInstance().setDetailIndex(n);
-var i = null === (o = cc.HacHongPopupController_789) || void 0 === o ? void 0 : o.getInstance();
-i && i.createSessionDetailView();
+t.prototype.draw = function(e) {
+var t;
+if (e && 0 !== e.length) for (var o = ((t = {})[l.HacHongConst.HacHongBetSide.Black] = this.nodeDenTemp, 
+t[l.HacHongConst.HacHongBetSide.Red] = this.nodeDoTemp, t), n = Math.min(e.length, 44), i = 0, a = 0; a < n && i < 45; a++) {
+var r = e[a];
+if (r && r.GateData) for (var s = 0, c = Object.values(l.HacHongConst.HacHongBetSide); s < c.length; s++) {
+var p = c[s];
+if (this.hasGate(r.GateData, p) && o[p]) {
+this.createNode(o[p], a);
+i++;
+break;
 }
+}
+}
+};
+t.prototype.createNode = function(e, t) {
+if (e && this.nodeParent) {
+var o = cc.instantiate(e);
+0 === t && (o.children[0].active = !0);
+o.parent = this.nodeParent;
+}
+};
+t.prototype.resetDraw = function() {
+if (this.nodeParent) for (var e = this.nodeParent.children, t = e.length - 1; t >= 0; t--) this.nodeParent.removeChild(e[t]);
+};
+t.prototype.getGateType = function(e) {
+return e && e.GateData ? this.hasGate(e.GateData, l.HacHongConst.HacHongBetSide.Black) ? "Black" : this.hasGate(e.GateData, l.HacHongConst.HacHongBetSide.Red) ? "Red" : null : null;
+};
+t.prototype.convertToMatrix = function(e) {
+var t = this;
+if (!e || 0 === e.length) return [];
+var o = [], n = [], i = this.getGateType(e[0]);
+e.forEach(function(e) {
+var a = t.getGateType(e);
+if (a) if (n.length === t.maxItemPerCol) {
+o.push(n);
+(n = []).push(e);
+i = a;
+} else if (a === i) n.push(e); else {
+o.push(n);
+i = a;
+(n = []).push(e);
+}
+});
+n.length > 0 && o.push(n);
+return o;
+};
+t.prototype.draw2 = function(e) {
+if (e && 0 !== e.length && this.nodeParent2) for (var t = this.convertToMatrix(e), o = Math.min(t.length, 15), n = 0; n < o; n++) this.drawCol(t[n], n);
+};
+t.prototype.drawCol = function(e, t) {
+if (e && 0 !== e.length && this.nodeParent2) for (var o = this.rootPosX - t * this.spaceX, n = (this.maxItemPerCol - e.length) * this.spaceY + this.rootPosY, i = 0; i < e.length; i++) {
+var a = cc.v2(o, n + this.spaceY * i);
+this.createNode2(e[i], a);
+}
+};
+t.prototype.createNode2 = function(e, t) {
+var o;
+if (e && this.nodeParent2) {
+parseInt((null === (o = e.Result) || void 0 === o ? void 0 : o.toString()) || "0");
+var n;
+if (n = this.hasGate(e.GateData, l.HacHongConst.HacHongBetSide.Black) ? this.nodeDenTemp : this.nodeDoTemp) {
+var i = cc.instantiate(n);
+this.hasGate(e.GateData, l.HacHongConst.HacHongBetSide.Flush) && this.hasGate(e.GateData, l.HacHongConst.HacHongBetSide.Straight) ? i.children[4].active = !0 : this.hasGate(e.GateData, l.HacHongConst.HacHongBetSide.Flush) ? i.children[3].active = !0 : this.hasGate(e.GateData, l.HacHongConst.HacHongBetSide.Pair) ? i.children[2].active = !0 : this.hasGate(e.GateData, l.HacHongConst.HacHongBetSide.Straight) && (i.children[1].active = !0);
+if (i) {
+i.parent = this.nodeParent2;
+i.position = cc.v3(t.x, t.y, 0);
+}
+}
+}
+};
+t.prototype.resetDraw2 = function() {
+if (this.nodeParent2) for (var e = this.nodeParent2.children, t = e.length - 1; t >= 0; t--) this.nodeParent2.removeChild(e[t]);
+};
+t.prototype.hasGate = function(e, t) {
+return !(!e || "" === e.trim()) && e.split(",").map(function(e) {
+return e.trim();
+}).includes(String(t));
+};
+t.prototype.onClickNext = function() {
+var e = 0 === this.pageView.getCurrentPageIndex() ? 1 : 0;
+this.pageView.scrollToPage(e, 0);
 };
 var o;
 t._instance = null;
-r([ c(cc.Node) ], t.prototype, "SessionNode", void 0);
-r([ c([ cc.SpriteFrame ]) ], t.prototype, "spSessions", void 0);
-r([ c(cc.Label) ], t.prototype, "lbBlack", void 0);
-r([ c(cc.Label) ], t.prototype, "lbRed", void 0);
-r([ c(cc.Label) ], t.prototype, "lbSpade", void 0);
-r([ c(cc.Label) ], t.prototype, "lbClobe", void 0);
-r([ c(cc.Label) ], t.prototype, "lbDiamond", void 0);
-r([ c(cc.Label) ], t.prototype, "lbHeart", void 0);
-r([ c(cc.Label) ], t.prototype, "lbStraightt", void 0);
-r([ c(cc.Label) ], t.prototype, "lbPair", void 0);
-r([ c(cc.Label) ], t.prototype, "lbFlusht", void 0);
-return o = r([ s ], t);
+a([ c(cc.Node) ], t.prototype, "SessionNode", void 0);
+a([ c([ cc.SpriteFrame ]) ], t.prototype, "spSessions", void 0);
+a([ c(cc.Label) ], t.prototype, "lbRateSpade", void 0);
+a([ c(cc.Label) ], t.prototype, "lbRateClobe", void 0);
+a([ c(cc.Label) ], t.prototype, "lbRateDiamond", void 0);
+a([ c(cc.Label) ], t.prototype, "lbRateHeart", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeParent", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeDenTemp", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeDoTemp", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeParent2", void 0);
+a([ c(cc.PageView) ], t.prototype, "pageView", void 0);
+return o = a([ s ], t);
 }(cc.Component);
 o.default = p;
 cc._RF.pop();
 }, {
-"./HacHongConst": "HacHongConst",
-"./HacHongController": "HacHongController"
+"./HacHongConst": "HacHongConst"
 } ],
 HacHongSettingRoomView: [ function(e, t, o) {
 "use strict";
@@ -5343,15 +5445,15 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -5395,12 +5497,12 @@ this.spriteMusic && this.sfMusics.length >= 2 && (this.spriteMusic.spriteFrame =
 var n = null === (t = cc.AudioController) || void 0 === t ? void 0 : t.getInstance();
 n && n.enableMusic(this.music);
 };
-r([ c(cc.Node) ], t.prototype, "nodeOffset", void 0);
-r([ c(cc.Sprite) ], t.prototype, "spriteSound", void 0);
-r([ c(cc.Sprite) ], t.prototype, "spriteMusic", void 0);
-r([ c([ cc.SpriteFrame ]) ], t.prototype, "sfSounds", void 0);
-r([ c([ cc.SpriteFrame ]) ], t.prototype, "sfMusics", void 0);
-return r([ s ], t);
+a([ c(cc.Node) ], t.prototype, "nodeOffset", void 0);
+a([ c(cc.Sprite) ], t.prototype, "spriteSound", void 0);
+a([ c(cc.Sprite) ], t.prototype, "spriteMusic", void 0);
+a([ c([ cc.SpriteFrame ]) ], t.prototype, "sfSounds", void 0);
+a([ c([ cc.SpriteFrame ]) ], t.prototype, "sfMusics", void 0);
+return a([ s ], t);
 }(cc.Component);
 o.default = l;
 cc._RF.pop();
@@ -5422,15 +5524,15 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("../HacHongConst"), u = e("../HacHongController"), p = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("../HacHongConst"), p = e("../HacHongController"), u = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -5438,7 +5540,7 @@ t.animationCard = null;
 return t;
 }
 t.prototype.onLoad = function() {
-u.default.getInstance().dragonTigerShowCard = this;
+p.default.getInstance().HacHongShowCard = this;
 };
 t.prototype.playAnimation = function(e) {
 this.animationCard && (e === l.HacHongConst.HacHongBetSide.RONG ? this.animationCard.play("card-rong") : e === l.HacHongConst.HacHongBetSide.HO ? this.animationCard.play("card-ho") : this.animationCard.play("card-hoa"));
@@ -5449,10 +5551,10 @@ this.animationCard && this.animationCard.play("coin");
 t.prototype.stopAnimation = function() {
 this.animationCard && this.animationCard.stop();
 };
-r([ c(cc.Animation) ], t.prototype, "animationCard", void 0);
-return r([ s ], t);
+a([ c(cc.Animation) ], t.prototype, "animationCard", void 0);
+return a([ s ], t);
 }(cc.Component);
-o.default = p;
+o.default = u;
 cc._RF.pop();
 }, {
 "../HacHongConst": "HacHongConst",
@@ -5475,15 +5577,15 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
@@ -5514,29 +5616,228 @@ this.lbRank.string = (t + 1).toString();
 this.spriteTop && this.spriteTop.node && (this.spriteTop.node.active = !1);
 }
 if (this.lbSID) {
-var r = null === (o = cc.Config) || void 0 === o ? void 0 : o.getInstance();
-r && r.getServiceNameNoFormat && e.ServiceID ? this.lbSID.string = r.getServiceNameNoFormat(e.ServiceID) : this.lbSID.string = (null === (n = e.ServiceID) || void 0 === n ? void 0 : n.toString()) || "";
+var a = null === (o = cc.Config) || void 0 === o ? void 0 : o.getInstance();
+a && a.getServiceNameNoFormat && e.ServiceID ? this.lbSID.string = a.getServiceNameNoFormat(e.ServiceID) : this.lbSID.string = (null === (n = e.ServiceID) || void 0 === n ? void 0 : n.toString()) || "";
 }
 this.lbNickName && (this.lbNickName.string = e.DisplayName || e.NickName || "");
 if (this.lbTotalWin) {
-var a = null === (i = cc.Tool) || void 0 === i ? void 0 : i.getInstance();
-a && a.formatNumber ? this.lbTotalWin.string = a.formatNumber(e.Award || 0) : this.lbTotalWin.string = (e.Award || 0).toString();
+var r = null === (i = cc.Tool) || void 0 === i ? void 0 : i.getInstance();
+r && r.formatNumber ? this.lbTotalWin.string = r.formatNumber(e.Award || 0) : this.lbTotalWin.string = (e.Award || 0).toString();
 }
 this.item = e;
 this.itemID = t;
 }
 };
-r([ c(cc.Label) ], t.prototype, "lbRank", void 0);
-r([ c(cc.Label) ], t.prototype, "lbSID", void 0);
-r([ c(cc.Label) ], t.prototype, "lbNickName", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTotalWin", void 0);
-r([ c(cc.Sprite) ], t.prototype, "spriteTop", void 0);
-r([ c([ cc.SpriteFrame ]) ], t.prototype, "spTop", void 0);
-return r([ s ], t);
+a([ c(cc.Label) ], t.prototype, "lbRank", void 0);
+a([ c(cc.Label) ], t.prototype, "lbSID", void 0);
+a([ c(cc.Label) ], t.prototype, "lbNickName", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTotalWin", void 0);
+a([ c(cc.Sprite) ], t.prototype, "spriteTop", void 0);
+a([ c([ cc.SpriteFrame ]) ], t.prototype, "spTop", void 0);
+return a([ s ], t);
 }(cc.Component);
 o.default = l;
 cc._RF.pop();
 }, {} ],
+HacHongTopJackpotView: [ function(e, t, o) {
+"use strict";
+cc._RF.push(t, "4aae54v8OtJ6YPOTRsSMeI4", "HacHongTopJackpotView");
+var n, i = this && this.__extends || (n = function(e, t) {
+return (n = Object.setPrototypeOf || {
+__proto__: []
+} instanceof Array && function(e, t) {
+e.__proto__ = t;
+} || function(e, t) {
+for (var o in t) Object.prototype.hasOwnProperty.call(t, o) && (e[o] = t[o]);
+})(e, t);
+}, function(e, t) {
+n(e, t);
+function o() {
+this.constructor = e;
+}
+e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
+};
+Object.defineProperty(o, "__esModule", {
+value: !0
+});
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("../../HacHongConst"), p = function() {
+function e() {
+this.listGate = [];
+this.totalUserWin = null;
+this.nodeContentUser = null;
+this.nodeItemUserTemplate = null;
+}
+a([ c(cc.Node) ], e.prototype, "listGate", void 0);
+a([ c(cc.Label) ], e.prototype, "totalUserWin", void 0);
+a([ c(cc.Node) ], e.prototype, "nodeContentUser", void 0);
+a([ c(cc.Node) ], e.prototype, "nodeItemUserTemplate", void 0);
+return a([ s("DetailJackpot") ], e);
+}(), u = function(e) {
+i(t, e);
+function t() {
+var t = null !== e && e.apply(this, arguments) || this;
+t.totalPage = null;
+t.nodeHint = null;
+t.nodeContent = null;
+t.nodeItemTemplate = null;
+t.nodeDetailJp = null;
+t.btnNextorPrevious = [];
+t.altasCard = null;
+t.detailJackpot = new p();
+t.schedulerCallback = null;
+t.index = 0;
+t.maxindex = null;
+t.activeTemplate = null;
+return t;
+}
+t.prototype.onLoad = function() {
+this.nodeDetailJp.active = !1;
+};
+t.prototype.onEnable = function() {
+var e = this;
+this.schedulerCallback = function() {
+e.getTopJackpot();
+};
+cc.director.getScheduler().schedule(this.schedulerCallback, this, 1, 0, .2, !1);
+};
+t.prototype.getTopJackpot = function() {
+var e = this, t = l.HacHongConst.api.jackpotHistory;
+lngui.Https.get(t, function(t) {
+t && e.onHacHongGetTopJackpotResponse(t);
+});
+};
+t.prototype.onHacHongGetTopJackpotResponse = function(e) {
+if (e && Array.isArray(e) && 0 !== e.length) {
+this.listData = l.HacHongConst.chunkArray(e, 5);
+this.maxindex = this.listData.length;
+this.index = 0;
+this.showTopJackpot(this.listData[this.index]);
+this.checkButton();
+}
+};
+t.prototype.onClickNext = function() {
+if (null !== this.maxindex && void 0 !== this.maxindex && this.index < this.maxindex - 1) {
+this.index++;
+this.showTopJackpot(this.listData[this.index]);
+this.checkButton();
+}
+};
+t.prototype.onClickPrevious = function() {
+if (this.index > 0) {
+this.index--;
+this.showTopJackpot(this.listData[this.index]);
+this.checkButton();
+}
+};
+t.prototype.checkButton = function() {
+if (this.btnNextorPrevious && !(this.btnNextorPrevious.length < 2)) {
+this.totalPage.string = this.index + 1 + "/" + this.maxindex;
+this.nodeHint.active = !0;
+this.nodeDetailJp.active = !1;
+if (null !== this.maxindex && void 0 !== this.maxindex && 0 !== this.maxindex) {
+this.btnNextorPrevious[0] && (this.btnNextorPrevious[0].active = !0);
+this.btnNextorPrevious[1] && (this.btnNextorPrevious[1].active = !0);
+0 === this.index && this.btnNextorPrevious[0] && (this.btnNextorPrevious[0].active = !1);
+this.index === this.maxindex - 1 && this.btnNextorPrevious[1] && (this.btnNextorPrevious[1].active = !1);
+} else {
+this.btnNextorPrevious[0] && (this.btnNextorPrevious[0].active = !1);
+this.btnNextorPrevious[1] && (this.btnNextorPrevious[1].active = !1);
+}
+}
+};
+t.prototype.showTopJackpot = function(e) {
+var t = this;
+if (e) {
+e && lngui.UIWaitingLayout.hideWaiting();
+this.nodeContent.removeAllChildren();
+this.activeTemplate = null;
+for (var o = function() {
+var o = cc.instantiate(n.nodeItemTemplate), a = e[i], r = (a.Data, a.GateData, a.TotalUser, 
+a.JackpotValue);
+o.active = !0;
+o.setPosition(0, 0);
+o.getChildByName("session").getComponent(cc.Label).string = a.SessionID;
+o.getChildByName("time").getComponent(cc.Label).string = l.HacHongConst.formatDateTime4(a.CreatedDate);
+o.getChildByName("lbJackpot").getComponent(cc.Label).string = l.HacHongConst.formatNumber(r);
+o.getChildByName("arrow").active = !1;
+var s = o.getChildByName("btnDetail");
+if (s) {
+var c = s.getComponent(cc.Button);
+if (c) {
+s.itemData = a;
+s.itemIndex = i;
+c.node.off(cc.Node.EventType.TOUCH_END);
+c.node.on(cc.Node.EventType.TOUCH_END, function() {
+if (t.activeTemplate && t.activeTemplate.isValid) {
+var e = t.activeTemplate.getChildByName("arrow");
+e && (e.active = !1);
+}
+var n = o.getChildByName("arrow");
+n && (n.active = !0);
+t.activeTemplate = o;
+t.onClickDetail(a, i);
+}, n);
+}
+}
+o.getChildByName("card1").getComponent(cc.Sprite).spriteFrame = n.altasCard.getSpriteFrame("icCard" + a.Card1);
+o.getChildByName("card2").getComponent(cc.Sprite).spriteFrame = n.altasCard.getSpriteFrame("icCard" + a.Card2);
+o.getChildByName("card3").getComponent(cc.Sprite).spriteFrame = n.altasCard.getSpriteFrame("icCard" + a.Card3);
+n.nodeContent.addChild(o);
+}, n = this, i = 0; i < e.length; i++) o();
+}
+};
+t.prototype.onClickDetail = function(e) {
+if (e) {
+var t = e.Data, o = e.GateData.split(",");
+this.nodeHint.active = !1;
+this.nodeDetailJp.active = !0;
+var n = Math.min(t.length, 9);
+this.showGateWin(o);
+this.detailJackpot.totalUserWin.string = t.length + "";
+if (this.nodeDetailJp) {
+this.detailJackpot.nodeContentUser.removeAllChildren();
+for (var i = 0; i < n; i++) {
+var a = cc.instantiate(this.detailJackpot.nodeItemUserTemplate), r = t[i];
+a.active = !0;
+a.setPosition(0, 0);
+a.getChildByName("user").getComponent(cc.Label).string = l.HacHongConst.truncateString(r.Username);
+a.getChildByName("money").getComponent(cc.Label).string = l.HacHongConst.formatNumber(r.PrizeValue);
+this.detailJackpot.nodeContentUser.addChild(a);
+}
+}
+}
+};
+t.prototype.showGateWin = function(e) {
+var t = this;
+this.detailJackpot.listGate.forEach(function(e) {
+e.active = !1;
+});
+e.forEach(function(e) {
+t.detailJackpot.listGate && (t.detailJackpot.listGate[e - 1].active = !0);
+});
+};
+t.prototype.onDestroy = function() {
+this.schedulerCallback && cc.director.getScheduler().unschedule(this.schedulerCallback, this);
+};
+a([ c(cc.Label) ], t.prototype, "totalPage", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeHint", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeContent", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeItemTemplate", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeDetailJp", void 0);
+a([ c(cc.Node) ], t.prototype, "btnNextorPrevious", void 0);
+a([ c(cc.SpriteAtlas) ], t.prototype, "altasCard", void 0);
+a([ c(p) ], t.prototype, "detailJackpot", void 0);
+return a([ s ], t);
+}(lngui.UIPopup);
+o.default = u;
+cc._RF.pop();
+}, {
+"../../HacHongConst": "HacHongConst"
+} ],
 HacHongTopListView: [ function(e, t, o) {
 "use strict";
 cc._RF.push(t, "40892cFxjFC6rd3dmzpHU0o", "HacHongTopListView");
@@ -5554,29 +5855,29 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("./HacHongTopItem"), u = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("./HacHongTopItem"), p = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
 t.itemTemplate = null;
 t.scrollView = null;
-t.spawnCount = 0;
-t.spacing = 0;
+t.spawnCount = 10;
+t.spacing = 15;
 t.items = [];
 t.content = null;
 t.rootContentY = 0;
 t.messages = [];
 t.updateTimer = 0;
 t.updateInterval = .1;
-t.bufferZone = 200;
+t.bufferZone = 400;
 t.lastContentPosY = 0;
 return t;
 }
@@ -5610,13 +5911,13 @@ this.messages = e;
 var t = this.messages.length, o = this.itemTemplate.height || 100;
 this.content.height = t * (o + this.spacing) + this.spacing;
 for (var n = Math.min(this.spawnCount, t), i = 0; i < n; ++i) {
-var r = cc.instantiate(this.itemTemplate);
-if (r) {
-this.content.addChild(r);
-r.setPosition(0, -o * (.5 + i) - this.spacing * (i + 1));
-var a = r.getComponent(l.default);
-a && this.messages[i] && a.updateItem(this.messages[i], i);
-this.items.push(r);
+var a = cc.instantiate(this.itemTemplate);
+if (a) {
+this.content.addChild(a);
+a.setPosition(0, -o * (.5 + i) - this.spacing * (i + 1));
+var r = a.getComponent(l.default);
+r && this.messages[i] && r.updateItem(this.messages[i], i);
+this.items.push(a);
 }
 }
 this.rootContentY = this.content.y;
@@ -5628,20 +5929,20 @@ if (this.scrollView && this.content && 0 !== this.items.length) {
 this.updateTimer += e;
 if (!(this.updateTimer < this.updateInterval)) {
 this.updateTimer = 0;
-for (var t = this.items, o = this.bufferZone, n = this.scrollView.content.y < this.lastContentPosY, i = ((this.itemTemplate.height || 100) + this.spacing) * t.length, r = 0; r < t.length; ++r) if (t[r]) {
-var a = this.getPositionInView(t[r]);
+for (var t = this.items, o = this.bufferZone, n = this.scrollView.content.y < this.lastContentPosY, i = ((this.itemTemplate.height || 100) + this.spacing) * t.length, a = 0; a < t.length; ++a) if (t[a]) {
+var r = this.getPositionInView(t[a]);
 if (n) {
-if (a.y < -o && t[r].y + i < 0) {
-t[r].y = t[r].y + i;
-if (c = t[r].getComponent(l.default)) {
+if (r.y < -o && t[a].y + i < 0) {
+t[a].y = t[a].y + i;
+if (c = t[a].getComponent(l.default)) {
 var s = c.itemID - t.length;
 void 0 !== this.messages[s] && s >= 0 && c.updateItem(this.messages[s], s);
 }
 }
-} else if (a.y > o && t[r].y - i > -this.content.height) {
-t[r].y = t[r].y - i;
+} else if (r.y > o && t[a].y - i > -this.content.height) {
+t[a].y = t[a].y - i;
 var c;
-if (c = t[r].getComponent(l.default)) {
+if (c = t[a].getComponent(l.default)) {
 s = c.itemID + t.length;
 void 0 !== this.messages[s] && s < this.messages.length && c.updateItem(this.messages[s], s);
 }
@@ -5651,15 +5952,15 @@ this.lastContentPosY = this.scrollView.content.y;
 }
 }
 };
-r([ c(cc.Node) ], t.prototype, "itemTemplate", void 0);
-r([ c(cc.ScrollView) ], t.prototype, "scrollView", void 0);
-r([ c ], t.prototype, "spawnCount", void 0);
-r([ c ], t.prototype, "spacing", void 0);
-r([ c ], t.prototype, "updateInterval", void 0);
-r([ c ], t.prototype, "bufferZone", void 0);
-return r([ s ], t);
+a([ c(cc.Node) ], t.prototype, "itemTemplate", void 0);
+a([ c(cc.ScrollView) ], t.prototype, "scrollView", void 0);
+a([ c ], t.prototype, "spawnCount", void 0);
+a([ c ], t.prototype, "spacing", void 0);
+a([ c ], t.prototype, "updateInterval", void 0);
+a([ c ], t.prototype, "bufferZone", void 0);
+return a([ s ], t);
 }(cc.Component);
-o.default = u;
+o.default = p;
 cc._RF.pop();
 }, {
 "./HacHongTopItem": "HacHongTopItem"
@@ -5681,19 +5982,19 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("../../HacHongConst"), u = e("./HacHongTopListView"), p = function(e) {
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("../../HacHongConst"), p = e("./HacHongTopListView"), u = function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
-t.dragonTigerTopListView = null;
+t.HacHongTopListView = null;
 t.schedulerCallback = null;
 return t;
 }
@@ -5708,23 +6009,23 @@ cc.director.getScheduler().schedule(this.schedulerCallback, this, 1, 0, .2, !1);
 t.prototype.getTopSessionWinners = function() {
 var e = this, t = l.HacHongConst.api.GetBigWinner;
 lngui.Https.get(t, function(t) {
-t && e.onDragonTigerGetBigWinnerResponse(t);
+t && e.onHacHongGetBigWinnerResponse(t);
 });
 };
-t.prototype.onDragonTigerGetBigWinnerResponse = function(e) {
-if (e && Array.isArray(e) && 0 !== e.length && this.dragonTigerTopListView) {
-this.dragonTigerTopListView.resetList();
-this.dragonTigerTopListView.initialize(e);
+t.prototype.onHacHongGetBigWinnerResponse = function(e) {
+if (e && Array.isArray(e) && 0 !== e.length && this.HacHongTopListView) {
+this.HacHongTopListView.resetList();
+this.HacHongTopListView.initialize(e);
 }
 };
 t.prototype.onDestroy = function() {
-this.dragonTigerTopListView && this.dragonTigerTopListView.resetList();
+this.HacHongTopListView && this.HacHongTopListView.resetList();
 this.schedulerCallback && cc.director.getScheduler().unschedule(this.schedulerCallback, this);
 };
-r([ c(u.default) ], t.prototype, "dragonTigerTopListView", void 0);
-return r([ s ], t);
+a([ c(p.default) ], t.prototype, "HacHongTopListView", void 0);
+return a([ s ], t);
 }(lngui.UIPopup);
-o.default = p;
+o.default = u;
 cc._RF.pop();
 }, {
 "../../HacHongConst": "HacHongConst",
@@ -5747,21 +6048,22 @@ function o() {
 this.constructor = e;
 }
 e.prototype = null === t ? Object.create(t) : (o.prototype = t.prototype, new o());
-}), r = this && this.__decorate || function(e, t, o, n) {
-var i, r = arguments.length, a = r < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
-if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) a = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (a = (r < 3 ? i(a) : r > 3 ? i(t, o, a) : i(t, o)) || a);
-return r > 3 && a && Object.defineProperty(t, o, a), a;
+}), a = this && this.__decorate || function(e, t, o, n) {
+var i, a = arguments.length, r = a < 3 ? t : null === n ? n = Object.getOwnPropertyDescriptor(t, o) : n;
+if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) r = Reflect.decorate(e, t, o, n); else for (var s = e.length - 1; s >= 0; s--) (i = e[s]) && (r = (a < 3 ? i(r) : a > 3 ? i(t, o, r) : i(t, o)) || r);
+return a > 3 && r && Object.defineProperty(t, o, r), r;
 };
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var a = cc._decorator, s = a.ccclass, c = a.property, l = e("./HacHongController"), u = e("./HacHongConst"), p = e("./chip/HacHongMoveChip"), d = e("./HacHongButtonSideBet"), h = e("./HacHongResultEffectView"), f = e("../../framework/ui/UINumericLabelHelper"), g = e("./HacHongBetView"), m = (e("NetConfig"), 
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("./HacHongController"), p = e("./HacHongConst"), u = e("./chip/HacHongMoveChip"), d = e("./HacHongButtonSideBet"), h = e("./HacHongResultEffectView"), f = e("./HacHongSessionHistoryView"), g = e("../../framework/ui/UINumericLabelHelper"), m = e("./HacHongBetView"), y = (e("NetConfig"), 
 function(e) {
 i(t, e);
 function t() {
 var t = null !== e && e.apply(this, arguments) || this;
 t.lbSID = null;
 t.lbTimer = null;
+t.lbMd5andReult = null;
 t.lbTimerPrepare = null;
 t.lbTotalUser = null;
 t.lbTotalUserWin = null;
@@ -5775,20 +6077,25 @@ t.lbTotalBetStraight = null;
 t.lbTotalBetPair = null;
 t.lbTotalBetFlush = null;
 t.lbJackpot = null;
+t.dealerSkeleton = null;
+t.timerSke = null;
 t.skeCard = [];
 t.spriteCard = [];
+t.sprMd5andResult = null;
 t.nodeCardStart = null;
 t.prefabCardBack = null;
 t.nodeBetSides = null;
 t.spriteCardDefault = null;
 t.prefabChat = null;
-t.dealerSkeleton = null;
 t.listAvatars = [];
+t.spfMd5AndResult = [];
 t.altasCard = null;
+t.progressTimer = null;
 t.HacHongHub = null;
-t.mListenerKey = "OnDragonTigerToWebSocKet";
+t.mListenerKey = "OnHacHongToWebSocKet";
 t.isPlaying = !1;
-t.betLabelNodes = [ t.lbTotalBetBlack, t.lbTotalBetRed, t.lbTotalBetSpade, t.lbTotalBetClobe, t.lbTotalBetDiamond, t.lbTotalBetHeart, t.lbTotalBetStraight, t.lbTotalBetPair, t.lbTotalBetFlush ];
+t.maxTime = 3e4;
+t.md5andResultString = "";
 return t;
 }
 t.prototype.setBetLabel = function(e, t) {
@@ -5798,15 +6105,15 @@ e.node.parent && (e.node.parent.active = "" !== t);
 }
 };
 t.prototype.onLoad = function() {
-this.dragonTigerController = l.default.getInstance();
-this.dragonTigerController.initBetLog();
-this.dragonTigerController.setBetLogSession(1);
-this.dragonTigerController.setAvatars(this.listAvatars);
-this.dragonTigerController.setDragonTigerView(this);
+this.HacHongController = l.default.getInstance();
+this.HacHongController.initBetLog();
+this.HacHongController.setBetLogSession(1);
+this.HacHongController.setAvatars(this.listAvatars);
+this.HacHongController.setHacHongView(this);
 this.isPlaying = !1;
 this.interval = null;
 this.lastTimeReconnect = new Date().getTime();
-this.connectHubDragonTiger();
+this.connectHubHacHong();
 this.currentState = -1;
 this.currentTimeEllapse = -1;
 this.dealerSkeleton.setSkin("HIT");
@@ -5818,20 +6125,22 @@ this.accountId = lngui.UserManager.instance.mainUserInfo.AccountID;
 this.skeCard.forEach(function(e) {
 e.getComponent(sp.Skeleton).setSkin("HIT");
 });
+this.isLockTimerProgress = !1;
+this.timerInterval = null;
+this.progressTimer.getComponent(cc.Sprite).fillRange = 0;
 };
 t.prototype.onEnable = function() {
 var e = lngui.UserManager.instance.mainUserInfo.Money;
 lngui.GameCoreManager.instance.updateTotalGold(e);
 };
-t.prototype.playCardEffect = function() {};
 t.prototype.onDestroy = function() {
 var e = lngui.UserManager.instance.mainUserInfo.Money;
 lngui.GameCoreManager.instance.updateTotalGold(e);
-this.sendRequestOnHub(u.HacHongConst.MethodHubName.EXIT_LOBBY);
+this.sendRequestOnHub(p.HacHongConst.MethodHubName.EXIT_LOBBY);
 this.HacHongHub.close();
 null !== this.interval && clearInterval(this.interval);
 this.unscheduleAllCallbacks();
-l.default.getInstance().setDragonTigerView(null);
+l.default.getInstance().setHacHongView(null);
 };
 t.prototype.reset = function() {
 this.setBetLabel(this.lbTotalBetBlack, "");
@@ -5846,7 +6155,7 @@ this.setBetLabel(this.lbTotalBetFlush, "");
 this.isTimer = !1;
 this.timer = 0;
 this.currentState = 999;
-g.default.getInstance().reset();
+m.default.getInstance().reset();
 h.default.getInstance().reset();
 null !== this.interval && clearInterval(this.interval);
 };
@@ -5862,55 +6171,100 @@ t.timer -= 1;
 t.updateTimer(Math.round(t.timer));
 }
 }, 1e3);
+t = this;
+if (this.progressTimer.node.parent) if (this.progressTimer && 1 == this.progressTimer.node.active && !this.isLockTimerProgress && this.currentState == p.HacHongConst.HacHongState.BETTING) {
+null != this.timerInterval && clearInterval(this.timerInterval);
+this.isLockTimerProgress = !0;
+this.timer = 1e3 * e;
+var o = this.progressTimer.getComponent(cc.Sprite);
+try {
+o && (o.fillRange = t.timer / this.maxTime);
+this.timerInterval = setInterval(function() {
+t.timer -= 100;
+if (null != o && null != o.fillRange) try {
+o.fillRange = t.timer / this.maxTime;
+} catch (e) {
+clearInterval(t.timerInterval);
+} else clearInterval(t.timerInterval);
+if (t.timer <= 0) {
+clearInterval(t.timerInterval);
+t.isLockTimerProgress = !1;
+o = null;
+}
+}, 100);
+} catch (e) {
+clearInterval(this.timerInterval);
+}
+} else this.isLockTimerProgress || (this.progressTimer.node.parent.active = !1);
 };
 t.prototype.stopTimer = function() {
 this.isTimer = !1;
 null !== this.interval && clearInterval(this.interval);
 };
+t.prototype.btnCopy = function() {
+lngui.PlatformInterface.copy(this.md5andResultString);
+};
 t.prototype.updateInfo = function(e) {
-var t = e.IsShuffler, o = (e.CurrentState, e.Ellapsed);
-this.currentTimeEllapse = o;
+var t = this, o = e.IsShuffler, n = (e.CurrentState, e.Ellapsed);
+this.currentTimeEllapse = n;
 this.lbJackpot.scheduleProgress(e.JackpotAmount);
+var i = this.lbMd5andReult.node.getComponent("TypingEffect");
+if (e.CurrentState == p.HacHongConst.HacHongState.BETTING || e.CurrentState == p.HacHongConst.HacHongState.END_BETTING) {
+this.md5andResultString = e.Md5String;
+this.sprMd5andResult.spriteFrame = this.spfMd5AndResult[0];
+n > 19 ? i.startTypingWithTruncateString(this.md5andResultString, 20) : this.lbMd5andReult.string = p.HacHongConst.truncateString(this.md5andResultString, 20);
+} else {
+this.md5andResultString = e.ResultString;
+this.sprMd5andResult.spriteFrame = this.spfMd5AndResult[1];
+n >= 15 && e.CurrentState == p.HacHongConst.HacHongState.RESULT ? i.startTypingWithTruncateString(this.md5andResultString, 17) : this.lbMd5andReult.string = p.HacHongConst.truncateString(this.md5andResultString, 17);
+}
 switch (e.CurrentState) {
-case u.HacHongConst.HacHongState.BETTING:
+case p.HacHongConst.HacHongState.BETTING:
 if (this.currentState !== e.CurrentState) {
 l.default.getInstance().stopResultEffect();
 l.default.getInstance().disableBetAgain(!1);
 d.default.getInstance().buttonSideBet.enableButtonBet(!0);
-if (o > 7) {
+if (n > 7) {
 this.onBeginBetting();
 lngui.UITextManager.showCenterNotification("Đặt cửa");
 }
-o > 24 && !cc.game.isPaused() && this.cardSlide();
+n > 24 && !cc.game.isPaused() && this.cardSlide();
 this.lbSID.string = "#" + e.SessionID;
+this.timerSke.setAnimation(0, "Notify_Timer_start", !1);
+this.timerSke.addAnimation(0, "Notify_Timer_idle", !1);
 }
 break;
 
-case u.HacHongConst.HacHongState.END_BETTING:
+case p.HacHongConst.HacHongState.END_BETTING:
 l.default.getInstance().disableBetAgain(!0);
 d.default.getInstance().buttonSideBet.enableButtonBet(!1);
 if (this.currentState !== e.CurrentState) {
 lngui.UITextManager.showCenterNotification("Hết thời gian đặt cửa");
 this.lbSID.string = "#" + e.SessionID;
-o < 3 && cc.game.isPaused();
+n < 3 && cc.game.isPaused();
+this.timerSke.setAnimation(0, "Notify_Timer_end", !1);
+this.timerSke.setCompleteListener(function() {
+t.activeNodeTime(!1);
+t.timerSke.setCompleteListener(null);
+});
 }
 break;
 
-case u.HacHongConst.HacHongState.RESULT:
+case p.HacHongConst.HacHongState.RESULT:
 d.default.getInstance().buttonSideBet.enableButtonBet(!1);
 this.historyResult = e;
 if (this.currentState !== e.CurrentState) {
 l.default.getInstance().disableBetAgain(!0);
 this.isPlaying = !1;
 this.currentResult = e.Result.Result;
-o > 6 && this.onOpenCard(e);
+n > 6 && this.onOpenCard(e);
 this.lbSID.string = "#" + e.SessionID;
 }
 6 == e.Ellapsed && cc.game.isPaused();
-t && 4 == e.Ellapsed && !cc.game.isPaused() && (this.runSuffler = !0);
+o && 4 == e.Ellapsed && !cc.game.isPaused() && (this.runSuffler = !0);
 break;
 
-case u.HacHongConst.HacHongState.PREPARE_NEW_SESSION:
+case p.HacHongConst.HacHongState.PREPARE_NEW_SESSION:
 d.default.getInstance().buttonSideBet.enableButtonBet(!1);
 if (this.currentState !== e.CurrentState) {
 l.default.getInstance().disableBetAgain(!0);
@@ -5918,7 +6272,7 @@ l.default.getInstance().resetPlayerUI();
 l.default.getInstance().clearBetLog(l.default.getInstance().getBetLogSession());
 l.default.getInstance().setBetLogSession(l.default.getInstance().getBetLogSession() + 1);
 this.clearCard();
-p.default.getInstance().clearChips();
+u.default.getInstance().clearChips();
 this.reset();
 this.lbSID.string = "#" + e.SessionID;
 }
@@ -5937,7 +6291,7 @@ this.setBetLabel(this.lbTotalBetPair, this.formatNumber(e.TotalBetPair));
 this.setBetLabel(this.lbTotalBetFlush, this.formatNumber(e.TotalBetFlush));
 };
 t.prototype.formatNumber = function(e) {
-return 0 == parseInt(e) ? "" : u.HacHongConst.formatNumberToKMB(e);
+return 0 == parseInt(e) ? "" : p.HacHongConst.formatNumberToKMB(e);
 };
 t.prototype.updateTotalUser = function(e) {
 this.lbTotalUser.string = e.toString();
@@ -6037,9 +6391,9 @@ t.skeCard[2].setCompleteListener(null);
 }
 });
 t.spriteCard[2].node.active = !0;
-}).delay(1.5).call(function() {
-if (e.Ellapsed > 8) p.default.getInstance().chipMoveToCoin(t.currentResult, !1, 0); else try {
-p.default.getInstance().removeChips(t.currentResult);
+}).delay(2.5).call(function() {
+if (e.Ellapsed > 8) u.default.getInstance().chipMoveToCoin(t.currentResult, !1, 0); else try {
+u.default.getInstance().removeChips(t.currentResult);
 } catch (e) {}
 try {
 h.default.getInstance().playEffectWin(e.Result.BetSideWins);
@@ -6060,103 +6414,79 @@ e.node.active = !1;
 this.dealerSkeleton.addAnimation(0, "GIRL_ClearCards_noIdle", !1);
 } catch (e) {}
 };
-t.prototype.createNodeCardBack = function() {
-var e = cc.instantiate(this.prefabCardBack), t = this.nodeCardStart.position;
-e.position = t;
-e.parent = this.nodeCardStart.parent;
-e.rotation = -45;
-e.scale = 1;
-return e;
-};
 t.prototype.updateMoveChip = function(e, t) {
-p.default.getInstance().moveChipWithStartPos(e, t);
+u.default.getInstance().moveChipWithStartPos(e, t);
 };
 t.prototype.initChipsBet = function(e) {
-p.default.getInstance().initChipsBet(e);
-};
-t.prototype.activeCardBack = function(e) {
-try {
-this.listCardBack().map(function(t) {
-return t.active = e;
-});
-} catch (e) {}
-};
-t.prototype.listCardBack = function() {
-return [ this.nodeCard1.node, this.nodeCard2.node, this.nodeCard3.node ];
+u.default.getInstance().initChipsBet(e);
 };
 t.prototype.updateTimer = function(e) {
 if (!(e < 1)) {
 var t = e, o = cc.Color.GREEN;
 switch (this.currentState) {
-case u.HacHongConst.HacHongState.BETTING:
-case u.HacHongConst.HacHongState.END_BETTING:
+case p.HacHongConst.HacHongState.BETTING:
 this.activeNodeTime(!0);
 e <= 3 && (o = cc.Color.RED);
 this.lbTimer.node.color = o;
 this.lbTimer.string = t;
-this.lbTimer.node.parent.active = !0;
-this.lbTimerPrepare.node.parent.active = !1;
 break;
 
-case u.HacHongConst.HacHongState.RESULT:
-this.activeNodeTime(!1);
-o = cc.Color.WHITE;
-this.lbTimer.node.parent.active = !1;
-this.lbTimerPrepare.node.parent.active = !0;
-this.lbTimerPrepare.string = t;
+case p.HacHongConst.HacHongState.END_BETTING:
+e <= 3 && (o = cc.Color.RED);
+this.lbTimer.node.color = o;
+this.lbTimer.string = t;
 break;
 
-case u.HacHongConst.HacHongState.PREPARE_NEW_SESSION:
+case p.HacHongConst.HacHongState.RESULT:
+case p.HacHongConst.HacHongState.PREPARE_NEW_SESSION:
 this.activeNodeTime(!1);
 o = cc.Color.WHITE;
-this.lbTimerPrepare.node.parent.active = !0;
-this.lbTimerPrepare.string = t;
-this.lbTimer.node.parent.active = !1;
 }
 }
 };
 t.prototype.activeNodeTime = function(e) {
-this.lbTimer.node.parent.parent.active = e;
+this.timerSke.node.parent.active = e;
 };
-t.prototype.connectHubDragonTiger = function() {
+t.prototype.connectHubHacHong = function() {
 cc.systemEvent.off(this.mListenerKey, this.onResponeData, this);
 cc.systemEvent.on(this.mListenerKey, this.onResponeData, this);
 this.HacHongHub = new lngui.GateSignalR();
-this.HacHongHub.connect(this.mListenerKey, u.HacHongConst.api.negotiate, u.HacHongConst.api.hub, u.HacHongConst.api.gate, lngui.UserManager.instance.mainUserInfo.cookie, !1);
+this.HacHongHub.connect(this.mListenerKey, p.HacHongConst.api.negotiate, p.HacHongConst.api.hub, p.HacHongConst.api.gate, lngui.UserManager.instance.mainUserInfo.cookie, !1);
 lngui.GateWebSocketManager.pushSignalR(this.mSignalr);
 };
+t.prototype.showMd5OrResult = function() {};
 t.prototype.sendRequestOnHub = function(e, t, o) {
 void 0 === e && (e = "");
 void 0 === t && (t = "");
 void 0 === o && (o = "");
 console.log(e, t, o);
 switch (e) {
-case u.HacHongConst.MethodHubName.ENTER_LOBBY:
+case p.HacHongConst.MethodHubName.ENTER_LOBBY:
 this.sendSignalR("EnterLobby", [ 4, 1 ]);
 this.sendSignalR("PlayNow", []);
 break;
 
-case u.HacHongConst.MethodHubName.EXIT_LOBBY:
+case p.HacHongConst.MethodHubName.EXIT_LOBBY:
 this.sendSignalR("ExitLobby", []);
 break;
 
-case u.HacHongConst.MethodHubName.PLAY_NOW:
+case p.HacHongConst.MethodHubName.PLAY_NOW:
 this.sendSignalR("PlayNow", []);
 break;
 
-case u.HacHongConst.MethodHubName.BET:
+case p.HacHongConst.MethodHubName.BET:
 this.sendSignalR("Bet", [ t, o ]);
 break;
 
-case u.HacHongConst.MethodHubName.REGISTER_LEAVE_ROOM:
+case p.HacHongConst.MethodHubName.REGISTER_LEAVE_ROOM:
 this.sendSignalR("RegisterLeaveRoom", []);
 break;
 
-case u.HacHongConst.MethodHubName.UNREGISTER_LEAVE_ROOM:
+case p.HacHongConst.MethodHubName.UNREGISTER_LEAVE_ROOM:
 this.sendSignalR("UnregisterLeaveRoom", []);
 break;
 
-case u.HacHongConst.MethodHubName.SEND_MESSAGE:
+case p.HacHongConst.MethodHubName.SEND_MESSAGE:
 }
 };
 t.prototype.sendSignalR = function(e, t) {
@@ -6169,7 +6499,7 @@ e.s && "error" == e.s || this.onHubMessage(e);
 };
 t.prototype.connectSuccess = function() {
 console.log("connectSuccess =========>");
-this.sendRequestOnHub(u.HacHongConst.MethodHubName.ENTER_LOBBY);
+this.sendRequestOnHub(p.HacHongConst.MethodHubName.ENTER_LOBBY);
 };
 t.prototype.onHubMessage = function(e) {
 var t = this;
@@ -6181,47 +6511,48 @@ if (void 0 !== e.M && e.M.length > 0) {
 var o = this;
 e.M.map(function(e) {
 switch (e.M) {
-case u.HacHongConst.MethodHubOnName.PLAYER_LEAVE:
+case p.HacHongConst.MethodHubOnName.PLAYER_LEAVE:
 l.default.getInstance().unRegisterAllPlayer();
 t.playerLeave(e.A);
 break;
 
-case u.HacHongConst.MethodHubOnName.JOIN_GAME:
+case p.HacHongConst.MethodHubOnName.JOIN_GAME:
 l.default.getInstance().updatePlayerInfor(e.A[0]);
 break;
 
-case u.HacHongConst.MethodHubOnName.SESSION_INFO:
+case p.HacHongConst.MethodHubOnName.SESSION_INFO:
 var n = e.A[0];
 t.updateInfo(n);
 l.default.getInstance().setSID(n.SessionID);
 break;
 
-case u.HacHongConst.MethodHubOnName.GAME_HISTORY:
+case p.HacHongConst.MethodHubOnName.GAME_HISTORY:
+f.default.getInstance().updateGameHistoryUI(e.A[0]);
 break;
 
-case u.HacHongConst.MethodHubOnName.BET_OF_ACCOUNT:
-t.dragonTigerController.updateBetInfoFromServer(e.A[0]);
+case p.HacHongConst.MethodHubOnName.BET_OF_ACCOUNT:
+t.HacHongController.updateBetInfoFromServer(e.A[0]);
 break;
 
-case u.HacHongConst.MethodHubOnName.BET_SUCCESS:
+case p.HacHongConst.MethodHubOnName.BET_SUCCESS:
 n = e.A[0];
 lngui.UIWaitingLayout.hideWaiting();
 t.isPlaying = !0;
-var i = t.dragonTigerController.getBetLogSession();
-t.dragonTigerController.setBetLog({
+var i = t.HacHongController.getBetLogSession();
+t.HacHongController.setBetLog({
 sessionID: i,
 value: e.A[0].BetValue,
 betSide: e.A[0].BetSide
 });
 lngui.UserManager.instance.mainUserInfo.Money = e.A[1];
 lngui.GameCoreManager.instance.updateTotalGold(lngui.UserManager.instance.mainUserInfo.Money);
-t.dragonTigerController.updateTotalBetValue(e.A[0].BetSide, e.A[0].SumaryBet);
-t.dragonTigerController.updateBalanceCurrPlayer(e.A[1]);
+t.HacHongController.updateTotalBetValue(e.A[0].BetSide, e.A[0].SumaryBet);
+t.HacHongController.updateBalanceCurrPlayer(e.A[1]);
 t.updateMoveChip([ e.A[0].AccountID, e.A[0].BetValue, e.A[0].BetSide ], !0);
 lngui.UITextManager.showCenterNotification("Đặt cược thành công");
 break;
 
-case u.HacHongConst.MethodHubOnName.WIN_RESULT:
+case p.HacHongConst.MethodHubOnName.WIN_RESULT:
 n = e.A[0];
 try {
 setTimeout(function() {
@@ -6233,7 +6564,7 @@ l.default.getInstance().winResult(n);
 } catch (e) {}
 break;
 
-case u.HacHongConst.MethodHubOnName.WIN_RESULT_VIP:
+case p.HacHongConst.MethodHubOnName.WIN_RESULT_VIP:
 if (e.A.length > 0) try {
 setTimeout(function() {
 l.default.getInstance().winResultVip(e.A[0]);
@@ -6241,33 +6572,33 @@ l.default.getInstance().winResultVip(e.A[0]);
 } catch (e) {}
 break;
 
-case u.HacHongConst.MethodHubOnName.MESSAGE:
-(n = e.A[0]).Description ? lngui.UIPopupManager.instance.showPopup(n.Description) : n.Message ? lngui.UIPopupManager.instance.showPopup(n.Message) : lngui.UIPopupManager.instance.showPopup(n);
+case p.HacHongConst.MethodHubOnName.MESSAGE:
+(n = e.A[0]).Description ? lngui.UIPopupManager.instance.showPopup(n.Description) : n.Message ? lngui.UIPopupManager.instance.showPopup(n.Message) : lngui.UITextManager.showCenterNotification(n);
 break;
 
-case u.HacHongConst.MethodHubOnName.TOTAL_WIN_MONEY:
-var r = e.A[0];
+case p.HacHongConst.MethodHubOnName.TOTAL_WIN_MONEY:
+var a = e.A[0];
 try {
-p.default.getInstance().chipMoveToSideWin(o.currentResult);
+u.default.getInstance().chipMoveToSideWin(o.currentResult);
 setTimeout(function() {
 try {
-p.default.getInstance().chipMoveToCoin(o.currentResult, !0, 0);
+u.default.getInstance().chipMoveToCoin(o.currentResult, !0, 0);
 } catch (e) {}
 }, 1500);
 } catch (e) {}
-parseInt(r) > 0 && setTimeout(function() {
+parseInt(a) > 0 && setTimeout(function() {
 try {
-o.lbTotalUserWin.string = "+" + u.HacHongConst.formatNumber(r);
+o.lbTotalUserWin.string = "+" + p.HacHongConst.formatNumber(a);
 o.lbTotalUserWin.node.parent.getComponent(cc.Animation).play("total-money-animation");
 } catch (e) {}
 }, 2e3);
 break;
 
-case u.HacHongConst.MethodHubOnName.REJOIN:
-var a = e.A[0];
-if (a.length > 0) {
+case p.HacHongConst.MethodHubOnName.REJOIN:
+var r = e.A[0];
+if (r.length > 0) {
 var s = t;
-a.map(function(e) {
+r.map(function(e) {
 0 != e.length && e.map(function(e) {
 var t = [ e.BetValue, e.BetSide ];
 s.initChipsBet(t);
@@ -6276,7 +6607,7 @@ s.initChipsBet(t);
 }
 break;
 
-case u.HacHongConst.MethodHubOnName.BET_SESSION:
+case p.HacHongConst.MethodHubOnName.BET_SESSION:
 if (e.A[0].length > 0) {
 var c = t;
 e.A[0].map(function(e) {
@@ -6288,31 +6619,31 @@ c.initChipsBet(t);
 }
 break;
 
-case u.HacHongConst.MethodHubOnName.BET_USER:
+case p.HacHongConst.MethodHubOnName.BET_USER:
 if ((n = e.A)[2] != t.accountId) {
 t.updateMoveChip(n, !1);
 l.default.getInstance().updatePlayerBalance(n);
 }
 break;
 
-case u.HacHongConst.MethodHubOnName.SUMMARY_PLAYER:
+case p.HacHongConst.MethodHubOnName.SUMMARY_PLAYER:
 t.updateTotalUser(e.A[0]);
 break;
 
-case u.HacHongConst.MethodHubOnName.VIP_PLAYERS:
+case p.HacHongConst.MethodHubOnName.VIP_PLAYERS:
 var d = e.A[0];
 d.length > 0 && l.default.getInstance().updatePlayersUI(d);
 break;
 
-case u.HacHongConst.MethodHubOnName.OTHER_DEVICE:
+case p.HacHongConst.MethodHubOnName.OTHER_DEVICE:
 break;
 
-case u.HacHongConst.MethodHubOnName.RECEIVE_MESSAGE:
+case p.HacHongConst.MethodHubOnName.RECEIVE_MESSAGE:
 l.default.getInstance().playerShowBubbleChat(e.A);
 }
 });
 } else if (e.R && e.R.AccountID) {
-this.sendRequestOnHub(u.HacHongConst.MethodHubName.PLAY_NOW);
+this.sendRequestOnHub(p.HacHongConst.MethodHubName.PLAY_NOW);
 lngui.UIWaitingLayout.hideWaiting();
 } else e.I;
 };
@@ -6332,39 +6663,44 @@ n.easing(cc.easeInOut(3));
 e.runAction(n);
 var i = cc.scaleTo(o, 1);
 e.runAction(i);
-var r = cc.scaleTo(o, 1.5, 1.5);
-e.runAction(r);
-var a = cc.rotateTo(o, 0);
+var a = cc.scaleTo(o, 1.5, 1.5);
 e.runAction(a);
+var r = cc.rotateTo(o, 0);
+e.runAction(r);
 };
-r([ c(cc.Label) ], t.prototype, "lbSID", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTimer", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTimerPrepare", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTotalUser", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTotalUserWin", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTotalBetBlack", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTotalBetRed", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTotalBetSpade", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTotalBetClobe", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTotalBetDiamond", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTotalBetHeart", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTotalBetStraight", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTotalBetPair", void 0);
-r([ c(cc.Label) ], t.prototype, "lbTotalBetFlush", void 0);
-r([ c(f.default) ], t.prototype, "lbJackpot", void 0);
-r([ c(sp.Skeleton) ], t.prototype, "skeCard", void 0);
-r([ c(cc.Sprite) ], t.prototype, "spriteCard", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeCardStart", void 0);
-r([ c(cc.Prefab) ], t.prototype, "prefabCardBack", void 0);
-r([ c(cc.Node) ], t.prototype, "nodeBetSides", void 0);
-r([ c(cc.SpriteFrame) ], t.prototype, "spriteCardDefault", void 0);
-r([ c(cc.Prefab) ], t.prototype, "prefabChat", void 0);
-r([ c(sp.Skeleton) ], t.prototype, "dealerSkeleton", void 0);
-r([ c(cc.SpriteFrame) ], t.prototype, "listAvatars", void 0);
-r([ c(cc.SpriteAtlas) ], t.prototype, "altasCard", void 0);
-return r([ s ], t);
+a([ c(cc.Label) ], t.prototype, "lbSID", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTimer", void 0);
+a([ c(cc.Label) ], t.prototype, "lbMd5andReult", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTimerPrepare", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTotalUser", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTotalUserWin", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTotalBetBlack", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTotalBetRed", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTotalBetSpade", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTotalBetClobe", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTotalBetDiamond", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTotalBetHeart", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTotalBetStraight", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTotalBetPair", void 0);
+a([ c(cc.Label) ], t.prototype, "lbTotalBetFlush", void 0);
+a([ c(g.default) ], t.prototype, "lbJackpot", void 0);
+a([ c(sp.Skeleton) ], t.prototype, "dealerSkeleton", void 0);
+a([ c(sp.Skeleton) ], t.prototype, "timerSke", void 0);
+a([ c(sp.Skeleton) ], t.prototype, "skeCard", void 0);
+a([ c(cc.Sprite) ], t.prototype, "spriteCard", void 0);
+a([ c(cc.Sprite) ], t.prototype, "sprMd5andResult", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeCardStart", void 0);
+a([ c(cc.Prefab) ], t.prototype, "prefabCardBack", void 0);
+a([ c(cc.Node) ], t.prototype, "nodeBetSides", void 0);
+a([ c(cc.SpriteFrame) ], t.prototype, "spriteCardDefault", void 0);
+a([ c(cc.Prefab) ], t.prototype, "prefabChat", void 0);
+a([ c(cc.SpriteFrame) ], t.prototype, "listAvatars", void 0);
+a([ c(cc.SpriteFrame) ], t.prototype, "spfMd5AndResult", void 0);
+a([ c(cc.SpriteAtlas) ], t.prototype, "altasCard", void 0);
+a([ c(cc.ProgressBar) ], t.prototype, "progressTimer", void 0);
+return a([ s ], t);
 }(cc.Component));
-o.default = m;
+o.default = y;
 cc._RF.pop();
 }, {
 "../../framework/ui/UINumericLabelHelper": void 0,
@@ -6373,7 +6709,8 @@ cc._RF.pop();
 "./HacHongConst": "HacHongConst",
 "./HacHongController": "HacHongController",
 "./HacHongResultEffectView": "HacHongResultEffectView",
+"./HacHongSessionHistoryView": "HacHongSessionHistoryView",
 "./chip/HacHongMoveChip": "HacHongMoveChip",
 NetConfig: void 0
 } ]
-}, {}, [ "HacHong.Chat.NetworkClient", "HacHongChat", "HacHongAudioTypes", "HacHongAudios", "HacHongBetView", "HacHongButtonBet", "HacHongButtonSideBet", "HacHongConst", "HacHongController", "HacHongInfoView", "HacHongResultEffectView", "HacHongSessionHistoryView", "HacHongSettingRoomView", "HacHongView", "HacHongCardSlide", "HacHongChatItem", "HacHongMoveChip", "HacHongGetBigWinnerCommand", "HacHongGetHistoryCommand", "HacHongGetSessionInfoCommand", "HacHongGetSoiCauCommand", "HacHongGroupUserCommand", "HacHongGroupItem", "HacHongGroupUserListView", "HacHongGroupUserView", "HacHongPlayer", "HacHongGraph100View", "HacHongGraphCard3View", "HacHongGraphCatCauView", "HacHongGraphSumView", "HacHongGraphView", "HacHongHistoryItem", "HacHongHistoryListView", "HacHongHistoryView", "HacHongSessionDetailData", "HacHongSessionDetailItem", "HacHongSessionDetailListView", "HacHongSessionDetailView", "HacHongTopItem", "HacHongTopListView", "HacHongTopView", "HacHongShowCard" ]);
+}, {}, [ "HacHong.Chat.NetworkClient", "HacHongChat", "HacHongAudioTypes", "HacHongAudios", "HacHongBetView", "HacHongButtonBet", "HacHongButtonSideBet", "HacHongConst", "HacHongController", "HacHongInfoView", "HacHongResultEffectView", "HacHongSessionHistoryView", "HacHongSettingRoomView", "HacHongView", "HacHongCardSlide", "HacHongChatItem", "HacHongMoveChip", "HacHongGetBigWinnerCommand", "HacHongGetHistoryCommand", "HacHongGetSessionInfoCommand", "HacHongGetSoiCauCommand", "HacHongGroupUserCommand", "HacHongGroupItem", "HacHongGroupUserListView", "HacHongGroupUserView", "HacHongPlayer", "HacHongGraph100View", "HacHongGraphCard3View", "HacHongGraphCatCauView", "HacHongGraphSumView", "HacHongGraphView", "HacHongHelpView", "HacHongHistoryView", "HacHongSessionDetailData", "HacHongSessionDetailItem", "HacHongSessionDetailListView", "HacHongSessionDetailView", "HacHongTopItem", "HacHongTopListView", "HacHongTopView", "HacHongTopJackpotView", "HacHongShowCard" ]);
