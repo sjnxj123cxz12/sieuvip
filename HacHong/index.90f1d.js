@@ -6056,7 +6056,7 @@ return a > 3 && r && Object.defineProperty(t, o, r), r;
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var r = cc._decorator, s = r.ccclass, c = r.property, l = e("./HacHongController"), p = e("./HacHongConst"), u = e("./chip/HacHongMoveChip"), d = e("./HacHongButtonSideBet"), h = e("./HacHongResultEffectView"), f = e("./HacHongSessionHistoryView"), g = e("../../framework/ui/UINumericLabelHelper"), m = e("./HacHongBetView"), y = (e("NetConfig"), 
+var r = cc._decorator, s = r.ccclass, c = r.property, l = e("./HacHongController"), p = e("./HacHongConst"), u = e("./chip/HacHongMoveChip"), d = e("./HacHongButtonSideBet"), h = e("./HacHongResultEffectView"), f = e("./HacHongSessionHistoryView"), g = e("../../framework/ui/UINumericLabelHelper"), m = e("./HacHongBetView"), H = (e("NetConfig"), 
 function(e) {
 i(t, e);
 function t() {
@@ -6212,11 +6212,13 @@ var i = this.lbMd5andReult.node.getComponent("TypingEffect");
 if (e.CurrentState == p.HacHongConst.HacHongState.BETTING || e.CurrentState == p.HacHongConst.HacHongState.END_BETTING) {
 this.md5andResultString = e.Md5String;
 this.sprMd5andResult.spriteFrame = this.spfMd5AndResult[0];
-n > 19 ? i.startTypingWithTruncateString(this.md5andResultString, 20) : this.lbMd5andReult.string = p.HacHongConst.truncateString(this.md5andResultString, 20);
+var a = p.HacHongConst.truncateString(this.md5andResultString, 20);
+n > 19 ? i.startTyping(a) : this.lbMd5andReult.string = p.HacHongConst.truncateString(this.md5andResultString, 20);
 } else {
 this.md5andResultString = e.ResultString;
 this.sprMd5andResult.spriteFrame = this.spfMd5AndResult[1];
-n >= 15 && e.CurrentState == p.HacHongConst.HacHongState.RESULT ? i.startTypingWithTruncateString(this.md5andResultString, 17) : this.lbMd5andReult.string = p.HacHongConst.truncateString(this.md5andResultString, 17);
+a = p.HacHongConst.truncateString(this.md5andResultString, 17);
+n >= 15 && e.CurrentState == p.HacHongConst.HacHongState.RESULT ? i.startTyping(a) : this.lbMd5andReult.string = p.HacHongConst.truncateString(this.md5andResultString, 17);
 }
 switch (e.CurrentState) {
 case p.HacHongConst.HacHongState.BETTING:
@@ -6700,7 +6702,7 @@ a([ c(cc.SpriteAtlas) ], t.prototype, "altasCard", void 0);
 a([ c(cc.ProgressBar) ], t.prototype, "progressTimer", void 0);
 return a([ s ], t);
 }(cc.Component));
-o.default = y;
+o.default = H;
 cc._RF.pop();
 }, {
 "../../framework/ui/UINumericLabelHelper": void 0,
