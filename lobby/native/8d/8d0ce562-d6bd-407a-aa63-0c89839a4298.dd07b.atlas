@@ -1,0 +1,97 @@
+
+RUT.png
+size: 867,964
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B2
+  rotate: false
+  xy: 113, 811
+  size: 417, 149
+  orig: 417, 149
+  offset: 0, 0
+  index: -1
+BR1
+  rotate: true
+  xy: 2, 33
+  size: 927, 109
+  orig: 927, 109
+  offset: 0, 0
+  index: -1
+C1A
+  rotate: false
+  xy: 672, 936
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+C1B
+  rotate: false
+  xy: 113, 620
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+C2A
+  rotate: false
+  xy: 2, 2
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+C2B
+  rotate: false
+  xy: 186, 721
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+C3
+  rotate: false
+  xy: 532, 855
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+ONGIA
+  rotate: false
+  xy: 532, 880
+  size: 138, 80
+  orig: 138, 80
+  offset: 0, 0
+  index: -1
+T1
+  rotate: false
+  xy: 368, 742
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+T2
+  rotate: false
+  xy: 368, 742
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+T3
+  rotate: false
+  xy: 113, 649
+  size: 71, 83
+  orig: 71, 83
+  offset: 0, 0
+  index: -1
+TEXT1
+  rotate: false
+  xy: 113, 734
+  size: 253, 75
+  orig: 253, 75
+  offset: 0, 0
+  index: -1
+TEXT2
+  rotate: false
+  xy: 113, 734
+  size: 253, 75
+  orig: 253, 75
+  offset: 0, 0
+  index: -1
