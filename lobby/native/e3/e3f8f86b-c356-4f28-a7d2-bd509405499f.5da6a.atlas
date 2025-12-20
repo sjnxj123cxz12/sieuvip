@@ -1,0 +1,146 @@
+
+anim_sicbo_tp.png
+size: 867,956
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+X1000
+  rotate: true
+  xy: 473, 594
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+X500
+  rotate: false
+  xy: 301, 342
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+X88
+  rotate: false
+  xy: 224, 276
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+br
+  rotate: false
+  xy: 2, 563
+  size: 220, 391
+  orig: 220, 391
+  offset: 0, 0
+  index: -1
+concoc
+  rotate: false
+  xy: 521, 755
+  size: 190, 199
+  orig: 190, 199
+  offset: 0, 0
+  index: -1
+dailua
+  rotate: false
+  xy: 224, 443
+  size: 216, 214
+  orig: 216, 214
+  offset: 0, 0
+  index: -1
+dongxu
+  rotate: false
+  xy: 224, 318
+  size: 75, 56
+  orig: 75, 56
+  offset: 0, 0
+  index: -1
+duoi_coc
+  rotate: true
+  xy: 2, 2
+  size: 43, 73
+  orig: 43, 73
+  offset: 0, 0
+  index: -1
+hong
+  rotate: false
+  xy: 599, 705
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 170
+  size: 220, 391
+  orig: 220, 391
+  offset: 0, 0
+  index: -1
+mat2
+  rotate: false
+  xy: 77, 15
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+mat3
+  rotate: true
+  xy: 193, 131
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+mn
+  rotate: false
+  xy: 224, 376
+  size: 196, 65
+  orig: 196, 65
+  offset: 0, 0
+  index: -1
+mom
+  rotate: false
+  xy: 713, 796
+  size: 66, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+money
+  rotate: true
+  xy: 442, 471
+  size: 186, 29
+  orig: 186, 29
+  offset: 0, 0
+  index: -1
+noo
+  rotate: false
+  xy: 713, 843
+  size: 110, 111
+  orig: 110, 111
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 2, 47
+  size: 189, 121
+  orig: 189, 121
+  offset: 0, 0
+  index: -1
+t2
+  rotate: true
+  xy: 825, 880
+  size: 74, 37
+  orig: 74, 37
+  offset: 0, 0
+  index: -1
+tay
+  rotate: false
+  xy: 521, 687
+  size: 76, 66
+  orig: 76, 66
+  offset: 0, 0
+  index: -1
+xoay
+  rotate: false
+  xy: 224, 659
+  size: 295, 295
+  orig: 295, 295
+  offset: 0, 0
+  index: -1
