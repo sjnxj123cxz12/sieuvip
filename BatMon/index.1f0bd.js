@@ -4720,8 +4720,8 @@ i.getChildByName("sprRank").getComponent(cc.Sprite).spriteFrame = this.detailJac
 } else i.getChildByName("rank").getComponent(cc.Label).string = (o + 1).toString();
 i.getChildByName("liner").active = o % 2 == 0;
 i.getChildByName("name").getComponent(cc.Label).string = c.BatMonConst.truncateString(a.Username);
-i.getChildByName("lbBet").getComponent(cc.Label).string = c.BatMonConst.formatNumber(a.PrizeValue);
-i.getChildByName("lbWin").getComponent(cc.Label).string = c.BatMonConst.formatNumber(a.JackpotValue);
+i.getChildByName("lbBet").getComponent(cc.Label).string = c.BatMonConst.formatNumber(a.BetValue);
+i.getChildByName("lbWin").getComponent(cc.Label).string = c.BatMonConst.formatNumber(a.PrizeValue);
 this.detailJackpot.nodeContentUser.addChild(i);
 }
 }
