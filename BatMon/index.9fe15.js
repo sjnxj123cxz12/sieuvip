@@ -745,7 +745,7 @@ s.getChildByName("lb_name").setPosition(cc.v2(0, t));
 }
 this.listChat.addChild(s);
 }
-this.scrollListChat.scrollToTop();
+this.scrollListChat.scrollToBottom();
 }
 }
 }
@@ -776,7 +776,7 @@ i.getChildByName("lb_name").setPosition(cc.v2(0, t));
 });
 }
 this.listChat.addChild(i);
-this.scrollListChat.scrollToTop();
+this.scrollListChat.scrollToBottom();
 }
 } else this.receiveMessageTip(JSON.parse(n));
 };
@@ -794,7 +794,7 @@ e.getChildByName("lb_msg2").getComponent(cc.Label).string = o;
 e.getChildByName("spriteTip").getComponent(cc.Sprite).node.active = !0;
 e.getChildByName("spriteTip").getComponent(cc.Sprite).spriteFrame = this.spriteFramesTip[n - 1];
 this.listChat.addChild(e);
-this.scrollListChat.scrollToTop();
+this.scrollListChat.scrollToBottom();
 };
 Object.defineProperty(e, "instance", {
 get: function() {
@@ -1010,7 +1010,7 @@ White: 8,
 Unknown: -1
 };
 t.BatMonAnimName = {
-animCaNhaNgoc: [ "ca_nha_ngoc_yellow", "ca_nha_ngoc_green", "ca_nha_ngoc_Turquoisee", "ca_nha_ngoc_blue", "ca_nha_ngoc_red", "ca_nha_ngoc_pink", "ca_nha_ngoc_Purple", "ca_nha_ngoc_grey" ],
+animCaNhaNgoc: [ "ca_nha_ngoc_yellow", "ca_nha_ngoc_green", "ca_nha_ngoc_Turquoise", "ca_nha_ngoc_blue", "ca_nha_ngoc_red", "ca_nha_ngoc_pink", "ca_nha_ngoc_Purple", "ca_nha_ngoc_grey" ],
 animChonNgoc: [ "1chon_ngoc_yellow", "2chon_ngoc_green", "3chon_ngoc_Turquoise", "4chon_ngoc_blue", "5chon_ngoc_red", "6chon_ngoc_pink", "7chon_ngoc_purple", "8chon_ngoc_grey" ],
 animNgocIdle: [ "1ngoc_yellow_idle", "2ngoc_green_idle", "3ngoc_Turquoise_idle", "4ngoc_blue_idle", "5ngoc_red_idle", "6ngoc_pink_idle", "7ngoc_purple_idle", "8ngoc_grey_idle" ],
 animAnNgoc1: [ "1an_ngoc_yellow1", "2an_ngoc_green1", "3an_ngoc_Turquoise1", "4an_ngoc_blue1", "5an_ngoc_red1", "6an_ngoc_pink1", "7an_ngoc_purple1", "8an_ngoc_grey1" ],
