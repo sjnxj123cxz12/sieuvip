@@ -2649,43 +2649,40 @@ this.skeJp.node.active = !1;
 this.lbWin.setString("");
 };
 e.prototype.playEffectWin = function(t) {
-var e = this;
 this.skeNhaNgoc.node.active = !0;
 this.skeNhaNgoc.setAnimation(0, u.BatMonConst.BatMonAnimName.animCaNhaNgoc[t[0] - 1], !1);
 this.skeNhaNgoc.addAnimation(0, u.BatMonConst.BatMonAnimName.animCaNhaNgoc[t[1] - 1], !1);
 this.skeNhaNgoc.addAnimation(0, u.BatMonConst.BatMonAnimName.animCaNhaNgoc[t[2] - 1], !1);
 this.skeNhaNgoc.addAnimation(0, u.BatMonConst.BatMonAnimName.animCaNhaNgoc[t[3] - 1], !1);
-this.scheduleOnce(function() {
-if (u.BatMonConst.isJackpot) {
-e.skeJp.node.active = !0;
-e.skeJp.setAnimation(0, "rong", !1);
-e.skeJp.setCompleteListener(function() {
-e.nodeWin.node.active = !0;
-e.nodeWin.setAnimation(0, "BIG_WIN", !1);
-e.scheduleOnce(function() {
-e.lbWin.node.active = !0;
-e.lbWin.scheduleProgress(u.BatMonConst.winResult);
-}, 1);
-e.skeJp.setCompleteListener(null);
-});
-} else if (u.BatMonConst.winResult > 0) {
-e.nodeWin.node.active = !0;
-e.nodeWin.setAnimation(0, "BIG_WIN", !1);
-e.scheduleOnce(function() {
-e.lbWin.node.active = !0;
-e.lbWin.scheduleProgress(u.BatMonConst.winResult);
-}, 1);
-}
-}, 3);
 };
 e.prototype.showResult = function() {
 var t = this;
-this.nodeWin.node.active = !0;
-this.nodeWin.setAnimation(1, "BIG_WIN", !1);
-u.BatMonConst.winResult > 0 && this.scheduleOnce(function() {
+if (u.BatMonConst.isJackpot) {
+this.skeJp.node.active = !0;
+this.skeJp.setAnimation(0, "rong", !1);
+this.skeJp.setCompleteListener(function() {
+t.nodeWin.node.active = !0;
+t.nodeWin.setAnimation(0, "BIG_WIN", !1);
+t.scheduleOnce(function() {
 t.lbWin.node.active = !0;
 t.lbWin.scheduleProgress(u.BatMonConst.winResult);
+t.lbWin.node.active = !1;
+t.nodeWin.setCompleteListener(null);
 }, 1);
+t.skeJp.setCompleteListener(null);
+});
+} else if (u.BatMonConst.winResult > 0) {
+this.nodeWin.node.active = !0;
+this.nodeWin.setAnimation(0, "BIG_WIN", !1);
+this.scheduleOnce(function() {
+t.lbWin.node.active = !0;
+t.lbWin.scheduleProgress(u.BatMonConst.winResult);
+t.nodeWin.setCompleteListener(function() {
+t.lbWin.node.active = !1;
+t.nodeWin.setCompleteListener(null);
+});
+}, 1);
+}
 };
 var n;
 e._instance = null;
@@ -5080,11 +5077,7 @@ c.default.getInstance().stopResultEffect();
 c.default.getInstance().disableBetAgain(!1);
 p.default.getInstance().enableButtonBet(!0);
 this.activeNodeTime(!0);
-if (o > 7) {
-this.onBeginBetting();
-lngui.UITextManager.showCenterNotification("Đặt cửa");
-}
-o > 24 && !cc.game.isPaused() && this.cardSlide();
+o > 7 && lngui.UITextManager.showCenterNotification("Đặt cửa");
 this.lbSID.string = "#" + t.SessionID;
 }
 break;
@@ -5106,9 +5099,9 @@ this.historyResult = t;
 if (this.currentState !== t.CurrentState) {
 c.default.getInstance().disableBetAgain(!0);
 this.isPlaying = !1;
-var i = [ t.Result.Ball1, t.Result.Ball2, t.Result.Ball3, t.Result.Ball4 ];
-h.default.getInstance().spinTo(i);
 this.lbSID.string = "#" + t.SessionID;
+var i = [ t.Result.Ball1, t.Result.Ball2, t.Result.Ball3, t.Result.Ball4 ];
+o > 8 && h.default.getInstance().spinTo(i);
 this.scheduleOnce(function() {
 e.spMoveJp.setAnimation(0, "Debit", !1);
 }, 8);
@@ -5150,8 +5143,6 @@ return 0 == parseInt(t) ? "" : u.BatMonConst.formatNumberToKMB(t);
 e.prototype.updateTotalUser = function(t) {
 this.lbTotalUser.string = t.toString();
 };
-e.prototype.cardSlide = function() {};
-e.prototype.onBeginBetting = function() {};
 e.prototype.updateTimer = function(t) {
 if (!(t < 1)) {
 var e = t;
@@ -5290,6 +5281,7 @@ lngui.GameCoreManager.instance.updateTotalGold(lngui.UserManager.instance.mainUs
 c.default.getInstance().resetBetInfo();
 y.default.getInstance().winResult(o);
 u.BatMonConst.winResult = o.Award;
+m.default.getInstance().showResult();
 } catch (t) {}
 break;
 
