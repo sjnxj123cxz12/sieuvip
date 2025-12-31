@@ -122,7 +122,7 @@ s.default.instance.listLastMessages(o);
 }
 };
 e.prototype.registerChat = function() {
-this.sendSignalR("RegisterChat", [ "DaGaLivelive" ]);
+this.sendSignalR("RegisterChat", [ s.default.instance.chatChanel ]);
 };
 e.prototype.pingPong = function() {
 this.sendSignalR("PingPong", []);
@@ -324,7 +324,7 @@ var e = null !== t && t.apply(this, arguments) || this;
 e.chipSprites = [];
 e.chipPrefab = null;
 e.chipContainer = null;
-e.startPositionNode = null;
+e.startPositionUserNode = null;
 e.startPositionPlayerNode = null;
 e.midPosNode = null;
 e.pos1Node = null;
@@ -345,27 +345,20 @@ configurable: !0
 e.prototype.onLoad = function() {
 n._instance = this;
 };
-e.prototype.spawnChip = function() {
-var t = Date.now();
-if (!(t - this.lastSpawnTime < 1e3)) {
-var e = Math.floor(11 * Math.random()) + 5;
-this.lastSpawnTime = t;
-for (var n = 0; n < e; n++) {
-var i = cc.instantiate(this.chipPrefab);
-i.parent = this.chipContainer;
-var o = this.startPositionNode ? this.startPositionNode.position : cc.v3(0, 0, 0);
-i.setPosition(o);
-var a = i.getComponent(cc.Sprite);
-a && this.chipSprites.length > 0 && (a.spriteFrame = this.chipSprites[Math.floor(Math.random() * this.chipSprites.length)]);
-this.chips.push(i);
-var s = this.getRandomPosition(Math.random() > .5 ? 1 : 2);
-cc.tween(i).to(.5, {
-position: s
+e.prototype.spawnChip = function(t) {
+var e = cc.instantiate(this.chipPrefab);
+e.parent = this.chipContainer;
+var n = this.startPositionUserNode ? this.startPositionUserNode.position : cc.v3(0, 0, 0);
+e.setPosition(n);
+var i = e.getComponent(cc.Sprite);
+i && this.chipSprites.length > 0 && (i.spriteFrame = this.chipSprites[Math.floor(Math.random() * this.chipSprites.length)]);
+var o = this.getRandomPosition(t);
+cc.tween(e).to(.5, {
+position: o
 }, {
 easing: "sineOut"
 }).start();
-}
-}
+this.chips.push(e);
 };
 e.prototype.spawnChipPlayer = function(t, e) {
 var n = cc.instantiate(this.chipPrefab);
@@ -459,20 +452,22 @@ var e = this, n = this.chips.length;
 if (0 !== n) {
 var i = 5 / n;
 i = Math.min(i, .5);
-var o = 0;
+var o = 0, a = this.getMinMaxFromNode(this.pos1Node), s = this.getMinMaxFromNode(this.pos2Node), r = this.getMinMaxFromNode(this.pos3Node), c = this.getMinMaxFromNode(this.midPosNode), l = this.startPositionUserNode ? this.startPositionUserNode.position : cc.v3(0, 0, 0);
 this.chips = this.chips.filter(function(n) {
-var a = n.getPosition(), s = e.getMinMaxFromNode(e.pos1Node), r = e.getMinMaxFromNode(e.pos2Node), c = e.getMinMaxFromNode(e.pos3Node), l = a.x >= s.min.x && a.x <= s.max.x && a.y >= s.min.y && a.y <= s.max.y, u = a.x >= r.min.x && a.x <= r.max.x && a.y >= r.min.y && a.y <= r.max.y, p = a.x >= c.min.x && a.x <= c.max.x && a.y >= c.min.y && a.y <= c.max.y;
-if (1 === t && l || 2 === t && u || 3 === t && p) {
+if (!n || !n.isValid) return !1;
+var u = n.getPosition(), p = u.x >= a.min.x && u.x <= a.max.x && u.y >= a.min.y && u.y <= a.max.y, h = u.x >= s.min.x && u.x <= s.max.x && u.y >= s.min.y && u.y <= s.max.y, d = u.x >= r.min.x && u.x <= r.max.x && u.y >= r.min.y && u.y <= r.max.y, f = 0;
+p ? f = 1 : h ? f = 2 : d && (f = 3);
+if (f === t) {
 n.destroy();
 return !1;
 }
-var h = e.getMinMaxFromNode(e.midPosNode), d = e.getRandomRange(h.min.x, h.max.x), f = e.getRandomRange(h.min.y, h.max.y), g = cc.v3(d, f, 0), v = e.startPositionNode ? e.startPositionNode.position : cc.v3(0, 0, 0);
+var g = e.getRandomRange(c.min.x, c.max.x), v = e.getRandomRange(c.min.y, c.max.y), m = cc.v3(g, v, 0);
 cc.tween(n).delay(o).to(.3, {
-position: g
+position: m
 }, {
 easing: "sineInOut"
 }).to(.3, {
-position: v
+position: l
 }, {
 easing: "sineIn"
 }).call(function() {
@@ -488,7 +483,7 @@ e._instance = null;
 a([ c([ cc.SpriteFrame ]) ], e.prototype, "chipSprites", void 0);
 a([ c(cc.Prefab) ], e.prototype, "chipPrefab", void 0);
 a([ c(cc.Node) ], e.prototype, "chipContainer", void 0);
-a([ c(cc.Node) ], e.prototype, "startPositionNode", void 0);
+a([ c(cc.Node) ], e.prototype, "startPositionUserNode", void 0);
 a([ c(cc.Node) ], e.prototype, "startPositionPlayerNode", void 0);
 a([ c(cc.Node) ], e.prototype, "midPosNode", void 0);
 a([ c(cc.Node) ], e.prototype, "pos1Node", void 0);
@@ -517,7 +512,7 @@ return e[2] + "/" + e[1] + " - " + t[1].substr(0, 5);
 };
 t.formatDateTime2 = function(t) {
 var e = t = t.split("T");
-return e[0] + e[1];
+return e[0] + "\n" + e[1];
 };
 t.formatUserName = function(t) {
 return t.length > 10 ? t.slice(0, 9) + "..." : t;
@@ -580,6 +575,9 @@ return null == t || void 0 === t || "" === t.trim();
 t.getVideoUrl = function(e, n, i) {
 var o = "https://vuivita.sb21.net/?link=";
 return t.isValidString(e) ? o + e + "&streaming=true" : t.isValidString(n) ? o + n + "&streaming=true" : t.isValidString(i) ? o + i + "&streaming=true" : o + "https://wwnuwb.egress.sb0f8k.mediapackagev2.ap-southeast-1.amazonaws.com/out/v1/stg-cofi-channel-group-v2/stg-cofi-channel-v2/sb2-stg-cofi-cmaf-origin-endpoint/index-ll-hls.m3u8&streaming=true";
+};
+t.setVideoUrl = function(t) {
+return "https://vuivita.sb21.net/?link=" + t + "&streaming=true";
 };
 t.getUrl = function(t, e) {
 var n = t, i = cc.loader.getXMLHttpRequest();
@@ -651,6 +649,10 @@ e.spriteFrame = i;
 t.waitUntilEndTime = function(t, e) {
 var n = new Date(t).getTime() - Date.now();
 n <= 0 ? e() : setTimeout(e, n);
+};
+t.chunkArray = function(t, e) {
+for (var n = [], i = 0; i < t.length; i += e) n.push(t.slice(i, i + e));
+return n;
 };
 t.MAX_KEY_VALUE = 8;
 t.MAX_BET_TAI_XIU = 1e21;
@@ -998,7 +1000,7 @@ return a > 3 && s && Object.defineProperty(e, n, s), s;
 Object.defineProperty(n, "__esModule", {
 value: !0
 });
-var s = t("../DaGaLive.Const"), r = t("../DaGaLive.MainGame"), c = cc._decorator, l = c.ccclass, u = c.property, p = function(t) {
+var s = t("../DaGaLive.Const"), r = cc._decorator, c = r.ccclass, l = r.property, u = function(t) {
 o(e, t);
 function e() {
 var e = null !== t && t.apply(this, arguments) || this;
@@ -1006,8 +1008,11 @@ e.content = null;
 e.template = null;
 e.BtnNextAndPrevious = [];
 e.totalPageTxt = null;
-e.pageIndex = 1;
-e.pageSize = 5;
+e.spfGateBet = [];
+e.spfStt = [];
+e.spfResult = [];
+e.pageIndex = 0;
+e.dataLsc = [];
 e.totalPage = null;
 return e;
 }
@@ -1023,75 +1028,95 @@ configurable: !0
 e.prototype.onEnable = function() {
 n._instance = this;
 lngui.UIWaitingLayout.showWaiting();
-this.getHistory(this.pageIndex);
+this.getHistory();
 };
-e.prototype.getHistory = function(t) {
-var e = this, n = "https://DaGaLive." + lngui.ConfigManager.instance.ConfigInfo.Api + "/api/DaGaLive/GetHistory?access_token=" + lngui.UserManager.instance.mainUserInfo.GameToken + "&pageIndex=" + t + "&pageSize=" + this.pageSize;
-lngui.Https.get(n, function(t) {
-if (t) {
+e.prototype.getHistory = function() {
+var t = this, e = s.DaGaLiveConst.api.accountHistory;
+lngui.Https.get(e, function(e) {
+if (e) {
 lngui.UIWaitingLayout.hideWaiting();
-e.pageIndex = t.PageIndex;
-e.totalPage = t.TotalPages;
-e.checkBtn();
-e.totalPageTxt.string = "Trang: " + e.pageIndex + "/" + e.totalPage;
-e.showAccountHistory(t.Data);
+var n = e.flatMap(function(t) {
+return t.ListData;
+});
+t.dataLsc = s.DaGaLiveConst.chunkArray(n, 6);
+t.totalPage = t.dataLsc.length;
+t.pageIndex = 0;
+t.content.removeAllChildren();
+t.dataLsc.length > 0 && t.showAccountHistory(t.dataLsc[0]);
+t.updatePageInfo();
+t.checkBtn();
 } else lngui.UIWaitingLayout.hideWaiting();
 });
 };
 e.prototype.ClickNext = function() {
+if (!(this.pageIndex >= this.totalPage - 1)) {
+this.pageIndex++;
 this.content.removeAllChildren();
-this.getHistory(this.pageIndex + 1);
+this.showAccountHistory(this.dataLsc[this.pageIndex]);
+this.updatePageInfo();
+this.checkBtn();
+}
 };
 e.prototype.ClicPrevious = function() {
+if (!(this.pageIndex <= 0)) {
+this.pageIndex--;
 this.content.removeAllChildren();
-this.getHistory(this.pageIndex - 1);
+this.showAccountHistory(this.dataLsc[this.pageIndex]);
+this.updatePageInfo();
+this.checkBtn();
+}
 };
 e.prototype.checkBtn = function() {
-if (1 == this.pageIndex) this.BtnNextAndPrevious[0].active = !1; else if (this.pageIndex == this.totalPage) this.BtnNextAndPrevious[1].active = !1; else {
-this.BtnNextAndPrevious[0].active = !0;
-this.BtnNextAndPrevious[1].active = !0;
-}
+this.BtnNextAndPrevious[0] && (this.BtnNextAndPrevious[0].active = this.pageIndex > 0);
+this.BtnNextAndPrevious[1] && (this.BtnNextAndPrevious[1].active = this.pageIndex < this.totalPage - 1);
+};
+e.prototype.updatePageInfo = function() {
+this.totalPageTxt && (this.totalPageTxt.string = "Trang: " + (this.pageIndex + 1) + "/" + this.totalPage);
 };
 e.prototype.showAccountHistory = function(t) {
 if (t) for (var e = 0; e < t.length; e++) {
-var n = t[e], i = n.CreateTime, o = n.TeamName, a = n.SessionID, r = n.Bet, c = n.Award, l = 0 == c ? c - r : c, u = cc.instantiate(this.template);
-u.active = !0;
-u.position = new cc.Vec3(0, 0, 0);
-u.getChildByName("txtSeasion").getComponent(cc.Label).string = "ID: " + a;
+var n = t[e], i = n.CreateTime, o = n.GateID, a = parseInt(n.WinGates), r = n.Bet, c = n.Award, l = n.RateRed.toString(), u = n.RateBlue.toString(), p = n.RateTie.toString(), h = n.IsFinish, d = c - r, f = cc.instantiate(this.template);
+f.active = !0;
+f.position = new cc.Vec3(0, 0, 0);
 if (i.length > 0) {
-var p = s.DaGaLiveConst.formatDateTime2(i);
-u.getChildByName("txtNgay").getComponent(cc.Label).string = p;
+var g = s.DaGaLiveConst.formatDateTime2(i);
+f.getChildByName("txtTime").getComponent(cc.Label).string = g;
 }
-if (l > 0) {
-u.getChildByName("txtTienThang").getComponent(cc.Label).string = "+" + s.DaGaLiveConst.formatNumberToKMB(l);
-u.getChildByName("txtTienThang").color = cc.Color.GREEN;
-} else if (l < 0) {
-u.getChildByName("txtTienThang").getComponent(cc.Label).string = s.DaGaLiveConst.formatNumberToKMB(l);
-u.getChildByName("txtTienThang").color = cc.Color.RED;
+if (d > 0) {
+f.getChildByName("moneyWin").getComponent(cc.Label).string = "+" + s.DaGaLiveConst.formatNumberToKMB(d);
+f.getChildByName("moneyWin").color = cc.Color.GREEN;
+} else if (d < 0) {
+f.getChildByName("moneyWin").getComponent(cc.Label).string = s.DaGaLiveConst.formatNumberToKMB(d);
+f.getChildByName("moneyWin").color = cc.Color.RED;
 }
-u.getChildByName("txtTongCuoc").getComponent(cc.Label).string = s.DaGaLiveConst.formatNumberToKMB(r);
-u.getChildByName("txtDoiCuoc").getComponent(cc.Label).string = o;
-u.getChildByName("txtTranDau").getComponent(cc.Label).string = "DaGaLive - Bàn thắng vàng\n" + n.TeamA + " vs " + n.TeamB;
-u.getChildByName("liner").active = !(e % 2);
-this.content.addChild(u);
+if (h) {
+f.getChildByName("stt").active = !0;
+f.getChildByName("stt").getComponent(cc.Sprite).spriteFrame = d < 0 ? this.spfStt[0] : this.spfStt[1];
+f.getChildByName("result").getComponent(cc.Sprite).spriteFrame = d < 0 ? this.spfResult[0] : this.spfResult[1];
+f.getChildByName("gateBet").getComponent(cc.Sprite).spriteFrame = this.spfGateBet[o - 1];
+a == s.DaGaLiveConst.BetGate.RED ? f.getChildByName("overlayBetRed").active = !1 : a == s.DaGaLiveConst.BetGate.BLUE && (f.getChildByName("overlayBetBlue").active = !1);
 }
-};
-e.prototype.close = function() {
-r.default.instance.OpacityView();
+var v = o == s.DaGaLiveConst.BetGate.RED ? l : o == s.DaGaLiveConst.BetGate.BLUE ? u : p;
+f.getChildByName("moneyBet").getComponent(cc.Label).string = s.DaGaLiveConst.formatNumberToKMB(r);
+f.getChildByName("rateBet").getComponent(cc.Label).string = v;
+this.content.addChild(f);
+}
 };
 var n;
 e._instance = null;
-a([ u(cc.Node) ], e.prototype, "content", void 0);
-a([ u(cc.Node) ], e.prototype, "template", void 0);
-a([ u(cc.Node) ], e.prototype, "BtnNextAndPrevious", void 0);
-a([ u(cc.Label) ], e.prototype, "totalPageTxt", void 0);
-return n = a([ l ], e);
+a([ l(cc.Node) ], e.prototype, "content", void 0);
+a([ l(cc.Node) ], e.prototype, "template", void 0);
+a([ l(cc.Node) ], e.prototype, "BtnNextAndPrevious", void 0);
+a([ l(cc.Label) ], e.prototype, "totalPageTxt", void 0);
+a([ l(cc.SpriteFrame) ], e.prototype, "spfGateBet", void 0);
+a([ l(cc.SpriteFrame) ], e.prototype, "spfStt", void 0);
+a([ l(cc.SpriteFrame) ], e.prototype, "spfResult", void 0);
+return n = a([ c ], e);
 }(cc.Component);
-n.default = p;
+n.default = u;
 cc._RF.pop();
 }, {
-"../DaGaLive.Const": "DaGaLive.Const",
-"../DaGaLive.MainGame": "DaGaLive.MainGame"
+"../DaGaLive.Const": "DaGaLive.Const"
 } ],
 "DaGaLive.Loading": [ function(t, e, n) {
 "use strict";
@@ -1211,16 +1236,13 @@ e.indexChip = null;
 e.isMenuOpen = !1;
 e.isShowResult = !1;
 e.isSpawnChipFrist = !1;
-e.isCam1 = !0;
+e.isArena = !0;
 e.linkCam1 = "";
 e.linkCam2 = "";
 e.linkCamSpecial = "";
 e.btnMenu = null;
 e.nodeMenu = null;
-e.streakDoiNha = null;
-e.streakDoiKhach = null;
 e.bordermsg = null;
-e.nodeLive = null;
 e.nodeViewLive = null;
 e.nodeSelectChip = null;
 e.nodeRedWin = null;
@@ -1228,6 +1250,7 @@ e.nodeBlueWin = null;
 e.nodeTieWin = null;
 e.EffectBet = [];
 e.EffectWinMoney = [];
+e.nodeStatus = [];
 e.nodeLoading = null;
 e.m_txtNickName = null;
 e.m_txtMoney = null;
@@ -1248,6 +1271,11 @@ e.m_lblRateBetValueTie = null;
 e.m_lblMoneyWin = null;
 e.nameRed = null;
 e.nameBlue = null;
+e.spfIconArea = [];
+e.spfTextArea = [];
+e.sprIconArea = null;
+e.sprTextArea = null;
+e.btnChoseCamera = [];
 e.PrefabHistory = null;
 e.PrefabSeasionHistory = null;
 e.PrefabGuide = null;
@@ -1269,12 +1297,11 @@ n._instance = this;
 this.nodeLoading.active = !0;
 this.ketQuaEnd = lngui.UserManager.instance.mainUserInfo.Money;
 this.initDaGaLive();
-this.nodeLive.active = !1;
 };
 e.prototype.initDaGaLive = function() {
 this.SetAvatar();
 this.defaultPositionNodeWin = this.EffectWinMoney[1].getPosition();
-this.nodeLive.active = !1;
+this.nodeViewLive.active = !1;
 this.m_llBetValue = 1e3;
 this.m_txtMoney.string = r.DaGaLiveConst.formatNumber(lngui.UserManager.instance.mainUserInfo.Money);
 this.m_txtNickName.string = lngui.UserManager.instance.mainUserInfo.NickName;
@@ -1364,148 +1391,161 @@ this.m_txtMoney.string = r.DaGaLiveConst.formatNumber(t);
 e.prototype.GetCurrentRooms = function() {
 s.default.instance.sendSignalR("EnterLobby", [ this.m_nBetType ]);
 };
-e.prototype.spawnChip = function() {
-if (0 == this.isSpawnChip) {
-this.isSpawnChip = !0;
-this.ChipIntervalID = setInterval(function() {
-c.default.instance.spawnChip();
-}, 1e3);
-}
-};
 e.prototype.sessionInfo = function(t) {
 var e, n, i;
 if (null != t) {
-var o = t, a = o.CountBetBlue, s = o.TotalBetBlue, l = o.CountBetRed, u = o.TotalBetRed, h = o.CountBetTie || 0, d = o.TotalBetTie || 0;
-this.m_lblMoneyRed.string = r.DaGaLiveConst.formatNumber(u);
+var o = t, a = o.CountBetBlue, s = o.TotalBetBlue, c = o.CountBetRed, l = o.TotalBetRed, u = o.CountBetTie || 0, h = o.TotalBetTie || 0;
+this.m_lblMoneyRed.string = r.DaGaLiveConst.formatNumber(l);
 this.m_lblMoneyBlue.string = r.DaGaLiveConst.formatNumber(s);
-this.m_lblMoneyTie.string = r.DaGaLiveConst.formatNumber(d);
-this.m_lblUsersRed.string = r.DaGaLiveConst.formatNumber(l);
+this.m_lblMoneyTie.string = r.DaGaLiveConst.formatNumber(h);
+this.m_lblUsersRed.string = r.DaGaLiveConst.formatNumber(c);
 this.m_lblUsersBlue.string = r.DaGaLiveConst.formatNumber(a);
-this.m_lblUsersTie.string = r.DaGaLiveConst.formatNumber(h);
+this.m_lblUsersTie.string = r.DaGaLiveConst.formatNumber(u);
 this.m_lblRateBetValueBlue.string = "x" + (null !== (e = o.RateBlue) && void 0 !== e ? e : 0);
 this.m_lblRateBetValueRed.string = "x" + (null !== (n = o.RateRed) && void 0 !== n ? n : 0);
 this.m_lblRateBetValueTie.string = "x" + (null !== (i = o.RateTie) && void 0 !== i ? i : 0);
-this.linkCam1 = o.Camera1Url;
-this.linkCam2 = o.Camera2Url;
-this.linkCamSpecial = o.CameraSpecialUrl;
-var f = o.TopBets;
-p.default.instance.showTopUserBet(f);
-var g = cc.sequence(cc.scaleTo(.1, 1.1, 1.1), cc.scaleTo(.1, 1, 1));
-u !== this._totalBetRed && this.m_lblMoneyRed.node.runAction(g.clone());
-s !== this._totalBetBlue && this.m_lblMoneyBlue.node.runAction(g.clone());
-d !== this._totalBetTie && this.m_lblMoneyTie.node.runAction(g.clone());
-l !== this._totalAccountRed && this.m_lblUsersRed.node.runAction(g.clone());
-a !== this._totalAccountBlue && this.m_lblUsersBlue.node.runAction(g.clone());
-h !== this._totalAccountTie && this.m_lblUsersTie.node.runAction(g.clone());
-this._totalBetRed = u;
+var d = o.TopBets;
+p.default.instance.showTopUserBet(d);
+var f = cc.sequence(cc.scaleTo(.1, 1.1, 1.1), cc.scaleTo(.1, 1, 1));
+l !== this._totalBetRed && this.m_lblMoneyRed.node.runAction(f.clone());
+s !== this._totalBetBlue && this.m_lblMoneyBlue.node.runAction(f.clone());
+h !== this._totalBetTie && this.m_lblMoneyTie.node.runAction(f.clone());
+c !== this._totalAccountRed && this.m_lblUsersRed.node.runAction(f.clone());
+a !== this._totalAccountBlue && this.m_lblUsersBlue.node.runAction(f.clone());
+u !== this._totalAccountTie && this.m_lblUsersTie.node.runAction(f.clone());
+this._totalBetRed = l;
 this._totalBetBlue = s;
-this._totalBetTie = d;
-this._totalAccountRed = l;
+this._totalBetTie = h;
+this._totalAccountRed = c;
 this._totalAccountBlue = a;
-this._totalAccountTie = h;
+this._totalAccountTie = u;
 r.DaGaLiveConst.GameSessionID = t.SessionID;
 this.m_llGameSessionID = t.SessionID;
 this.m_nGameStatus = t.Phrase;
 this.m_lblTurnID.string = "#" + this.m_llGameSessionID;
-if (this.m_nGameStatus == r.DaGaLiveConst.GameStatus.BETTING) {
-this.nodeRedWin.active = !1;
-this.nodeBlueWin.active = !1;
-this.nodeTieWin.active = !1;
-0 == this.isSpawnChip && this.spawnChip();
-this.isShowResult = !1;
-}
-this.m_nGameStatus == r.DaGaLiveConst.GameStatus.RESULT && clearInterval(this.ChipIntervalID);
-r.DaGaLiveConst.urlVideo = r.DaGaLiveConst.getVideoUrl(this.linkCam1, this.linkCam2, this.linkCamSpecial);
-if (this.m_nGameStatus == r.DaGaLiveConst.GameStatus.RESULT && 0 == this.isShowResult && t.Ellapsed <= 5 && -1 != t.teamWin) {
-this.isShowResult = !0;
-var v = o.Result.Winside;
-this.showResult(v);
-}
-if (0 == r.DaGaLiveConst.isLoading && 0 == this.isSpawnChipFrist && 0 == this.isShowResult && t.Ellapsed > 5) {
-this.isSpawnChipFrist = !0;
-var m = function(t) {
-return t < 1e6 ? 0 : t < 1e7 ? 1 : t < 5e7 ? 2 : t < 1e8 ? 3 : t < 2e8 ? 4 : 5;
-}, y = m(s), _ = m(u);
-c.default.instance.addChipsByCondition(1, _);
-c.default.instance.addChipsByCondition(2, y);
-}
 }
 };
 e.prototype.startActionTimer = function(t) {
 var e, n, i;
 if (null != t) {
-var o = t, a = o.CountBetBlue, s = o.TotalBetBlue, l = o.CountBetRed, u = o.TotalBetRed, h = o.CountBetTie || 0, d = o.TotalBetTie || 0;
-this.m_lblMoneyRed.string = r.DaGaLiveConst.formatNumber(u);
+if (this.m_nGameStatus != t.Phrase) {
+this.m_nGameStatus = t.Phrase;
+u.default.instance.setUrlVideo();
+}
+var o = t, a = o.CountBetBlue, s = o.TotalBetBlue, l = o.CountBetRed, h = o.TotalBetRed, d = o.CountBetTie || 0, f = o.TotalBetTie || 0;
+this.m_lblMoneyRed.string = r.DaGaLiveConst.formatNumber(h);
 this.m_lblMoneyBlue.string = r.DaGaLiveConst.formatNumber(s);
-this.m_lblMoneyTie.string = r.DaGaLiveConst.formatNumber(d);
+this.m_lblMoneyTie.string = r.DaGaLiveConst.formatNumber(f);
 this.m_lblUsersRed.string = r.DaGaLiveConst.formatNumber(l);
 this.m_lblUsersBlue.string = r.DaGaLiveConst.formatNumber(a);
-this.m_lblUsersTie.string = r.DaGaLiveConst.formatNumber(h);
+this.m_lblUsersTie.string = r.DaGaLiveConst.formatNumber(d);
 this.m_lblRateBetValueBlue.string = "x" + (null !== (e = o.RateBlue) && void 0 !== e ? e : 0);
 this.m_lblRateBetValueRed.string = "x" + (null !== (n = o.RateRed) && void 0 !== n ? n : 0);
 this.m_lblRateBetValueTie.string = "x" + (null !== (i = o.RateTie) && void 0 !== i ? i : 0);
 this.linkCam1 = o.Camera1Url;
 this.linkCam2 = o.Camera2Url;
 this.linkCamSpecial = o.CameraSpecialUrl;
-var f = o.TopBets;
-p.default.instance.showTopUserBet(f);
-var g = cc.sequence(cc.scaleTo(.1, 1.1, 1.1), cc.scaleTo(.1, 1, 1));
-u !== this._totalBetRed && this.m_lblMoneyRed.node.runAction(g.clone());
-s !== this._totalBetBlue && this.m_lblMoneyBlue.node.runAction(g.clone());
-d !== this._totalBetTie && this.m_lblMoneyTie.node.runAction(g.clone());
-l !== this._totalAccountRed && this.m_lblUsersRed.node.runAction(g.clone());
-a !== this._totalAccountBlue && this.m_lblUsersBlue.node.runAction(g.clone());
-h !== this._totalAccountTie && this.m_lblUsersTie.node.runAction(g.clone());
-this._totalBetRed = u;
+this.isArena = o.IsArena;
+var g = o.TopBets;
+p.default.instance.showTopUserBet(g);
+var v = cc.sequence(cc.scaleTo(.1, 1.1, 1.1), cc.scaleTo(.1, 1, 1));
+h !== this._totalBetRed && this.m_lblMoneyRed.node.runAction(v.clone());
+s !== this._totalBetBlue && this.m_lblMoneyBlue.node.runAction(v.clone());
+f !== this._totalBetTie && this.m_lblMoneyTie.node.runAction(v.clone());
+l !== this._totalAccountRed && this.m_lblUsersRed.node.runAction(v.clone());
+a !== this._totalAccountBlue && this.m_lblUsersBlue.node.runAction(v.clone());
+d !== this._totalAccountTie && this.m_lblUsersTie.node.runAction(v.clone());
+this._totalBetRed = h;
 this._totalBetBlue = s;
-this._totalBetTie = d;
+this._totalBetTie = f;
 this._totalAccountRed = l;
 this._totalAccountBlue = a;
-this._totalAccountTie = h;
+this._totalAccountTie = d;
 this.nameRed.string = r.DaGaLiveConst.cutStringWithEllipsis(t.RedName, 10).toUpperCase();
 this.nameBlue.string = r.DaGaLiveConst.cutStringWithEllipsis(t.BlueName, 10).toUpperCase();
 r.DaGaLiveConst.GameSessionID = t.SessionID;
 this.m_llGameSessionID = t.SessionID;
-this.m_nGameStatus = t.Phrase;
 this.m_lblTurnID.string = "#" + this.m_llGameSessionID;
+this.checkArea(this.isArena);
+this.checkCamera();
+this.checkStatus();
 if (this.m_nGameStatus == r.DaGaLiveConst.GameStatus.BETTING) {
 this.nodeRedWin.active = !1;
 this.nodeBlueWin.active = !1;
 this.nodeTieWin.active = !1;
-0 == this.isSpawnChip && this.spawnChip();
-this.isShowResult = !1;
 }
-this.m_nGameStatus == r.DaGaLiveConst.GameStatus.RESULT && clearInterval(this.ChipIntervalID);
-cc.sys.isNative;
 r.DaGaLiveConst.urlVideo = r.DaGaLiveConst.getVideoUrl(this.linkCam1, this.linkCam2, this.linkCamSpecial);
-if (this.m_nGameStatus == r.DaGaLiveConst.GameStatus.RESULT && 0 == this.isShowResult && t.Ellapsed <= 5 && -1 != t.teamWin) {
-var v = o.Result.Winside;
-this.showResult(v);
+if (this.m_nGameStatus == r.DaGaLiveConst.GameStatus.RESULT) {
+var m = o.Result.WinSide;
+this.showResult(m);
 }
-if (0 == r.DaGaLiveConst.isLoading && 0 == this.isSpawnChipFrist && 0 == this.isShowResult && t.Ellapsed > 5) {
+if (0 == r.DaGaLiveConst.isLoading && 0 == this.isSpawnChipFrist && (this.m_nGameStatus == r.DaGaLiveConst.GameStatus.BETTING || this.m_nGameStatus == r.DaGaLiveConst.GameStatus.END_BETTING)) {
 this.isSpawnChipFrist = !0;
-var m = function(t) {
+var y = function(t) {
 return t < 1e6 ? 0 : t < 1e7 ? 1 : t < 5e7 ? 2 : t < 1e8 ? 3 : t < 2e8 ? 4 : 5;
-}, y = m(s), _ = m(u), C = m(d);
-c.default.instance.addChipsByCondition(1, _);
-c.default.instance.addChipsByCondition(2, y);
-c.default.instance.addChipsByCondition(3, C);
+}, _ = y(s), C = y(h), b = y(f);
+c.default.instance.addChipsByCondition(1, C);
+c.default.instance.addChipsByCondition(2, _);
+c.default.instance.addChipsByCondition(3, b);
 }
 }
 };
 e.prototype.showResult = function(t) {
 if (t == r.DaGaLiveConst.BetGate.RED) {
 this.nodeRedWin.active = !0;
-c.default.instance.hideAndCollectChips(2);
+c.default.instance.hideAndCollectChips(t);
 } else if (t == r.DaGaLiveConst.BetGate.BLUE) {
 this.nodeBlueWin.active = !0;
-c.default.instance.hideAndCollectChips(1);
+c.default.instance.hideAndCollectChips(t);
 } else if (t == r.DaGaLiveConst.BetGate.TIE) {
 this.nodeTieWin.active = !0;
-c.default.instance.hideAndCollectChips(3);
+c.default.instance.hideAndCollectChips(t);
 }
-this.isSpawnChip = !1;
 null != this._callback && this._callback(r.DaGaLiveConst.RETURN_RESULT, this.m_nLocationIDWin);
+};
+e.prototype.checkArea = function(t) {
+if (t) {
+this.sprIconArea.spriteFrame = this.spfIconArea[0];
+this.sprTextArea.spriteFrame = this.spfTextArea[0];
+} else {
+this.sprIconArea.spriteFrame = this.spfIconArea[1];
+this.sprTextArea.spriteFrame = this.spfTextArea[1];
+}
+};
+e.prototype.checkStatus = function() {
+this.nodeStatus.forEach(function(t) {
+t.active = !1;
+});
+if (this.m_nGameStatus == r.DaGaLiveConst.GameStatus.PREPARE_NEW_SESSION) this.nodeStatus[0].active = !0; else if (this.m_nGameStatus == r.DaGaLiveConst.GameStatus.BETTING) {
+this.nodeStatus[1].active = !0;
+var t = this.nodeStatus[1].getComponent(sp.Skeleton);
+t.setAnimation(0, "nhancuoc_start", !1);
+t.addAnimation(0, "nhancuoc_loop", !0);
+} else this.m_nGameStatus != r.DaGaLiveConst.GameStatus.END_BETTING && this.m_nGameStatus != r.DaGaLiveConst.GameStatus.RESULT || (this.nodeStatus[2].active = !0);
+};
+e.prototype.checkCamera = function() {
+if (this.isArena) if (this.linkCam1 && this.linkCam2) this.btnChoseCamera.forEach(function(t) {
+t.interactable = !0;
+}); else if (this.linkCam1 && !this.linkCam2) {
+this.btnChoseCamera[0] && (this.btnChoseCamera[0].interactable = !0);
+this.btnChoseCamera[1] && (this.btnChoseCamera[1].interactable = !1);
+} else if (!this.linkCam1 && this.linkCam2) {
+this.btnChoseCamera[0] && (this.btnChoseCamera[0].interactable = !1);
+this.btnChoseCamera[1] && (this.btnChoseCamera[1].interactable = !0);
+} else this.btnChoseCamera.forEach(function(t) {
+t.interactable = !1;
+}); else this.btnChoseCamera.forEach(function(t) {
+t.interactable = !1;
+});
+};
+e.prototype.clickChoseCam = function(t, e) {
+if (1 == (e = parseInt(e)) && this.linkCam1) {
+r.DaGaLiveConst.urlVideo = r.DaGaLiveConst.setVideoUrl(this.linkCam1);
+u.default.instance.setUrlVideo();
+} else if (2 == e && this.linkCam2) {
+r.DaGaLiveConst.urlVideo = r.DaGaLiveConst.setVideoUrl(this.linkCam2);
+u.default.instance.setUrlVideo();
+}
 };
 e.prototype.touchRed = function() {
 this.EffectBet[0].opacity = 255;
@@ -1541,7 +1581,7 @@ var e = cc.fadeOut(3);
 this.m_lblMessage.node.getParent().runAction(e);
 };
 e.prototype.showLive = function() {
-this.nodeLive.active = !0;
+this.nodeViewLive.active = !0;
 u.default.instance.setUrlVideo();
 };
 e.prototype.onClickMenu = function() {
@@ -1575,17 +1615,13 @@ var t = this.SpritetAvatar.ListSpriteAvatar;
 this.Avatar.spriteFrame = t[lngui.UserManager.instance.mainUserInfo.Avatar];
 };
 e.prototype.onDestroy = function() {
-clearInterval(this.ChipIntervalID);
 r.DaGaLiveConst.isLoading = !0;
 };
 var n;
 e._instance = null;
 a([ f(cc.Node) ], e.prototype, "btnMenu", void 0);
 a([ f(cc.Node) ], e.prototype, "nodeMenu", void 0);
-a([ f(cc.Node) ], e.prototype, "streakDoiNha", void 0);
-a([ f(cc.Node) ], e.prototype, "streakDoiKhach", void 0);
 a([ f(cc.Node) ], e.prototype, "bordermsg", void 0);
-a([ f(cc.Node) ], e.prototype, "nodeLive", void 0);
 a([ f(cc.Node) ], e.prototype, "nodeViewLive", void 0);
 a([ f(cc.Node) ], e.prototype, "nodeSelectChip", void 0);
 a([ f(cc.Node) ], e.prototype, "nodeRedWin", void 0);
@@ -1593,6 +1629,7 @@ a([ f(cc.Node) ], e.prototype, "nodeBlueWin", void 0);
 a([ f(cc.Node) ], e.prototype, "nodeTieWin", void 0);
 a([ f(cc.Node) ], e.prototype, "EffectBet", void 0);
 a([ f(cc.Node) ], e.prototype, "EffectWinMoney", void 0);
+a([ f(cc.Node) ], e.prototype, "nodeStatus", void 0);
 a([ f(cc.Node) ], e.prototype, "nodeLoading", void 0);
 a([ f(cc.Label) ], e.prototype, "m_txtNickName", void 0);
 a([ f(cc.Label) ], e.prototype, "m_txtMoney", void 0);
@@ -1613,6 +1650,11 @@ a([ f(cc.Label) ], e.prototype, "m_lblRateBetValueTie", void 0);
 a([ f(cc.Label) ], e.prototype, "m_lblMoneyWin", void 0);
 a([ f(cc.Label) ], e.prototype, "nameRed", void 0);
 a([ f(cc.Label) ], e.prototype, "nameBlue", void 0);
+a([ f(cc.SpriteFrame) ], e.prototype, "spfIconArea", void 0);
+a([ f(cc.SpriteFrame) ], e.prototype, "spfTextArea", void 0);
+a([ f(cc.Sprite) ], e.prototype, "sprIconArea", void 0);
+a([ f(cc.Sprite) ], e.prototype, "sprTextArea", void 0);
+a([ f(cc.Toggle) ], e.prototype, "btnChoseCamera", void 0);
 a([ f(cc.Prefab) ], e.prototype, "PrefabHistory", void 0);
 a([ f(cc.Prefab) ], e.prototype, "PrefabSeasionHistory", void 0);
 a([ f(cc.Prefab) ], e.prototype, "PrefabGuide", void 0);
@@ -1714,7 +1756,7 @@ return a > 3 && s && Object.defineProperty(e, n, s), s;
 Object.defineProperty(n, "__esModule", {
 value: !0
 });
-var s = t("../DaGaLive.Const"), r = t("../DaGaLive.MainGame"), c = t("../DaGaLive.SessionHistoryView"), l = cc._decorator, u = l.ccclass, p = (l.property, 
+var s = t("../DaGaLive.ChipMovent"), r = t("../DaGaLive.Const"), c = t("../DaGaLive.MainGame"), l = t("../DaGaLive.SessionHistoryView"), u = cc._decorator, p = u.ccclass, h = (u.property, 
 function(t) {
 o(e, t);
 function e() {
@@ -1738,15 +1780,15 @@ n._instance = this;
 e.prototype.connect = function() {
 console.log("Connect");
 var t = {
-url: s.DaGaLiveConst.api.negotiate,
-hub: s.DaGaLiveConst.api.hub,
+url: r.DaGaLiveConst.api.negotiate,
+hub: r.DaGaLiveConst.api.hub,
 ip: "http://18.138.207.162:9001/signalr/negotiate",
 gate: lngui.ConfigManager.instance.ConfigInfo.Gate
 };
-cc.systemEvent.off(s.DaGaLiveConst.ON_DaGaLive_SOCKET, this.onResponeData, this);
-cc.systemEvent.on(s.DaGaLiveConst.ON_DaGaLive_SOCKET, this.onResponeData, this);
+cc.systemEvent.off(r.DaGaLiveConst.ON_DaGaLive_SOCKET, this.onResponeData, this);
+cc.systemEvent.on(r.DaGaLiveConst.ON_DaGaLive_SOCKET, this.onResponeData, this);
 this.mSignalr = new lngui.GateSignalR();
-this.mSignalr.connect(s.DaGaLiveConst.ON_DaGaLive_SOCKET, t.url, t.hub, t.gate, lngui.UserManager.instance.mainUserInfo.cookie, !1);
+this.mSignalr.connect(r.DaGaLiveConst.ON_DaGaLive_SOCKET, t.url, t.hub, t.gate, lngui.UserManager.instance.mainUserInfo.cookie, !1);
 lngui.GateWebSocketManager.pushSignalR(this.mSignalr);
 };
 e.prototype.onEnable = function() {
@@ -1820,64 +1862,70 @@ lngui.UITextManager.showCenterNotification("Đặt cửa thất bại");
 if (t.M && Array.isArray(t.M) && 0 != t.M.length) for (var e = t.M.length, n = 0; n < e; ++n) {
 var i = t.M[n];
 if (i.A && null != i.A[0] && null != i.A[0]) {
-var o = i.A[0];
+var o = i.A[0], a = i.A;
 switch (i.M) {
-case s.DaGaLiveConst.MethodHubOnName.SESSION_INFO:
+case r.DaGaLiveConst.MethodHubOnName.SESSION_INFO:
 break;
 
-case s.DaGaLiveConst.MethodHubOnName.START_ACTION_TIMER:
-r.default.instance.startActionTimer(o);
+case r.DaGaLiveConst.MethodHubOnName.START_ACTION_TIMER:
+c.default.instance.startActionTimer(o);
 break;
 
-case s.DaGaLiveConst.MethodHubOnName.WIN_RESULT:
+case r.DaGaLiveConst.MethodHubOnName.WIN_RESULT:
 case "winResult":
-r.default.instance.resultOfAccount(o);
+c.default.instance.resultOfAccount(o);
 break;
 
-case s.DaGaLiveConst.MethodHubOnName.BET_SUCCESS:
+case r.DaGaLiveConst.MethodHubOnName.BET_SUCCESS:
 case "betSuccess":
-r.default.instance.betOfAccount(i.A);
+c.default.instance.betOfAccount(i.A);
 break;
 
-case s.DaGaLiveConst.MethodHubOnName.BET_OF_ACCOUNT:
+case r.DaGaLiveConst.MethodHubOnName.BET_OF_ACCOUNT:
 case "betOfAccount":
-r.default.instance.updateBetInfoFromServer(o);
+c.default.instance.updateBetInfoFromServer(o);
 break;
 
-case s.DaGaLiveConst.MethodHubOnName.PLAYER_LEAVE:
-case s.DaGaLiveConst.MethodHubOnName.JOIN_GAME:
+case r.DaGaLiveConst.MethodHubOnName.PLAYER_LEAVE:
 break;
 
-case s.DaGaLiveConst.MethodHubOnName.GAME_HISTORY:
-c.default.getInstance().updateGameHistoryUI(o);
+case r.DaGaLiveConst.MethodHubOnName.PLAYER_BET:
+s.default.instance.spawnChip(a[2]);
 break;
 
-case s.DaGaLiveConst.MethodHubOnName.WIN_RESULT_VIP:
+case r.DaGaLiveConst.MethodHubOnName.JOIN_GAME:
+break;
+
+case r.DaGaLiveConst.MethodHubOnName.GAME_HISTORY:
+l.default.getInstance().updateGameHistoryUI(o);
+break;
+
+case r.DaGaLiveConst.MethodHubOnName.WIN_RESULT_VIP:
 if (i.A.length > 0) try {
 setTimeout(function() {}, 2500);
 } catch (t) {}
 break;
 
-case s.DaGaLiveConst.MethodHubOnName.MESSAGE:
-var a = i.A[0];
-a && a.Description ? lngui.UIPopupManager.instance.showPopup(a.Description) : a && a.Message ? lngui.UIPopupManager.instance.showPopup(a.Message) : a && lngui.UITextManager.showCenterNotification(a);
-break;
-
-case s.DaGaLiveConst.MethodHubOnName.TOTAL_WIN_MONEY:
-var l = i.A[0];
-parseInt(l) > 0 && setTimeout(function() {}, 2e3);
-break;
-
-case s.DaGaLiveConst.MethodHubOnName.REJOIN:
+case r.DaGaLiveConst.MethodHubOnName.MESSAGE:
 var u = i.A[0];
-u && u.length > 0 && u.map(function(t) {
+u && u.Description ? lngui.UIPopupManager.instance.showPopup(u.Description) : u && u.Message ? lngui.UIPopupManager.instance.showPopup(u.Message) : u && lngui.UITextManager.showCenterNotification(u);
+break;
+
+case r.DaGaLiveConst.MethodHubOnName.TOTAL_WIN_MONEY:
+var p = i.A[0];
+parseInt(p) > 0 && setTimeout(function() {}, 2e3);
+break;
+
+case r.DaGaLiveConst.MethodHubOnName.REJOIN:
+var h = i.A[0];
+h && h.length > 0 && h.map(function(t) {
 0 != t.length && t.map(function(t) {
 t.BetValue, t.BetSide;
 });
 });
 break;
 
-case s.DaGaLiveConst.MethodHubOnName.BET_SESSION:
+case r.DaGaLiveConst.MethodHubOnName.BET_SESSION:
 i.A[0] && i.A[0].length > 0 && i.A[0].map(function(t) {
 0 != t.length && t.map(function(t) {
 t.BetValue, t.BetSide, t.AccountID;
@@ -1885,20 +1933,20 @@ t.BetValue, t.BetSide, t.AccountID;
 });
 break;
 
-case s.DaGaLiveConst.MethodHubOnName.BET_USER:
+case r.DaGaLiveConst.MethodHubOnName.BET_USER:
 i.A[2], lngui.UserManager.instance.mainUserInfo.AccountID;
 break;
 
-case s.DaGaLiveConst.MethodHubOnName.SUMMARY_PLAYER:
+case r.DaGaLiveConst.MethodHubOnName.SUMMARY_PLAYER:
 break;
 
-case s.DaGaLiveConst.MethodHubOnName.VIP_PLAYERS:
-var p = i.A[0];
-p && p.length;
+case r.DaGaLiveConst.MethodHubOnName.VIP_PLAYERS:
+var d = i.A[0];
+d && d.length;
 break;
 
-case s.DaGaLiveConst.MethodHubOnName.OTHER_DEVICE:
-case s.DaGaLiveConst.MethodHubOnName.RECEIVE_MESSAGE:
+case r.DaGaLiveConst.MethodHubOnName.OTHER_DEVICE:
+case r.DaGaLiveConst.MethodHubOnName.RECEIVE_MESSAGE:
 }
 }
 }
@@ -1910,7 +1958,7 @@ e.prototype.connectSuccess = function() {
 lngui.ZLog.log("Connect Sucesss");
 };
 e.prototype.closeWS = function() {
-cc.systemEvent.off(s.DaGaLiveConst.ON_DaGaLive_SOCKET, this.onResponeData, this);
+cc.systemEvent.off(r.DaGaLiveConst.ON_DaGaLive_SOCKET, this.onResponeData, this);
 this.mSignalr.close();
 lngui.GateWebSocketManager.removeSignalR(this.mSignalr);
 this.mSignalr = null;
@@ -1922,11 +1970,12 @@ this.mSignalr && this.mSignalr.send(t, e);
 };
 var n;
 e._instance = null;
-return n = a([ u ], e);
+return n = a([ p ], e);
 }(cc.Component));
-n.default = p;
+n.default = h;
 cc._RF.pop();
 }, {
+"../DaGaLive.ChipMovent": "DaGaLive.ChipMovent",
 "../DaGaLive.Const": "DaGaLive.Const",
 "../DaGaLive.MainGame": "DaGaLive.MainGame",
 "../DaGaLive.SessionHistoryView": "DaGaLive.SessionHistoryView"
@@ -1956,7 +2005,7 @@ return a > 3 && s && Object.defineProperty(e, n, s), s;
 Object.defineProperty(n, "__esModule", {
 value: !0
 });
-var s = t("../DaGaLive.Const"), r = t("../DaGaLive.MainGame"), c = cc._decorator, l = c.ccclass, u = c.property, p = function(t) {
+var s = t("../DaGaLive.Const"), r = cc._decorator, c = r.ccclass, l = r.property, u = function(t) {
 o(e, t);
 function e() {
 var e = null !== t && t.apply(this, arguments) || this;
@@ -1964,9 +2013,12 @@ e.content = null;
 e.template = null;
 e.BtnNextAndPrevious = [];
 e.totalPageTxt = null;
+e.spfArrow = [];
+e.spfResult = [];
 e.pageIndex = 1;
 e.pageSize = 8;
 e.totalPage = null;
+e.dataSC = [];
 return e;
 }
 n = e;
@@ -1981,79 +2033,79 @@ configurable: !0
 e.prototype.onEnable = function() {
 n._instance = this;
 lngui.UIWaitingLayout.showWaiting();
-this.getSeasionHistory(this.pageIndex);
+this.getSeasionHistory();
 };
-e.prototype.getSeasionHistory = function(t) {
-var e = this, n = "https://DaGaLive." + lngui.ConfigManager.instance.ConfigInfo.Api + "/api/DaGaLive/GetSessionHistory?access_token=" + lngui.UserManager.instance.mainUserInfo.GameToken + "&pageIndex=" + t + "&pageSize=" + this.pageSize;
-lngui.Https.get(n, function(t) {
-if (t) {
+e.prototype.getSeasionHistory = function() {
+var t = this, e = s.DaGaLiveConst.api.soiCau;
+lngui.Https.get(e, function(e) {
+if (e) {
 lngui.UIWaitingLayout.hideWaiting();
-e.pageIndex = t.PageIndex;
-e.totalPage = t.TotalPages;
-e.checkBtn();
-e.totalPageTxt.string = "Trang: " + e.pageIndex + "/61";
-e.showSeasionHistory(t.Data);
+t.dataSC = s.DaGaLiveConst.chunkArray(e.Data, 6);
+t.totalPage = t.dataSC.length;
+t.pageIndex = 0;
+t.content.removeAllChildren();
+t.dataSC.length > 0 && t.showSeasionHistory(t.dataSC[0]);
+t.updatePageInfo();
+t.checkBtn();
 } else lngui.UIWaitingLayout.hideWaiting();
 });
 };
 e.prototype.ClickNext = function() {
+if (!(this.pageIndex >= this.totalPage - 1)) {
+this.pageIndex++;
 this.content.removeAllChildren();
-this.getSeasionHistory(this.pageIndex + 1);
+this.showSeasionHistory(this.dataSC[this.pageIndex]);
+this.updatePageInfo();
+this.checkBtn();
+}
 };
 e.prototype.ClicPrevious = function() {
+if (!(this.pageIndex <= 0)) {
+this.pageIndex--;
 this.content.removeAllChildren();
-this.getSeasionHistory(this.pageIndex - 1);
+this.showSeasionHistory(this.dataSC[this.pageIndex]);
+this.updatePageInfo();
+this.checkBtn();
+}
 };
 e.prototype.checkBtn = function() {
-if (1 == this.pageIndex) this.BtnNextAndPrevious[0].active = !1; else if (this.pageIndex == this.totalPage) this.BtnNextAndPrevious[1].active = !1; else {
-this.BtnNextAndPrevious[0].active = !0;
-this.BtnNextAndPrevious[1].active = !0;
-}
+this.BtnNextAndPrevious[0] && (this.BtnNextAndPrevious[0].active = this.pageIndex > 0);
+this.BtnNextAndPrevious[1] && (this.BtnNextAndPrevious[1].active = this.pageIndex < this.totalPage - 1);
+};
+e.prototype.updatePageInfo = function() {
+this.totalPageTxt && (this.totalPageTxt.string = "Trang: " + (this.pageIndex + 1) + "/" + this.totalPage);
 };
 e.prototype.showSeasionHistory = function(t) {
-if (t) for (var e = function(e) {
-var i = t[e], o = i.CreatedDate, a = i.TeamA, r = i.TeamB, c = 0 == i.TeamWin ? a : r, l = s.DaGaLiveConst.cutStringWithEllipsis(i.Md5String, 9), u = s.DaGaLiveConst.cutStringWithEllipsis(i.ResultString, 8), p = cc.instantiate(n.template);
-p.active = !0;
-p.position = new cc.Vec3(0, 0, 0);
-if (o.length > 0) {
-var h = s.DaGaLiveConst.formatDateTime2(o);
-p.getChildByName("txtNgay").getComponent(cc.Label).string = h;
+if (t) for (var e = 0; e < t.length; e++) {
+var n = t[e], i = n.CreatedDate, o = n.RedName, a = n.BlueName, r = parseInt(n.WinGates), c = cc.instantiate(this.template);
+c.active = !0;
+c.position = new cc.Vec3(0, 0, 0);
+if (i.length > 0) {
+var l = s.DaGaLiveConst.formatDateTime2(i);
+c.getChildByName("txtTime").getComponent(cc.Label).string = l;
 }
-p.getChildByName("txtMd5").getComponent(cc.Label).string = l;
-p.getChildByName("txxResult").getComponent(cc.Label).string = u;
-p.getChildByName("txtDoiThang").getComponent(cc.Label).string = c;
-p.getChildByName("txtDoiBong").getComponent(cc.Label).string = a + "\n" + r;
-p.getChildByName("btnCopyMd5").getComponent(cc.Button).node.on("click", function() {
-t = i.Md5String, lngui.PlatformInterface.copy(t);
-var t;
-});
-p.getChildByName("btnCopyResult").getComponent(cc.Button).node.on("click", function() {
-t = i.ResultString, lngui.PlatformInterface.copy(t);
-var t;
-});
-p.getChildByName("liner").active = !(e % 2);
-n.content.addChild(p);
-}, n = this, i = 0; i < t.length; i++) e(i);
-};
-e.prototype.close = function() {
-r.default.instance.OpacityView();
-};
-e.prototype.clickCopy = function(t) {
-lngui.PlatformInterface.copy(t);
+c.getChildByName("redName").getComponent(cc.Label).string = o;
+c.getChildByName("blueName").getComponent(cc.Label).string = a;
+c.getChildByName("arrowResult").getComponent(cc.Sprite).spriteFrame = this.spfArrow[r - 1];
+c.getChildByName("result").getComponent(cc.Sprite).spriteFrame = this.spfResult[r - 1];
+r == s.DaGaLiveConst.BetGate.RED ? c.getChildByName("overlayRed").active = !1 : r == s.DaGaLiveConst.BetGate.BLUE && (c.getChildByName("overlayBlue").active = !1);
+this.content.addChild(c);
+}
 };
 var n;
 e._instance = null;
-a([ u(cc.Node) ], e.prototype, "content", void 0);
-a([ u(cc.Node) ], e.prototype, "template", void 0);
-a([ u(cc.Node) ], e.prototype, "BtnNextAndPrevious", void 0);
-a([ u(cc.Label) ], e.prototype, "totalPageTxt", void 0);
-return n = a([ l ], e);
+a([ l(cc.Node) ], e.prototype, "content", void 0);
+a([ l(cc.Node) ], e.prototype, "template", void 0);
+a([ l(cc.Node) ], e.prototype, "BtnNextAndPrevious", void 0);
+a([ l(cc.Label) ], e.prototype, "totalPageTxt", void 0);
+a([ l(cc.SpriteFrame) ], e.prototype, "spfArrow", void 0);
+a([ l(cc.SpriteFrame) ], e.prototype, "spfResult", void 0);
+return n = a([ c ], e);
 }(cc.Component);
-n.default = p;
+n.default = u;
 cc._RF.pop();
 }, {
-"../DaGaLive.Const": "DaGaLive.Const",
-"../DaGaLive.MainGame": "DaGaLive.MainGame"
+"../DaGaLive.Const": "DaGaLive.Const"
 } ],
 "DaGaLive.SessionHistoryView": [ function(t, e, n) {
 "use strict";
@@ -2196,7 +2248,7 @@ i.length > 0 && n.push(i);
 return n;
 };
 e.prototype.draw2 = function(t) {
-if (t && 0 !== t.length && this.nodeParent2) for (var e = this.convertToMatrix(t), n = Math.min(e.length, 11), i = 0; i < n; i++) this.drawCol(e[i], i);
+if (t && 0 !== t.length && this.nodeParent2) for (var e = this.convertToMatrix(t), n = Math.min(e.length, 12), i = 0; i < n; i++) this.drawCol(e[i], i);
 };
 e.prototype.drawCol = function(t, e) {
 if (t && 0 !== t.length && this.nodeParent2) for (var n = this.rootPosX - e * this.spaceX, i = (this.maxItemPerCol - t.length) * this.spaceY + this.rootPosY, o = 0; o < t.length; o++) {
