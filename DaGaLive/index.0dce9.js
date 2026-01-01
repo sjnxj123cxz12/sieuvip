@@ -1284,6 +1284,12 @@ e.Avatar = null;
 return e;
 }
 n = e;
+e.prototype.setBetLabel = function(t, e) {
+if (t && t.node) {
+t.string = e;
+t.node.parent && (t.node.parent.active = "" !== e);
+}
+};
 Object.defineProperty(e, "instance", {
 get: function() {
 n._instance || (n._instance = new n());
@@ -1314,9 +1320,9 @@ this.m_lblMoneyRed.string = "";
 this.m_lblMoneyBlue.string = "";
 this.m_lblMoneyTie.string = "";
 this.m_lblMessage.string = "";
-this.m_lblBetedValueBlue.string = "";
-this.m_lblBetedValueRed.string = "";
-this.m_lblBetedValueTie.string = "";
+this.setBetLabel(this.m_lblBetedValueRed, "");
+this.setBetLabel(this.m_lblBetedValueBlue, "");
+this.setBetLabel(this.m_lblBetedValueTie, "");
 };
 e.prototype.onTouchSelectValueBet = function(t, e) {
 this.nodeSelectChip.children.forEach(function(t) {
@@ -1330,15 +1336,14 @@ var n = this.nodeSelectChip, i = t.target;
 this.indexChip = n.children.indexOf(i);
 };
 e.prototype.resultOfAccount = function(t) {
-this.m_lblBetedValueBlue.string = "";
-this.m_lblBetedValueRed.string = "";
-this.m_lblBetedValueTie.string = "";
-var e, n, i = t.Balance;
+var e, n = t.Balance;
 this.ketQuaEnd = t.Balance;
 e = t.Award;
-n = t.Refund;
-this.setBalance(i);
-this.showPrizeValue(e, n);
+this.setBalance(n);
+this.showPrizeValue(e);
+this.setBetLabel(this.m_lblBetedValueRed, "");
+this.setBetLabel(this.m_lblBetedValueBlue, "");
+this.setBetLabel(this.m_lblBetedValueTie, "");
 };
 e.prototype.showPrizeValue = function(t) {
 var e = this, n = t;
@@ -1361,14 +1366,17 @@ e.prototype.betOfAccount = function(t) {
 if (t.length) {
 lngui.UITextManager.showCenterNotification("Bạn đã đặt cược thành công");
 var e = t[0], n = t[1];
-n >= 0 && lngui.EventDispatch.instance.emit(lngui.EVENT_GAMECORE.UPDATE_TOTAL_GOLD, n);
-var i = e.BetSide, o = e.BetValue;
+if (n >= 0) {
+lngui.UserManager.instance.mainUserInfo.Money = n;
+lngui.GameCoreManager.instance.updateTotalGold(lngui.UserManager.instance.mainUserInfo.Money);
+}
+var i = e.BetSide, o = e.SumaryBet;
 this.setBettedVal(i, o);
 this.setBalance(t[1]);
 }
 };
 e.prototype.setBettedVal = function(t, e) {
-t == r.DaGaLiveConst.BetGate.RED ? this.m_lblBetedValueRed.string = r.DaGaLiveConst.formatNumber(e) : t == r.DaGaLiveConst.BetGate.BLUE ? this.m_lblBetedValueBlue.string = r.DaGaLiveConst.formatNumber(e) : t == r.DaGaLiveConst.BetGate.TIE && (this.m_lblBetedValueTie.string = r.DaGaLiveConst.formatNumber(e));
+t == r.DaGaLiveConst.BetGate.RED ? this.setBetLabel(this.m_lblBetedValueRed, r.DaGaLiveConst.formatNumber(e)) : t == r.DaGaLiveConst.BetGate.BLUE ? this.setBetLabel(this.m_lblBetedValueBlue, r.DaGaLiveConst.formatNumber(e)) : t == r.DaGaLiveConst.BetGate.TIE && this.setBetLabel(this.m_lblBetedValueTie, r.DaGaLiveConst.formatNumber(e));
 };
 e.prototype.updateBetInfoFromServer = function(t) {
 if (t) {
@@ -1380,11 +1388,12 @@ e.betByaccount(t);
 }
 };
 e.prototype.betByaccount = function(t) {
-t.BetSide == r.DaGaLiveConst.BetGate.RED ? this.m_lblBetedValueRed.string = r.DaGaLiveConst.formatNumber(t.BetValue) : t.BetSide == r.DaGaLiveConst.BetGate.BLUE ? this.m_lblBetedValueBlue.string = r.DaGaLiveConst.formatNumber(t.BetValue) : t.BetSide == r.DaGaLiveConst.BetGate.TIE && (this.m_lblBetedValueTie.string = r.DaGaLiveConst.formatNumber(t.BetValue));
+t.BetSide == r.DaGaLiveConst.BetGate.RED ? this.setBetLabel(this.m_lblBetedValueRed, r.DaGaLiveConst.formatNumber(t.BetValue)) : t.BetSide == r.DaGaLiveConst.BetGate.BLUE ? this.setBetLabel(this.m_lblBetedValueBlue, r.DaGaLiveConst.formatNumber(t.BetValue)) : t.BetSide == r.DaGaLiveConst.BetGate.TIE && this.setBetLabel(this.m_lblBetedValueTie, r.DaGaLiveConst.formatNumber(t.BetValue));
 };
 e.prototype.setBalance = function(t) {
 if (!(t < 0)) {
-lngui.EventDispatch.instance.emit(lngui.EVENT_GAMECORE.UPDATE_TOTAL_GOLD, t);
+lngui.UserManager.instance.mainUserInfo.Money = t;
+lngui.GameCoreManager.instance.updateTotalGold(lngui.UserManager.instance.mainUserInfo.Money);
 this.m_txtMoney.string = r.DaGaLiveConst.formatNumber(t);
 }
 };
@@ -1878,7 +1887,7 @@ break;
 
 case r.DaGaLiveConst.MethodHubOnName.BET_SUCCESS:
 case "betSuccess":
-c.default.instance.betOfAccount(i.A);
+c.default.instance.betOfAccount(a);
 break;
 
 case r.DaGaLiveConst.MethodHubOnName.BET_OF_ACCOUNT:
