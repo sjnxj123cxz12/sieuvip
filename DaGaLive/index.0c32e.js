@@ -461,9 +461,9 @@ if (f === t) {
 n.destroy();
 return !1;
 }
-var g = e.getRandomRange(c.min.x, c.max.x), v = e.getRandomRange(c.min.y, c.max.y), m = cc.v3(g, v, 0);
+var g = e.getRandomRange(c.min.x, c.max.x), m = e.getRandomRange(c.min.y, c.max.y), v = cc.v3(g, m, 0);
 cc.tween(n).delay(o).to(.3, {
-position: m
+position: v
 }, {
 easing: "sineInOut"
 }).to(.3, {
@@ -1096,9 +1096,9 @@ f.getChildByName("result").getComponent(cc.Sprite).spriteFrame = d < 0 ? this.sp
 f.getChildByName("gateBet").getComponent(cc.Sprite).spriteFrame = this.spfGateBet[o - 1];
 a == s.DaGaLiveConst.BetGate.RED ? f.getChildByName("overlayBetRed").active = !1 : a == s.DaGaLiveConst.BetGate.BLUE && (f.getChildByName("overlayBetBlue").active = !1);
 }
-var v = o == s.DaGaLiveConst.BetGate.RED ? l : o == s.DaGaLiveConst.BetGate.BLUE ? u : p;
+var m = o == s.DaGaLiveConst.BetGate.RED ? l : o == s.DaGaLiveConst.BetGate.BLUE ? u : p;
 f.getChildByName("moneyBet").getComponent(cc.Label).string = s.DaGaLiveConst.formatNumberToKMB(r);
-f.getChildByName("rateBet").getComponent(cc.Label).string = v;
+f.getChildByName("rateBet").getComponent(cc.Label).string = m;
 this.content.addChild(f);
 }
 };
@@ -1335,15 +1335,28 @@ this.m_llBetValue = parseInt(e);
 var n = this.nodeSelectChip, i = t.target;
 this.indexChip = n.children.indexOf(i);
 };
+e.prototype.resetBet = function() {
+this.m_lblMoneyRed.string = "";
+this.m_lblMoneyBlue.string = "";
+this.m_lblMoneyTie.string = "";
+this.m_lblUsersRed.string = "";
+this.m_lblUsersBlue.string = "";
+this.m_lblUsersTie.string = "";
+this.setBetLabel(this.m_lblBetedValueRed, "");
+this.setBetLabel(this.m_lblBetedValueBlue, "");
+this.setBetLabel(this.m_lblBetedValueTie, "");
+this.nodeRedWin.active = !1;
+this.nodeBlueWin.active = !1;
+this.nodeTieWin.active = !1;
+this.m_lblRateBetValueBlue.string = this.m_lblRateBetValueRed.string = "";
+this.m_lblRateBetValueTie.string = "";
+};
 e.prototype.resultOfAccount = function(t) {
 var e, n = t.Balance;
 this.ketQuaEnd = t.Balance;
 e = t.Award;
 this.setBalance(n);
 this.showPrizeValue(e);
-this.setBetLabel(this.m_lblBetedValueRed, "");
-this.setBetLabel(this.m_lblBetedValueBlue, "");
-this.setBetLabel(this.m_lblBetedValueTie, "");
 };
 e.prototype.showPrizeValue = function(t) {
 var e = this, n = t;
@@ -1376,7 +1389,7 @@ this.setBalance(t[1]);
 }
 };
 e.prototype.setBettedVal = function(t, e) {
-t == r.DaGaLiveConst.BetGate.RED ? this.setBetLabel(this.m_lblBetedValueRed, r.DaGaLiveConst.formatNumber(e)) : t == r.DaGaLiveConst.BetGate.BLUE ? this.setBetLabel(this.m_lblBetedValueBlue, r.DaGaLiveConst.formatNumber(e)) : t == r.DaGaLiveConst.BetGate.TIE && this.setBetLabel(this.m_lblBetedValueTie, r.DaGaLiveConst.formatNumber(e));
+t == r.DaGaLiveConst.BetGate.RED ? this.setBetLabel(this.m_lblBetedValueRed, r.DaGaLiveConst.formatNumberToKMB(e)) : t == r.DaGaLiveConst.BetGate.BLUE ? this.setBetLabel(this.m_lblBetedValueBlue, r.DaGaLiveConst.formatNumberToKMB(e)) : t == r.DaGaLiveConst.BetGate.TIE && this.setBetLabel(this.m_lblBetedValueTie, r.DaGaLiveConst.formatNumberToKMB(e));
 };
 e.prototype.updateBetInfoFromServer = function(t) {
 if (t) {
@@ -1388,7 +1401,7 @@ e.betByaccount(t);
 }
 };
 e.prototype.betByaccount = function(t) {
-t.BetSide == r.DaGaLiveConst.BetGate.RED ? this.setBetLabel(this.m_lblBetedValueRed, r.DaGaLiveConst.formatNumber(t.BetValue)) : t.BetSide == r.DaGaLiveConst.BetGate.BLUE ? this.setBetLabel(this.m_lblBetedValueBlue, r.DaGaLiveConst.formatNumber(t.BetValue)) : t.BetSide == r.DaGaLiveConst.BetGate.TIE && this.setBetLabel(this.m_lblBetedValueTie, r.DaGaLiveConst.formatNumber(t.BetValue));
+t.BetSide == r.DaGaLiveConst.BetGate.RED ? this.setBetLabel(this.m_lblBetedValueRed, r.DaGaLiveConst.formatNumberToKMB(t.BetValue)) : t.BetSide == r.DaGaLiveConst.BetGate.BLUE ? this.setBetLabel(this.m_lblBetedValueBlue, r.DaGaLiveConst.formatNumberToKMB(t.BetValue)) : t.BetSide == r.DaGaLiveConst.BetGate.TIE && this.setBetLabel(this.m_lblBetedValueTie, r.DaGaLiveConst.formatNumberToKMB(t.BetValue));
 };
 e.prototype.setBalance = function(t) {
 if (!(t < 0)) {
@@ -1457,13 +1470,13 @@ this.linkCamSpecial = o.CameraSpecialUrl;
 this.isArena = o.IsArena;
 var g = o.TopBets;
 p.default.instance.showTopUserBet(g);
-var v = cc.sequence(cc.scaleTo(.1, 1.1, 1.1), cc.scaleTo(.1, 1, 1));
-h !== this._totalBetRed && this.m_lblMoneyRed.node.runAction(v.clone());
-s !== this._totalBetBlue && this.m_lblMoneyBlue.node.runAction(v.clone());
-f !== this._totalBetTie && this.m_lblMoneyTie.node.runAction(v.clone());
-l !== this._totalAccountRed && this.m_lblUsersRed.node.runAction(v.clone());
-a !== this._totalAccountBlue && this.m_lblUsersBlue.node.runAction(v.clone());
-d !== this._totalAccountTie && this.m_lblUsersTie.node.runAction(v.clone());
+var m = cc.sequence(cc.scaleTo(.1, 1.1, 1.1), cc.scaleTo(.1, 1, 1));
+h !== this._totalBetRed && this.m_lblMoneyRed.node.runAction(m.clone());
+s !== this._totalBetBlue && this.m_lblMoneyBlue.node.runAction(m.clone());
+f !== this._totalBetTie && this.m_lblMoneyTie.node.runAction(m.clone());
+l !== this._totalAccountRed && this.m_lblUsersRed.node.runAction(m.clone());
+a !== this._totalAccountBlue && this.m_lblUsersBlue.node.runAction(m.clone());
+d !== this._totalAccountTie && this.m_lblUsersTie.node.runAction(m.clone());
 this._totalBetRed = h;
 this._totalBetBlue = s;
 this._totalBetTie = f;
@@ -1478,15 +1491,11 @@ this.m_lblTurnID.string = "#" + this.m_llGameSessionID;
 this.checkArea(this.isArena);
 this.checkCamera();
 this.checkStatus();
-if (this.m_nGameStatus == r.DaGaLiveConst.GameStatus.BETTING) {
-this.nodeRedWin.active = !1;
-this.nodeBlueWin.active = !1;
-this.nodeTieWin.active = !1;
-}
+this.m_nGameStatus == r.DaGaLiveConst.GameStatus.PREPARE_NEW_SESSION && this.resetBet();
 r.DaGaLiveConst.urlVideo = r.DaGaLiveConst.getVideoUrl(this.linkCam1, this.linkCam2, this.linkCamSpecial);
 if (this.m_nGameStatus == r.DaGaLiveConst.GameStatus.RESULT) {
-var m = o.Result.WinSide;
-this.showResult(m);
+var v = o.Result.WinSide;
+this.showResult(v);
 }
 if (0 == r.DaGaLiveConst.isLoading && 0 == this.isSpawnChipFrist && (this.m_nGameStatus == r.DaGaLiveConst.GameStatus.BETTING || this.m_nGameStatus == r.DaGaLiveConst.GameStatus.END_BETTING)) {
 this.isSpawnChipFrist = !0;
