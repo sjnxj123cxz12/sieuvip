@@ -1,0 +1,55 @@
+
+dao_trai.png
+size: 867,955
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d11
+  rotate: false
+  xy: 2, 301
+  size: 157, 177
+  orig: 157, 177
+  offset: 0, 0
+  index: -1
+d22
+  rotate: true
+  xy: 2, 103
+  size: 196, 86
+  orig: 196, 86
+  offset: 0, 0
+  index: -1
+d33
+  rotate: true
+  xy: 2, 2
+  size: 99, 74
+  orig: 99, 74
+  offset: 0, 0
+  index: -1
+n2
+  rotate: false
+  xy: 161, 322
+  size: 91, 90
+  orig: 91, 90
+  offset: 0, 0
+  index: -1
+no1
+  rotate: false
+  xy: 90, 246
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+phaoday
+  rotate: true
+  xy: 161, 414
+  size: 64, 179
+  orig: 64, 179
+  offset: 0, 0
+  index: -1
+vp
+  rotate: false
+  xy: 342, 441
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1

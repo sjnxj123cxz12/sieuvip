@@ -1,0 +1,27 @@
+
+hoa_roi_cua_phay.png
+size: 867,955
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1
+  rotate: false
+  xy: 2, 2
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 67, 70
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 2, 41
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1

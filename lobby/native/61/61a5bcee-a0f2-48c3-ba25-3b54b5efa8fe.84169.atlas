@@ -1,0 +1,90 @@
+
+rut_tien.png
+size: 867,955
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+br_may
+  rotate: false
+  xy: 338, 615
+  size: 291, 36
+  orig: 291, 36
+  offset: 0, 0
+  index: -1
+br_text
+  rotate: false
+  xy: 2, 569
+  size: 334, 82
+  orig: 334, 82
+  offset: 0, 0
+  index: -1
+e1
+  rotate: true
+  xy: 2, 2
+  size: 108, 64
+  orig: 108, 64
+  offset: 0, 0
+  index: -1
+e2
+  rotate: false
+  xy: 108, 270
+  size: 115, 64
+  orig: 115, 64
+  offset: 0, 0
+  index: -1
+m1
+  rotate: false
+  xy: 631, 628
+  size: 84, 23
+  orig: 84, 23
+  offset: 0, 0
+  index: -1
+m2
+  rotate: false
+  xy: 338, 590
+  size: 87, 23
+  orig: 87, 23
+  offset: 0, 0
+  index: -1
+may1
+  rotate: false
+  xy: 2, 407
+  size: 239, 79
+  orig: 239, 79
+  offset: 0, 0
+  index: -1
+may2
+  rotate: false
+  xy: 2, 488
+  size: 264, 79
+  orig: 264, 79
+  offset: 0, 0
+  index: -1
+phao1
+  rotate: false
+  xy: 2, 216
+  size: 104, 118
+  orig: 104, 118
+  offset: 0, 0
+  index: -1
+quay
+  rotate: false
+  xy: 2, 112
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 2, 336
+  size: 232, 69
+  orig: 232, 69
+  offset: 0, 0
+  index: -1
+tia_lua1
+  rotate: false
+  xy: 268, 500
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
