@@ -6,14 +6,14 @@ filter: Linear,Linear
 repeat: none
 br_may
   rotate: false
-  xy: 338, 615
+  xy: 338, 608
   size: 291, 36
   orig: 291, 36
   offset: 0, 0
   index: -1
 br_text
   rotate: false
-  xy: 2, 569
+  xy: 2, 562
   size: 334, 82
   orig: 334, 82
   offset: 0, 0
@@ -34,28 +34,28 @@ e2
   index: -1
 m1
   rotate: false
-  xy: 631, 628
+  xy: 631, 621
   size: 84, 23
   orig: 84, 23
   offset: 0, 0
   index: -1
 m2
   rotate: false
-  xy: 338, 590
+  xy: 338, 583
   size: 87, 23
   orig: 87, 23
   offset: 0, 0
   index: -1
 may1
   rotate: false
-  xy: 2, 407
+  xy: 2, 400
   size: 239, 79
   orig: 239, 79
   offset: 0, 0
   index: -1
 may2
   rotate: false
-  xy: 2, 488
+  xy: 2, 481
   size: 264, 79
   orig: 264, 79
   offset: 0, 0
@@ -77,13 +77,13 @@ quay
 text
   rotate: false
   xy: 2, 336
-  size: 232, 69
-  orig: 232, 69
+  size: 228, 62
+  orig: 228, 62
   offset: 0, 0
   index: -1
 tia_lua1
   rotate: false
-  xy: 268, 500
+  xy: 268, 493
   size: 67, 67
   orig: 67, 67
   offset: 0, 0
